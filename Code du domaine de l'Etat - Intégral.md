@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1990-04-05
+Version Consolidée au 1991-01-06
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -3122,20 +3122,26 @@ _Nouveaux textes_:
 
 L'exception prévue à la compétence du service des domaines, par les articles 1er et 2 du décret du 26 décembre 1921, en ce
 qui concerne le domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle est supprimée. Dans les
-mêmes départements et par dérogation à la disposition finale du premier alinéa de l'article L. 47, le produit de
-l'exploitation des forêts de l'Etat et, en général, toutes les créances provenant de la gestion desdites forêts, sont
-encaissés par les comptables du domaine dans les conditions prévues par la réglementation en vigueur.
+mêmes départements, le produit de l'exploitation des forêts de l'Etat et en général toutes les créances provenant de la
+gestion desdites forêts sont encaissés dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. L47 (Ab)
   - Décret n°1921-12-26 art. 1, art. 2
 
 _Codifié par_:
 
   - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°91-5 1991-01-03 art. 19 JORF 6 janvier 1991
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=61></a>
