@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1994-07-27
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -66,8 +66,8 @@ Version Consolidée au 1994-07-26
         - [Chapitre Ier : Zone des cinquante pas géométriques. (art. L86 à L89)](#63)
         - [Chapitre II : Domanialité publique des eaux. (art. L90)](#64)
         - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. L91-1 à L91-3)](#65)
-          - [Section 1 : Mise en valeur agricole des terres domaniales (art. L91-1)](#66)
-          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales (art. L91-2)](#67)
+          - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales (art. L91-1 à L91-1-1)](#66)
+          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à un établissement public d'aménagement (art. L91-2)](#67)
           - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt (art. L91-3)](#68)
       - [Titre V : Dispositions particulières et finales. (art. L92 à L94)](#69)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#70)
@@ -3770,7 +3770,7 @@ _Cite_:
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=65></a>
 
-##### Section 1 : Mise en valeur agricole des terres domaniales<a id=66></a>
+##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales<a id=66></a>
 
 ###### Article L91-1
 
@@ -3788,9 +3788,9 @@ valeur des terres mises à leur disposition par l'Etat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
 
 _Cité par_:
 
@@ -3817,7 +3817,51 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales<a id=67></a>
+###### Article L91-1-1
+
+Lorsqu'il est créé en application des articles L. 321-1 et suivants du code de l'urbanisme un établissement public
+d'aménagement, celui-ci peut se voir confier par convention la passation, au nom de l'Etat, des contrats de concession et
+cession mentionnées à l'article L. 91-1.
+
+L'établissement public d'aménagement visé à l'alinéa précédent peut, pour réaliser des travaux d'aménagement rural,
+bénéficier par convention avec l'Etat de concessions et de cessions gratuites de terres, selon les mêmes procédures que les
+personnes physiques. Cette convention définit les conditions et les modalités de concession ou de vente des terres qui ont
+fait l'objet des travaux d'aménagement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
+
+_Cité par_:
+
+  - Décret n°96-954 du 31 octobre 1996 - art. 2 (VT)
+  - Code du domaine de l'Etat - art. R170-31 (M)
+  - Code du domaine de l'Etat - art. R170-31-1 (Ab)
+  - Code du domaine de l'Etat - art. R170-35 (Ab)
+  - Code du domaine de l'Etat - art. R170-46-1 (M)
+  - Code du domaine de l'Etat - art. R170-46-5 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L91-1 (M)
+  - Code de l'urbanisme - art. L321-1 (M)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L5141-6 (V)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+
+##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à un établissement public d'aménagement<a id=67></a>
 
 ###### Article L91-2
 
@@ -3830,20 +3874,31 @@ usages publics ;
 
 2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ;
 
-3° De cessions gratuites aux communes en vue de constituer sur leur territoire des réserves foncières, dans les conditions
-prévues aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens soient libres de toute occupation
-ou ne soient pas confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs fois ne pourra excéder une
-superficie de référence égale à dix fois la superficie des parties agglomérées de la commune cessionnaire à la date de la
-première cession gratuite.
+3° De cessions gratuites aux communes ou à un établissement public d'aménagement créé en application des articles L. 321-1 et
+suivants du code de l'urbanisme en vue de constituer sur le territoire d'une commune des réserves foncières dans les
+conditions prévues aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens soient libres de toute
+occupation ou ne soient pas confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs fois ne peut
+excéder sur chaque commune une superficie de référence égale à dix fois la superficie des parties agglomérées de la commune
+de situation des biens cédés à la date de la première cession gratuite. Lorsque les cessions gratuites sont consenties à un
+établissement public d'aménagement, elles doivent faire l'objet d'un accord préalable de la commune de situation des biens
+cédés.
 
 Peuvent également être cédés gratuitement aux collectivités territoriales les immeubles dépendant du domaine privé de l'Etat
 dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs mentionnés au 1° ci-dessus.
 
+Les concessions et cessions mentionnées au présent article peuvent faire l'objet de prescriptions particulières visant à
+préserver l'environnement. Le non-respect de ces prescriptions peut entraîner l'abrogation de l'acte de concession ou de
+cession par le représentant de l'Etat dans le département.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -3862,6 +3917,7 @@ _Cite_:
 
   - Code de l'urbanisme - art. L221-1 (M)
   - Code de l'urbanisme - art. L221-2 (M)
+  - Code de l'urbanisme L321, L221-1, L221-2
 
 _Codifié par_:
 
