@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1974-05-14
+Version Consolidée au 1975-06-15
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -147,12 +147,12 @@ Version Consolidée au 1974-05-14
         - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#144)
         - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#145)
       - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#146)
-  - [Partie réglementaire - Arrêtés (art. A6 à A120)](#147)
-    - [Livre Ier : Composition du domaine (art. A6 à A11)](#148)
-      - [Titre II : Origine des biens (art. A6)](#149)
-        - [Chapitre II : Domaine privé (art. A6)](#150)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A6)](#151)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A6)](#152)
+  - [Partie réglementaire - Arrêtés (art. A3 à A120)](#147)
+    - [Livre Ier : Composition du domaine (art. A3 à A11)](#148)
+      - [Titre II : Origine des biens (art. A3 à A6)](#149)
+        - [Chapitre II : Domaine privé (art. A3 à A6)](#150)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A3 à A6)](#151)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A3 à A6)](#152)
       - [Titre III : Inventaire des biens. (art. A7 à A11)](#153)
     - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#154)
       - [Titre Ier : Domaine public (art. A12 à A72)](#155)
@@ -11194,6 +11194,43 @@ _Abrogé par_:
 ##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=151></a>
 
 ##### Paragraphe 2 : Dispositions spéciales.<a id=152></a>
+
+###### Article A3
+
+Sont dispensées de l'examen des commissions visées à l'article R. 10, sous réserve que leur prix n'excède pas l'évaluation
+effectuée par le service des domaines ou qu'il soit fixé comme en matière d'expropriation :
+
+a) Les acquisitions poursuivies par exercice du droit de préemption dans les zones à urbaniser en priorité, les zones
+d'aménagement différé et à l'intérieur des périmètres provisoires de zones d'aménagement différé ;
+
+b) Les acquisitions en vue de l'application du droit de délaissement prévu par l'article L. 212-3 du code de l'urbanisme ;
+
+c) Les acquisitions effectuées en application du droit de substitution prévu par l'article L. 211-3 du code de l'urbanisme ;
+
+d) Les acquisitions de terrains effectuées dans les conditions prévues par l'article L. 123-9 du code de l'urbanisme.
+
+II. - Les projets ou parties de projets de constructions, de transformations ou de restaurations générales d'immeubles ayant
+le caractère confidentiel au sens de l'article D. 2 ne sont pas soumis aux dispositions de l'article R. 10.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Arrêté 1975-06-02 art. 2 JORF 15 juin 1975
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. D2 (Ab)
+  - Code du domaine de l'Etat - art. R10 (V)
+  - Code de l'urbanisme - art. L123-9 (M)
+  - Code de l'urbanisme - art. L211-3 (M)
+  - Code de l'urbanisme - art. L212-3 (M)
+
 
 ###### Article A6
 
