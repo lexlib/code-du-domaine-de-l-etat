@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1997-11-19
+Version Consolidée au 1997-12-03
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
