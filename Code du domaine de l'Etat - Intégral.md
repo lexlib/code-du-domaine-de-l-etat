@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1962-11-17
+Version Consolidée au 1962-11-18
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -2222,6 +2222,35 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+
+
+###### Article R9
+
+Le prix des acquisitions immobilières faites à l'amiable suivant les règles du droit civil pour le compte de l'Etat ou des
+établissements publics nationaux peut être payé au vendeur, après publication de l'acte au fichier immobilier, sans
+l'accomplissement des formalités de purge des privilèges et hypothèques inscrits lorsqu'il n'excède pas 5000 F pour
+l'ensemble de l'immeuble acquis.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L15
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°62-1352 du 14 novembre 1962 - art. 4 (Ab) JORF 18 novembre 1962
+  - Décret n°62-1352 du 14 novembre 1962 - art. 4 (V)
+
+_Cité par_:
+
+  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+  - Arrêté du 27 octobre 1987 - art. 16 (V)
+  - Arrêté du 27 juillet 1963 - art. 27 (Ab)
 
 
 ###### Article R19
