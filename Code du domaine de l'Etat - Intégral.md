@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1971-01-10
+Version Consolidée au 1971-07-21
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -10139,6 +10139,51 @@ _Cité par_:
 _Cite_:
 
   - Code du domaine de l'Etat - art. D27 (Ab)
+
+
+###### Article D27
+
+Pendant la durée de la concession provisoire, les concessionnaires sont tenus de verser à la caisse du comptable des impôts
+une redevance liquidée sur la base d'un tarif fixé forfaitairement par hectare et par an selon nature de la concession ; ce
+tarif peut être revisé par le service des domaines, après avis des services intéressés, à l'expiration d'un délai de cinq
+années courant du jour de son entrée en vigueur.
+
+Les redevances sont payables d'avance et par année.
+
+A défaut de paiement d'un seul terme, la déchéance peut être prononcée dans les conditions prévues à l'article D. 29.
+
+En tout état de cause, notamment en cas de déchéance quel qu'en soit le motif, les sommes versées restent acquises au Trésor.
+
+La délivrance du titre définitif de concession ne donne lieu au paiement d'aucune redevance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°61-18 1961-01-10 art. 11
+
+_Abrogé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. D23 (Ab)
+  - Code du domaine de l'Etat - art. D24 (Ab)
+  - Code du domaine de l'Etat - art. D25 (Ab)
+  - Code du domaine de l'Etat - art. D26 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. D29 (Ab)
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°71-605 1971-07-15 art. 1 JORF 21 juillet 1971
 
 
 ###### Article D28
