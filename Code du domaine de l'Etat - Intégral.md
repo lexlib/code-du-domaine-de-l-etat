@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1970-07-10
+Version Consolidée au 1970-08-23
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -138,7 +138,7 @@ Version Consolidée au 1970-07-10
           - [Section 1 : Délivrance des autorisations (art. A18 à A29)](#135)
             - [A) Arrêtés individuels. (art. A18)](#136)
             - [B) Arrêtés généraux. (art. A20 à A22)](#137)
-            - [C) Dispositions communes. (art. A29)](#138)
+            - [C) Dispositions communes. (art. A26 à A29)](#138)
           - [Section 2 : Fixation des redevances. (art. A32 à A38)](#139)
         - [Chapitre III : Extractions sur le domaine public (art. A49 à A59)](#140)
           - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#141)
@@ -7084,6 +7084,45 @@ _Cite_:
 
 
 ##### C) Dispositions communes.<a id=138></a>
+
+###### Article A26
+
+L'autorisation d'occupation temporaire du domaine public est toujours accordée à titre précaire et révocable, sans indemnité,
+à la première réquisition de l'administration ; elle est retirée ou révoquée dans les conditions prévues aux articles A. 27
+et A. 28.
+
+Toutefois, lorsque l'édification de constructions ou d'installations par le bénéficiaire de l'autorisation est, eu égard à la
+destination d'intérêt général de celles-ci, expressément agréée par l'Etat ou la collectivité gestionnaire ou concessionnaire
+du domaine public, le retrait de l'autorisation pour un motif d'intérêt général avant l'expiration du terme fixé peut donner
+lieu à indemnisation du bénéficiaire évincé, à la condition que cette possibilité ait été prévue dans le titre
+d'autorisation. 
+
+L'indemnité visée à l'alinéa précédent est à la charge de la collectivité au profit de laquelle est opéré le retrait ; elle
+est égale, sous déduction de l'amortissement calculé dans les conditions fixées par le titre d'autorisation, au montant des
+dépenses prévues dans le même titre et que les bénéficiaires ont effectivement exposées pour la réalisation des constructions
+et installations expressément autorisées, dans la mesure où celles-ci subsistent toujours à la date du retrait.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1878-08-03 art. 12 al. 1
+  - Arrêté 1906-09-22 art. 6
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A27 (V)
+  - Code du domaine de l'Etat - art. A28 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2122-7 (V)
+  - Code général de la propriété des personnes publ... - art. R2125-5 (V)
+
 
 ###### Article A29
 
