@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-01-29
+Version Consolidée au 2004-02-05
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -9717,11 +9717,19 @@ _Abrogé par_:
 Les transformations apportées au sein d'un même département ministériel à l'utilisation ou à la gestion d'un immeuble
 domanial sont prononcées par arrêtés pris conformément aux dispositions des articles R. 82 et R. 83.
 
-Toutefois les transformations concernant les services du ministre chargé des armées sont prononcées par décision du ministre
-chargé des armées après accord du ministre chargé du domaine.
+Toutefois les transformations concernant les services du ministre de la défense sont prononcées par décision du ministre de
+la défense après accord du ministre chargé du domaine.
 
 Ces arrêtés ou décisions précisent le ou les services à l'usage desquels l'immeuble est destiné et l'utilisation nouvelle de
 cet immeuble.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -9738,12 +9746,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°92-606 du 1 juillet 1992 - art. 2 () JORF 4 juillet 1992
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R82 (M)
-  - Code du domaine de l'Etat - art. R83 (M)
+  - Code du domaine de l'Etat - art. R82
+  - Code du domaine de l'Etat - art. R83
 
 
 ###### Article R85
@@ -11177,7 +11189,7 @@ _Anciens textes_:
 
 Pour chaque hôtel affecté à un officier général, dont les appartements de réception, les dépendances obligées et le cabinet
 du général sont pourvus d'un ameublement sur les fonds de l'Etat, il doit être dressé un inventaire de tous les meubles
-nouvellement acquis ou existant déjà qui sont affectés aux appartements de réception, avec indication du prix d'achat des
+nouvellement acquis ou existant déjà qui sont affectés aux appartements de réception, avec l'indication du prix d'achat des
 premiers et de la valeur conventionnelle des seconds.
 
 Cet inventaire comprend, lorsqu'il y a lieu, un second chapitre pour ceux des meubles anciens qui, n'ayant pu être placés
@@ -11186,16 +11198,30 @@ dans les pièces de réception, peuvent être utilisés dans les appartements pr
 Une commission spéciale, composée d'un membre de l'intendance, d'un officier d'état-major et d'un officier du génie, procède
 à l'établissement de l'inventaire, qui est récolé par un agent du service des domaines, conformément aux prescriptions des
 articles R. 112 à R. 117. Deux copies en sont remises, l'une au général, l'autre au directeur des services fiscaux ; une
-troisième est transmise au ministre chargé des armées.
+troisième est transmise au ministre de la défense.
 
 Pour les hôtels des officiers généraux commandant les écoles, cette commission est remplacée par le conseil d'administration
 de l'école.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cité par_:
 
@@ -11206,15 +11232,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du domaine de l'Etat R112 à R117
+  - Code du domaine de l'Etat
 
 _Anciens textes_:
 
   - Décret n°1852-06-02 art. 3
-
-_Modifié par_:
-
-  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
 
 
 ###### Article R119
@@ -13815,27 +13837,37 @@ _Modifié par_:
 
 ###### Article R160
 
-Sous réserve de l'application des articles R. 158 (3°) et R. 159, le ministre chargé des armées suit seul les instances
+Sous réserve de l'application des articles R. 158 (3°) et R. 159, le ministre de la défense suit seul les instances
 intéressant le domaine militaire.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat (ancien) L133
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
 
-_Cite_:
-
-  - Code du domaine de l'Etat - art. R158 (V)
-  - Code du domaine de l'Etat - art. R159 (V)
-
 _Modifié par_:
 
-  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R158
+  - Code du domaine de l'Etat - art. R159
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2331-4 (V)
 
 
 ###### Article R161
@@ -18741,11 +18773,21 @@ _Codifié par_:
 ###### Article D18
 
 Les établissements de recherches de caractère aéronautique, ou les biens acquis en remplacement, attribués à l'Office
-national d'études et de recherches aéronautiques aux termes du décret du 13 novembre 1954, et dont la valeur excède 15000
-euros suivant l'estimation qui en est faite par les services des domaines, ne peuvent être aliénés qu'après accord du
-ministre des finances et du ministre chargé des armées (air).
+national d'études et de recherches aéronautiques aux termes du décret du 13 novembre 1954, et dont la valeur excède 15 000
+euros suivant l'estimation qui en est faite par le service des domaines, ne peuvent être aliénés qu'après accord du ministre
+des finances et du ministre de la défense.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. D3211-30 (V)
 
 _Cite_:
 
@@ -18755,10 +18797,6 @@ _Anciens textes_:
 
   - Décret n°1954-11-13 art. 2
 
-_Modifié par_:
-
-  - Décret n°2001-96 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Décret n°62-300 1962-03-14
@@ -18766,6 +18804,14 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
+
+_Modifié par_:
+
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 ## Livre IV : Dispositions diverses<a id=177></a>
