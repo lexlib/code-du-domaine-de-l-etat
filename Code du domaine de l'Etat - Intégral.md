@@ -1,12 +1,12 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1962-03-18
+Version Consolidée au 1962-08-10
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
-    - [Livre Ier : Composition du domaine (art. L1 à L27)](#2)
+    - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
       - [Titre Ier : Dispositions générales. (art. L1 à L2)](#3)
-      - [Titre II : Origine des biens (art. L3 à L27)](#4)
+      - [Titre II : Origine des biens (art. L3 à L27 ter)](#4)
         - [Chapitre Ier : Domaine public. (art. L3)](#5)
-        - [Chapitre II : Domaine privé (art. L4 à L27)](#6)
+        - [Chapitre II : Domaine privé (art. L4 à L27 ter)](#6)
           - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. L4 à L8)](#7)
             - [Paragraphe 1 : Dispositions générales. (art. L4 à L8)](#8)
           - [Section 2 : Dons et legs (art. L11 à L20)](#9)
@@ -14,7 +14,7 @@ Version Consolidée au 1962-03-18
             - [Paragraphe 2 : Dons et legs faits aux établissements publics dépendant de l'Etat. (art. L15 à L17)](#11)
             - [Paragraphe 3 : Dispositions communes. (art. L19 à L20)](#12)
           - [Section 4 : Successions en déshérence. (art. L23)](#13)
-          - [Section 6 : Biens vacants et sans maître. (art. L25 à L27)](#14)
+          - [Section 6 : Biens vacants et sans maître. (art. L25 à L27 ter)](#14)
     - [Livre II : Administration des biens domaniaux (art. L28 à L51)](#15)
       - [Titre Ier : Domaine public (art. L28 à L35)](#16)
         - [Chapitre Ier : Occupation temporaire (art. L28 à L34)](#17)
@@ -656,6 +656,84 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L1126-1 (M)
   - Code général de la propriété des personnes publiqu - art. L2222-21 (M)
   - Code général de la propriété des personnes publiqu - art. L2222-22 (V)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+
+###### Article L27 bis
+
+Lorsqu'un immeuble n'a pas de propriétaire connu, et que les contributions foncières y afférentes n'ont pas été acquittées
+depuis plus de cinq années, cette situation est constatée par arrêté préfectoral, après avis de la commission communale des
+impôts directs. Il est procédé par les soins du préfet à une publication et à un affichage de cet arrêté et, s'il y a lieu, à
+une notification aux derniers domicile et résidence connus du propriétaire. En outre, si l'immeuble est habité ou exploité,
+une notification est également adressée à l'habitant ou exploitant.
+
+Dans le cas où le propriétaire ne s'est pas fait connaître dans un délai de six mois à dater de l'accomplissement de la
+dernière des mesures de publicité prévues ci-dessus, l'immeuble est présumé sans maître au titre de l'article 539 du code
+civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°62-933 1962-08-08 art. 1 JORF 10 août 1962
+
+_Cité par_:
+
+  - Loi n°62-933 du 8 août 1962 - art. 1 (Ab)
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+  - Code du domaine de l'Etat - art. L27 ter (M)
+  - Code rural - art. L125-13 (M)
+  - Code rural ancien - art. 44 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L1123-3 (V)
+
+_Cite_:
+
+  - Code civil - art. 539 (M)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+
+###### Article L27 ter
+
+Lorsqu'un immeuble a été ainsi attribué à l'Etat, le propriétaire ou ses ayants droit ne sont plus en droit d'en exiger la
+restitution si le bien a été aliéné ou utilisé d'une manière qui met obstacle à cette restitution. Ils ne peuvent, dans ce
+cas, obtenir de l'Etat que le paiement d'une indemnité égale à la valeur de l'immeuble au jour de son utilisation.
+
+A défaut d'accord amiable, l'indemnité est fixée par le juge compétent en matière d'expropriation pour cause d'utilité
+publique.
+
+La restitution de l'immeuble ou, à défaut, le paiement de l'indemnité visée à l'alinéa précédent, est subordonné au paiement
+par le propriétaire ou ses ayants droit du montant des charges qu'ils ont éludées depuis le point de départ du délai de cinq
+ans mentionné à l'article précédent, ainsi que du montant des dépenses nécessaires à la conservation du bien engagées par
+l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°62-933 1962-08-08 art. 1 JORF 10 août 1962
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L27 bis (M)
+
+_Cité par_:
+
+  - Code forestier - art. R532-19 (M)
+  - Code rural - art. L125-13 (M)
+  - Code rural ancien - art. 44 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2222-20 (V)
 
 _Codifié par_:
 
