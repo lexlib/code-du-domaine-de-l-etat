@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1992-07-04
+Version Consolidée au 1992-07-16
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -18190,9 +18190,9 @@ _Cite_:
 Pour l'application de l'article D. 36, les limites minimales dont le dépassement rend obligatoire la consultation de la
 commission interministérielle sont fixées à :
 
-300000 F pour la valeur vénale des immeubles acquis à l'étranger ;
+2000000 F pour la valeur vénale des immeubles acquis à l'étranger ;
 
-84000 F pour le loyer annuel, charges comprises, des immeubles pris à bail dans les pays étrangers.
+120000 F pour le loyer annuel, charges comprises, des immeubles pris à bail dans les pays étrangers.
 
 **Liens relatifs à cet article**
 
@@ -18202,7 +18202,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1987-08-03 art. 1 JORF 19 août 1987
+  - Arrêté 1992-06-15 art. 1 JORF 16 juillet 1992
 
 _Cite_:
 
