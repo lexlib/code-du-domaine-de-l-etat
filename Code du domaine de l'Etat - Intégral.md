@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1978-06-08
+Version Consolidée au 1978-09-06
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -99,7 +99,7 @@ Version Consolidée au 1978-06-08
       - [Titre III : Dispositions communes (art. R120 à R128)](#96)
         - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#97)
         - [Chapitre V : Regroupement des services publics. (art. R121 à R124)](#98)
-        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R126 à R128)](#99)
+        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R125 à R128)](#99)
     - [Livre III : Aliénation des biens domaniaux (art. R130 à R149)](#100)
       - [Titre II : Aliénation des biens du domaine privé (art. R130 à R149)](#101)
         - [Chapitre Ier : Domaine immobilier (art. R130 à R148-2)](#102)
@@ -5949,6 +5949,50 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R85 (VT)
 
 
+###### Article R82
+
+L'affectation est définitive ou provisoire ; elle est provisoire lorsqu'elle concerne un immeuble temporairement inutile à un
+département ministériel. La demande d'affectation dûment motivée et accompagnée d'un projet d'arrêté est adressée au ministre
+du budget (service des domaines) qui est chargé de procéder à son instruction et qui doit faire recueillir, à ce sujet,
+l'avis de la commission départementale des opérations immobilières et de l'architecture ou, dans les départements d'outre-
+mer, de la commission départementale des opérations immobilières, de l'architecture et des espaces protégés.
+
+Toutefois, la commission nationale des opérations immobilières et de l'architecture connaît aux lieu et place de la
+commission départementale des projets d'affectation que le Premier ministre, de sa propre initiative ou à la demande d'un
+ministre, du préfet de région ou du président de la commission nationale, décide de lui soumettre en raison de leur intérêt
+exceptionnel.
+
+Le dossier transmis à la commission doit comprendre l'indication de l'utilisation projetée et, le cas échéant, le programme
+des travaux de construction et d'aménagement envisagé par le service qui demande à bénéficier de l'affectation, ainsi qu'une
+estimation du montant de la dépense qu'entraîneront ces travaux.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1313 1949-09-27 art. 2
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Décret n°74-402 1974-05-06 art. 7 JORF 14 mai 1974
+  - Décret n°78-910 1978-09-02 art. 9 JORF 6 septembre 1978
+
+_Cité par_:
+
+  - Décret n°72-398 du 16 mai 1972 - art. 17 (Ab)
+  - Décret n°83-816 du 13 septembre 1983 - art. 12 (VT)
+  - Décret n°83-816 du 13 septembre 1983 - art. 7 (V)
+  - Décret n°83-816 du 13 septembre 1983 - art. 9 (VT)
+  - Code du domaine de l'Etat - art. R84 (VT)
+  - Code du domaine de l'Etat - art. R85 (VT)
+  - Code du domaine de l'Etat - art. R86 (M)
+
+
 ###### Article R85
 
 Les arrêtés prévus à l'article précédent doivent préciser, d'une manière détaillée le ou les services à l'usage desquels
@@ -5970,6 +6014,40 @@ _Cité par_:
   - Décret n°83-816 du 13 septembre 1983 - art. 7 (V)
   - Décret n°83-816 du 13 septembre 1983 - art. 9 (V)
   - Code du domaine de l'Etat - art. R87 (VT)
+
+
+###### Article R86
+
+En cas de désaccord entre départements ministériels au sujet de l'affectation d'un immeuble, le département attributaire est
+désigné par le Premier ministre après avis soit de la commission départementale des opérations immobilières et de
+l'architecture ou, dans les départements d'outre-mer, de la commission départementale des opérations immobilières, de
+l'architecture et des espaces protégés, soit de la commission nationale des opérations immobilières et de l'architecture
+lorsque celle-ci est saisie dans les conditions prévues par l'article R. 82 (2e alinéa).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1313 1949-09-27 art. 8
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°78-910 1978-09-02 art. 10 JORF 6 septembre 1978
+
+_Cité par_:
+
+  - Décret n°83-816 du 13 septembre 1983 - art. 12 (VT)
+  - Décret n°83-816 du 13 septembre 1983 - art. 7 (V)
+  - Décret n°83-816 du 13 septembre 1983 - art. 9 (V)
+  - Code du domaine de l'Etat - art. R83 (VT)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R82 (M)
 
 
 ###### Article R88
@@ -6318,6 +6396,48 @@ _Nouveaux textes_:
 _Modifié par_:
 
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R96
+
+Les arrêtés concédant des logements par nécessité de service sont pris après avis du directeur des services fiscaux et, si
+cet avis est défavorable, après consultation de la commission départementale des opérations immobilières et de l'architecture
+ou, dans les départements d'outre-mer, de la commission départementale des opérations immobilières, de l'architecture et des
+espaces protégés.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-742 1949-06-07 art. 5 al. 2
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Décret n°78-910 1978-09-02 art. 10 JORF 6 septembre 1978
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2124-67 (V)
+  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 
 ###### Article R97
@@ -7435,6 +7555,56 @@ _Abrogé par_:
 
 
 #### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=99></a>
+
+###### Article R125
+
+Les commissions régionales des opérations immobilières, de l'architecture et des espaces protégés ou les commissions
+départementales des opérations immobilières et de l'architecture et, dans les départements d'outre-mer, les commissions
+départementales des opérations immobilières, de l'architecture et des espaces protégés peuvent être consultées sur les
+conditions dans lesquelles sont entrenus et utilisés les immeubles appartenant à l'Etat et aux établissements publics à
+caractère administratif de l'Etat ou occupés par eux à un titre quelconque.
+
+Cette consultation est obligatoire lorsqu'elle est demandée pour des immeubles situés dans sa circonscription soit par le
+maire, soit par le président de l'organe délibérant d'un groupement de communes.
+
+La commission nationale des opérations immobilières et de l'architecture peut être consultée par le Premier ministre sur tout
+projet tendant à une utilisation plus rationnelle du domaine de l'Etat par les différentes administrations.
+
+En vue de permettre l'application des ces dispositions, les agents du service des domaines usent du droit de contrôle que
+leur confère l'article R. 126.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 16 al. 1, al. 3
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Décret n°78-910 1978-09-02 art. 11 JORF 6 septembre 1978
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R126
+
 
 ###### Article R126
 
