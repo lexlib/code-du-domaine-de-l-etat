@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1962-08-10
+Version Consolidée au 1962-11-17
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -92,7 +92,7 @@ Version Consolidée au 1962-08-10
         - [Chapitre II : Instances. (art. R161)](#89)
       - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R165 à R170)](#90)
         - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R165 à R170)](#91)
-      - [Titre V : Dispositions particulières et finales. (art. R172 à R174)](#92)
+      - [Titre V : Dispositions particulières et finales. (art. R171 à R174)](#92)
   - [Partie réglementaire - Décrets simples (art. D2 à D44)](#93)
     - [Livre Ier : Composition du domaine (art. D2 à D6)](#94)
       - [Titre II : Origine des biens (art. D2 à D6)](#95)
@@ -4177,6 +4177,72 @@ _Nouveaux textes_:
 
 ### Titre V : Dispositions particulières et finales.<a id=92></a>
 
+###### Article R171
+
+Au service des domaines, un service spécial est chargé, dans le district de la région de Paris, de participer, dans les
+conditions indiquées aux articles suivants, à la réalisation des opérations immobilières ci-après, poursuivies au nom de
+l'Etat par le ministre chargé de la construction ou le délégué général au district de la région de Paris :
+
+1° Acquisitions amiables d'immeubles, de droits immobiliers et de fonds de commerce et acquisition par voie d'expropriation
+pour cause d'utilité publique d'immeubles et de droits immobiliers, en vue :
+
+- de la construction d'ensembles immobiliers à usage d'habitation et de leurs installations annexes ou de la création de
+lotissements destinés à l'habitation ou à l'industrie ;
+
+- de la réalisation progressive et suivant des plans d'ensemble des zones affectées à l'habitation ou à l'industrie par des
+plans d'urbanisme approuvés.
+
+2° Cessions réalisées conformément aux dispositions des articles L. 21-1, L. 21-2 et L. 21-3 du code de l'expropriation pour
+cause d'utilité publique des immeubles ainsi acquis.
+
+Ce service placé sous l'autorité du chef du service des domaines au ministère des finances est mis à la disposition du
+délégué général du district de la région de Paris.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-795 1959-07-04 art. 1
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Cité par_:
+
+  - Décret n°62-479 du 14 avril 1962 - art. 3 bis (Ab)
+  - Décret n°2002-623 du 25 avril 2002 - art. 6 (Ab)
+  - Arrêté du 23 décembre 2006 - art. 3 (M)
+  - Arrêté du 23 décembre 2006 - art. 4 (M)
+  - Code du domaine de l'Etat - art. R172 (Ab)
+  - Code du domaine de l'Etat - art. R174 (Ab)
+
+_Modifié par_:
+
+  - Décret n°62-1348 1962-11-16 art. 1 JORF 17 novembre 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-19 (V)
+  - Code général de la propriété des personnes publ... - art. R3221-1 (VT)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. L21-1
+  - Code de l'expropriation pour cause d'utilité publique - art. L21-2
+  - Code de l'expropriation pour cause d'utilité publique - art. L21-3
+
+
 ###### Article R172
 
 Le service spécialisé est habilité à procéder au lieu et place des directions des services fiscaux des départements
@@ -4216,6 +4282,47 @@ _Nouveaux textes_:
 
   - Code général de la propriété des personnes publ... - art. R1212-20 (V)
   - Code général de la propriété des personnes publ... - art. R3221-2 (V)
+
+
+###### Article R173
+
+Le chef du service spécialisé procède à la demande du délégué général du district de la région de Paris aux levés de plans
+des immeubles.
+
+Il reçoit délégation permanente du ministre chargé de la construction en vue de la fixation des indemnités en matière
+d'expropriation. A cet effet, il est habilité à agir au nom de l'Etat devant les juridictions compétentes.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-795 1959-07-04 art. 3
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°62-1348 1962-11-16 art. 1 JORF 17 novembre 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R175 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-21 (V)
 
 
 ###### Article R174
