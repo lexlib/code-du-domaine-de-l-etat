@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1984-10-01
+Version Consolidée au 1985-04-27
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -167,12 +167,12 @@ Version Consolidée au 1984-10-01
       - [Titre III : Inventaire des biens. (art. A7 à A11)](#164)
     - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#165)
       - [Titre Ier : Domaine public (art. A12 à A72)](#166)
-        - [Chapitre Ier : Occupation temporaire (art. A12 à A38)](#167)
+        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#167)
           - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#168)
             - [A) Arrêtés individuels. (art. A12 à A19)](#169)
             - [B) Arrêtés généraux. (art. A20 à A25)](#170)
             - [C) Dispositions communes. (art. A26 à A30)](#171)
-          - [Section 2 : Fixation des redevances. (art. A31 à A38)](#172)
+          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#172)
         - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#173)
           - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#174)
             - [A) Arrêtés individuels. (art. A40 à A44)](#175)
@@ -14467,6 +14467,47 @@ résultant du titre de l'autorisation ou de la concession.
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+
+###### Article A39
+
+I. - Les redevances domaniales fixes dont le montant annuel, déterminé préalablement à l'octroi d'une autorisation temporaire
+d'occupation du domaine public, n'excède pas 500 F sont acquittées d'avance soit pour toute la durée de la concession lorsque
+cette durée n'excède pas cinq ans, soit par périodes triennales dans le cas contraire.
+
+II. - Le paiement de la redevance, s'il intervient en une seule fois, ou celui du premier terme triennal peut être effectué
+au moyen de timbres fiscaux fournis par le titulaire de l'autorisation et apposés, sous la responsabilité de l'autorité
+chargée de sa délivrance, sur le titre qui lui est remis.
+
+Ces timbres sont immédiatement oblitérés dans les conditions fixées par l'article 405 F de l'annexe III du code général des
+impôts.
+
+Mention de la date et du montant de ce paiement est faite par l'autorité chargée de la délivrance du titre sur l'ampliation
+destinée au directeur des services fiscaux.
+
+La procédure du paiement par timbres fiscaux n'est applicable qu'aux redevances dont le recouvrement incomberait aux
+comptables des impôts chargés des recettes domaniales si ce mode de paiement n'était pas utilisé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1973-04-26 art. 1 JORF 19 mai 1973
+  - Arrêté 1980-06-17 art. 2 JORF 27 juin 1980
+  - Arrêté 1985-04-17 art. 1 JORF 27 avril 1985
+
+_Cite_:
+
+  - CGIAN3 405 F
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A16 (V)
+  - Code du domaine de l'Etat - art. A23 (V)
 
 
 #### Chapitre III : Extractions sur le domaine public<a id=173></a>
