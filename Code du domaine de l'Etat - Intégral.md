@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-06-19
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -1721,8 +1721,8 @@ _Codifié par_:
 ###### Article L34-7-1
 
 Par dérogation aux dispositions du premier alinéa de l'article L. 34-7, le financement des constructions mentionnées à
-l'article L. 34-3-1 peut donner lieu à la conclusion de contrats de crédit-bail. Dans ce cas, le contrat comporte des clauses
-permettant de préserver les exigences du service public.
+l'article L. 34-3-1 ou réalisées dans le cadre de contrats de partenariat peut donner lieu à la conclusion de contrats de
+crédit-bail. Dans ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public.
 
 Les dispositions du deuxième alinéa de l'article L. 34-7 sont applicables.
 
@@ -1745,9 +1745,13 @@ _Cité par_:
   - Loi n°2002-1094 du 29 août 2002 - art. 3 (VT)
   - Loi n°2003-591 du 2 juillet 2003 - art. 6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-1094 2002-08-29 art. 3 JORF 30 août 2002
+  - Ordonnance n°2004-559 du 17 juin 2004 - art. 13 (V) JORF 19 juin 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cite_:
 
