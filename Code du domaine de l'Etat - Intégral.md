@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1988-04-23
+Version Consolidée au 1988-09-18
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -192,14 +192,15 @@ Version Consolidée au 1988-04-23
           - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#189)
           - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#190)
         - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#191)
-    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#192)
-      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#193)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#194)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#195)
-    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#196)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#197)
-        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#198)
-      - [Titre V : Dispositions particulières et finales. (art. A122)](#199)
+    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#192)
+      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#193)
+        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#194)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#195)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#196)
+    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#197)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#198)
+        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#199)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#200)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -16939,7 +16940,31 @@ _Codifié par_:
 
 ### Titre II : Aliénation des biens du domaine privé<a id=193></a>
 
-#### Chapitre II : Domaine mobilier.<a id=194></a>
+#### Chapitre Ier : Domaine immobilier.<a id=194></a>
+
+###### Article A104-1
+
+Pour l'application des dispositions du 5° de l'article R. 129-1, la valeur vénale des immeubles pouvant être cédés à
+l'amiable est fixée à 400000 F.
+
+Dans la région d'Ile-de-France, le montant énoncé à l'alinéa précédent est porté à 500000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1988-09-02 art. 1 JORF 18 septembre 1988
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R129-1 (M)
+
+
+#### Chapitre II : Domaine mobilier.<a id=195></a>
 
 ###### Article A105
 
@@ -17383,7 +17408,7 @@ _Cite_:
   - Code du domaine de l'Etat A117-1 à A117-3
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=195></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=196></a>
 
 ###### Article A118
 
@@ -17465,11 +17490,11 @@ _Modifié par_:
   - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
 
 
-## Livre IV : Dispositions diverses<a id=196></a>
+## Livre IV : Dispositions diverses<a id=197></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=197></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=198></a>
 
-#### Chapitre V : Concessions de logements.<a id=198></a>
+#### Chapitre V : Concessions de logements.<a id=199></a>
 
 ###### Article A120-1
 
@@ -17531,7 +17556,7 @@ _Cite_:
   - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
 
 
-### Titre V : Dispositions particulières et finales.<a id=199></a>
+### Titre V : Dispositions particulières et finales.<a id=200></a>
 
 ###### Article A122
 
