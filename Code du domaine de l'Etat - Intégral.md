@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1987-09-09
+Version Consolidée au 1988-01-23
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -16781,9 +16781,9 @@ _Cité par_:
 
 ###### Article A120
 
-Les aliénations autorisées par l'article 7 de la loi de finances du 30 décembre 1903 sont réalisées par l'intermédiaire de la
-chambre syndicale des agents de change de Paris. Les ordres de vente sont donnés et les transferts sont signés valablement
-pour le compte du service des domaines par le caissier général de la caisse des dépôts et consignations ou son suppléant.
+Les aliénations autorisées par l'article 7 de la loi de finances du 30 décembre 1903 sont réalisées par l'intermédiaire du
+Conseil des Bourses de valeurs de Paris. Les ordres de vente sont donnés et les transferts sont signés valablement pour le
+compte du service des domaines par le caissier général de la caisse des dépôts et consignations ou son suppléant.
 
 Dans le cas où le titre négocié n'est pas immatriculé au nom du service des domaines, il est joint au transfert, pour
 justifier les droits de l'Etat, soit un certificat de propriété notarié, soit un certificat administratif établi dans les
@@ -16803,6 +16803,10 @@ _Cite_:
 
   - Code du domaine de l'Etat - art. A119 (V)
   - Loi n°1903-12-30 art. 7
+
+_Modifié par_:
+
+  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
 
 
 ## Livre IV : Dispositions diverses<a id=196></a>
