@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1984-04-18
+Version Consolidée au 1984-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -9,10 +9,10 @@ Version Consolidée au 1984-04-18
         - [Chapitre II : Domaine privé (art. L4 à L27 ter)](#6)
           - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. L4 à L10)](#7)
             - [Paragraphe 1 : Dispositions générales. (art. L4 à L10)](#8)
-          - [Section 2 : Dons et legs (art. L11 à L20)](#9)
+          - [Section 2 : Dons et legs (art. L11 à L21)](#9)
             - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. L11 à L14)](#10)
-            - [Paragraphe 2 : Dons et legs faits aux établissements publics dépendant de l'Etat. (art. L15 à L17)](#11)
-            - [Paragraphe 3 : Dispositions communes. (art. L19 à L20)](#12)
+            - [Paragraphe 2 : Dons et legs faits aux établissements publics dépendant de l'Etat. (art. L15 à L18)](#11)
+            - [Paragraphe 3 : Dispositions communes. (art. L19 à L21)](#12)
           - [Section 3 : Droit de préemption de l'Etat. (art. L22)](#13)
           - [Section 4 : Successions en déshérence. (art. L23)](#14)
           - [Section 5 : Confiscations pénales. (art. L24)](#15)
@@ -519,30 +519,60 @@ _Codifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-###### Article L13
+###### Article L12
 
-Si l'auteur de la libéralité ou ses ayants droit acceptent la réduction ou la modification de l'affectation des charges,
-celles-ci sont autorisées par arrêté interministériel ; elles sont prononcées, dans le cas contraire, par décret pris sur
-avis du Conseil d'Etat.
+Lorsque, par suite d'un changement de circonstances, l'exécution des conditions et charges grevant une donation ou un legs
+fait à l'Etat devient soit extrêmement difficile, soit sérieusement dommageable, la révision de ces conditions et charges
+peut être autorisée par arrêté interministériel si l'auteur de la libéralité ou ses ayants droit acceptent les mesures
+envisagées ; dans les autres cas, la révision est autorisée dans les conditions prévues aux articles 900-2 à 900-8 du code
+civil.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L12 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception des mots " par arrêté interministériel " qui seront abrogés à compter de la publication des dispositions
+règlementaires correspondantes du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°59-1454 1959-12-26 art. 72 al. 2
+  - Loi n°59-1454 1959-12-26 art. 72 al. 1
+
+_Modifié par_:
+
+  - Loi n°84-562 1984-07-04 art. 3, art. 6 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
 
 _Abrogé par_:
 
-  - Loi n°84-562 1984-07-04 art. 6, art. 8 JORF 06 juillet 1984 en vigueur le 1er octobre 1984
-  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 06 juillet 1984 en vigueur le 1er octobre 1984
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
-  - Code du domaine de l'Etat - art. R30 (M)
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+  - Code du domaine de l'Etat - art. L18 (Ab)
+  - Code du domaine de l'Etat - art. L21 (Ab)
+  - Code du domaine de l'Etat - art. R30 (Ab)
+  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-23 (V)
+  - Code général de la propriété des personnes publiqu - art. L2222-12 (V)
+  - Code général de la propriété des personnes publiqu - art. L2222-13 (V)
+
+_Cite_:
+
+  - Code civil 900-2 à 900-8
 
 _Codifié par_:
 
   - Décret n°62-298 1962-03-14
+
+**Liens**:
+
+  - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
 ###### Article L14
@@ -638,39 +668,44 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L1121-2 (V)
 
 
-###### Article L16
+###### Article L18
 
-La réduction des charges résultant d'une libéralité faite au profit d'un établissement public d'assistance ou de bienfaisance
-ayant le caractère national peut être prononcée par mesure administrative lorsqu'il est établi que les revenus provenant de
-cette libéralité sont insuffisants pour assurer l'exécution intégrale des charges imposées.
+Les dispositions des articles L. 12 et L. 14 sont applicables aux dons et legs faits aux établissements publics de l'Etat,
+sous réserve, en ce qui concerne les établissements hospitaliers, des dispositions de l'article L. 6145-10 du code de la
+santé publique.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°84-562 1984-07-04 art. 3, art. 6 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L12 (V)
+  - Code du domaine de l'Etat - art. L14 (V)
+  - Code de la santé publique - art. L6145-10 (V)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2222-17 (V)
 
 _Codifié par_:
 
   - Décret n°62-298 1962-03-14
 
-_Abrogé par_:
+_Anciens textes_:
 
-  - Loi n°84-562 1984-07-04 art. 6, art. 8 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
-
-###### Article L17
-
-S'il y a désaccord entre l'établissement gratifié et les auteurs de la libéralité ou leurs ayants droit, la réduction ne peut
-être autorisée que par décret pris sur l'avis conforme du Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Loi n°84-562 1984-07-04 art. 6, art. 8 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+  - Loi n°59-1454 1959-12-26 art. 72 al. 1
 
 
 ##### Paragraphe 3 : Dispositions communes.<a id=12></a>
@@ -708,22 +743,42 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L1121-3 (V)
 
 
-###### Article L20
+###### Article L21
 
-L'Etat et les établissements publics qui en dépendant peuvent, dans les conditions fixées par règlement d'administration
-publique, être autorisés, soit à modifier la périodicité des attributions prévues par le disposant, soit à grouper en une
-seule attribution les revenus provenant de libéralités assorties de charges analogues.
+Un décret en Conseil d'Etat détermine les modalités d'exécution des articles L. 12 et L. 14, et notamment les formalités
+propres à mettre les auteurs des libéralités ou leurs ayants droit en mesure de formuler leurs observations.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°59-1454 1959-12-26 art. 72 al. 4
+
+_Modifié par_:
+
+  - Loi n°84-562 1984-07-04 art. 4, art. 6 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L12 (V)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. L14 (Ab)
+  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2222-18 (V)
 
 _Codifié par_:
 
   - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Loi n°84-562 1984-07-04 art. 6, art. 8 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
 
 
 ##### Section 3 : Droit de préemption de l'Etat.<a id=13></a>
