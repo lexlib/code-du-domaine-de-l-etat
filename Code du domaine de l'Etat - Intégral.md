@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2003-11-06
+Version Consolidée au 2004-01-29
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -170,7 +170,7 @@ Version Consolidée au 2003-11-06
         - [Chapitre Ier : Domaine immobilier (art. D11 à D15)](#167)
           - [Section 1 : Locations (art. D11)](#168)
             - [Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales. (art. D11)](#169)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D13 à D15)](#170)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D12 à D15)](#170)
     - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#171)
       - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#172)
         - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#173)
@@ -18486,6 +18486,49 @@ _Créé par_:
 
 
 ##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=170></a>
+
+###### Article D12
+
+Conformément à l'article R. 104, les dispositions des articles R. 92 à R. 102 sont applicables aux personnels militaires des
+armées de terre, de mer et de l'air et des services communs relevant du ministère de la défense.
+
+Un arrêté fixe les modalités d'application du présent article, notamment en ce qui concerne le mode de calcul de l'abattement
+prévu à l'article R. 100.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011  articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1618 1949-12-28 art. 1, art. 2
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 29 janvier 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat
+  - Code du domaine de l'Etat - art. R100
+  - Code du domaine de l'Etat - art. R104
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A93 (V)
+
 
 ###### Article D13
 
