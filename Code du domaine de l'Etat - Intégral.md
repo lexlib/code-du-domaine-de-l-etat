@@ -1,160 +1,181 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1970-12-11
+Version Consolidée au 1970-12-15
 ## Contenu: 
-  - [Partie législative (art. L1 à L93)](#1)
+  - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
       - [Titre Ier : Dispositions générales. (art. L1 à L2)](#3)
       - [Titre II : Origine des biens (art. L3 à L27 ter)](#4)
         - [Chapitre Ier : Domaine public. (art. L3)](#5)
         - [Chapitre II : Domaine privé (art. L4 à L27 ter)](#6)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. L4 à L8)](#7)
-            - [Paragraphe 1 : Dispositions générales. (art. L4 à L8)](#8)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. L4 à L10)](#7)
+            - [Paragraphe 1 : Dispositions générales. (art. L4 à L10)](#8)
           - [Section 2 : Dons et legs (art. L11 à L20)](#9)
             - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. L11 à L13)](#10)
             - [Paragraphe 2 : Dons et legs faits aux établissements publics dépendant de l'Etat. (art. L15 à L17)](#11)
             - [Paragraphe 3 : Dispositions communes. (art. L19 à L20)](#12)
-          - [Section 4 : Successions en déshérence. (art. L23)](#13)
-          - [Section 6 : Biens vacants et sans maître. (art. L25 à L27 ter)](#14)
-    - [Livre II : Administration des biens domaniaux (art. L28 à L51)](#15)
-      - [Titre Ier : Domaine public (art. L28 à L35)](#16)
-        - [Chapitre Ier : Occupation temporaire (art. L28 à L33)](#17)
-          - [Section 1 : Délivrance des autorisations. (art. L28 à L29)](#18)
-          - [Section 2 : Fixation des redevances. (art. L30 à L34)](#19)
-          - [Section 2 : Fixation des redevances. (art. L31 à L33)](#20)
-        - [Chapitre II : Transfert de gestion. (art. L35)](#21)
-      - [Titre II : Domaine privé (art. L36 à L46)](#22)
-        - [Chapitre Ier : Domaine immobilier (art. L36 à L44)](#23)
-          - [Section 1 : Locations (art. L36 à L39)](#24)
-            - [Paragraphe 1 : Dispositions générales. (art. L36 à L38)](#25)
-            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. L39)](#26)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation (art. L40)](#27)
-          - [Section 4 : Echanges. (art. L41 à L44)](#28)
-        - [Chapitre II : Domaine mobilier. (art. L45 à L46)](#29)
-      - [Titre III : Dispositions communes (art. L47 à L51)](#30)
-        - [Chapitre Ier : Recouvrement des produits domaniaux. (art. L47 à L48)](#31)
-        - [Chapitre II : Utilisation complémentaire des immeubles domaniaux. (art. L50)](#32)
-        - [Chapitre III : Apport en participation d'immeubles domaniaux. (art. L51)](#33)
-    - [Livre III : Aliénation des biens domaniaux (art. L52 à L75)](#34)
-      - [Titre Ier : Inaliénabilité et imprescriptibilité des biens du domaine public. (art. L52)](#35)
-      - [Titre II : Aliénation des biens du domaine privé (art. L53 à L75)](#36)
-        - [Chapitre Ier : Domaine immobilier (art. L53 à L65)](#37)
-          - [Section 1 : Dispositions générales. (art. L53 à L57)](#38)
-          - [Section 2 : Ventes soumises à des règles particulières (art. L58 à L65)](#39)
-            - [Paragraphe 1 : Iles, îlots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés (art. L58 à L59)](#40)
-            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat (art. L60)](#41)
-            - [Paragraphe 7 : Forêts. (art. L62 à L63)](#42)
-            - [Paragraphe 8 : Lais et relais de la mer - marais - concessions. (art. L64)](#43)
-            - [Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre (art. L65)](#44)
-        - [Chapitre II : Domaine mobilier. (art. L67 à L72)](#45)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. L74 à L75)](#46)
-    - [Livre IV : Dispositions diverses (art. L76 à L93)](#47)
-      - [Titre Ier : Dispositions générales. (art. L76 à L78-1)](#48)
-      - [Titre II : Procédures - instances (art. L84)](#49)
-        - [Chapitre II : Instances. (art. L84)](#50)
-      - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. L85)](#51)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. L86 à L89)](#52)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. L86 à L89)](#53)
-      - [Titre V : Dispositions particulières et finales. (art. L92 à L93)](#54)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R6 à R174)](#55)
-    - [Livre Ier : Composition du domaine (art. R6 à R51)](#56)
-      - [Titre II : Origine des biens (art. R6 à R51)](#57)
-        - [Chapitre II : Domaine privé (art. R6 à R51)](#58)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. R6 à R19)](#59)
-            - [Paragraphe 1 : Dispositions générales. (art. R6 à R19)](#60)
-          - [Section 2 : Dons et legs (art. R22 à R45-3)](#61)
-            - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. R22 à R35)](#62)
-            - [Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat. (art. R36 à R39)](#63)
-            - [Paragraphe 3 : Dispositions communes. (art. R40 à R45-3)](#64)
-          - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#65)
-    - [Livre II : Administration des biens domaniaux (art. R55 à R126)](#66)
-      - [Titre Ier : Domaine public (art. R55 à R65)](#67)
-        - [Chapitre Ier : Occupation temporaire (art. R55 à R57)](#68)
-          - [Section 2 : Fixation des redevances. (art. R55 à R57)](#69)
-        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. R59 à R65)](#70)
-      - [Titre II : Domaine privé (art. R66 à R119)](#71)
-        - [Chapitre Ier : Domaine immobilier (art. R66 à R104)](#72)
-          - [Section 1 : Locations (art. R66 à R70)](#73)
-            - [Paragraphe 1 : Dispositions générales. (art. R66 à R68)](#74)
-            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. R70)](#75)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R75 à R76)](#76)
-          - [Section 4 : Echanges. (art. R79)](#77)
-          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R89)](#78)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104)](#79)
-        - [Chapitre II : Domaine mobilier. (art. R110 à R119)](#80)
-      - [Titre III : Dispositions communes (art. R120 à R126)](#81)
-        - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#82)
-        - [Chapitre V : Regroupement des services publics. (art. R123)](#83)
-        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R126)](#84)
-    - [Livre III : Aliénation des biens domaniaux (art. R130 à R148)](#85)
-      - [Titre II : Aliénation des biens du domaine privé (art. R130 à R148)](#86)
-        - [Chapitre Ier : Domaine immobilier (art. R130 à R148)](#87)
-          - [Section 1 : Dispositions générales. (art. R130 à R135)](#88)
-          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R148)](#89)
-            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#90)
-            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#91)
-            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#92)
-            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R147)](#93)
-            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#94)
-            - [Paragraphe 10 : Servitudes. (art. R148)](#95)
-    - [Livre IV : Dispositions diverses (art. R150 à R174)](#96)
-      - [Titre Ier : Dispositions générales. (art. R150 à R152)](#97)
-      - [Titre II : Procédure - Instances (art. R161)](#98)
-        - [Chapitre II : Instances. (art. R161)](#99)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R165 à R170)](#100)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R165 à R170)](#101)
-      - [Titre V : Dispositions particulières et finales. (art. R171 à R174)](#102)
-  - [Partie réglementaire - Décrets simples (art. D1 à D44)](#103)
-    - [Livre Ier : Composition du domaine (art. D1 à D4)](#104)
-      - [Titre II : Origine des biens (art. D1 à D4)](#105)
-        - [Chapitre II : Domaine privé (art. D1 à D4)](#106)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D1 à D4)](#107)
-            - [Paragraphe 2 : Dispositions spéciales. (art. D1 à D4)](#108)
-    - [Livre II : Administration des biens domaniaux (art. D14 à D17)](#109)
-      - [Titre II : Domaine privé (art. D14 à D15)](#110)
-        - [Chapitre Ier : Domaine immobilier (art. D14 à D15)](#111)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D14 à D15)](#112)
-      - [Titre III : Dispositions communes. (art. D16 à D17)](#113)
-        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. D16 à D17)](#114)
-    - [Livre III : Aliénation des biens domaniaux (art. D18)](#115)
-      - [Titre II : Aliénation des biens du domaine privé (art. D18)](#116)
-        - [Chapitre Ier : Domaine immobilier (art. D18)](#117)
-          - [Section 2 : Ventes soumises à des règles particulières (art. D18)](#118)
-            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#119)
-    - [Livre IV : Dispositions diverses (art. D19 à D44)](#120)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D19 à D35)](#121)
-        - [Chapitre III : Concessions domaniales en Guyane. (art. D19 à D31)](#122)
-        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#123)
-        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#124)
-      - [Titre V : Dispositions particulières et finales. (art. D38 à D44)](#125)
-  - [Partie réglementaire - Arrêtés (art. A6 à A120)](#126)
-    - [Livre Ier : Composition du domaine (art. A6 à A11)](#127)
-      - [Titre II : Origine des biens (art. A6)](#128)
-        - [Chapitre II : Domaine privé (art. A6)](#129)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A6)](#130)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A6)](#131)
-      - [Titre III : Inventaire des biens. (art. A7 à A11)](#132)
-    - [Livre II : Administration des biens domaniaux (art. A18 à A104)](#133)
-      - [Titre Ier : Domaine public (art. A18 à A72)](#134)
-        - [Chapitre Ier : Occupation temporaire (art. A18 à A38)](#135)
-          - [Section 1 : Délivrance des autorisations (art. A18 à A29)](#136)
-            - [A) Arrêtés individuels. (art. A18)](#137)
-            - [B) Arrêtés généraux. (art. A20 à A22)](#138)
-            - [C) Dispositions communes. (art. A26 à A29)](#139)
-          - [Section 2 : Fixation des redevances. (art. A32 à A38)](#140)
-        - [Chapitre III : Extractions sur le domaine public (art. A49 à A59)](#141)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#142)
-        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A61 à A72)](#143)
-      - [Titre II : Domaine privé (art. A73 à A104)](#144)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#145)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#146)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#147)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A92 à A93)](#148)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#149)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#150)
-    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#151)
-      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#152)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A116)](#153)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#154)
+          - [Section 3 : Droit de préemption de l'Etat. (art. L22)](#13)
+          - [Section 4 : Successions en déshérence. (art. L23)](#14)
+          - [Section 5 : Confiscations pénales. (art. L24)](#15)
+          - [Section 6 : Biens vacants et sans maître. (art. L25 à L27 ter)](#16)
+    - [Livre II : Administration des biens domaniaux (art. L28 à L51)](#17)
+      - [Titre Ier : Domaine public (art. L28 à L35)](#18)
+        - [Chapitre Ier : Occupation temporaire (art. L28 à L33)](#19)
+          - [Section 1 : Délivrance des autorisations. (art. L28 à L29)](#20)
+          - [Section 2 : Fixation des redevances. (art. L30 à L34)](#21)
+          - [Section 2 : Fixation des redevances. (art. L31 à L33)](#22)
+        - [Chapitre II : Transfert de gestion. (art. L35)](#23)
+      - [Titre II : Domaine privé (art. L36 à L46)](#24)
+        - [Chapitre Ier : Domaine immobilier (art. L36 à L44)](#25)
+          - [Section 1 : Locations (art. L36 à L39)](#26)
+            - [Paragraphe 1 : Dispositions générales. (art. L36 à L38)](#27)
+            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. L39)](#28)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation (art. L40)](#29)
+          - [Section 4 : Echanges. (art. L41 à L44)](#30)
+        - [Chapitre II : Domaine mobilier. (art. L45 à L46)](#31)
+      - [Titre III : Dispositions communes (art. L47 à L51)](#32)
+        - [Chapitre Ier : Recouvrement des produits domaniaux. (art. L47 à L49)](#33)
+        - [Chapitre II : Utilisation complémentaire des immeubles domaniaux. (art. L50)](#34)
+        - [Chapitre III : Apport en participation d'immeubles domaniaux. (art. L51)](#35)
+    - [Livre III : Aliénation des biens domaniaux (art. L52 à L75)](#36)
+      - [Titre Ier : Inaliénabilité et imprescriptibilité des biens du domaine public. (art. L52)](#37)
+      - [Titre II : Aliénation des biens du domaine privé (art. L53 à L75)](#38)
+        - [Chapitre Ier : Domaine immobilier (art. L53 à L65)](#39)
+          - [Section 1 : Dispositions générales. (art. L53 à L57)](#40)
+          - [Section 2 : Ventes soumises à des règles particulières (art. L58 à L65)](#41)
+            - [Paragraphe 1 : Iles, îlots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés (art. L58 à L59)](#42)
+            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat (art. L60)](#43)
+            - [Paragraphe 7 : Forêts. (art. L62 à L63)](#44)
+            - [Paragraphe 8 : Lais et relais de la mer - marais - concessions. (art. L64)](#45)
+            - [Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre (art. L65)](#46)
+        - [Chapitre II : Domaine mobilier. (art. L67 à L73)](#47)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. L74 à L75)](#48)
+    - [Livre IV : Dispositions diverses (art. L76 à L94)](#49)
+      - [Titre Ier : Dispositions générales. (art. L76 à L78-1)](#50)
+      - [Titre II : Procédures - instances (art. L82-1 à L84)](#51)
+        - [Chapitre Ier : Recouvrement des produits domaniaux (art. L82-1 à L83)](#52)
+          - [Section 2 : Procédure du recouvrement. (art. L82-1 à L83)](#53)
+        - [Chapitre II : Instances. (art. L84)](#54)
+      - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. L85)](#55)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. L86 à L89)](#56)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. L86 à L89)](#57)
+      - [Titre V : Dispositions particulières et finales. (art. L92 à L94)](#58)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R2 à R186)](#59)
+    - [Livre Ier : Composition du domaine (art. R2 à R52)](#60)
+      - [Titre II : Origine des biens (art. R2 à R51)](#61)
+        - [Chapitre II : Domaine privé (art. R2 à R51)](#62)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. R2 à R21)](#63)
+            - [Paragraphe 1 : Dispositions générales. (art. R2 à R21)](#64)
+          - [Section 2 : Dons et legs (art. R22 à R45-3)](#65)
+            - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. R22 à R35)](#66)
+            - [Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat. (art. R36 à R39)](#67)
+            - [Paragraphe 3 : Dispositions communes. (art. R40 à R45-3)](#68)
+          - [Section 3 : Droit de préemption de l'Etat. (art. R45-4)](#69)
+          - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#70)
+      - [Titre III : Inventaire des biens. (art. R52)](#71)
+    - [Livre II : Administration des biens domaniaux (art. R55 à R128)](#72)
+      - [Titre Ier : Domaine public (art. R55 à R65)](#73)
+        - [Chapitre Ier : Occupation temporaire (art. R55 à R57)](#74)
+          - [Section 2 : Fixation des redevances. (art. R55 à R57)](#75)
+        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. R59 à R65)](#76)
+      - [Titre II : Domaine privé (art. R66 à R119)](#77)
+        - [Chapitre Ier : Domaine immobilier (art. R66 à R105-1)](#78)
+          - [Section 1 : Locations (art. R66 à R70)](#79)
+            - [Paragraphe 1 : Dispositions générales. (art. R66 à R68)](#80)
+            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. R69 à R70)](#81)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. R71 à R73)](#82)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R74 à R76)](#83)
+          - [Section 4 : Echanges. (art. R77 à R80)](#84)
+          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R91)](#85)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104-1)](#86)
+          - [Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation. (art. R105)](#87)
+          - [Section 9 : Administration du domaine forestier. (art. R105-1)](#88)
+        - [Chapitre II : Domaine mobilier. (art. R106 à R119)](#89)
+      - [Titre III : Dispositions communes (art. R120 à R128)](#90)
+        - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#91)
+        - [Chapitre V : Regroupement des services publics. (art. R121 à R123)](#92)
+        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R126 à R128)](#93)
+    - [Livre III : Aliénation des biens domaniaux (art. R130 à R149)](#94)
+      - [Titre II : Aliénation des biens du domaine privé (art. R130 à R149)](#95)
+        - [Chapitre Ier : Domaine immobilier (art. R130 à R148-2)](#96)
+          - [Section 1 : Dispositions générales. (art. R130 à R135)](#97)
+          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R148-2)](#98)
+            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#99)
+            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#100)
+            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#101)
+            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat. (art. R144)](#102)
+            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R147)](#103)
+            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#104)
+            - [Paragraphe 10 : Servitudes. (art. R148)](#105)
+            - [Paragraphe 11 : Rétrocession d'immeubles expropriés. (art. R148-1)](#106)
+            - [Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé. (art. R148-2)](#107)
+        - [Chapitre II : Domaine mobilier. (art. R149)](#108)
+    - [Livre IV : Dispositions diverses (art. R150 à R186)](#109)
+      - [Titre Ier : Dispositions générales. (art. R150 à R152)](#110)
+      - [Titre II : Procédure - Instances (art. R153 à R162)](#111)
+        - [Chapitre Ier : Recouvrement des produits domaniaux (art. R153 à R157-2)](#112)
+          - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#113)
+        - [Chapitre II : Instances. (art. R158 à R162)](#114)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R165 à R170)](#115)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R165 à R170)](#116)
+      - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#117)
+  - [Partie réglementaire - Décrets simples (art. D1 à D44)](#118)
+    - [Livre Ier : Composition du domaine (art. D1 à D5)](#119)
+      - [Titre II : Origine des biens (art. D1 à D5)](#120)
+        - [Chapitre II : Domaine privé (art. D1 à D5)](#121)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D1 à D5)](#122)
+            - [Paragraphe 2 : Dispositions spéciales. (art. D1 à D5)](#123)
+    - [Livre II : Administration des biens domaniaux (art. D11 à D17)](#124)
+      - [Titre II : Domaine privé (art. D11 à D15)](#125)
+        - [Chapitre Ier : Domaine immobilier (art. D11 à D15)](#126)
+          - [Section 1 : Locations (art. D11)](#127)
+            - [Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales. (art. D11)](#128)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D13 à D15)](#129)
+      - [Titre III : Dispositions communes. (art. D16 à D17)](#130)
+        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. D16 à D17)](#131)
+    - [Livre III : Aliénation des biens domaniaux (art. D18)](#132)
+      - [Titre II : Aliénation des biens du domaine privé (art. D18)](#133)
+        - [Chapitre Ier : Domaine immobilier (art. D18)](#134)
+          - [Section 2 : Ventes soumises à des règles particulières (art. D18)](#135)
+            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#136)
+    - [Livre IV : Dispositions diverses (art. D18-1 à D44)](#137)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D18-1 à D35)](#138)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. D18-1)](#139)
+        - [Chapitre III : Concessions domaniales en Guyane. (art. D19 à D31)](#140)
+        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#141)
+        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#142)
+      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#143)
+  - [Partie réglementaire - Arrêtés (art. A6 à A120)](#144)
+    - [Livre Ier : Composition du domaine (art. A6 à A11)](#145)
+      - [Titre II : Origine des biens (art. A6)](#146)
+        - [Chapitre II : Domaine privé (art. A6)](#147)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A6)](#148)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A6)](#149)
+      - [Titre III : Inventaire des biens. (art. A7 à A11)](#150)
+    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#151)
+      - [Titre Ier : Domaine public (art. A12 à A72)](#152)
+        - [Chapitre Ier : Occupation temporaire (art. A12 à A38)](#153)
+          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#154)
+            - [A) Arrêtés individuels. (art. A12 à A19)](#155)
+            - [B) Arrêtés généraux. (art. A20 à A25)](#156)
+            - [C) Dispositions communes. (art. A26 à A30)](#157)
+          - [Section 2 : Fixation des redevances. (art. A32 à A38)](#158)
+        - [Chapitre III : Extractions sur le domaine public (art. A43 à A59)](#159)
+          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A43 à A45)](#160)
+            - [A) Arrêtés individuels. (art. A43 à A44)](#161)
+            - [B) Arrêtés généraux. (art. A45)](#162)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#163)
+        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A60 à A72)](#164)
+      - [Titre II : Domaine privé (art. A73 à A104)](#165)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#166)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#167)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#168)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#169)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#170)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#171)
+    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#172)
+      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#173)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#174)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#175)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -374,6 +395,70 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
+###### Article L9
+
+Il est fait défense aux conservateurs des hypothèques de publier les actes d'acquisition d'immeubles souscrits pour le compte
+de l'Etat, des établissements publics nationaux ou de leurs concessionnaires, lorsque ces actes n'ont pas été soumis
+préalablement au visa du directeur des services fiscaux compétent, constatant qu'ils satisfont aux conditions fixées par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 23 (V)
+
+
+###### Article L10
+
+En matière d'acquisitions immobilières faites à l'amiable par l'Etat ou les établissements publics nationaux suivant les
+règles du droit civil, les comptables publics sont déchargés de toute responsabilité par la remise des fonds au notaire
+rédacteur de l'acte. Il appartient à cet officier public de procéder, s'il y a lieu, sous sa responsabilité, à la purge de
+tous privilèges et hypothèques. Les fonds qui lui sont remis alors considérés comme reçus par lui en raison de ses fonctions.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L10 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception de sa 1ère phrase qui sera abrogée à compter de la publication des dispositions règlementaires correspondantes du
+code général de la propriété des personnes publiques.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cité par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+  - Code du domaine de l'Etat - art. R8 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-3 (V)
+  - Code général de la propriété des personnes publiqu - art. L1212-2 (V)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+**Liens**:
+
+  - SPEC_APPLI: Fin de vigueur : date indéterminée
+
+
 ##### Section 2 : Dons et legs<a id=9></a>
 
 ##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=10></a>
@@ -568,7 +653,46 @@ _Abrogé par_:
   - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
 
 
-##### Section 4 : Successions en déshérence.<a id=13></a>
+##### Section 3 : Droit de préemption de l'Etat.<a id=13></a>
+
+###### Article L22
+
+Le droit de préemption de l'Etat à l'égard de certains biens est exercé dans les conditions prévues à l'article 637 ter du
+code général des impôts (1) et aux articles 2, 3, 8, 9, 11 bis et 13 de la loi modifiée n° 62-848 du 26 juillet 1962 relative
+au droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé (2). Le cas échéant, il
+est fait application de dispositions de l'article 3 de la loi n° 65-561 du 10 juillet 1965.
+
+**Nota:**
+
+Nota - (1) L'article 637 ter du code général des impôts est devenu l'article L. 18 du livre des procédures fiscales, lequel a
+été abrogé par l'article 113 de la loi de finances pour 1997, n° 96-1181 du 30 décembre 1996 publiée au JORF du 31 décembre
+1996.
+
+Nota - (2) La loi n° 62-848 du 26 juillet 1962 a été abrogée par l'article 80 de la loi n° 76-1285 du 31 décembre 1976,
+publiée au JORF du 1er janvier 1977 et codifiée aux articles L. 210-1 et suivants du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 637 ter
+  - Loi n°62-848 1962-07-26 art. 2, art. 3, art. 8, art. 9, art. 11 bis, art. 13
+  - Loi n°65-561 du 10 juillet 1965 - art. 3 (Ab)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
+##### Section 4 : Successions en déshérence.<a id=14></a>
 
 ###### Article L23
 
@@ -593,7 +717,44 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-##### Section 6 : Biens vacants et sans maître.<a id=14></a>
+##### Section 5 : Confiscations pénales.<a id=15></a>
+
+###### Article L24
+
+Les confiscations prononcées par application des articles 37, 38 et 39 du code pénal (1) et 290, 292 et 293 du code de
+justice militaire (2) sont exécutées suivant la procédure prévue auxdits articles.
+
+**Nota:**
+
+NOTA : (1) Les articles 37, 38 et 39 du code pénal ont été abrogés par l'article 372 de la loi n° 92-1336 du 16 décembre
+1992, publiée au JORF du 22 décembre 1992.
+
+(2) Les articles 290, 292 et 293 du code de justice militaire ont été abrogés par l'article 51 de la loi n° 99-929 du 10
+novembre 1999, publiée au JORF du 11 novembre 1999.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code pénal 37, 38, 39
+  - Code de justice militaire - art. 290 (Ab)
+  - Code de justice militaire - art. 292 (Ab)
+  - Code de justice militaire - art. 293 (Ab)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+##### Section 6 : Biens vacants et sans maître.<a id=16></a>
 
 ###### Article L25
 
@@ -795,13 +956,13 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-## Livre II : Administration des biens domaniaux<a id=15></a>
+## Livre II : Administration des biens domaniaux<a id=17></a>
 
-### Titre Ier : Domaine public<a id=16></a>
+### Titre Ier : Domaine public<a id=18></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=17></a>
+#### Chapitre Ier : Occupation temporaire<a id=19></a>
 
-##### Section 1 : Délivrance des autorisations.<a id=18></a>
+##### Section 1 : Délivrance des autorisations.<a id=20></a>
 
 ###### Article L28
 
@@ -872,7 +1033,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-##### Section 2 : Fixation des redevances.<a id=19></a>
+##### Section 2 : Fixation des redevances.<a id=21></a>
 
 ###### Article L30
 
@@ -973,7 +1134,7 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-##### Section 2 : Fixation des redevances.<a id=20></a>
+##### Section 2 : Fixation des redevances.<a id=22></a>
 
 ###### Article L31
 
@@ -1036,7 +1197,7 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R57 (Ab)
 
 
-#### Chapitre II : Transfert de gestion.<a id=21></a>
+#### Chapitre II : Transfert de gestion.<a id=23></a>
 
 ###### Article L35
 
@@ -1062,13 +1223,13 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-### Titre II : Domaine privé<a id=22></a>
+### Titre II : Domaine privé<a id=24></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=23></a>
+#### Chapitre Ier : Domaine immobilier<a id=25></a>
 
-##### Section 1 : Locations<a id=24></a>
+##### Section 1 : Locations<a id=26></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=25></a>
+##### Paragraphe 1 : Dispositions générales.<a id=27></a>
 
 ###### Article L36
 
@@ -1136,7 +1297,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=26></a>
+##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=28></a>
 
 ###### Article L39
 
@@ -1161,7 +1322,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation<a id=27></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation<a id=29></a>
 
 ###### Article L40
 
@@ -1187,7 +1348,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-##### Section 4 : Echanges.<a id=28></a>
+##### Section 4 : Echanges.<a id=30></a>
 
 ###### Article L41
 
@@ -1310,7 +1471,7 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-#### Chapitre II : Domaine mobilier.<a id=29></a>
+#### Chapitre II : Domaine mobilier.<a id=31></a>
 
 ###### Article L45
 
@@ -1357,9 +1518,9 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-### Titre III : Dispositions communes<a id=30></a>
+### Titre III : Dispositions communes<a id=32></a>
 
-#### Chapitre Ier : Recouvrement des produits domaniaux.<a id=31></a>
+#### Chapitre Ier : Recouvrement des produits domaniaux.<a id=33></a>
 
 ###### Article L47
 
@@ -1416,7 +1577,35 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-#### Chapitre II : Utilisation complémentaire des immeubles domaniaux.<a id=32></a>
+###### Article L49
+
+La prescription quadriennale des créances sur l'Etat, instituée par la loi n° 68-1250 du 31 décembre 1968, est applicable à
+l'action en restitution des droits et redevances de même nature versés au Trésor à quelque titre que ce soit.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°68-1250 1968-12-31
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2321-5 (V)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+#### Chapitre II : Utilisation complémentaire des immeubles domaniaux.<a id=34></a>
 
 ###### Article L50
 
@@ -1447,7 +1636,7 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-#### Chapitre III : Apport en participation d'immeubles domaniaux.<a id=33></a>
+#### Chapitre III : Apport en participation d'immeubles domaniaux.<a id=35></a>
 
 ###### Article L51
 
@@ -1488,9 +1677,9 @@ _Codifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-## Livre III : Aliénation des biens domaniaux<a id=34></a>
+## Livre III : Aliénation des biens domaniaux<a id=36></a>
 
-### Titre Ier : Inaliénabilité et imprescriptibilité des biens du domaine public.<a id=35></a>
+### Titre Ier : Inaliénabilité et imprescriptibilité des biens du domaine public.<a id=37></a>
 
 ###### Article L52
 
@@ -1512,11 +1701,11 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-### Titre II : Aliénation des biens du domaine privé<a id=36></a>
+### Titre II : Aliénation des biens du domaine privé<a id=38></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=37></a>
+#### Chapitre Ier : Domaine immobilier<a id=39></a>
 
-##### Section 1 : Dispositions générales.<a id=38></a>
+##### Section 1 : Dispositions générales.<a id=40></a>
 
 ###### Article L53
 
@@ -1585,6 +1774,40 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L3211-2 (V)
 
 
+###### Article L55
+
+A défaut de paiement du prix aux échéances, les acquéreurs sont déchus de plein droit s'ils ne se sont pas libérés dans la
+quinzaine de la notification d'un avis de mise en recouvrement ; ils ne sont point tenus à la folle enchère mais ils doivent
+payer, à titre de dommages et intérêts, une amende égale au dixième du prix de l'adjudication dans le cas où ils n'auraient
+encore fait aucun paiement, et au vingtième s'ils ont versé un ou plusieurs acomptes, le tout sans préjudice de la
+restitution des fruits.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. D17-1 (Ab)
+  - Code du domaine de l'Etat - art. R132 (Ab)
+  - Code du domaine de l'Etat - art. R153 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L3211-12 (M)
+  - Code général de la propriété des personnes publiqu - art. L3211-12 (V)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
 ###### Article L56
 
 Les immeubles de toute nature que l'Etat possède par indivis avec d'autres personnes physiques ou morales, et qui sont
@@ -1627,9 +1850,9 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=39></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=41></a>
 
-##### Paragraphe 1 : Iles, îlots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés<a id=40></a>
+##### Paragraphe 1 : Iles, îlots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés<a id=42></a>
 
 ###### Article L58
 
@@ -1672,7 +1895,7 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat<a id=41></a>
+##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat<a id=43></a>
 
 ###### Article L60
 
@@ -1697,7 +1920,7 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-##### Paragraphe 7 : Forêts.<a id=42></a>
+##### Paragraphe 7 : Forêts.<a id=44></a>
 
 ###### Article L62
 
@@ -1746,7 +1969,7 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-##### Paragraphe 8 : Lais et relais de la mer - marais - concessions.<a id=43></a>
+##### Paragraphe 8 : Lais et relais de la mer - marais - concessions.<a id=45></a>
 
 ###### Article L64
 
@@ -1788,7 +2011,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de l'environnement - art. L321-6 (M)
 
 
-##### Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre<a id=44></a>
+##### Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre<a id=46></a>
 
 ###### Article L65
 
@@ -1826,7 +2049,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L3212-1 (V)
 
 
-#### Chapitre II : Domaine mobilier.<a id=45></a>
+#### Chapitre II : Domaine mobilier.<a id=47></a>
 
 ###### Article L67
 
@@ -2015,7 +2238,34 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=46></a>
+###### Article L73
+
+le prix principal des biens mobiliers vendus par le service des domaines peut être acquitté en obligations cautionnées à 3, 6
+ou 9 mois d'échéance, dans les conditions qui sont fixées par arrêté du ministre des finances. Il en est de même du prix
+principal de la vente des produits des forêts de l'Etat lorsqu'il est encaissé par le service des domaines.
+
+Ces obligations donnent lieu à un intérêt de crédit et à une remise spéciale dont le taux et le montant sont également fixés
+par un arrêté du même ministre.
+
+La remise spéciale ne peut pas dépasser trois quarts de franc pour 100 F.
+
+Si les obligations ne sont pas apurées à l'échéance, le Trésor poursuit immédiatement, outre le recouvrement des sommes
+garanties, le paiement des intérêts de ces sommes comptés du jour de ladite échéance et calculés d'après le taux d'intérêt
+légal en matière civile.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. A520-7 (V)
+  - Code du domaine de l'Etat - art. L47 (Ab)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=48></a>
 
 ###### Article L74
 
@@ -2066,9 +2316,9 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-## Livre IV : Dispositions diverses<a id=47></a>
+## Livre IV : Dispositions diverses<a id=49></a>
 
-### Titre Ier : Dispositions générales.<a id=48></a>
+### Titre Ier : Dispositions générales.<a id=50></a>
 
 ###### Article L76
 
@@ -2177,9 +2427,64 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-### Titre II : Procédures - instances<a id=49></a>
+### Titre II : Procédures - instances<a id=51></a>
 
-#### Chapitre II : Instances.<a id=50></a>
+#### Chapitre Ier : Recouvrement des produits domaniaux<a id=52></a>
+
+##### Section 2 : Procédure du recouvrement.<a id=53></a>
+
+###### Article L82-1
+
+La notification d'un avis de mise en recouvrement interrompt la prescription courant contre l'administration et y substitue
+une prescription décennale.
+
+La prescription est également interrompue par les déclarations ou notifications de procès-verbaux, par tous actes comportant
+reconnaissance des redevables ou par tous autres actes interruptifs de droit commun.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R154 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2323-8 (V)
+  - Code général de la propriété des personnes publiqu - art. L2323-8 (M)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+
+###### Article L83
+
+Les modalités d'application des articles L. 80 à L. 82-1 sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code du domaine de l'Etat L80 à L82-1
+
+
+#### Chapitre II : Instances.<a id=54></a>
 
 ###### Article L84
 
@@ -2206,7 +2511,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L2331-1 (V)
 
 
-### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=51></a>
+### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=55></a>
 
 ###### Article L85
 
@@ -2228,9 +2533,9 @@ _Codifié par_:
   - Décret n°62-298 1962-03-14
 
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=52></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=56></a>
 
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=53></a>
+#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=57></a>
 
 ###### Article L86
 
@@ -2347,7 +2652,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L5111-5 (V)
 
 
-### Titre V : Dispositions particulières et finales.<a id=54></a>
+### Titre V : Dispositions particulières et finales.<a id=58></a>
 
 ###### Article L92
 
@@ -2403,17 +2708,219 @@ _Abrogé par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=55></a>
+###### Article L94
 
-## Livre Ier : Composition du domaine<a id=56></a>
+Le présent code se substitue aux dispositions législatives suivantes en tant qu'elles concernaient le domaine de l'Etat et
+celui des établissements publics qui en dépendent :
 
-### Titre II : Origine des biens<a id=57></a>
+Code du domaine de l'Etat, articles L. 1, L. 2, L. 3, 1er alinéa ; L. 4, 2e alinéa ; L. 6, L. 7, L. 8, L. 13, L. 14, 1er
+alinéa ; L. 16, L. 17, L. 18, L. 19, L. 20, L. 21, L. 22, L. 23, L. 24, L. 27, L. 28, L. 29, L. 30, L. 32, L. 33, 1er
+alinéa ; L. 34, L. 37, L. 38, L. 39, 1er et 3e alinéas ; L. 40, L. 41, 1er alinéa ; L. 42, L. 43, L. 46, L. 54, L. 57, 3e
+alinéa ; L. 65, L. 66, L. 67, L. 68, L. 69, L. 72, L. 75, L. 76, L. 77, L. 78, L. 79, L. 81, L. 82, L. 83, 1er alinéa ; L.
+86, L. 89, L. 90, L. 92, 4e alinéa ; L. 93, 3e alinéa ; L. 102, 3e alinéa ; L. 103, L. 104, L. 105, L. 106, 1er alinéa ; L.
+109, L. 111, L. 116, L. 117, L. 118, L. 119, 1er et 2e alinéas ; L. 120, L. 121, L. 122, L. 124, L. 125, L. 126, 2e alinéa ;
+L. 129, L. 130, L. 134, L. 137, L. 138, L. 139, L. 140, L. 141, L. 144, L. 145, L. 146, L. 147, L. 148 ;
 
-#### Chapitre II : Domaine privé<a id=58></a>
+Code général des impôts, articles 255, 1915, 1916, 1917, 1918, 2000-2 et 2000-5 ;
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=59></a>
+Ordonnance n° 58-1374 du 30 décembre 1958, article 71 ;
 
-##### Paragraphe 1 : Dispositions générales.<a id=60></a>
+Loi n° 59-1454 du 26 décembre 1959, article 72 ;
+
+Loi n° 63-1316 du 27 décembre 1963 (art. 1er, 2, 19, 46 et 47).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=59></a>
+
+## Livre Ier : Composition du domaine<a id=60></a>
+
+### Titre II : Origine des biens<a id=61></a>
+
+#### Chapitre II : Domaine privé<a id=62></a>
+
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=63></a>
+
+##### Paragraphe 1 : Dispositions générales.<a id=64></a>
+
+###### Article R2
+
+Dans les bureaux des directions des services fiscaux et au service central des domaines, un service des évaluations
+immobilières centralise, contrôle et transmet tous les éléments destinés à déterminer la valeur locative ou la valeur vénale
+des immeubles dont la location ou l'acquisition est projetée par des services de l'Etat, par des établissements publics
+nationaux ou par leurs concessionnaires.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R*311-6 (Ab)
+  - Décret n°69-825 du 28 août 1969 - art. 63 (Ab)
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L4
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R3
+
+Les baux, accords amiables et conventions quelconques ayant pour objet la prise en location d'immeubles de toute nature
+négociés par l'Etat ou par les établissements publics nationaux, ne peuvent, quelle qu'en soit la durée, être réalisés
+qu'après avis du service des domaines sur le prix, lorsque le loyer annuel total, charges comprises, est au moins égal à un
+chiffre limite fixé par arrêté du ministre de l'économie et des finances. Il en est de même, quel que soit le montant du
+loyer, si la durée prévue pour l'opération est supérieure à neuf ans.
+
+L'avis du service des domaines porte, en outre, sur le choix des emplacements et constructions et sur les possibilités
+d'utilisation d'immeubles domaniaux ou d'immeubles pris à bail qui seraient disponibles ou susceptibles d'un meilleur
+aménagement. Les dispositions qui précèdent sont applicables aux prises à bail par les agents de l'Etat, en leur nom
+personnel, de locaux principalement destinés à des services administratifs, lorsque le montant du loyer est remboursé en tout
+ou en partie par l'Etat.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L5
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A01 (V)
+  - Code du domaine de l'Etat - art. D3 (Ab)
+  - Code du domaine de l'Etat - art. R6 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R4
+
+Ne peuvent être réalisées qu'après avis du service des domaines sur le prix, les acquisitions d'immeubles, de droits
+immobiliers, de fonds de commerce et de droits sociaux donnant vocation à l'attribution en pleine propriété d'immeubles ou de
+parties d'immeubles poursuivies par l'Etat et les établissements publics nationaux, ainsi que par leurs concessionnaires, à
+l'amiable ou par expropriation, d'une valeur totale au moins égale à un chiffre limite fixé par arrêté du ministre des
+finances, de même que les tranches d'acquisition d'un montant inférieur mais faisant partie d'une opération d'ensemble
+portant sur des biens de cette nature d'une valeur égale ou supérieure à ladite somme.
+
+L'avis porte, en outre, sur le choix des emplacements et constructions et sur les possibilités d'utilisation d'immeubles
+domaniaux ou d'immeubles pris à bail par l'Etat qui seraient disponibles ou susceptibles d'un meilleur aménagement.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L9
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°69-825 1969-08-28 art. 62 JORF 6 septembre 1969
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A01 (V)
+  - Code du domaine de l'Etat - art. D3 (Ab)
+  - Code du domaine de l'Etat - art. R21-3 (Ab)
+  - Code du domaine de l'Etat - art. R6 (Ab)
+
+
+###### Article R5
+
+Avant l'établissement de tout projet de construction immobilière, les services de l'Etat, les établissements publics
+nationaux ou leurs concessionnaires doivent provoquer l'avis du service des domaines sur le choix des emplacements et sur les
+possibilités d'utilisation d'immeubles domaniaux ou d'immeubles pris à bail par l'Etat qui seraient disponibles ou
+susceptibles d'un meilleur aménagement, lorsque la dépense présumée est supérieure à un chiffre limite fixé par arrêté du
+ministre de l'économie et des finances.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L10
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A01 (V)
+  - Code du domaine de l'Etat - art. D3 (Ab)
+  - Code du domaine de l'Etat - art. R6 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
 
 ###### Article R6
 
@@ -2477,6 +2984,59 @@ _Cité par_:
   - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
 
 
+###### Article R8
+
+Dans les cas d'acquisition sur licitation, le montant du prix peut être remis, dans les conditions prévues à l'article L. 10,
+au notaire désigné pour recevoir les fonds.
+
+Lorsque les actes sont passés en la forme administrative, il peut être payé au vendeur, dès l'expiration des délais ouverts
+pour prendre les inscriptions ayant un effet rétroactif, un acompte dans la limite maximum des trois quarts de la différence
+entre le prix stipulé et celui des charges et accessoires.
+
+Cet acompte est payé sur l'autorisation du directeur des services fiscaux lorsque les actes sont rédigés par ce service et,
+dans les autres cas, sur l'autorisation de l'autorité habilitée à recevoir l'acte administratif.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L14
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+  - Décret n°62-1352 du 14 novembre 1962 - art. 4 (Ab) JORF 18 novembre 1962
+  - Décret n°62-1352 du 14 novembre 1962 - art. 4 (V)
+
+_Cité par_:
+
+  - Décret n°62-1352 du 14 novembre 1962 - art. 8 (Ab)
+  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L10
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-3 (V)
+  - Code général de la propriété des personnes publ... - art. R1212-6 (V)
+
+
 ###### Article R9
 
 Le prix des acquisitions immobilières faites à l'amiable suivant les règles du droit civil pour le compte de l'Etat ou des
@@ -2506,6 +3066,242 @@ _Cité par_:
   - Arrêté du 27 juillet 1963 - art. 27 (Ab)
 
 
+###### Article R14
+
+Des arrêtés interministériels peuvent exclure certaines catégories d'opérations du champ d'application de l'article R. 10 ou
+instituer à leur égard des règles de procédure particulières.
+
+Ces arrêtés sont signés par le Premier ministre, le ministre des finances et les ministres intéressés en ce qui concerne les
+opérations visées à l'article R. 10 (1°, 2° et 3°). Ils sont, en outre, signés par le ministre chargé des affaires
+culturelles en ce qui concerne les opérations visées à l'article R. 10 (4°).
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 8 dernier al.
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+  - Code du domaine de l'Etat - art. R15 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10
+
+
+###### Article R15
+
+La commission nationale des opérations immobilières et de l'architecture est consultée sur les projets d'arrêtés visés aux
+articles R. 10, R. 11 et R. 14.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 13
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10
+  - Code du domaine de l'Etat - art. R11
+  - Code du domaine de l'Etat - art. R14
+
+
+###### Article R16
+
+Les commissions visées aux articles R. 10, R. 12 et R. 13 sont saisies des affaires, respectivement par le Premier ministre
+en ce qui concerne la commission nationale, le préfet de région en ce qui concerne la commission régionale et le préfet en ce
+qui concerne la commission départementale.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 12
+
+_Abrogé par_:
+
+  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Cité par_:
+
+  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10
+  - Code du domaine de l'Etat - art. R12
+  - Code du domaine de l'Etat - art. R13
+
+
+###### Article R17
+
+Lorsqu'il s'agit des projets visés à l'article R. 10 examinés par les commissions régionales ou départementales ou par la
+commission nationale, il ne peut être passé outre à un avis défavorable :
+
+De la commission nationale que par une décision prise par le Premier ministre sur proposition du ministre responsable de
+l'opération ou chargé de la tutelle ;
+
+D'une commission régionale ou départementale que par une décision motivée prise par le ministre responsable de l'opération ou
+chargé de la tutelle ou par son délégué.
+
+Si l'avis défavorable est motivé par un loyer ou un prix d'acquisition trop élevé ou par un coût de construction excessif eu
+égard aux besoins définis par l'autorité compétente et au parti architectural adopté, les décisions du Premier ministre ou du
+ministre sont respectivement prises après avis ou après accord du ministre des finances.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 20, art. 21, art. 24
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+  - Code du domaine de l'Etat - art. R19 (Ab)
+  - Code du domaine de l'Etat - art. R20 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10
+
+
+###### Article R18
+
+Le service des domaines est seul habilité à passer pour le compte des services publics de l'Etat, civils ou militaires, les
+actes d'acquisition et de prise en location d'immeubles et de droits immobiliers ou de fonds de commerce.
+
+Il peut se faire assister, s'il le juge utile, par un représentant du ministère ou du service intéressé.
+
+Toutefois, et sous réserve de ce qui est dit aux articles R. 171 à R. 186, ces dispositions ne sont pas applicables :
+
+1° Aux acquisitions mettant en jeu la procédure de l'expropriation pour cause d'utilité publique, lorsque l'indemnité doit
+être fixée par le juge de l'expropriation ;
+
+2° Aux acquisitions et aux prises en location poursuivies par le ministre chargé de la construction pour les besoins de la
+reconstruction et du remembrement.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 23 sauf dernier al.
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Cité par_:
+
+  - Décret du 25 mars 1993 - art. 3 (Ab)
+  - Code du domaine de l'Etat - art. D5 (Ab)
+  - Code du domaine de l'Etat - art. R158-1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-1 (V)
+  - Code général de la propriété des personnes publ... - art. R4111-8 (V)
+
+
 ###### Article R19
 
 Les actes visés au premier alinéa de l'article précédent ainsi que les actes d'acquisition ou de prise en location conclus
@@ -2533,9 +3329,47 @@ _Abrogé par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-##### Section 2 : Dons et legs<a id=61></a>
+###### Article R21
 
-##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=62></a>
+Les infractions aux règles concernant les conditions dans lesquelles doivent être réalisées les opérations immobilières de
+toute nature font l'objet de poursuites disciplinaires sans préjudice, le cas échéant, des poursuites pénales.
+
+La Cour des comptes est seule compétente pour connaître des infractions commises par les comptables à l'interdiction qui leur
+est faite à l'article R. 20 (2°) d'effectuer des règlements incomplètement justifiés.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 27
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R20
+
+
+##### Section 2 : Dons et legs<a id=65></a>
+
+##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=66></a>
 
 ###### Article R22
 
@@ -3093,7 +3927,7 @@ _Anciens textes_:
   - Règlement d'administration publique 56-812 1956-08-03 art. 1
 
 
-##### Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat.<a id=63></a>
+##### Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat.<a id=67></a>
 
 ###### Article R36
 
@@ -3233,7 +4067,7 @@ _Anciens textes_:
   - Règlement d'administration publique 56-812 1956-08-03 art. 5
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=64></a>
+##### Paragraphe 3 : Dispositions communes.<a id=68></a>
 
 ###### Article R40
 
@@ -3520,7 +4354,54 @@ _Abrogé par_:
   - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
 
 
-##### Section 6 : Biens vacants et sans maître.<a id=65></a>
+##### Section 3 : Droit de préemption de l'Etat.<a id=69></a>
+
+###### Article R45-4
+
+Le droit de substitution de l'Etat, prévu par l'article 3 de la loi n° 62-848 du 26 juillet 1962 en cas de non-exercice par
+les collectivités locales du droit de préemption institué à leur profit dans les zones à urbaniser en priorité et dans les
+zones d'aménagement différé, est mis en oeuvre par le préfet dans les cas et les conditions indiqués aux articles 4 à 9 et 12
+à 14 du décret n° 62-1300 du 7 novembre 1962.
+
+**Nota:**
+
+L'article 3 de la loi n° 62-848 du 26 juillet 1962 a été abrogé par l'article 80 de la loi n° 76-1285 du 31 décembre 1976 et
+codifié sous l'article L. 630-1 du code de l'urbanisme, puis sous l'article L. 211-3 et enfin sous l'article L. 212-2 du même
+code.
+
+Les articles 4 à 9 et 12 à 14 du décret n° 62-1300 du 7 novembre 1962 ont été abrogés par les articles 1 et 2 du décret n°
+73-1023 du 8 novembre 1973 et codifiés aux articles R. 211-4 à R. 211-9, R. 214-2, R. 212-1 et R. 212-6 du code de
+l'urbanisme.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Loi n°62-848 du 26 juillet 1962
+  - Décret n°62-1300 du 7 novembre 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+##### Section 6 : Biens vacants et sans maître.<a id=70></a>
 
 ###### Article R46
 
@@ -3707,13 +4588,50 @@ _Anciens textes_:
   - Décret n°1937-06-18 art. 6
 
 
-## Livre II : Administration des biens domaniaux<a id=66></a>
+### Titre III : Inventaire des biens.<a id=71></a>
 
-### Titre Ier : Domaine public<a id=67></a>
+###### Article R52
 
-#### Chapitre Ier : Occupation temporaire<a id=68></a>
+Le service des domaines établit et communique aux commissions visées à l'article R. 10, en ce qui concerne leur
+circonscription, le relevé, par département et par service, des immeubles du domaine public et du domaine privé de l'Etat et
+des établissements publics nationaux à caractère administratif.
 
-##### Section 2 : Fixation des redevances.<a id=69></a>
+Il dresse, aux mêmes fins, la liste des locations consenties et des réquisitions prononcées ou renouvelées au profit des
+services de l'Etat ou des établissements publics nationaux à caractère administratif.
+
+Des arrêtés conjoints du ministre chargé de la construction et du ministre des finances déterminent les conditions
+d'application du présent article et notamment les dispositions qui permettent la tenue à jour des documents établis.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 17 al. 1 et 2, al. 4
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Décret n°83-816 du 13 septembre 1983 - art. 23 (VT)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10 (V)
+
+
+## Livre II : Administration des biens domaniaux<a id=72></a>
+
+### Titre Ier : Domaine public<a id=73></a>
+
+#### Chapitre Ier : Occupation temporaire<a id=74></a>
+
+##### Section 2 : Fixation des redevances.<a id=75></a>
 
 ###### Article R55
 
@@ -3839,7 +4757,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2125-3 (V)
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=70></a>
+#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=76></a>
 
 ###### Article R59
 
@@ -3909,6 +4827,52 @@ _Abrogé par_:
   - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
 
 
+###### Article R61
+
+Conformément à l'article 3 du décret n° 57-1190 du 25 octobre 1957, lors de chaque renouvellement général des locations,
+toute association qui désire obtenir la location amiable de l'un des lots mentionnés à l'article précédent est tenue
+d'adresser, à cet effet une demande en double exemplaire au directeur des services fiscaux du département de la situation des
+lots par lettre recommandée, huit mois au moins avant l'expiration des baux en cours.
+
+La demande doit contenir explicitement l'engagement indiqué au dernier alinéa de l'article R. 59.
+
+Si l'association demanderesse est déjà détentrice d'un lot de pêche, elle doit justifier, à l'appui de sa demande de
+location, des améliorations apportées par elle à ce lot, notamment des mesures appliquées pour la répression du braconnage et
+pour le repeuplement. Elle indique également les ressources financières dont elle dispose pour continuer à assurer dans
+l'avenir ces diverses améliorations.
+
+L'association qui n'est pas détentrice d'un lot de pêche doit, à l'appui de sa demande, prendre l'engagement de pratiquer
+dans le lot sollicité de sérieuses mesures de répression du braconnage et de repeuplement et justifier de l'existence de
+moyens financiers suffisants pour l'exécution de cet engagement.
+
+Si l'association ne satisfait pas aux conditions d'attribution du lot demandé, notamment en ce qui concerne les engagements
+relatifs à la répression du braconnage et au repeuplement, notification motivée du rejet de sa demande lui est faite par le
+service des domaines au plus tard quatre mois avant l'expiration des baux en cours.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°57-1190 1957-10-25 art. 3
+  - Code du domaine de l'Etat - art. R59 (Ab)
+
+_Anciens textes_:
+
+  - Décret n°57-1190 1957-10-25 art. 3
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
+
+
 ###### Article R62
 
 Conformément à l'article 4 du décret n° 57-1190 du 25 octobre 1957, le prix des lots réservés pour la location amiable et
@@ -3972,6 +4936,37 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A70 (Ab)
 
 
+###### Article R64
+
+Conformément à l'article 6 du décret n° 57-1190 du 25 octobre 1957, l'affermage des lots attribués à l'amiable est consenti
+pour la durée fixée par décision ministérielle.
+
+Il fait l'objet d'un acte administratif passé par le préfet et, le cas échéant, par le chef de service intéressé lorsque la
+compétence de celui-ci excède l'étendue du département.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°57-1190 1957-10-25 art. 6
+
+_Anciens textes_:
+
+  - Décret n°57-1190 1957-10-25 art. 6
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
+
+
 ###### Article R65
 
 Conformément à l'article 7 du décret n° 57-1190 du 25 octobre 1957, un cahier des charges commun à l'adjudication, à
@@ -3998,13 +4993,13 @@ _Abrogé par_:
   - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
 
 
-### Titre II : Domaine privé<a id=71></a>
+### Titre II : Domaine privé<a id=77></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=72></a>
+#### Chapitre Ier : Domaine immobilier<a id=78></a>
 
-##### Section 1 : Locations<a id=73></a>
+##### Section 1 : Locations<a id=79></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=74></a>
+##### Paragraphe 1 : Dispositions générales.<a id=80></a>
 
 ###### Article R66
 
@@ -4031,6 +5026,43 @@ _Modifié par_:
 _Cite_:
 
   - Code du domaine de l'Etat - art. R69 (V)
+
+
+###### Article R67
+
+Les baux forestiers domaniaux sont passés dans les conditions indiquées à l'article R. 105-1.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L45
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R105-1
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-3 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
 ###### Article R68
@@ -4060,7 +5092,52 @@ _Codifié par_:
   - Décret n°62-299 1962-03-14
 
 
-##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=75></a>
+##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=81></a>
+
+###### Article R69
+
+Les terrains appartenant à l'Etat peuvent être loués pour une durée supérieure à dix-huit ans sur la proposition du ministre
+intéressé et après avis favorable du ministre chargé de la construction en vue de la réalisation d'opérations d'urbanisme ou
+de construction.
+
+Les conditions de leur utilisation sont définies de la façon prévue au troisième alinéa de l'article R. 139.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L51
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R139
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R66 (M)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-4 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
 
 ###### Article R70
 
@@ -4090,7 +5167,185 @@ _Modifié par_:
   - Décret n°70-96 1970-01-29 art. 1 JORF 3 février 1970
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=76></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=82></a>
+
+###### Article R71
+
+Toute occupation dans les bâtiments provisoires visés à l'alinéa 2 1° de l'article 11 de l'ordonnance n° 45-609 du 10 avril
+1945 relative aux travaux préliminaires à la reconstruction, donne lieu, avant de devenir effective, à l'établissement d'un
+titre, suivant des modalités prévues par un arrêté pris conjointement par le ministre des finances et le ministre chargé de
+la construction par lequel le bénéficiaire, entre autres obligations, s'engage à verser une redevance au Trésor en
+atténuation des dépenses que ce dernier est appelé à supporter.
+
+Cette redevance n'est due que lorsque le bénéficiaire était locataire avant le sinistre des locaux ou installations qu'il
+occupait comme habitation ou pour son usage professionnel, agricole, industriel ou commercial ; lorsqu'il en était
+propriétaire, il est exempté de cette redevance, mais doit renoncer à l'allocation d'attente correspondant à ces locaux ou
+installations.
+
+Cette exemption est étendue dans les mêmes conditions aux héritiers directs du propriétaire lorsqu'ils habitaient avec lui
+avant le sinistre.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L55
+
+_Cite_:
+
+  - Ordonnance n°45-609 du 10 avril 1945
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A73 (V)
+  - Code du domaine de l'Etat - art. R72 (Ab)
+  - Code du domaine de l'Etat - art. R73 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+
+###### Article R72
+
+Le taux des redevances est fixé par le directeur des services fiscaux après avis du directeur départemental de l'équipement.
+
+En ce qui concerne les locaux destinés à l'habitation, dans la limite de maxima de valeurs locatives fixés par un arrêté pris
+dans la forme prévue à l'article R. 71.
+
+En ce qui concerne les locaux à usage professionnel, industriel, commercial ou agricole, d'après les circonstances de lieu.
+
+Conformément à l'article 15-1 de la loi n° 57-908 du 7 août 1957 tendant à favoriser la construction de logements et les
+équipements collectifs, la redevance peut être portée à un taux calculé d'après la valeur du service rendu lorsque l'occupant
+propriétaire de son logement sinistré dispose de la faculté de s'installer à nouveau dans ledit logement reconstruit, ou
+lorsqu'il a été offert à l'occupant un logement correspondant à ses besoins et à ses ressources.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L56
+
+_Cite_:
+
+  - Loi n°57-908 du 7 août 1957
+  - Code du domaine de l'Etat - art. R71
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A84 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+
+###### Article R73
+
+Les redevances, obligatoirement affectées à l'entretien et aux réparations des bâtiments provisoires visés à l'article R. 71
+sont perçues par le service des domaines selon la procédure suivie en matière de recouvrement de produits domaniaux. Elles ne
+sont dues qu'à compter du jour de la signature de l'engagement d'occupation.
+
+Toute somme versée avant la date fixée vient en déduction des termes à venir. Toutefois, les poursuites ne peuvent être
+exercées éventuellement à l'encontre des occupants qu'après avis de la commission instituée par l'article premier du décret
+du 8 septembre 1939, pris pour l'application de l'article 2, dernier alinéa, du décret du 1er septembre 1939 relatif aux
+actions en justice et aux prescriptions et délais de procédure intéressant les mobilisés à laquelle sont adjoints pour la
+circonstance des représentants du ministre chargé de la construction et du ministre des anciens combattants et victimes de
+guerre.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L57 al. 1 et 2
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R71
+  - Décret n°1939-09-08
+
+_Modifié par_:
+
+  - Décret n°70-1190 1970-12-11 art. 2 JORF 15 décembre 1970
+
+
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=83></a>
+
+###### Article R74
+
+Le ministre chargé de la construction et le ministre des finances peuvent passer des conventions avec les offices et sociétés
+d'habitations à loyer modéré en vue de l'aménagement de locaux d'habitation dans des immeubles domaniaux civils et
+militaires.
+
+Ces conventions peuvent prévoir la location desdits immeubles aux offices et sociétés moyennant un loyer recognitif et fixer
+les conditions de gestion de ces immeubles.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L58
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 
 ###### Article R75
 
@@ -4152,7 +5407,43 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R76-1 (Ab)
 
 
-##### Section 4 : Echanges.<a id=77></a>
+##### Section 4 : Echanges.<a id=84></a>
+
+###### Article R77
+
+Toute demande d'échange est adressée au directeur des services fiscaux de la situation de l'immeuble domanial ou de sa plus
+forte partie. Elle est accompagnée des titres établissant les droits de propriété du coéchangiste sur les immeubles offerts à
+l'Etat.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L61
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1111-1 (V)
+  - Code général de la propriété des personnes publ... - art. R3211-43 (V)
+
 
 ###### Article R79
 
@@ -4185,7 +5476,46 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-43 (V)
 
 
-##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=78></a>
+###### Article R80
+
+Dans tous les cas, l'échange fait l'objet d'un acte dressé en la forme administrative, en conformité de l'article L. 76, dans
+le département de situation de la totalité ou de la plus grande partie de l'immeuble domanial.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L64
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L76
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-2 (V)
+  - Code général de la propriété des personnes publ... - art. R3211-45 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=85></a>
 
 ###### Article R81
 
@@ -4287,7 +5617,100 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R83 (VT)
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=79></a>
+###### Article R90
+
+Les immeubles du domaine privé de l'Etat peuvent être affectés au ministère chargé de la construction, aux fins
+d'aménagement, après avis du comité de gestion créé par l'article R. 331-2 du code de l'urbanisme.
+
+Les arrêtés d'affectation précisent la créance du service des domaines égale à la valeur vénale de ces immeubles.
+
+Lorsque la réalisation de l'opération nécessite la mise à sa disposition d'immeubles domaniaux affectés à un service public
+et effectivement utilisés, le ministre chargé de la construction peut, après avis favorable du ministre des finances,
+pourvoir sur les ressources du fonds national d'aménagement foncier et d'urbanisme à la réinstallation dudit service à un
+autre emplacement, dans la mesure de ses besoins.
+
+Le ministre chargé de la construction peut, à cette fin, procéder, pour le compte du service considéré, à des acquisitions
+d'immeubles nus ou bâtis, à des travaux d'aménagement ou à des constructions. Les dépenses qu'il expose, à cet effet, sur les
+ressources du fonds, ne peuvent, en aucun cas, excéder la valeur des immeubles domaniaux qui sont affectés à son département.
+
+En ce cas et par dérogation à l'article R. 88, l'affectation ne donne lieu au versement d'une indemnité sur les ressources du
+fonds que dans la mesure où la valeur des immeubles ainsi affectés dépasse le montant des dépenses exposées.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°57-526 1957-04-19 art. 9
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*331-9 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R88
+  - Code de l'urbanisme
+
+
+###### Article R91
+
+Les immeubles acquis ou aménagés par le fonds national d'aménagement foncier et d'urbanisme peuvent être affectés à un
+service public de l'Etat ; cette affectation a lieu moyennant une indemnité correspondant au prix de revient des immeubles
+ainsi affectés.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°57-526 1957-04-19 art. 12 al. 2
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*331-12 (Ab)
+  - Code du domaine de l'Etat - art. R128-2 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=86></a>
 
 ###### Article R92
 
@@ -4412,6 +5835,100 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2124-66 (V)
   - Code général de la propriété des personnes publ... - art. R2222-18 (V)
   - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+
+###### Article R95
+
+Il ne peut être accordé de logement par nécessité absolue ou par utilité de service que par arrêté signé par le ministre sous
+l'autorité duquel se trouve placé l'agent bénéficiaire et par le ministre des finances.
+
+Toutefois, les ministres désignés à l'alinéa précédent peuvent, par arrêté, déléguer leurs pouvoirs aux préfets ou, le cas
+échéant, aux autorités habilitées à recevoir une délégation directe en application des décrets n° 64-250 du 14 mars 1964 et
+n° 68-57 du 19 janvier 1968.
+
+**Nota:**
+
+Le décret n° 64-250 du 14 mars 1964 a été abrogé par le décret n° 82-389 du 10 mai 1989.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-742 1949-06-07 art. 5 al. 1
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Décret n°64-250 du 14 mars 1964
+  - Décret n°68-57 du 19 janvier 1968
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A91 (V)
+  - Code du domaine de l'Etat - art. R97 (Ab)
+  - Code du domaine de l'Etat - art. R99 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2124-67 (V)
+  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R97
+
+Les arrêtés prévus à l'article R. 95 (1er alinéa) peuvent être nominatifs ou concerner impersonnellement les titulaires de
+certains emplois. Ils doivent indiquer la situation et la consistance des locaux mis à la disposition des intéressés ainsi
+que les conditions financières de la concession.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-742 1949-06-07 art. 5 al. 3
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R95
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2124-68 (V)
+  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
 ###### Article R98
@@ -4548,6 +6065,47 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 
+###### Article R101
+
+Le directeur des services fiscaux est compétent pour déterminer la redevance, conformément aux règles fixées par les articles
+précédents, et pour la réviser ou la modifier conformément à la législation sur les loyers des locaux à usage d'habitation.
+Il fait procéder au recouvrement de cette redevance qui est encaissée comme produit domanial.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-742 1949-06-07 art. 9
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R102 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2124-71 (V)
+  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
 ###### Article R102
 
 Les occupants qui ne peuvent justifier ni d'un arrêté de concession pris en leur faveur ni d'un acte de location sont
@@ -4666,7 +6224,254 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 
-#### Chapitre II : Domaine mobilier.<a id=80></a>
+###### Article R104-1
+
+Les redevances d'occupation des logements domaniaux pris en charge par la société de gestion immobilière pour les armées sont
+déterminées par ladite société dans les conditions prévues par le décret n° 61-697 du 30 juin 1961, modifié par le décret n°
+65-810 du 17 septembre 1965.
+
+Dans le cas où les occupants se maintiendraient dans les locaux après l'expiration de leur concession, et à moins que
+l'autorité militaire compétente n'ait donné son accord exprès au maintien temporaire des occupants dans les lieux, la
+redevance prévue à l'alinéa 1er serait majorée conformément à l'article 7 du décret précité du 30 juin 1961.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Décret n°61-697 du 30 juin 1961
+  - Décret n°65-810 du 17 septembre 1965
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+##### Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation.<a id=87></a>
+
+###### Article R105
+
+Sont réalisées par le service des domaines les opérations d'achat, de gestion et de revente, réalisées par l'Etat,
+d'immeubles affectés à la garantie de prêts consentis par le Crédit foncier de France ou le Comptoir des entrepreneurs en
+application des dispositions de l'article 44 de la loi n° 46-2389 du 28 octobre 1946 ou de l'article L. 312-1 266 du code de
+la construction et de l'habitation, lorsque ces immeubles ont fait l'objet d'une vente entraînant purge (adjudication sur
+saisie immobilière poursuivie à la diligence des établissements prêteurs ou d'un tiers, adjudication sur surenchère, sur
+faillite, sur notification à fin de purge) et que l'Etat en a été déclaré adjudicataire.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-2389 du 28 octobre 1946
+  - Code de la construction et de l'habitation. - art. L312-1
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A1 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+##### Section 9 : Administration du domaine forestier.<a id=88></a>
+
+###### Article R105-1
+
+L'office national des forêts a tous pouvoirs techniques et financiers d'administration sur les forêts et terrains à boiser ou
+à restaurer du domaine privé de l'Etat dont la gestion et l'équipement lui sont confiés en application de l'article 1er
+(paragraphe I, alinéa 1er) de la loi n° 64-1278 du 23 décembre 1964.
+
+Le service des domaines établit et passe en la forme administrative, pour le compte de l'office, les actes, contrats et
+conventions qui confèrent aux bénéficiaires des droits privatifs sur ces forêts et terrains.
+
+Dans les bois, forêts et terrains à boiser du domaine privé de l'Etat non mentionnés au premier alinéa du présent article,
+les baux forestiers domaniaux sont proposés et leurs conditions techniques fixées respectivement par les directeurs régionaux
+ou le directeur général de l'office selon des modalités fixées par arrêté du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R67 (Ab)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Loi n°64-1278 du 23 décembre 1964 - art. 1, v. init.
+
+
+#### Chapitre II : Domaine mobilier.<a id=89></a>
+
+###### Article R106
+
+Sont réalisées par le service des domaines et retracées au compte spécial du Trésor "Opérations commerciales des domaines",
+subdivision "Gestion du parc automobile", les opérations d'achat et de vente des véhicules et engins automobiles affectés aux
+services civils de l'Etat, même dotés de l'autonomie financière, et aux établissements publics nationaux à caractère
+administratif.
+
+Ces dispositions peuvent être étendues, par arrêté du ministre des finances aux opérations concernant les fournitures
+nécessaires au cautionnement de ces mêmes véhicules et engins.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L70
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°81-74 1981-01-26 art. 1 JORF 31 janvier 1981
+
+_Cité par_:
+
+  - Code des marchés publics - art. 34 (M)
+
+
+###### Article R107
+
+Sont réalisées par le service des domaines sur la demande des services et établissements intéressés les opérations d'achat de
+machines et appareils de bureau nécessaires aux services civils de l'Etat, relevant ou non du budget général, et aux
+établissements publics de l'Etat à caractère administratif.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des marchés publics - art. 34 (M)
+  - Code du domaine de l'Etat - art. R108 (Ab)
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L71
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°81-74 1981-01-26 art. 1 JORF 31 janvier 1981
+
+
+###### Article R108
+
+Les ministres ont la faculté de recourir à la procédure prévue à l'article R. 107 en ce qui concerne tous articles, matières,
+matériels et fournitures nécessaires au fonctionnement des services de l'Etat relevant du budget général.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1369 1958-12-23 art. 1, art. 2, art. 3
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°81-74 1981-01-26 art. 1 JORF 31 janvier 1981
+
+_Cité par_:
+
+  - Code des marchés publics - art. 34 (M)
+  - Code du domaine de l'Etat - art. R109 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des marchés publics - art. 34 (M)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R107 (Ab)
+
+
+###### Article R109
+
+Les services de l'Etat dotés de l'autonomie financière et les établissements publics nationaux, quel que soit leur caractère,
+peuvent, sur leur demande, bénéficier des dispositions de l'article R. 108.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1369 1958-12-23 art. 5
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°81-74 1981-01-26 art. 1 JORF 31 janvier 1981
+
+_Cité par_:
+
+  - Code des marchés publics - art. 34 (M)
+
+_Nouveaux textes_:
+
+  - Code des marchés publics - art. 34 (M)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R108 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
 
 ###### Article R110
 
@@ -4791,6 +6596,44 @@ _Anciens textes_:
   - Ordonnance 1830-02-03 art. 2
 
 
+###### Article R114
+
+Tout fonctionnaire responsable du mobilier doit donner connaissance de l'achèvement de l'inventaire au directeur des services
+fiscaux du département qui fait procéder immédiatement au récolement par un préposé de son service désigné à cet effet.
+
+Après le récolement et sur la déclaration de prise en charge contenue dans l'arrêté de clôture, ce préposé fait mention du
+récolement auquel il a assisté, signe cette mention sur les deux expéditions de l'inventaire, et dépose l'une d'elles à la
+direction des services fiscaux ; l'autre reste entre les mains du fonctionnaire chargé du mobilier.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R116 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Anciens textes_:
+
+  - Ordonnance 1830-02-03 art. 3
+
+
 ###### Article R115
 
 Dans l'intervalle d'un récolement au récolement suivant, tout fonctionnaire responsable de mobilier est tenu de faire
@@ -4818,6 +6661,42 @@ _Abrogé par_:
 _Anciens textes_:
 
   - Ordonnance 1830-02-03 art. 5
+
+
+###### Article R116
+
+Aux époques de récolement, les expéditions de l'inventaire sont rapprochées : celle dont la direction des services fiscaux
+était restée dépositaire au précédent récolement est d'abord rendue conforme à l'expédition laissée à la disposition du
+fonctionnaire responsable du mobilier et, après tout nouveau récolement pour lequel ont été remplies les formalités indiquées
+à l'article R. 114, l'une des expéditions de l'inventaire est déposée dans les archives de la direction des services fiscaux.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R114
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Anciens textes_:
+
+  - Ordonnance 1830-02-03 art. 6
 
 
 ###### Article R117
@@ -4853,6 +6732,50 @@ _Cite_:
 _Anciens textes_:
 
   - Ordonnance 1830-02-03 art. 7
+
+
+###### Article R118
+
+Pour chaque hôtel affecté à un officier général, dont les appartements de réception, les dépendances obligées et le cabinet
+du général sont pourvus d'un ameublement sur les fonds de l'Etat, il doit être dressé un inventaire de tous les meubles
+nouvellement acquis ou existant déjà qui sont affectés aux appartements de réception, avec indication du prix d'achat des
+premiers et de la valeur conventionnelle des seconds.
+
+Cet inventaire comprend, lorsqu'il y a lieu, un second chapitre pour ceux des meubles anciens qui, n'ayant pu être placés
+dans les pièces de réception, peuvent être utilisés dans les appartements privés.
+
+Une commission spéciale, composée d'un membre de l'intendance, d'un officier d'état-major et d'un officier du génie, procède
+à l'établissement de l'inventaire, qui est récolé par un agent du service des domaines, conformément aux prescriptions des
+articles R. 112 à R. 117. Deux copies en sont remises, l'une au général, l'autre au directeur des services fiscaux ; une
+troisième est transmise au ministre chargé des armées.
+
+Pour les hôtels des officiers généraux commandant les écoles, cette commission est remplacée par le conseil d'administration
+de l'école.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Arrêté du 29 juillet 2014 - art. 11 (Ab)
+  - Décret n°2015-258 du 4 mars 2015 - art. 9 (V)
+  - Arrêté du 28 février 2019 - art. 14 (V)
+  - Code du domaine de l'Etat - art. R119 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat R112 à R117
+
+_Anciens textes_:
+
+  - Décret n°1852-06-02 art. 3
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
 
 
 ###### Article R119
@@ -4896,9 +6819,9 @@ _Anciens textes_:
   - Décret n°1852-06-02 art. 4
 
 
-### Titre III : Dispositions communes<a id=81></a>
+### Titre III : Dispositions communes<a id=90></a>
 
-#### Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat.<a id=82></a>
+#### Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat.<a id=91></a>
 
 ###### Article R120
 
@@ -4942,7 +6865,87 @@ _Cite_:
   - Code de l'environnement - art. L341-4 (V)
 
 
-#### Chapitre V : Regroupement des services publics.<a id=83></a>
+#### Chapitre V : Regroupement des services publics.<a id=92></a>
+
+###### Article R121
+
+Les projets de regroupement des administrations publiques sont établis dans les chefs-lieux de départements ainsi que dans
+les villes figurant sur une liste dressée par le préfet de région après consultation de la commission régionale des
+opérations immobilières, de l'architecture et des espaces protégés.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R12 (Ab)
+  - Décret n°69-825 du 28 août 1969 - art. 8 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R122
+
+Les plans de regroupement des locaux occupés par les services publics, civils et militaires, ou d'intérêt public, sont
+établis sous l'autorité du préfet, par le ministère chargé de la construction en liaison avec le représentant départemental
+du service des domaines et, s'il y a lieu, avec le ou les architectes désignés par le service des bâtiments civils.
+
+Ils sont soumis pour avis à la commission régionale des opérations immobilières, de l'architecture et des espaces protégés
+après consultation facultative préalable de la commission départementale des opérations immobilières et de l'architecture.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 15
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R12 (Ab)
+
 
 ###### Article R123
 
@@ -4966,7 +6969,7 @@ _Abrogé par_:
   - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
 
 
-#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=84></a>
+#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=93></a>
 
 ###### Article R126
 
@@ -5009,13 +7012,51 @@ _Modifié par_:
   - Décret n°70-1160 1970-12-11 art. 2 JORF 11 décembre 1970
 
 
-## Livre III : Aliénation des biens domaniaux<a id=85></a>
+###### Article R128
 
-### Titre II : Aliénation des biens du domaine privé<a id=86></a>
+Les dossiers des opérations foncières dont sont saisies les commissions mentionnées à l'article R. 10, poursuivies en vue de
+la réalisation de travaux de construction, doivent comporter le programme, le cas échéant le plan de masse, l'avant-projet
+des travaux ainsi que l'estimation détaillée du montant de la dépense.
 
-#### Chapitre Ier : Domaine immobilier<a id=87></a>
+Dans le cas où l'examen ne porte que sur l'opération foncière, le dossier doit comporter l'indication de l'utilisation
+projetée et du programme envisagé ainsi qu'une appréciation sommaire de la dépense.
 
-##### Section 1 : Dispositions générales.<a id=88></a>
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°49-1209 1949-08-28 art. 19 al. 1 et 2
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+## Livre III : Aliénation des biens domaniaux<a id=94></a>
+
+### Titre II : Aliénation des biens du domaine privé<a id=95></a>
+
+#### Chapitre Ier : Domaine immobilier<a id=96></a>
+
+##### Section 1 : Dispositions générales.<a id=97></a>
 
 ###### Article R130
 
@@ -5074,6 +7115,45 @@ _Cité par_:
 _Abrogé par_:
 
   - Décret n°2009-563 du 19 mai 2009 - art. 1
+
+
+###### Article R132
+
+La déchéance prévue à l'article L. 55 à l'encontre des acquéreurs défaillants est prononcée par le préfet sur proposition du
+directeur des services fiscaux.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L55
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-8 (V)
+
+_Anciens textes_:
+
+  - Ordonnance 1817-06-11 art. 1, art. 2
 
 
 ###### Article R133
@@ -5178,9 +7258,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-32 (V)
 
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=89></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=98></a>
 
-##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=90></a>
+##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=99></a>
 
 ###### Article R136
 
@@ -5227,7 +7307,7 @@ _Cite_:
   - Loi n°1933-03-28 annexe
 
 
-##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=91></a>
+##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=100></a>
 
 ###### Article R138
 
@@ -5319,7 +7399,7 @@ _Abrogé par_:
   - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969 en vigueur le 1er avril 1970
 
 
-##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=92></a>
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=101></a>
 
 ###### Article R143
 
@@ -5354,7 +7434,44 @@ _Modifié par_:
   - Décret n°70-96 1970-01-29 art. 1, art. 2 JORF 3 février 1970
 
 
-##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=93></a>
+##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat.<a id=102></a>
+
+###### Article R144
+
+Les cessions autorisées par l'article L. 60 sont consenties après avis du directeur départemental de l'équipement et, par
+priorité, aux occupants et aux collectivités locales.
+
+Des délais de paiement n'excédant pas dix ans peuvent être accordés aux acquéreurs occupant les lieux ; les cessions
+réalisées au profit des communes et des offices publics d'habitation à loyer modéré peuvent être consenties
+exceptionnellement à titre gratuit sous réserve que les constructions acquises soient utilisées par priorité au logement des
+réfugiés et sinistrés.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L102 al. 1 et 2
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=103></a>
 
 ###### Article R147
 
@@ -5380,7 +7497,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R130 (Ab)
 
 
-##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=94></a>
+##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=104></a>
 
 ###### Article R147-1
 
@@ -5422,7 +7539,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-24 (V)
 
 
-##### Paragraphe 10 : Servitudes.<a id=95></a>
+##### Paragraphe 10 : Servitudes.<a id=105></a>
 
 ###### Article R148
 
@@ -5451,9 +7568,122 @@ _Cite_:
   - Code du domaine de l'Etat - art. R130 (Ab)
 
 
-## Livre IV : Dispositions diverses<a id=96></a>
+##### Paragraphe 11 : Rétrocession d'immeubles expropriés.<a id=106></a>
 
-### Titre Ier : Dispositions générales.<a id=97></a>
+###### Article R148-1
+
+Lorsque l'Etat décide d'aliéner ou de donner en location un immeuble exproprié par lui et que se trouvent réunies les
+conditions d'exercice du droit de rétrocession ou du droit de priorité institués par l'article L. 12-6 du code de
+l'expropriation pour cause d'utilité publique en faveur des anciens propriétaires ou de leurs ayants cause à titre universel,
+ces derniers sont informés des intentions de l'Etat admis à faire valoir leurs droits suivant la procédure décrite par les
+articles R. 12-6 à R. 12-11 du même code.
+
+Les notifications prévues par les articles R. 12-7 et R. 12-8 dudit code sont faites pour le compte de l'Etat par le service
+des domaines.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-997 du 23 octobre 1958
+  - Décret n°62-1112 du 21 septembre 1962
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+##### Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé.<a id=107></a>
+
+###### Article R148-2
+
+La cession à des collectivités locales des immeubles visés à l'article L. 66-1 (alinéa 1) est effectuée selon les modalités
+définies à l'article 11 du décret n° 62-1300 du 7 novembre 1962.
+
+La rétrocession aux anciens propriétaires ou à leurs ayants cause à titre universel des biens immobiliers visés à l'article
+L. 66-1 (alinéa 2) est réalisée dans les formes décrites à l'article 15 du décret susvisé du 7 novembre 1962.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Cite_:
+
+  - Décret n°62-1300 du 7 novembre 1962
+  - Code du domaine de l'Etat - art. L66-1
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+#### Chapitre II : Domaine mobilier.<a id=108></a>
+
+###### Article R149
+
+Le service des domaines peut, à la demande soit des départements et des établissements publics départementaux, soit des
+sociétés nationales et des entreprises nationalisées, procéder, dans les conditions prévues à l'article L. 70, à l'aliénation
+des objets mobiliers et matériels sans emploi appartenant à ces collectivités ou établissements, lorsque ceux-ci en ont
+décidé la vente et qu'il doit être fait appel à la concurrence.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L119 al. 3
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L70
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-41 (V)
+
+
+## Livre IV : Dispositions diverses<a id=109></a>
+
+### Titre Ier : Dispositions générales.<a id=110></a>
 
 ###### Article R150
 
@@ -5483,6 +7713,31 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R150-1
+
+Dans les directions des services fiscaux, les pouvoirs attribués par le présent code ou par des textes particuliers aux
+directeurs des services fiscaux peuvent être exercés, dans les conditions déterminées par le chef du service des domaines,
+soit par le chef des services fiscaux, soit par l'un des directeurs qui exercent leurs fonctions dans ces directions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°69-137 1969-02-06 art. 2 JORF 7 février 1969
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2006-1792 du 23 décembre 2006 - art. 7 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R150-2
@@ -5562,9 +7817,479 @@ _Codifié par_:
   - Décret n°62-299 1962-03-14
 
 
-### Titre II : Procédure - Instances<a id=98></a>
+### Titre II : Procédure - Instances<a id=111></a>
 
-#### Chapitre II : Instances.<a id=99></a>
+#### Chapitre Ier : Recouvrement des produits domaniaux<a id=112></a>
+
+##### Section 2 : Procédure de recouvrement.<a id=113></a>
+
+###### Article R153
+
+Pour le recouvrement des droits, redevances et produits domaniaux et en général de toutes sommes quelconques dont la
+perception incombe au service des domaines, l'avis de mise en recouvrement individuel prévu à l'article L. 80 comporte :
+
+- Les indications nécessaires à l'identification des droits, redevances, produits ou autres sommes qui font l'objet de cet
+avis.
+
+- Les éléments de la liquidation et le montant du principal et des pénalités, indemnités de retard ou intérêts de retard
+constitutifs de la créance.
+
+Toutefois les éléments de la liquidation peuvent être remplacés par la référence au document qui les renferme lorsque celui-
+ci a été établi ou signé par le redevable ou son mandataire ou lui a été notifié antérieurement.
+
+De même, ils n'ont pas à être portés lorsque le redevable n'a pas fait la déclaration nécessaire à la liquidation de la
+créance.
+
+En outre, dans le cas où la somme à recouvrer représente le prix de vente d'un immeuble domanial, l'avis de mise en
+recouvrement doit indiquer que faute de paiement du prix dans le délai de quinzaine prévu à l'article L. 55, l'acquéreur de
+l'immeuble sera déchu de plein droit.
+
+Lorsque la créance non acquittée concerne plusieurs redevables tenus à son paiement, conjointement ou solidairement, sa
+notification peut être effectuée au moyen :
+
+- Soit d'avis de mise en recouvrement individuels établis au nom de chacun de ces redevables ;
+
+- Soit d'un avis de mise en recouvrement collectif.
+
+L'avis de mise en recouvrement collectif comporte, outre les indications et éléments prévus aux alinéas précédents pour
+l'avis de mise en recouvrement individuel, la référence au texte légal ou réglementaire ou à l'engagement établissant
+l'obligation de chacune des personnes qui y sont visées, exception faite des redevables obligés à titre principal.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN2 2
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L55
+  - Code du domaine de l'Etat - art. L80
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R154
+
+Lorsque le défaut de paiement ou l'insuffisance, l'inexactitude ou l'omission qui motive l'émission de l'avis de mise en
+recouvrement individuel ou collectif donne lieu à l'application d'indemnités de retard ou d'intérêts de retard, la
+désignation sur cet avis de mise en recouvrement de la nature de ces indemnités ou intérêts vaut notification en ce qui les
+concerne, pour l'application de l'article L. 82-1 (1er alinéa).
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN2 3
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L82-1
+
+
+###### Article R155
+
+L'avis de mise en recouvrement individuel est rédigé en double exemplaire.
+
+Le premier, dit original, est déposé à la recette des impôts chargée du recouvrement des produits domaniaux.
+
+Le second, dit ampliation, est destiné à être notifié au redevable ou à son fondé de pouvoir suivant les modalités fixées à
+l'article R. 157.
+
+L'avis de mise en recouvrement collectif est rédigé en un seul exemplaire, dit original, qui est déposé à la recette des
+impôts chargée du recouvrement des produits domaniaux.
+
+Pour sa notification dans les conditions fixées à l'article R. 157 ci-après, il en est dressé un extrait au nom de chacun des
+redevables qui y sont inscrits.
+
+Chaque extrait reproduit intégralement le texte de l'original, à l'exception des indications qui concernent personnellement
+les redevables autres que celui auquel il est destiné.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN2 4
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R157 (M)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R156
+
+Le directeur des services fiscaux compétent pour viser et rendre exécutoire l'avis de mise en recouvrement individuel ou
+collectif est celui sous l'autorité duquel se trouve placé le comptable chargé du recouvrement.
+
+Pour l'accomplissement de cette formalité, il peut déléguer sa signature à un ou plusieurs agents ayant au moins le grade
+d'inspecteur.
+
+Le directeur général des impôts, chef du service des domaines, fixe les conditions dans lesquelles s'exerce cette délégation.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN2 5
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R157
+
+La notification de l'avis de mise en recouvrement comporte l'envoi au redevable soit au lieu de son domicile, de sa résidence
+ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des domaines, de l'ampliation ou de l'extrait,
+suivant que l'avis de mise en recouvrement est individuel ou collectif.
+
+Cet envoi est effectué par la voie postale sous pli recommandé avec demande à l'administration des postes et
+télécommunications d'un avis de réception et, pour le cas où la lettre recommandée ne pourrait, pour quelque cause que ce
+soit, être remise au redevable destinataire ou à son fondé de pouvoir, de renvoi au service expéditeur du pli non distribué
+dûment annoté :
+
+- D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
+adresse connue de l'administration des postes et télécommunications ;
+
+- D'autre part, du motif de sa non-délivrance.
+
+Dans cette éventualité, l'ampliation ou l'extrait retourné reste déposé à la recette des impôts chargée du recouvrement des
+produits domaniaux où il peut en être délivré copie à tout moment et sans frais soit au redevable lui-même, soit à son fondé
+de pouvoir.
+
+L'administration peut également faire procéder à la notification d'un avis de mise en recouvrement par le ministère d'un
+huissier. En ce cas la notification est soumise aux règles de signification des exploits.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN2 6
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R155 (Ab)
+  - Code du domaine de l'Etat - art. R157-2 (Ab)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R157-1
+
+L'avis de mise en recouvrement individuel ou collectif qui a fait l'objet de la procédure décrite à l'article précédent est
+réputé avoir été notifié :
+
+Dans le cas où l'ampliation ou l'extrait a été effectivement remis par les services postaux au redevable ou à son fondé de
+pouvoir, le jour même de cette remise.
+
+Lorsque la lettre recommandée n'a pu être distribuée du fait du redevable, le jour où en a été faite la première présentation
+visée au troisième alinéa de l'article précédent.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R157-2
+
+La mise en demeure prévue à l'article L. 81 comporte les éléments nécessaires à l'identification du ou des avis de mise en
+recouvrement dont elle procède ainsi que l'indication du montant total des sommes restant dues, frais en sus.
+
+Lorsque le ou les avis de mise en recouvrement auxquels elle se réfère ont été émis au nom d'un tiers, cette mise en demeure
+comporte en outre la référence au texte légal ou réglementaire ou à l'engagement établissant l'obligation de la personne qui
+y est visée.
+
+Toute personne tenue au paiement d'une dette incombant à un tiers peut, sur sa demande et sur justification de ses qualités,
+obtenir sans frais copie de l'avis de mise en recouvrement affirmant cette dette.
+
+La notification de la mise en demeure est effectuée suivant la procédure décrite à l'article R. 157 pour l'avis de mise en
+recouvrement. Elle est réputée produire ses effets dans les conditions de temps fixées pour cet avis à l'article R. 157.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L81
+  - Code du domaine de l'Etat - art. R157
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+#### Chapitre II : Instances.<a id=114></a>
+
+###### Article R158
+
+Le service des domaines est seul compétent pour suivre les instances de toute nature relatives :
+
+1° Aux biens domaniaux qui lui sont affectés ou dont il lui a été fait remise conformément aux articles L. 53 et L. 67 ;
+
+2° Aux biens dépendant de patrimoines privés dont l'administration ou la liquidation lui sont confiées, et aux conditions
+dans lesquelles il assure la gestion de ces patrimoines ;
+
+3° A l'assiette et au recouvrement des droits, redevances et produits domaniaux ainsi qu'au recouvrement de toutes sommes
+quelconques dont la perception incombe aux comptables des impôts chargés des recettes domaniales.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L131
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L53
+  - Code du domaine de l'Etat - art. L67
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R159 (Ab)
+  - Code du domaine de l'Etat - art. R160 (Ab)
+  - Code du domaine de l'Etat - art. R162 (Ab)
+  - Code du domaine de l'Etat - art. R163 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2331-1 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R158-1
+
+Le service des domaines est seul compétent pour suivre les instances intéressant les biens domaniaux autres que ceux visés à
+l'article précédent, dès lors que le litige porte sur :
+
+1° La détermination du caractère de domanialité publique ou de domanialité privée des biens de l'Etat ;
+
+2° Le droit de propriété de l'Etat ou tous autres droits réels dont peuvent faire l'objet les biens mobiliers ou immobiliers
+du domaine national, l'étendue de ces droits ou les conditions de leur exercice ;
+
+3° La validité ou l'interprétation de toutes conventions relatives à l'acquisition, la gestion, l'aliénation de biens
+domaniaux et de toutes autres conventions dont l'établissement entre dans ses attributions ;
+
+4° L'application des conditions financières des conventions précitées.
+
+Le service des domaines est de même seul compétent pour suivre les instances portant sur la validité et les conditions
+financières des actes de prise à bail passés par lui pour le compte des services civils ou militaires de l'Etat, conformément
+à l'article R. 18.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R159 (Ab)
+  - Code du domaine de l'Etat - art. R162 (Ab)
+  - Code du domaine de l'Etat - art. R163 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R18
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2331-2 (V)
+  - Code général de la propriété des personnes publ... - art. R3231-1 (V)
+  - Code général de la propriété des personnes publ... - art. R4111-11 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R159
+
+Dans toute instance intéressant l'Etat, le service des domaines doit être appelé à intervenir dès lors que se trouveraient
+mis en cause, directement ou indirectement, la notion de domanialité publique ou les droits et obligations dont il lui
+appartient, aux termes des articles R. 158 et R. 158-1, d'assurer la défense ou de demander l'exécution en justice.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L132
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R158
+  - Code du domaine de l'Etat - art. R158-1
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R160 (Ab)
+  - Code du domaine de l'Etat - art. R162 (Ab)
+  - Code du domaine de l'Etat - art. R163 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2331-3 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R160
+
+Sous réserve de l'application des articles R. 158 (3°) et R. 159, le ministre chargé des armées suit seul les instances
+intéressant le domaine militaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L133
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R158 (V)
+  - Code du domaine de l'Etat - art. R159 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
 
 ###### Article R161
 
@@ -5596,9 +8321,52 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2331-9 (V)
 
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=100></a>
+###### Article R162
 
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=101></a>
+L'instruction de toute instance intéressant les biens domaniaux ou de toute autre instance à laquelle le service des domaines
+est partie en application des articles R. 158, R. 158-1 et R. 159 se fait par simples mémoires. Devant les juridictions
+judiciaires, le ministère d'avoué n'est pas obligatoire et les parties ont le droit de présenter des explications orales par
+elles-mêmes ou par le ministère d'un avocat inscrit au barreau. La même faculté appartient à l'administration.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L136
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R158
+  - Code du domaine de l'Etat - art. R158-1
+  - Code du domaine de l'Etat - art. R159
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2331-10 (V)
+  - Code général de la propriété des personnes publ... - art. R2331-11 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=115></a>
+
+#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=116></a>
 
 ###### Article R165
 
@@ -5790,7 +8558,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-6 (V)
 
 
-### Titre V : Dispositions particulières et finales.<a id=102></a>
+### Titre V : Dispositions particulières et finales.<a id=117></a>
 
 ###### Article R171
 
@@ -5988,17 +8756,475 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3221-3 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=103></a>
+###### Article R175
 
-## Livre Ier : Composition du domaine<a id=104></a>
+Le chef du service spécialisé peut, pour l'exercice des attributions qui lui sont conférées par les articles R. 173 et R.
+174, être remplacé par un fonctionnaire relevant de son autorité, ayant au moins le grade d'inspecteur et muni d'un ordre de
+service.
 
-### Titre II : Origine des biens<a id=105></a>
+**Nota:**
 
-#### Chapitre II : Domaine privé<a id=106></a>
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=107></a>
+**Liens relatifs à cet article**
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=108></a>
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R173
+  - Code du domaine de l'Etat - art. R174
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R176
+
+Dans les départements désignés comme il est dit à l'article R. 185, la direction des services fiscaux est seule habilitée à
+poursuivre les acquisitions d'immeubles, de droits immobiliers ou de fonds de commerce, à l'amiable ou par voie
+d'expropriation, pour le compte de tous les services publics civils ou militaires de l'Etat.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R178 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R185
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-9 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R177
+
+Dans les mêmes départements, la direction des services fiscaux peut, sur leur demande, apporter son concours aux
+établissements publics nationaux et aux sociétés d'économie mixte dans lesquelles l'Etat, des départements, des communes ou
+des établissements publics détiennent, ensemble ou séparément, la majorité du capital, pour poursuivre, pour leur compte, à
+l'amiable ou par voie d'expropriation, les acquisitions d'immeubles, de droits immobiliers ou de fonds de commerce entrant
+dans des catégories d'opérations définies par arrêtés du Premier ministre, du ministre de l'économie et des finances et des
+ministres intéressés.
+
+Les demandes formulées à cet effet sont transmises par l'intermédiaire des préfets.
+
+La direction des services fiscaux ne peut apporter son concours dans les cas prévus ci-dessus que si elle est chargée, comme
+mandataire des établissements ou sociétés intéressés, de négocier avec les propriétaires et autres ayants droit et de
+représenter ses mandants dans les contrats conclus. Il peut être mis fin à ce mandat à tout moment par décision de
+l'établissement ou de la société intéressés transmise dans les mêmes formes que la demande.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R178 (Ab)
+  - Code du domaine de l'Etat - art. R179 (Ab)
+  - Code du domaine de l'Etat - art. R184 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-10 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R178
+
+Dans les procédures d'expropriation dont elle est chargée en application des articles R. 176 et R. 177, la direction des
+services fiscaux accomplit, au nom de l'expropriant, tous les actes incombant à celui-ci, sous réserve des dispositions des
+articles R. 179 et R. 180.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R176
+  - Code du domaine de l'Etat - art. R177
+  - Code du domaine de l'Etat - art. R179
+  - Code du domaine de l'Etat - art. R180
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-11 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R179
+
+Pour la fixation des indemnités d'expropriation, des fonctionnaires de la direction des services fiscaux désignés par arrêté
+du directeur général des impôts agissent devant les juridictions de l'expropriation au nom des services expropriants de
+l'Etat.
+
+Ils agissent également au nom des établissements ou sociétés mentionnés à l'article R. 177, si ceux-ci l'ont demandé.
+
+Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés à l'article 7 modifié du décret n°
+59-1335 du 20 novembre 1959.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°59-1335 1959-11-20 art. 7
+  - Code du domaine de l'Etat - art. R177 (V)
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Décret n°2000-1210 du 6 décembre 2000 - art. 1 (V)
+  - Code du domaine de l'Etat - art. R178 (Ab)
+  - Code du domaine de l'Etat - art. R184 (Ab)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R180
+
+Le service ou organisme acquéreur accomplit lui-même les actes et formalités incombant à l'expropriant et relatifs à la
+déclaration d'utilité publique, à la consultation des commissions mentionnées à l'article R. 10 ainsi qu'à l'enquête
+parcellaire lorsque celle-ci est effectuée en même temps que l'enquête préalable à la déclaration d'utilité publique.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R178 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-13 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R181
+
+Pour les opérations à la réalisation desquelles elle apporte son concours, la direction des services fiscaux est chargée de
+l'accomplissement des mesures de publicité prévues par la loi en matière d'acquisition d'immeubles, de droits immobiliers ou
+de fonds de commerce.
+
+Le coût en est supporté par les services ou organismes intéressés.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-14 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R182
+
+La direction des services fiscaux ne peut réaliser aucune opération sans que lui soit produit un certificat du chef du
+service départemental chargé de la construction, établi sur la demande du service ou de l'organisme intéressé, et attestant
+soit que la localisation projetée est conforme aux prévisions du plan d'urbanisme ou du plan d'occupation des sols approuvé
+ou en cours d'étude, soit, en l'absence d'un tel plan, que cette localisation n'est pas de nature à porter atteinte à
+l'intérêt du lieu, des sites ou des paysages.
+
+Ce certificat n'est pas exigé lorsque l'opération projetée a fait l'objet d'un avis favorable de l'une des commissions visées
+à l'article R. 10.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R10
+
+
+###### Article R183
+
+La direction des services fiscaux peut, sur leur demande, assister les services et organismes intéressés dans la recherche
+des immeubles nécessaires à la satisfaction de leurs besoins, lorsqu'il s'agit d'opérations pour lesquelles elle prête son
+concours. Elle en informe le préfet.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-15 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R184
+
+L'intervention dans les conditions prévues aux articles R. 177 et suivants de la direction des services fiscaux et des
+fonctionnaires prévus à l'article R. 179 au profit des établissements et sociétés mentionnés à l'article R. 177 donne lieu,
+sauf en ce qui concerne les évaluations des biens, à une rémunération dégressive perçue au profit du budget général de l'Etat
+et calculée selon les règles suivantes :
+
+a) Intervention limitée aux négociations amiables et à la représentation de l'acquéreur dans les contrats consécutifs à ces
+pourparlers :
+
+0,65 % jusqu'à 100000 F ;
+
+0,50 % pour la tranche comprise entre 100000,01 F et 2 millions de francs ;
+
+0,25 % pour la tranche supérieure à 2 millions de francs.
+
+Ces taux sont appliqués au montant des prix ou indemnités versés, en application des accords amiables conclus, à chaque
+propriétaire ou ayant droit intéressé.
+
+b) Intervention portant également sur l'action devant les juridictions d'expropriations :
+
+1,25 % jusqu'à 100000 F ;
+
+1 % pour la tranche comprise entre 100000,01 F et 2 millions de francs ;
+
+0,50 % pour la tranche supérieure à 2 millions de francs.
+
+Ces taux sont appliqués au montant des indemnités définitives allouées à chaque ayant droit par la juridiction ou au montant
+des sommes versées à chaque intéressé en application d'accords amiables conclus après la saisine de la juridiction.
+
+Ces barèmes peuvent être modifiés par arrêté du ministre de l'économie et des finances et du ministre de l'intérieur.
+
+Indépendamment de la rémunération susvisée, la direction des services fiscaux est remboursée des frais résultant de
+l'application de dispositions légales ou réglementaires et qu'elle a réellement exposés. Les autres dépenses, frais ou
+honoraires exposés avec l'accord de l'établissement ou organisme qui fait appel à son concours lui sont remboursés dans les
+mêmes conditions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R177 (V)
+  - Code du domaine de l'Etat - art. R179 (M)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R185
+
+Les dispositions des articles R. 176 à R. 184 s'appliquent dans les départements désignés par arrêtés conjoints du Premier
+ministre, du ministre de l'intérieur et du ministre de l'économie et des finances.
+
+Ces arrêtés précisent pour chaque département la date à partir de laquelle commence cette application. Seules sont prises en
+charge par la direction des services fiscaux les expropriations qui, à cette date, n'ont pas encore fait l'objet d'une
+déclaration d'utilité publique.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R176 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-17 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R186
+
+Des arrêtés conjoints du Premier ministre, du ministre de l'économie et des finances et du ministre intéressé peuvent rendre
+les dispositions des articles R. 176 à R. 184 applicables, dans d'autres départements, aux acquisitions nécessaires à une ou
+plusieurs opérations déterminées.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1212-18 (V)
+
+_Créé par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+# Partie réglementaire - Décrets simples<a id=118></a>
+
+## Livre Ier : Composition du domaine<a id=119></a>
+
+### Titre II : Origine des biens<a id=120></a>
+
+#### Chapitre II : Domaine privé<a id=121></a>
+
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=122></a>
+
+##### Paragraphe 2 : Dispositions spéciales.<a id=123></a>
 
 ###### Article D1
 
@@ -6113,13 +9339,121 @@ _Abrogé par_:
   - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
 
 
-## Livre II : Administration des biens domaniaux<a id=109></a>
+###### Article D5
 
-### Titre II : Domaine privé<a id=110></a>
+En cas d'urgence invoquée par l'administration militaire, le service des domaines doit accorder une priorité aux actes
+d'acquisition et de location d'immeubles ou de droits immobiliers intéressant la défense nationale qui doivent être passés
+pour le compte des services publics militaires en application des dispositions de l'article R. 18.
 
-#### Chapitre Ier : Domaine immobilier<a id=111></a>
+**Nota:**
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=112></a>
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°50-443 1950-04-19 art. 7
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R18
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1161 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+## Livre II : Administration des biens domaniaux<a id=124></a>
+
+### Titre II : Domaine privé<a id=125></a>
+
+#### Chapitre Ier : Domaine immobilier<a id=126></a>
+
+##### Section 1 : Locations<a id=127></a>
+
+##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.<a id=128></a>
+
+###### Article D11
+
+L'affermage des lots attribués aux sociétés de chasse fait l'objet d'un acte administratif passé par le préfet et, le cas
+échéant, par le chef de service intéressé lorsque la compétence de celui-ci excède l'étendue du département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°68-119 1968-02-08 art. 12 JORF 9 février 1968
+
+_Créé par_:
+
+  - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
+
+
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=129></a>
+
+###### Article D13
+
+Les dispositions des articles R. 92 à R. 102 sont étendues aux personnels civils ou militaires de l'Etat et aux personnels
+civils des établissements publics nationaux qui occupent un logement dans les immeubles appartenant auxdits établissements ou
+détenus par eux à un titre quelconque.
+
+Un arrêté fixe les conditions d'application du présent article.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°51-808 1951-06-26
+
+_Modifié par_:
+
+  - Décret n°70-1161 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Arrêté du 22 octobre 1980 - art. ANNEXE ART. 17 (V)
+  - Code du domaine de l'Etat - art. A93-1 (V)
+  - Code du domaine de l'Etat - art. A93-2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2124-77 (Ab)
+  - Code général de la propriété des personnes publ... - art. R2222-19 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
 
 ###### Article D14
 
@@ -6204,9 +9538,9 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre III : Dispositions communes.<a id=113></a>
+### Titre III : Dispositions communes.<a id=130></a>
 
-#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=114></a>
+#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=131></a>
 
 ###### Article D16
 
@@ -6279,15 +9613,15 @@ _Cité par_:
   - Décret n°87-359 du 26 mai 1987 - art. 8 (V)
 
 
-## Livre III : Aliénation des biens domaniaux<a id=115></a>
+## Livre III : Aliénation des biens domaniaux<a id=132></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=116></a>
+### Titre II : Aliénation des biens du domaine privé<a id=133></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=117></a>
+#### Chapitre Ier : Domaine immobilier<a id=134></a>
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=118></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=135></a>
 
-##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=119></a>
+##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=136></a>
 
 ###### Article D18
 
@@ -6315,11 +9649,73 @@ _Cité par_:
   - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
 
 
-## Livre IV : Dispositions diverses<a id=120></a>
+## Livre IV : Dispositions diverses<a id=137></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=121></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=138></a>
 
-#### Chapitre III : Concessions domaniales en Guyane.<a id=122></a>
+#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=139></a>
+
+###### Article D18-1
+
+Dans les départements de la Guadeloupe de la Martinique et de la Réunion, la commission prévue à l'article R. 166 est
+dénommée "Commission des cinquante pas géométriques".
+
+Elle comprend sous la présidence du préfet ou de son représentant :
+
+Trois délégués du conseil général ;
+
+Deux délégués de l'association des maires ;
+
+Le président de la chambre d'agriculture ;
+
+Le président de la chambre d'industrie et de commerce ;
+
+Le président de la fédération départementale des exploitants agricoles ;
+
+Un salarié agricole désigné par le préfet sur proposition des organisations ouvrières ;
+
+Le directeur des services fiscaux ;
+
+L'ingénieur en chef, directeur départemental de l'agriculture ;
+
+Le représentant dans le département de l'Office national des forêts ;
+
+Le fonctionnaire chargé de l'inspection des lois sociales en agriculture ;
+
+Le délégué aux affaires économiques.
+
+Les collectivités, organisations et associations proposent ou désignent, en même temps que des délégués titulaires, des
+délégués suppléants.
+
+Les présidents des chambres d'agriculture et des chambres d'industrie et de commerce sont suppléés par un vice-président.
+
+En cas d'empêchement, les fonctionnaires peuvent se faire représenter par le fonctionnaire qui les supplée normalement dans
+leur service.
+
+Peuvent être appelés à participer, à titre consultatif, aux travaux de la commission : le maire de la commune intéressée, le
+conseiller général du canton, les chefs des services publics éventuellement intéressés et, de manière générale, toute
+personne dont l'avis paraît utile. Le secrétariat de la commission est assuré par les services de la préfecture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R166 (M)
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Créé par_:
+
+  - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°89-734 1989-10-13 art. 3 JORF 14 octobre 1989
+
+
+#### Chapitre III : Concessions domaniales en Guyane.<a id=140></a>
 
 ###### Article D19
 
@@ -6567,6 +9963,105 @@ _Cite_:
   - Code du domaine de l'Etat - art. D29 (Ab)
 
 
+###### Article D25
+
+Sous les réserves formulées à l'article D. 21 et en dehors des cultures préexistantes, des concessions d'élevage sont
+accordées moyennant le paiement des redevances fixées, à l'article D. 27 ci-après dans la région des savanes situées à
+l'ouest de la rivière Cayenne ou dans toutes régions désignées par le préfet après avis des représentants locaux des services
+relevant du ministère relevant du ministère de l'agriculture et du directeur des services fiscaux.
+
+La superficie de ces concessions est au maximum de 1000 hectares pour les particuliers et de 10000 hectares pour les
+sociétés. Leur forme est, autant que possible, rectangulaire, et leurs limites naturelles (marais, cours d'eau, forêts,
+etc.).
+
+Ces concessions sont accordées à titre provisoire pour une durée de cinq années.
+
+A l'expiration du délai de cinq ans, l'exécution des clauses et conditions du contrat de concession est vérifiée par les
+représentants des services locaux du ministère de l'agriculture. Si ces conditions ont été remplies, un titre définitif est
+accordé aux concessionnaires.
+
+Dans le cas contraire, la concession provisoire peut être renouvelée pour une nouvelle période de cinq années sur
+propositions des représentants locaux des services relevant du ministère de l'agriculture.
+
+A l'expiration de cette nouvelle période, la déchéance peut être prononcée dans les conditions prévues à l'article D. 29. Il
+en est de même à l'expiration de la première période de cinq ans, si la concession provisoire n'est pas renouvelée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°61-18 1961-01-10 art. 9
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1161 1970-11-12 art. 2 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. D20 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. D21 (Ab)
+  - Code du domaine de l'Etat - art. D27 (Ab)
+  - Code du domaine de l'Etat - art. D29 (Ab)
+
+
+###### Article D26
+
+Dans les régions dont le choix est laissé au préfet, après avis des représentants des services locaux relevant du ministère
+de l'agriculture et du directeur des services fiscaux, il peut être attribué, moyennant paiement des redevances fixées à
+l'article D. 27 ci-après, des concessions provisoires de culture d'une superficie maximum de 100 hectares pour les
+particuliers et de 1000 hectares pour les sociétés.
+
+Ces concessions sont accordées sous condition de pratiquer, à concurrence d'un huitième de la superficie totale, des cultures
+obligatoires sur les terrains désignés et dans les conditions fixées par les services locaux relevant du ministère de
+l'agriculture.
+
+La durée de la concession provisoire est de cinq années. Pendant cette période, le concessionnaire est tenu, sous peine de
+déchéance, de se conformer aux dispositions du contrat de concession relatives à la mise en valeur de la concession et de
+suivre les directives des services agricoles pour les cultures principales fixées par le contrat de concession.
+
+Ces obligations ne valent pas pour les cultures destinées à l'alimentation humaine ou à celle des animaux, établies sur le
+reste de l'exploitation.
+
+A l'expiration du délai de cinq ans, le concessionnaire reçoit un titre définitif s'il a satisfait à toutes ses obligations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°61-18 1961-01-10 art. 10
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1161 1970-12-11 art. 3 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. D20 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. D27 (Ab)
+
+
 ###### Article D28
 
 Une commission comprenant, sous la présidence du préfet, le directeur des services agricoles, l'ingénieur en chef du génie
@@ -6594,6 +10089,53 @@ _Abrogé par_:
 _Cité par_:
 
   - Code du domaine de l'Etat - art. D31 (Ab)
+
+
+###### Article D29
+
+A défaut soit de mise en valeur dans les délais impartis des terres concédées, soit d'exécution des autres charges et
+conditions de la concession, l'administration peut prononcer la déchéance du concessionnaire. Elle établit, à cet effet, un
+procès-verbal constatant l'inexécution des obligations mises à la charge du concessionnaire après avoir fait sommation à
+l'intéressé ou à son représentant dûment mandaté d'assister aux constatations.
+
+La déchéance est prononcée par le préfet sur avis du directeur des services fiscaux et du directeur départemental de
+l'agriculture.
+
+La reprise de possession a lieu, sans aucune indemnité, un mois après la notification de la décision de déchéance au
+concessionnaire ou à ses ayants droit connus, et après affichage de ladite décision dans les formes réglementaires.
+
+En aucun cas, l'Etat n'est tenu de maintenir les sous-locations qui auraient pu être consenties par le concessionnaire déchu.
+
+En cas de déchéance d'un concessionnaire, une redevance fixée par le directeur des services fiscaux, après avis des
+représentants locaux des services relevant du ministère de l'agriculture, peut être mise à la charge du nouveau preneur,
+compte tenu des améliorations apportées par le concessionnaire déchu. Cette redevance, qui s'ajoute, le cas échéant, aux
+redevances prévues à l'article D. 27, est perçue dans les mêmes conditions que celles-ci.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°61-18 1961-01-10 art. 13
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. D23 (Ab)
+  - Code du domaine de l'Etat - art. D24 (Ab)
+  - Code du domaine de l'Etat - art. D25 (Ab)
+  - Code du domaine de l'Etat - art. D27 (Ab)
+  - Code du domaine de l'Etat - art. D31 (Ab)
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°70-1161 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
 
 
 ###### Article D30
@@ -6671,7 +10213,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. D29 (Ab)
 
 
-#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=123></a>
+#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=141></a>
 
 ###### Article D33
 
@@ -6754,7 +10296,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=124></a>
+#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=142></a>
 
 ###### Article D35
 
@@ -6788,7 +10330,123 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre V : Dispositions particulières et finales.<a id=125></a>
+### Titre V : Dispositions particulières et finales.<a id=143></a>
+
+###### Article D36
+
+Sous réserve des dispositions des articles D. 40 à D. 44, une commission interministérielle est chargée d'émettre un avis sur
+les projets suivants :
+
+- Acquisitions, échanges et prises à bail d'immeubles par l'Etat français dans tous les pays étrangers ;
+
+- Affectations d'immeubles situés en pays étrangers et appartenant à l'Etat français ou détenus par lui à un titre
+quelconque ;
+
+- Aliénations et locations des biens immobiliers du domaine national situés dans les pays étrangers où le service des
+domaines n'est pas représenté par ses propres fonctionnaires ou par des fonctionnaires spécialement désignés à cet effet par
+le ministre des finances.
+
+Aucune des opérations énoncées à l'alinéa précédent ne peut être réalisée sans consultation préalable de la commission.
+Toutefois, cette consultation n'est pas obligatoire pour les acquisitions et les prises à bail lorsque les montants
+respectifs de la valeur vénale et du loyer annuel, charges comprises, n'excèdent pas les chiffres limites fixés par arrêté
+conjoint du ministre de l'économie et des finances et du ministre des affaires étrangères.
+
+La commission est également habilitée à examiner, sur proposition de l'un de ses membres, toute question concernant la
+gestion par les services utilisateurs des biens immobiliers dont l'Etat français à la propriété ou la jouissance.
+
+Lorsque la consultation de la commission est obligatoire, il ne peut être passé outre à son avis défavorable que par décision
+concertée du ministre des finances, du ministre des affaires étrangères et, le cas échéant, du ministre intéressé.
+
+Il est fait défense :
+
+1° Aux contrôleurs financiers ou aux fonctionnaires en tenant lieu de viser toutes pièces d'engagement de dépenses, toutes
+ordonnances de paiement ou de délégation, tous mandats afférents à des acquisitions, échanges ou prises en location lorsque
+ces opérations sont poursuivies en violation des règles fixées au présent article ;
+
+2° Aux comptables d'effectuer le paiement des ordonnances de paiement, mandats et autres documents émis en règlement de prix,
+de loyers, indemnités, intérêts et sommes quelconques dus en vertu d'actes d'acquisition, d'échange ou de prise en location
+présentant les mêmes vices.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-300 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°64-276 1964-03-24 art. 1 JORF 29 mars 1964
+  - Décret n°70-1161 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Décret du 25 mars 1993 - art. 4 (Ab)
+  - Arrêté du 10 décembre 1998 - art. 17 (V)
+  - Code du domaine de l'Etat - art. A122 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat D40 à D44
+
+
+###### Article D37
+
+La commission interministérielle, qui siège au ministère des affaires étrangères, est présidée par un conseiller maître à la
+Cour des comptes nommé par arrêté pris conjointement par le ministre des finances et par le ministre des affaires étrangères.
+
+Elle comprend les membres suivants :
+
+Le directeur des affaires politiques au ministère des affaires étrangères ou son représentant ;
+
+Le directeur du personnel et de l'administration générale au ministère des affaires étrangères ou son représentant ;
+
+Le directeur général des affaires culturelles au ministère des affaires étrangères ou son représentant ;
+
+Le directeur du budget au ministère des finances ou son représentant ;
+
+Le directeur du Trésor au ministère des finances ou son représentant ;
+
+Le directeur des relations économiques extérieures au ministère des finances ou son représentant ;
+
+Le chef du service des domaines au ministère des finances ou son représentant.
+
+En outre, les ministres qui ne sont pas représentés par un membre permanent peuvent, pour les affaires intéressant leur
+département, désigner un représentant qui prendra part aux discussions de la commission avec voix délibérative.
+
+La commission délibère valablement dès que cinq membres au moins sont présents. Elle peut déléguer ses pouvoirs à une sous-
+commission, qui délibère valablement dès que trois membres au moins sont présents. Les décisions sont prises à la majorité
+des voix. En cas de partage, celle du président de la commission ou de la sous-commission est prépondérante.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1959-04-17 art. 2
+  - Décret n°64-276 1964-03-24 art. 2
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°64-276 1964-03-24 art. 1 JORF 29 mars 1964
+  - Décret n°70-1161 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. D1221-4 (V)
+
 
 ###### Article D38
 
@@ -7002,17 +10660,17 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-# Partie réglementaire - Arrêtés<a id=126></a>
+# Partie réglementaire - Arrêtés<a id=144></a>
 
-## Livre Ier : Composition du domaine<a id=127></a>
+## Livre Ier : Composition du domaine<a id=145></a>
 
-### Titre II : Origine des biens<a id=128></a>
+### Titre II : Origine des biens<a id=146></a>
 
-#### Chapitre II : Domaine privé<a id=129></a>
+#### Chapitre II : Domaine privé<a id=147></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=130></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=148></a>
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=131></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=149></a>
 
 ###### Article A6
 
@@ -7029,7 +10687,7 @@ _Modifié par_:
   - Arrêté 1973-11-06 art. 2 JORF 15 novembre 1973
 
 
-### Titre III : Inventaire des biens.<a id=132></a>
+### Titre III : Inventaire des biens.<a id=150></a>
 
 ###### Article A7
 
@@ -7063,6 +10721,40 @@ _Cité par_:
 
   - Code du domaine de l'Etat - art. A11 (V)
   - Code du domaine de l'Etat - art. A8 (V)
+
+
+###### Article A8
+
+En vue de la confection des documents visés à l'article A. 7, les départements ministériels adressent spontanément au service
+central des domaines la liste des immeubles bâtis ou non bâtis, gérés, détenus ou occupés par eux ou par les établissements
+publics administratifs soumis à leur tutelle.
+
+Cette liste est établie en triple exemplaire, pour chaque département géographique, territoire ou pays et par service ou
+établissement utilisateur, conformément au modèle fixé par le service des domaines. En outre, elle fait ressortir
+distinctement les immeubles du domaine public national, ceux du domaine privé de l'Etat, ainsi que ceux prix à bail,
+réquisitionnés ou occupés à un titre quelconque.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1949-10-04 art. 2
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A7 (V)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A9 (V)
 
 
 ###### Article A10
@@ -7111,15 +10803,163 @@ _Cite_:
   - Code du domaine de l'Etat - art. A7 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=133></a>
+## Livre II : Administration des biens domaniaux<a id=151></a>
 
-### Titre Ier : Domaine public<a id=134></a>
+### Titre Ier : Domaine public<a id=152></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=135></a>
+#### Chapitre Ier : Occupation temporaire<a id=153></a>
 
-##### Section 1 : Délivrance des autorisations<a id=136></a>
+##### Section 1 : Délivrance des autorisations<a id=154></a>
 
-##### A) Arrêtés individuels.<a id=137></a>
+##### A) Arrêtés individuels.<a id=155></a>
+
+###### Article A12
+
+Les autorisations d'occuper temporairement, sur les routes, rivières et canaux et toutes autres dépendances du domaine public
+fluvial et terrestre, des emplacements qui peuvent sans inconvénients être soustraits momentanément à l'usage de tous pour
+être affectés à un usage privatif ou privilégié, sont accordées par le ministère chargé de l'équipement. 
+
+Il en est de même pour les autorisations concernant les rivages de la mer, les ports, havres et rades et toutes autres
+dépendances du domaine public maritime, lorsque ces autorisations n'ont pas pour objet l'exploitation d'établissements de
+pêche régis par le décret-loi du 9 janvier 1852 et les décrets des 21 décembre 1915 et 28 mars 1919 modifiés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1878-08-03 art. 1
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Arrêté du 28 août 1987 - art. 30 (Ab)
+  - Arrêté du 28 août 1987 - art. 36 (Ab)
+  - Arrêté du 21 juillet 1993 - art. ANNEXE , 30 (Ab)
+  - Arrêté du 21 juillet 1993 - art. ANNEXE , 36 (Ab)
+  - Arrêté du 23 février 1998 - art. ANNEXE (V)
+  - Arrêté du 6 janvier 2011 - art. (VD)
+
+_Cite_:
+
+  - Décret n°1915-12-21
+  - Décret n°1919-03-28
+  - Décret-loi 1852-01-09
+
+
+###### Article A13
+
+Toute demande d'occupation temporaire doit indiquer l'objet et la durée de cette occupation.
+
+S'il résulte de l'examen de la demande que celle-ci ne peut être prise en considération, la décision de rejet est prise par
+l'autorité désignée à l'article R. 53.
+
+Si le chef du service de l'équipement compétent estime que la demande peut être accueillie, il formule les conditions à
+imposer au permissionnaire dans l'intérêt du service qui lui est confié. Il présente en outre des propositions relativement à
+la redevance. Il joint un plan à son rapport.
+
+Lorsqu'il s'agit de portions du domaine public dont l'occupation temporaire est de nature à intéresser la défense du
+territoire ou le service de la marine, les avis des administrations intéressées sont pris conformément aux règlements
+existants.
+
+Le directeur des douanes est également consulté s'il y a lieu.
+
+En cet état de l'instruction, les pièces sont envoyées au directeur des services fiscaux qui fixe, conformément aux
+dispositions de l'article R. 55, le chiffre de la redevance, les époques des paiements, au besoin, l'obligation de fournir
+caution et toutes les autres conditions d'intérêt financier. Il formule toutes propositions utiles au sujet des conditions
+d'ordre domanial à imposer au pétitionnaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1878-08-03 art. 3
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R53 (M)
+  - Code du domaine de l'Etat - art. R55 (V)
+
+
+###### Article A14
+
+Les conditions financières de l'autorisation étant réglées, le directeur des services fiscaux se fait remettre par la partie
+une soumission portant acceptation de ces conditions. Cette soumission est souscrite sur papier timbré par le pétitionnaire
+et, le cas échéant, par la caution ; si l'un ou l'autre ne sait pas signer, il peut, à son choix, ou faire constater son
+engagement par le maire de son domicile, ou le faire souscrire en son nom par une personne solvable se portant fort pour lui.
+Dans tous les cas, une copie de la soumission certifiée par le directeur des services fiscaux est jointe au dossier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1878-08-03 art. 5
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+
+###### Article A15
+
+Si le chef du service de l'équipement estime que, dans un intérêt public, la quotité de la redevance, telle qu'elle a été
+fixée, doit être diminuée, ou même que l'autorisation demandée doit être accordée gratuitement, il présente à cet égard des
+propositions motivées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article A17
+
+Lorsqu'il n'y a pas accord entre les autorités administratives intéressées sur les conditions de l'autorisation, l'affaire
+est soumise à l'administration supérieure, pour y être statué par le ministre des finances et le ministre chargé de
+l'équipement, selon leur compétence respective.
+
+En cas de dissentiment entre ces ministres sur la question de savoir si l'autorisation doit être gratuite ou soumise à
+redevance, l'avis du Conseil d'Etat est préalablement recueilli.
+
+L'autorisation est ensuite accordée dans les formes tracées par l'article précédent.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1878-08-03 art. 8
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
 
 ###### Article A18
 
@@ -7141,7 +10981,29 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2125-2 (V)
 
 
-##### B) Arrêtés généraux.<a id=138></a>
+###### Article A19
+
+Lorsque le directeur des services fiscaux demande que la concession soit faite aux enchères et que le chef du service de
+l'équipement n'y voit pas d'inconvénient du point de vue de son service, il est procédé à l'adjudication, devant l'autorité
+compétente, en présence d'un agent du service des domaines, aux conditions déterminées par un arrêté pris ainsi qu'il est dit
+à l'article A. 16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A16 (V)
+
+
+##### B) Arrêtés généraux.<a id=156></a>
 
 ###### Article A20
 
@@ -7167,6 +11029,45 @@ _Cite_:
 _Cité par_:
 
   - Code du domaine de l'Etat - art. A23 (V)
+
+
+###### Article A21
+
+Lorsque le chef de service de l'équipement estime qu'un arrêté général peut réglementer une catégorie d'occupations
+temporaires du domaine public, il indique les conditions techniques auxquelles ces occupations doivent être soumises. Il
+présente, en outre, des propositions relativement aux redevances à appliquer, par unité de longueur ou de surface ou à la
+pièce, et il fait connaître les occupations qui peuvent être autorisées gratuitement.
+
+L'avis du département des armées ainsi que celui des administrations de la marine marchande et des douanes sont demandés, le
+cas échéant, conformément aux règlements existants.
+
+Les pièces sont ensuite envoyées au directeur des services fiscaux qui fixe les redevances à appliquer et toutes autres
+conditions d'intérêt financier, détermine les occupations qui ne donnent lieu à aucune redevance et formule toutes
+propositions utiles au sujet des conditions d'ordre domanial à imposer aux pétitionnaires.
+
+Quand l'accord s'est établi entre les autorités administratives intéressées, et après que les maires aient été, s'il y a
+lieu, consultés par application de l'article 98 du code de l'administration communale, l'autorité désignée à l'article R. 53
+prend un arrêté et en adresse ampliation au directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code de l'administration communale 98
+  - Code du domaine de l'Etat - art. R53 (M)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A22 (V)
+  - Code du domaine de l'Etat - art. A24 (V)
 
 
 ###### Article A22
@@ -7195,7 +11096,35 @@ _Cite_:
   - Code du domaine de l'Etat - art. L33 (M)
 
 
-##### C) Dispositions communes.<a id=139></a>
+###### Article A25
+
+Les demandes d'occupation temporaire peuvent être adressées directement à l'agent des services de l'équipement localement
+responsable.
+
+Lorsque l'occupation ne rentre dans aucune des catégories prévues par un arrêté général d'autorisation l'agent des services
+de l'équipement localement responsable transmet la demande, avec ses propositions, au chef du service de l'équipement, pour
+être statué après l'instruction réglementaire dans les formes prévues aux articles A. 12 à A. 19.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1906-09-22 art. 5
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat A12 à A19
+
+
+##### C) Dispositions communes.<a id=157></a>
 
 ###### Article A26
 
@@ -7236,6 +11165,71 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2125-5 (V)
 
 
+###### Article A27
+
+Le retrait des autorisations est prononcé par l'autorité désignée à l'article R. 53.
+
+Lorsque, en application des dispositions dudit article, le préfet a compétence pour prononcer le retrait, sa décision est
+prise sur proposition du chef du service de l'équipement.
+
+Toutefois, en cas de désaccord entre autorités administratives intéressées, la décision de retrait est prise par le ministre
+chargé de l'équipement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A26 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R53 (M)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2122-7 (V)
+
+
+###### Article A28
+
+L'autorisation peut être révoquée, soit à la demande du directeur des services fiscaux, en cas d'inexécution des conditions
+financières, soit à l'initiative du chef du service de l'équipement, en cas d'inexécution des autres conditions, sans
+préjudice, s'il y a lieu, des poursuites pour contravention de grande voirie.
+
+A partir du jour où la révocation a été notifiée à la partie, la redevance cesse de courir, mais la portion de cette
+redevance afférente au temps écoulé devient immédiatement exigible.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1878-08-03 art. 13 al. 1, al. 2
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A26 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2122-7 (V)
+
+
 ###### Article A29
 
 Le concessionnaire ne peut renoncer au bénéfice de la concession avant l'époque fixée pour la revision des conditions
@@ -7252,7 +11246,39 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-##### Section 2 : Fixation des redevances.<a id=140></a>
+###### Article A30
+
+Le paiement du droit fixe établi par l'article L. 29 pour la délivrance des autorisations de voirie sur le domaine public
+national est constaté, dans le cas prévu au deuxième alinéa de l'article R. 54, au moyen de l'apposition de timbres fiscaux
+de la série unique.
+
+Les timbres mobiles sont fournis par les titulaires des autorisations et apposés sous la responsabilité des autorités
+chargées de la délivrance des titres.
+
+Ils sont immédiatement oblitérés dans les conditions fixées par l'article 405 F de l'annexe III du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Anciens textes_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - CGIAN3 405 F
+  - Code du domaine de l'Etat - art. L29 (Ab)
+  - Code du domaine de l'Etat - art. R54 (M)
+
+
+##### Section 2 : Fixation des redevances.<a id=158></a>
 
 ###### Article A32
 
@@ -7404,9 +11430,103 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-#### Chapitre III : Extractions sur le domaine public<a id=141></a>
+#### Chapitre III : Extractions sur le domaine public<a id=159></a>
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=142></a>
+##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=160></a>
+
+##### A) Arrêtés individuels.<a id=161></a>
+
+###### Article A43
+
+En cas de dissentiment entre ces ministres sur la question de savoir si des extractions doivent ou non être autorisées à
+titre gratuit, l'avis du Conseil d'Etat est recueilli.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A45 (V)
+
+
+###### Article A44
+
+Le prix fixé, augmenté de la taxe forfaitaire prévue par l'article A. 113, est payable avant tout commencement des
+extractions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A113 (M)
+
+
+##### B) Arrêtés généraux.<a id=162></a>
+
+###### Article A45
+
+Pour faciliter l'instruction des demandes d'extractions, l'autorité définie à l'article R. 53 peut, sur proposition et avis
+des chefs de service intéressés, fixer, par un règlement de police, les conditions auxquelles ces extractions doivent être
+soumises sur les différentes parties du domaine public maritime ou des cours d'eau domaniaux, soit au point de vue de leur
+conservation, soit à l'égard des intérêts de la navigation ou de la pêche, soit enfin sous le rapport des prix à exiger.
+
+Le directeur des services fiscaux est obligatoirement consulté, ainsi que, s'il y a lieu, le directeur départemental de
+l'équipement, le directeur départemental de l'agriculture, le préfet maritime et le directeur du génie.
+
+Cet arrêté indique :
+
+1° Les parties du domaine public où les extractions sont interdites ;
+
+2° Celles où elles ne sont autorisées qu'à charge de payer un prix dont les éléments sont fixés réglementairement ;
+
+3° Celles où elles sont gratuites, mais soumises à des autorisations spéciales ;
+
+4° Celles où les extractions sont gratuites et libres aux conditions déterminées par les circonstances locales ;
+
+5° Les quantités maximales de matériaux au-delà desquelles toute demande doit faire l'objet d'un arrêté particulier
+d'autorisation ;
+
+Si le volume des matériaux à extraire doit être limité dans l'intérêt de la conservation du domaine public, de la navigation
+ou de la pêche, le règlement fixe soit les volumes des matériaux de chaque nature pouvant être extraits annuellement, soit
+les niveaux au-dessous desquels le relief de la plage ou le fond des fouilles ne doit jamais être abaissé.
+
+A défaut d'accord entre les autorités administratives intéressées pour la préparation du règlement de police prévu au présent
+article, il est procédé comme il est dit aux articles A. 42 (2è alinéa) et A. 43 pour les autorisations particulières. Le
+règlement est toujours susceptible d'être revisé sur demande faite par l'un des chefs de service intéressés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A42 (V)
+  - Code du domaine de l'Etat - art. A43 (V)
+  - Code du domaine de l'Etat - art. R53 (M)
+
+
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=163></a>
 
 ###### Article A49
 
@@ -7442,6 +11562,52 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+
+###### Article A51
+
+Le service compétent de l'équipement, le préfet maritime et le préfet sont appelés, à leur tour, à donner leur avis.
+
+Le directeur du génie et le directeur des douanes sont également consultés, quand il y a lieu.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1876-05-10 art. 3
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+
+###### Article A52
+
+En cet état de l'instruction, les pièces sont transmises au directeur des services fiscaux, qui fixe ou fait fixer par qui de
+droit, suivant les directions établies dans l'article A. 53, le prix à exiger, les époques des paiements, au besoin
+l'obligation de fournir caution, et toutes les autres conditions financières de la concession.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1876-05-10 art. 4
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A53 (M)
 
 
 ###### Article A54
@@ -7484,6 +11650,55 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+
+###### Article A56
+
+Les autorisations ne sont accordées qu'à titre précaire ; elles sont toujours révocables sans indemnité.
+
+Le retrait des autorisations est prononcé par le directeur des affaires maritimes, lorsqu'elles ont été accordées par ce
+fonctionnaire, dans le cas prévu par l'alinéa premier de l'article A. 54, et par le ministre chargé des transports
+(secrétariat général de la marine marchande) dans les autres cas.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1876-05-10 art. 8
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A54 (V)
+
+
+###### Article A57
+
+L'autorisation peut être révoquée soit à la demande du directeur des services fiscaux, en cas d'inexécution des conditions
+financières de la concession, soit à la demande ou des fonctionnaires du service des affaires maritimes ou du service
+compétent de l'équipement, pour toute autre cause, sans préjudice, s'il y a lieu, des poursuites pour contraventions de
+grande voirie.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1876-05-10 art. 9
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
 
 
 ###### Article A58
@@ -7544,7 +11759,29 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=143></a>
+#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=164></a>
+
+###### Article A60
+
+L'adjudication du droit de pêche exercé au profit de l'Etat en vertu de l'article 403 du code rural a lieu, sur la base du
+loyer annuel, soit au rabais, soit aux enchères verbales avec ou sans extinction de feux, soit sur soumissions cachetées,
+soit par combinaison des enchères verbales et des soumissions cachetées, selon les indications données par l'avis relatif à
+l'adjudication.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code rural 403
+
 
 ###### Article A61
 
@@ -7584,6 +11821,32 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A63 (V)
 
 
+###### Article A63
+
+L'adjudication a lieu publiquement par devant le préfet ou son délégué, assisté d'un représentant du service gestionnaire et
+d'un représentant du service des domaines.
+
+L'avis relatif à l'adjudication indique les lieux où sont déposés le cahier des charges générales et le cahier des clauses
+spéciales.
+
+Au moment de l'adjudication, l'ordre des lots peut être modifié et certains lots peuvent être retirés de l'adjudication sans
+que les amateurs puissent élever aucune réclamation ni prétendre à une indemnité quelconque.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Anciens textes_:
+
+  - Arrêté 1965-05-12 art. 4
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
 ###### Article A64
 
 L'adjudication au rabais a lieu sur la mise à prix annoncée par le président du bureau d'adjudication et diminuée
@@ -7613,6 +11876,117 @@ _Cite_:
   - Code du domaine de l'Etat - art. A65 (M)
 
 
+###### Article A65
+
+L'adjudication aux enchères verbales, avec ou sans extinction de feux, a lieu sur la mise à prix annoncée par le président du
+bureau d'adjudication, les enchères devant être exprimées à haute voix.
+
+Le montant minimum des enchères est fixé par le cahier des charges.
+
+L'adjudication n'est prononcée qu'autant qu'une enchère au moins a été portée sur le montant de la mise à prix. Elle est
+tranchée au profit de l'enchérisseur le plus offrant, après que deux bougies se soient éteintes successivement sur la
+dernière enchère ou que deux appels se soient succédés sans qu'une nouvelle enchère ait été portée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Anciens textes_:
+
+  - Arrêté 1965-05-12 art. 6
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A64 (M)
+  - Code du domaine de l'Etat - art. A66 (Ab)
+
+
+###### Article A66
+
+En cas d'adjudication sur soumissions cachetées, les offres, distinctes pour chaque lot et rédigées conformément au modèle
+arrêté par l'administration, sont remises, sous enveloppe cachetée portant les références du lot de pêche, au président du
+bureau d'adjudication avant l'ouverture de la séance. Elles peuvent être adressées par pli recommandé au président et au lieu
+de l'adjudication sous double enveloppe, l'enveloppe intérieure portant la seule souscription "Soumission pour l'adjudication
+du ..., lot de pêche n° ...".
+
+Les enveloppes contenant les soumissions sont ouvertes à la date et à l'heure indiquées dans l'avis, aussitôt après l'énoncé
+par le représentant du service des domaines du chiffre limite au-dessous duquel les offres ne seront pas retenues.
+
+Les soumissions ne peuvent être ni retirées ni modifiées après l'ouverture de la séance d'adjudication.
+
+L'adjudication est prononcée au profit du soumissionnaire dont l'offre, régulière en la forme et au moins égale au prix
+limite, est la plus élevée. En cas d'égalité entre les offres, le lot est tiré au sort entre les concurrents, selon le mode
+fixé par le président du bureau d'adjudication, à moins que, tous étant présents, l'un ne réclame la mise aux enchères
+verbales ; le concours est alors ouvert entre eux seuls, dans les conditions prévues à l'article A. 65.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Anciens textes_:
+
+  - Arrêté 1965-05-12 art. 7
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A65 (M)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A66-1 (Ab)
+  - Code du domaine de l'Etat - art. A69 (Ab)
+
+
+###### Article A66-1
+
+En cas d'adjudication par combinaison des enchères verbales et des soumissions cachetées, ces dernières doivent être rédigées
+et remises ou adressées au président du bureau d'adjudication dans les conditions prévues à l'article A. 66 (premier alinéa).
+Elles doivent lui parvenir avant l'ouverture de la séance et ne peuvent être retirées ou modifiées après que celle-ci ait été
+déclarée ouverte.
+
+Il est procédé en premier lieu aux enchères verbales sur la mise à prix annoncée par le président du bureau. Après que deux
+bougies se soient éteintes successivement ou que deux appels se soient succédé sans qu'une enchère ait été portée soit sur la
+mise à prix, soit sur la dernière enchère, les enveloppes contenant les soumissions sont ouvertes.
+
+L'adjudication est prononcée au profit de l'enchérisseur ou du soumissionnaire le plus offrant, cette offre devant être
+supérieure à la mise à prix, majorée du montant de l'enchère minimum prévue au cahier des charges. En cas d'égalité d'offres,
+l'adjudication est tranchée conformément aux dispositions de l'article A. 66 (dernier alinéa).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A66 (Ab)
+
+
 ###### Article A67
 
 Quel que soit le mode d'adjudication, le président du bureau d'adjudication, sur avis conforme de ses assesseurs, peut, sans
@@ -7634,6 +12008,26 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+_Abrogé par_:
+
+  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
+
+
+###### Article A68
+
+Lorsque, faute d'offres suffisantes, certains lots n'ont pu être adjugés, leur adjudication peut être remise, sans
+publication d'un nouvel avis, au jour, à l'heure et au lieu fixés par le président du bureau d'adjudication.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
 
 _Abrogé par_:
 
@@ -7741,11 +12135,11 @@ _Abrogé par_:
   - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 
-### Titre II : Domaine privé<a id=144></a>
+### Titre II : Domaine privé<a id=165></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=145></a>
+#### Chapitre Ier : Domaine immobilier<a id=166></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=146></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=167></a>
 
 ###### Article A73
 
@@ -7766,6 +12160,42 @@ _Codifié par_:
 _Cite_:
 
   - Code du domaine de l'Etat - art. R71 (V)
+
+
+###### Article A74
+
+L'attribution des locaux est décidée par le préfet sur la proposition du directeur départemental de l'équipement et, dans les
+communes dotées d'un service du logement, sur avis de ce service.
+
+Dans le cas où la gérance des bâtiments provisoires est confiée à un office public d'habitations à loyer modéré,
+l'attribution des locaux dans ces bâtiments est décidée par le préfet sur proposition de l'office gérant.
+
+La décision d'attribution est portée à la connaissance du bénéficiaire par les soins du maire de la situation du bâtiment
+provisoire, qui l'invite à souscrire un engagement d'occupation par lequel l'intéressé déclare accepter les modalités
+financières de l'opération et se soumettre, pour le surplus, aux conditions générales prévues par un cahier des charges.
+
+L'engagement d'occupation et le cahier des charges sont conformes à un modèle type.
+
+Faute par l'attributaire de souscrire l'engagement prévu au premier alinéa du présent article dans un délai de dix jours à
+compter de la notification, la décision d'attribution devient caduque.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1948-05-30 art. 2, art. 3
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A86 (V)
 
 
 ###### Article A75
@@ -8066,6 +12496,33 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
+###### Article A88
+
+Indépendamment des réductions prévues par les articles A. 79 et A. 80, des dégrèvements peuvent, dans des cas exceptionnels,
+être accordés par une commission spéciale placée sous la présidence du préfet et comprenant le directeur des services
+fiscaux, le directeur départemental de l'équipement et le représentant local du ministère des anciens combattants et victimes
+de guerre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1952-06-21 art. 17
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A79 (V)
+  - Code du domaine de l'Etat - art. A80 (V)
+
+
 ###### Article A89
 
 Les actions intentées contre les occupants des bâtiments provisoires qui ne remplissent pas leurs obligations d'ordre
@@ -8094,7 +12551,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=147></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=168></a>
 
 ###### Article A90
 
@@ -8114,7 +12571,27 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=148></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=169></a>
+
+###### Article A91
+
+Conformément à l'article R. 95 (2ème alinéa), les préfets ont délégation permanente à l'effet de signer, au nom du ministre
+des finances, tous arrêtés portant concession de logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R95 (V)
+
 
 ###### Article A92
 
@@ -8189,7 +12666,155 @@ _Cite_:
   - Code du domaine de l'Etat - art. D12 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=149></a>
+###### Article A93-1
+
+Les établissements visés à l'article D. 13 sont tous les établissements publics nationaux à caractère administratif et les
+établissements publics nationaux à caractère industriel et commercial dont les opérations financières et comptables sont
+effectués par un agent comptable soumis à la juridiction de la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. D13 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2124-77 (Ab)
+  - Code général de la propriété des personnes publ... - art. R2222-19 (V)
+  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
+
+
+###### Article A93-2
+
+Lorsque l'occupation exercée par les personnels visés à l'article D. 13 est étrangère à toute considération de service, elle
+doit faire l'objet :
+
+- d'un bail administratif dans les formes prévues à l'article L. 36 s'il s'agit d'un immeuble domanial affecté à un
+établissement public à caractère administratif, conformément aux règles définies par les articles R. 81 à R. 89 ou d'un
+immeuble remis en dotation par l'Etat à un établissement public national, quel que soit le caractère de cet établissement ;
+
+- d'un bail établi dans les conditions du droit commun et en conformité des textes organiques, pour les autres immeubles
+gérés par un établissement public national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A93-4 (V)
+  - Code du domaine de l'Etat - art. A93-5 (V)
+  - Code du domaine de l'Etat - art. A93-7 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. D13 (V)
+  - Code du domaine de l'Etat - art. L36 (Ab)
+  - Code du domaine de l'Etat D13, L36, R81 à R89
+
+
+###### Article A93-3
+
+Lorsque l'occupation répond à une nécessité absolue ou est utile pour le service conformément aux dispositions de l'article
+R. 94, elle doit faire l'objet d'une concession par voie de décision prise dans les conditions et formes prévues aux articles
+A. 93-4 à A. 93-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R94 (V)
+  - Code du domaine de l'Etat R94, A93-4 à A93-8
+
+
+###### Article A93-7
+
+Le directeur des services fiscaux, lorsqu'il s'agit d'un immeuble domanial visé au deuxième alinéa de l'article A. 93-2, ou
+le directeur de l'établissement pour les autres immeubles, sont chargés de la détermination de la redevance prévue à
+l'article R. 100 et de sa révision ou de sa modification conformément à la législation sur les loyers des locaux à usage
+d'habitation.
+
+Les redevances de toute nature dues en vertu d'un bail administratif ou de droit commun ou d'une concession sont prises en
+charge par le comptable de chaque établissement qui en assure le recouvrement dans les conditions prescrites par les textes
+applicables à l'établissement intéressé.
+
+Les attestations annuelles de recette, par logement, sont adressées par le comptable de l'établissement au comptable des
+impôts lorsque l'immeuble occupé a été remis en dotation par l'Etat à un établissement public ou affecté à un établissement
+public administratif.
+
+Toutefois, le recouvrement est effectué directement par le service des domaines, pour le compte de l'établissement, lorsque
+le bénéficiaire de la concession est étranger à l'établissement et que l'immeuble a été mis à la disposition de celui-ci dans
+les conditions visées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A93-2 (V)
+  - Code du domaine de l'Etat - art. R100 (V)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A93-8 (V)
+
+
+###### Article A93-8
+
+Les occupants qui ne peuvent justifier ni d'une décision de concession prise en leur faveur ni d'un acte de location sont
+susceptibles de faire l'objet de mesures d'expulsion, à la requête du directeur de l'établissement.
+
+En outre, pour toute la période pendant laquelle ils continuent d'occuper les locaux après l'expiration de la concession ou
+de la location, ils sont astreints au paiement de la redevance fixée dans les conditions prévues à l'article A. 93-7. Cette
+redevance sera majorée de 50 % pour les trois premiers mois, de 100 % du quatrième au sixième mois, de 200 % du septième au
+douzième mois, et de 500 % au-delà.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A93-7 (V)
+
+
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=170></a>
 
 ###### Article A94
 
@@ -8242,6 +12867,71 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+
+###### Article A96
+
+Toute occupation donne lieu, avant l'entrée dans les lieux, à l'établissement d'un acte par lequel le bénéficiaire s'engage à
+verser une redevance dont le montant est fixé, selon le cas, par l'office gérant après accord du directeur départemental de
+l'équipement ou par le ministre chargé de la construction, en accord avec le ministre des finances (service des domaines).
+
+Le taux de la redevance, des charges et des prestations afférentes aux locaux d'habitation est déterminé par référence aux
+loyers applicables aux habitations à loyer modéré construites après le 3 septembre 1947. Ces maxima sont affectés, s'il y a
+lieu, de coefficients pouvant varier de 0,80 à 1,20, le coefficient retenu dans chaque cas particulier étant déterminé par
+l'office d'habitation à loyer modéré, après accord du directeur départemental de l'équipement ou par le ministre chargé de la
+construction, en accord avec le ministre des finances (services des domaines).
+
+Le taux des redevances afférentes aux locaux à usage professionnel, industriel, commercial ou agricole, est fixé suivant les
+circonstances de lieux ; celles-ci sont déterminées, selon les cas, par l'office gérant après accord du directeur
+départemental de l'équipement ou par le ministre chargé de la construction en accord avec le ministre des finances (service
+des domaines), qui recherche, notamment à cet effet, des bases de comparaison parmi les immeubles de la commune, des communes
+voisines ou de la région, affectés à un pareil usage.
+
+Lorsqu'un logement constitue l'accessoire de locaux à usage professionnel, industriel ou commercial, la redevance y afférente
+est fixée d'après les dispositions de l'alinéa précédent.
+
+Les redevances sont recouvrées par l'office gérant.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1949-01-18 art. 3
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+
+###### Article A97
+
+L'office gérant ouvre un compte spécial de gestion des immeubles dont la gestion lui est confiée, faisant apparaître les
+dépenses et les recettes de toute nature résultant de la gestion, de l'entretien et du gardiennage desdits immeubles.
+
+Un contrat de gérance conforme à un contrat type détermine les conditions financières de la gestion, notamment le pourcentage
+des redevances d'occupation, charges et prestations non comprises, qui sera alloué à l'office en rémunération de sa gestion.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1949-01-18 art. 4
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A98 (V)
 
 
 ###### Article A98
@@ -8309,7 +12999,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=150></a>
+#### Chapitre II : Domaine immobilier.<a id=171></a>
 
 ###### Article A101
 
@@ -8344,11 +13034,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=151></a>
+## Livre III : Aliénation des biens domaniaux<a id=172></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=152></a>
+### Titre II : Aliénation des biens du domaine privé<a id=173></a>
 
-#### Chapitre II : Domaine mobilier.<a id=153></a>
+#### Chapitre II : Domaine mobilier.<a id=174></a>
 
 ###### Article A105
 
@@ -8516,6 +13206,60 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
+###### Article A113
+
+Pour tenir lieu de frais de vente, une taxe forfaitaire, dont le taux est fixé par arrêté du ministre des finances, est
+perçue en sus du prix des adjudications et des cessions amiables effectuées par le service des domaines.
+
+Le montant de cette taxe est, dans tous les cas, intégralement versé par l'acquéreur, dès que l'adjudication est prononcée ou
+la soumission approuvée.
+
+Les droits de timbre et d'enregistrement sont prélevés sur le produit de cette perception par les soins de l'agent chargé de
+l'encaissement du prix d'adjudication.
+
+Dans le cas où ce produit est inférieur au montant des droits de timbre et d'enregistrement exigibles, la différence est
+admise en non-valeur.
+
+Dans le cas où ce produit est supérieur au montant des droits de timbre et d'enregistrement exigibles, l'excédent est :
+
+- soit transféré dans les mêmes conditions que le prix principal de la vente lorsque le service qui était détenteur des
+objets aliénés est doté d'un budget annexe ou d'un budget autonome ;
+
+- soit imputé en recettes au compte spécial du Trésor "Opérations commerciales des domaines", subdivision "Opérations du
+S.C.V.M.", lorsque le service qui était détenteur des objets aliénés relève du budget général.
+
+Sont imputés au même compte spécial du Trésor et à la même subdivision le produit des abonnements et de la publicité
+afférents au bulletin visé à l'article A. 107 ainsi que les frais de régie prévus aux articles L. 70 et L. 77, sous réserve
+du reversement de ces derniers au Trésor dans des proportions et conditions déterminées par arrêté du ministre des finances.
+
+Les frais de vente sont, après vérification, imputés en dépense à la même subdivision.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1940-03-19 art. 10
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A107 (M)
+  - Code du domaine de l'Etat - art. L70 (M)
+  - Code du domaine de l'Etat - art. L77 (V)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A114 (V)
+  - Code du domaine de l'Etat - art. A44 (V)
+
+
 ###### Article A114
 
 Le taux de la taxe forfaitaire visée au premier alinéa de l'article A. 113 est fixé à 8 % en cas de vente effectuée avec
@@ -8592,7 +13336,101 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A47 (V)
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=154></a>
+###### Article A116-1
+
+Les pouvoirs conférés aux préfets par les articles A. 102, A. 103, A. 115 et A. 116 sont exercés par le directeur régional
+chargé de la direction nationale d'interventions domaniales, dans les départements sur lesquels s'étend la compétence de ce
+service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1969-02-06 art. 2 JORF 10 février 1969
+  - Arrêté 1970-12-11 art. 2 JORF 15 décembre 1970
+
+_Cité par_:
+
+  - Arrêté du 23 février 2018 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A102 (V)
+  - Code du domaine de l'Etat - art. A103 (V)
+  - Code du domaine de l'Etat - art. A115 (M)
+  - Code du domaine de l'Etat - art. A116 (M)
+
+
+###### Article A117
+
+Lorsqu'un trésor de monnaies aura été remis au domaine, ce service devra aviser simultanément de cette remise
+l'administration des monnaies et médailles et celle de la bibliothèque nationale.
+
+En ce qui concerne les objets remis au domaine à Paris, cette notification sera directement faite aux services intéressés par
+le directeur régional chargé de la direction nationale d'interventions domaniales, et, pour ceux remis dans les départements,
+par les directeurs locaux, par l'intermédiaire du préfet.
+
+Si, dans les deux mois de cette notification, les services intéressés n'ont pas fait connaître leurs décisions, le service
+des domaines pourra procéder aux opérations de vente.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1925-05-26 art. 1
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+
+###### Article A117-1
+
+Sous réserve du paiement comptant de la taxe forfaitaire, les prix principaux des biens mobiliers de l'Etat dont le
+recouvrement est assuré par le service des domaines peuvent, sous la responsabilité du receveur divisionnaire ou du receveur
+principal des impôts, lorsqu'ils sont, pour une même opération et un même acquéreur, supérieurs à 40000 F, être acquittés en
+obligations cautionnées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article A117-4
+
+Les prix principaux des bois façonnés domaniaux ne seront payables en obligations cautionnées, aux conditions des articles A.
+117-1 à A. 117-3, qu'à une date qui sera fixée par arrêté ministériel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
+
+_Cite_:
+
+  - Code du domaine de l'Etat A117-1 à A117-3
+
+
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=175></a>
 
 ###### Article A118
 
@@ -8619,6 +13457,29 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+
+###### Article A119
+
+La mutation au profit du service des domaines des inscriptions nominatives ou mixtes de rentes sur l'Etat, dépendant de
+successions en déshérence dont l'Etat a été envoyé en possession définitive, peut être effectuée au vu d'un certificat
+administratif établi en forme de certificat de propriété soit par le directeur des services fiscaux compétent, soit par le
+directeur général de la caisse des dépôts et consignations ou son délégué.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1951-01-27 art. 2
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A118 (V)
+  - Code du domaine de l'Etat - art. A120 (V)
 
 
 ###### Article A120
