@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1992-02-08
+Version Consolidée au 1992-02-26
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -98,7 +98,7 @@ Version Consolidée au 1992-02-08
             - [Paragraphe 1 : Dispositions générales. (art. R66 à R68)](#95)
             - [Paragraphe 2 : Locations soumises à des règles particulières. (art. R69 à R70)](#96)
           - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. R71 à R73)](#97)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R74 à R76)](#98)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R74 à R76-1)](#98)
           - [Section 4 : Echanges. (art. R77 à R80)](#99)
           - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R91)](#100)
           - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104-1)](#101)
@@ -6933,6 +6933,27 @@ _Codifié par_:
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R76-1 (Ab)
+
+
+###### Article R76-1
+
+Sous réserve des dispositions de l'article R. 76, la gestion, l'entretien et le gardiennage d'un immeuble domanial à
+destination de logement, affecté à un département ministériel, peuvent être confiés à un organisme d'habitations à loyer
+modéré ou à une société d'économie mixte.
+
+Le préfet passe le contrat de gérance, après fixation des conditions financières par le directeur des services fiscaux du
+département où se trouve l'immeuble. Le contrat de gérance doit être conforme à un contrat type établi par arrêté du ministre
+chargé du domaine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R76 (V)
 
 
 ##### Section 4 : Echanges.<a id=99></a>
