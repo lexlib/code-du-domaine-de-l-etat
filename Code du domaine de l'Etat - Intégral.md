@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2002-11-06
+Version Consolidée au 2003-01-29
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -1504,10 +1504,10 @@ _Nouveaux textes_:
 ###### Article L34-3-1
 
 L'Etat et le titulaire d'une autorisation d'occupation temporaire du domaine public peuvent conclure un bail portant sur des
-bâtiments à construire par le titulaire pour les besoins de la justice, de la police ou de la gendarmerie nationales et
-comportant, au profit de l'Etat, une option lui permettant d'acquérir, avant le terme fixé par l'autorisation d'occupation,
-les installations ainsi édifiées. Dans ce cas, le bail comporte des clauses permettant de préserver les exigences du service
-public.
+bâtiments à construire par le titulaire pour les besoins de la justice, de la police nationale, de la gendarmerie nationale,
+des armées ou des services du ministère de la défense et comportant, au profit de l'Etat, une option lui permettant
+d'acquérir, avant le terme fixé par l'autorisation d'occupation, les installations ainsi édifiées. Dans ce cas, le bail
+comporte des clauses permettant de préserver les exigences du service public.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise les conditions de passation du
 bail ainsi que les conditions suivant lesquelles l'amortissement financier peut être pris en compte dans la détermination du
@@ -1540,9 +1540,9 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 1382 (M)
   - Code du domaine de l'Etat - art. L34-7-1 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-1094 2002-08-29 art. 3 JORF 30 août 2002
+  - Loi n°2003-73 du 27 janvier 2003 - art. 7 () JORF 29 janvier 2003
 
 **Liens**:
 
@@ -1568,6 +1568,10 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 2 février 2004 - art. 1 (V)
   - TXT_SOURCE: Décret n°2004-732 du 26 juillet 2004
   - TXT_SOURCE: Décret n°2004-732 du 26 juillet 2004 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Nouveaux textes_:
 
