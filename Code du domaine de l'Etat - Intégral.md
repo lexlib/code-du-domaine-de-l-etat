@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1989-12-30
+Version Consolidée au 1990-04-05
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -17534,6 +17534,26 @@ _Cité par_:
 _Cite_:
 
   - Code du domaine de l'Etat - art. L69 (M)
+
+
+###### Article A115-1
+
+Pour l'application des dispositions de l'article L. 69-1, la valeur vénale unitaire des biens mobiliers pouvant être cédés
+gratuitement est fixée à 10000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Cité par_:
+
+  - Arrêté du 23 février 2018 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L69-1 (M)
 
 
 ###### Article A116
