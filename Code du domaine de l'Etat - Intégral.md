@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1987-09-02
+Version Consolidée au 1987-09-09
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -3805,29 +3805,25 @@ _Nouveaux textes_:
 
 Le prix des acquisitions immobilières faites à l'amiable suivant les règles du droit civil pour le compte de l'Etat ou des
 établissements publics nationaux peut être payé au vendeur, après publication de l'acte au fichier immobilier, sans
-l'accomplissement des formalités de purge des privilèges et hypothèques inscrits lorsqu'il n'excède pas 5000 F pour
-l'ensemble de l'immeuble acquis.
+l'accomplissement des formalités de purge des privilèges et hypothèques inscrits lorsqu'il n'excède pas 50000 F pour
+l'ensemble de l'immeuble acquis. La présente disposition est applicable aux acquisitions immobilières faites après exercice
+du droit de préemption.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat (ancien) L15
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°62-1352 du 14 novembre 1962 - art. 4 (Ab) JORF 18 novembre 1962
-  - Décret n°62-1352 du 14 novembre 1962 - art. 4 (V)
 
 _Cité par_:
 
   - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
   - Arrêté du 27 octobre 1987 - art. 16 (V)
   - Arrêté du 27 juillet 1963 - art. 27 (Ab)
+
+_Modifié par_:
+
+  - Décret n°87-738 du 3 septembre 1987 - art. 2 () JORF 9 septembre 1987
 
 
 ###### Article R10
