@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-08-02
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -135,7 +135,7 @@ Version Consolidée au 2003-07-22
             - [Paragraphe 10 : Servitudes. (art. R148)](#132)
             - [Paragraphe 11 : Rétrocession d'immeubles expropriés. (art. R148-1)](#133)
             - [Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé. (art. R148-2)](#134)
-            - [Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2002. (art. R148-3 à R148-4)](#135)
+            - [Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2008. (art. R148-3 à R148-4)](#135)
         - [Chapitre II : Domaine mobilier. (art. R149)](#136)
     - [Livre IV : Dispositions diverses (art. R150 à R186)](#137)
       - [Titre Ier : Dispositions générales. (art. R150 à R152-1)](#138)
@@ -12758,11 +12758,11 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2002.<a id=135></a>
+##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2008.<a id=135></a>
 
 ###### Article R148-3
 
-Jusqu'au 31 décembre 2002, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
+Jusqu'au 31 décembre 2008, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
 voie d'adjudication publique.
 
 Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
@@ -12776,17 +12776,21 @@ ou un établissement public de coopération intercommunale agissant dans le cadr
 l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense.
 
 Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
-amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
+amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix ;
+
+4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
+l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°2003-712 du 28 juillet 2003 - art. 1 () JORF 2 août 2003
+  - Décret n°2003-712 du 28 juillet 2003 - art. 2 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -12806,7 +12810,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°97-1119 du 3 décembre 1997 - art. 1 () JORF 5 décembre 1997
+  - Décret n°2003-712 du 28 juillet 2003 - art. 1 () JORF 2 août 2003
 
 _Cite_:
 
