@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1970-12-15
+Version Consolidée au 1970-12-25
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -5416,6 +5416,42 @@ _Nouveaux textes_:
 
   - Code général de la propriété des personnes publ... - art. R1111-1 (V)
   - Code général de la propriété des personnes publ... - art. R3211-43 (V)
+
+
+###### Article R78
+
+L'échange est autorisé par le préfet, sur proposition du directeur des services fiscaux. Celui-ci détermine la valeur des
+immeubles dont l'échange est envisagé et fixe, s'il y a lieu, le montant de la soulte.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L63
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969
+  - Décret n°70-1160 1970-12-11 art. 2 JORF 25 décembre 1970
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1111-2 (V)
+  - Code général de la propriété des personnes publ... - art. R3211-44 (V)
 
 
 ###### Article R79
