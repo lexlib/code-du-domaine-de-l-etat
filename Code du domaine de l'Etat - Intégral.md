@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1983-02-22
+Version Consolidée au 1983-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -190,8 +190,10 @@ Version Consolidée au 1983-02-22
       - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#187)
         - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#188)
         - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#189)
-    - [Livre IV : Dispositions diverses (art. A122)](#190)
-      - [Titre V : Dispositions particulières et finales. (art. A122)](#191)
+    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#190)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#191)
+        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#192)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#193)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -16337,7 +16339,71 @@ _Cite_:
 
 ## Livre IV : Dispositions diverses<a id=190></a>
 
-### Titre V : Dispositions particulières et finales.<a id=191></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=191></a>
+
+#### Chapitre V : Concessions de logements.<a id=192></a>
+
+###### Article A120-1
+
+Les dispositions de l'article A. 92 sont applicables dans les cas visés à l'article D. 35.
+
+Toutefois, pour les personnels militaires, le pourcentage d'abattement tenant compte de l'obligation de loger dans les locaux
+concédés est fixé dans tous les cas à 10 % de la valeur locative, sans préjudice de la majoration de 3 % applicable lorsque
+les locaux sont particulièrement éloignés du centre de la localité.
+
+En outre, pour les mêmes personnels, le pourcentage d'abattement tenant compte des charges anormales que la concession fait
+supporter à son bénéficiaire comprend, outre le pourcentage de 0 à 18 % prévu à l'article A. 92, un pourcentage
+supplémentaire de 20 % lorsque l'obligation faite à l'agent logé de rejoindre son lieu d'affectation sans son mobilier le
+contraint à conserver un logement dans la métropole ou à placer ce mobilier dans un garde-meubles.
+
+L'abattement total ne peut toutefois, en aucun cas, excéder 50 % de la valeur locative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1983-06-01 art. 1, art. 3 JORF 20 juin 1983 en vigueur le 1er juin 1983
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A121 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A92 (V)
+  - Code du domaine de l'Etat - art. D35 (V)
+
+
+###### Article A121
+
+Les dispositions des articles A. 93-1 à A. 93-8 sont applicables dans les départements de la Guadeloupe, de la Guyane
+française, de la Martinique et de la Réunion.
+
+Toutefois, pour le calcul de l'abattement prévu à l'article R. 100, il est fait application, en ce qui concerne les
+personnels militaires, des dispositions des deuxième, troisième et quatrième alinéas de l'article A. 120-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1983-06-01 art. 2, art. 3 JORF 8 juin 1983 en vigueur le 1er juin 1983
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A120-1 (V)
+  - Code du domaine de l'Etat - art. R100 (V)
+  - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
+
+
+### Titre V : Dispositions particulières et finales.<a id=193></a>
 
 ###### Article A122
 
