@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1978-03-25
+Version Consolidée au 1978-06-08
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -7844,6 +7844,48 @@ _Cité par_:
 
   - Code du domaine de l'Etat - art. R140 (Ab)
   - Code du domaine de l'Etat - art. R69 (Ab)
+
+
+###### Article R140
+
+Les cahiers des charges visés au dernier alinéa de l'article R. 139 peuvent prévoir notamment qu'un pourcentage de logements
+seront réservés au profit des fonctionnaires civils ou militaires de l'Etat, dans les immeubles d'habitation dont la
+construction doit être réalisée.
+
+Lorsque la cession est consentie au profit d'un organisme d'habitation à loyer modéré qui bénéficie pour cette construction
+des facilités de financement prévues à l'article R. 431-3 du code de la construction et de l'habitation, le prix des terrains
+cédés peut être réduit dans une proportion correspondant au pourcentage des logements réservés en vertu de l'alinéa
+précédent.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L97
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R139
+  - Code de la construction et de l'habitation. - art. R431-3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-12 (V)
+  - Code général de la propriété des personnes publ... - art. R3211-47 (V)
 
 
 ###### Article R141
