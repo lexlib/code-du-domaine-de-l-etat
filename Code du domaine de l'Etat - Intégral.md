@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1986-02-11
+Version Consolidée au 1987-04-16
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -128,74 +128,78 @@ Version Consolidée au 1986-02-11
         - [Chapitre Ier : Recouvrement des produits domaniaux (art. R153 à R157-2)](#125)
           - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#126)
         - [Chapitre II : Instances. (art. R158 à R163)](#127)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170)](#128)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170-64)](#128)
         - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R170)](#129)
-      - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#130)
-  - [Partie réglementaire - Décrets simples (art. D1 à D44)](#131)
-    - [Livre Ier : Composition du domaine (art. D1 à D5)](#132)
-      - [Titre II : Origine des biens (art. D1 à D5)](#133)
-        - [Chapitre II : Domaine privé (art. D1 à D5)](#134)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D1 à D5)](#135)
-            - [Paragraphe 2 : Dispositions spéciales. (art. D1 à D5)](#136)
-    - [Livre II : Administration des biens domaniaux (art. D11 à D17)](#137)
-      - [Titre II : Domaine privé (art. D11 à D15)](#138)
-        - [Chapitre Ier : Domaine immobilier (art. D11 à D15)](#139)
-          - [Section 1 : Locations (art. D11)](#140)
-            - [Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales. (art. D11)](#141)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D13 à D15)](#142)
-      - [Titre III : Dispositions communes. (art. D16 à D17)](#143)
-        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. D16 à D17)](#144)
-    - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#145)
-      - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#146)
-        - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#147)
-          - [Section 2 : Ventes soumises à des règles particulières (art. D17-1 à D18)](#148)
-            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. D17-1)](#149)
-            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#150)
-    - [Livre IV : Dispositions diverses (art. D18-1 à D44)](#151)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D18-1 à D35)](#152)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. D18-1)](#153)
-        - [Chapitre III : Concessions domaniales en Guyane. (art. D19 à D32)](#154)
-        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#155)
-        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#156)
-      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#157)
-  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#158)
-    - [Livre Ier : Composition du domaine (art. A01 à A11)](#159)
-      - [Titre II : Origine des biens (art. A01 à A5)](#160)
-        - [Chapitre II : Domaine privé (art. A01 à A5)](#161)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#162)
-            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#163)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#164)
-      - [Titre III : Inventaire des biens. (art. A7 à A11)](#165)
-    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#166)
-      - [Titre Ier : Domaine public (art. A12 à A72)](#167)
-        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#168)
-          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#169)
-            - [A) Arrêtés individuels. (art. A12 à A19)](#170)
-            - [B) Arrêtés généraux. (art. A20 à A25)](#171)
-            - [C) Dispositions communes. (art. A26 à A30)](#172)
-          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#173)
-        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#174)
-          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#175)
-            - [A) Arrêtés individuels. (art. A40 à A44)](#176)
-            - [B) Arrêtés généraux. (art. A45 à A46)](#177)
-            - [C) Dispositions communes. (art. A47 à A48)](#178)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#179)
-        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A60 à A72)](#180)
-      - [Titre II : Domaine privé (art. A73 à A104)](#181)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#182)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#183)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#184)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#185)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#186)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#187)
-    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#188)
-      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#189)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#190)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#191)
-    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#192)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#193)
-        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#194)
-      - [Titre V : Dispositions particulières et finales. (art. A122)](#195)
+        - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-64)](#130)
+          - [Section 1 : Actes passés en vue de la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46)](#131)
+          - [Section 2 : Concessions et cessions d'immeubles domaniaux. (art. R170-47 à R170-54)](#132)
+          - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt. (art. R170-57 à R170-66)](#133)
+          - [Section 4 : Dispositions communes et diverses. (art. R170-62 à R170-64)](#134)
+      - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#135)
+  - [Partie réglementaire - Décrets simples (art. D1 à D44)](#136)
+    - [Livre Ier : Composition du domaine (art. D1 à D5)](#137)
+      - [Titre II : Origine des biens (art. D1 à D5)](#138)
+        - [Chapitre II : Domaine privé (art. D1 à D5)](#139)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D1 à D5)](#140)
+            - [Paragraphe 2 : Dispositions spéciales. (art. D1 à D5)](#141)
+    - [Livre II : Administration des biens domaniaux (art. D11 à D17)](#142)
+      - [Titre II : Domaine privé (art. D11 à D15)](#143)
+        - [Chapitre Ier : Domaine immobilier (art. D11 à D15)](#144)
+          - [Section 1 : Locations (art. D11)](#145)
+            - [Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales. (art. D11)](#146)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D13 à D15)](#147)
+      - [Titre III : Dispositions communes. (art. D16 à D17)](#148)
+        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. D16 à D17)](#149)
+    - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#150)
+      - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#151)
+        - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#152)
+          - [Section 2 : Ventes soumises à des règles particulières (art. D17-1 à D18)](#153)
+            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. D17-1)](#154)
+            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#155)
+    - [Livre IV : Dispositions diverses (art. D18-1 à D44)](#156)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D18-1 à D35)](#157)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. D18-1)](#158)
+        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#159)
+        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#160)
+      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#161)
+  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#162)
+    - [Livre Ier : Composition du domaine (art. A01 à A11)](#163)
+      - [Titre II : Origine des biens (art. A01 à A5)](#164)
+        - [Chapitre II : Domaine privé (art. A01 à A5)](#165)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#166)
+            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#167)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#168)
+      - [Titre III : Inventaire des biens. (art. A7 à A11)](#169)
+    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#170)
+      - [Titre Ier : Domaine public (art. A12 à A72)](#171)
+        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#172)
+          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#173)
+            - [A) Arrêtés individuels. (art. A12 à A19)](#174)
+            - [B) Arrêtés généraux. (art. A20 à A25)](#175)
+            - [C) Dispositions communes. (art. A26 à A30)](#176)
+          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#177)
+        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#178)
+          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#179)
+            - [A) Arrêtés individuels. (art. A40 à A44)](#180)
+            - [B) Arrêtés généraux. (art. A45 à A46)](#181)
+            - [C) Dispositions communes. (art. A47 à A48)](#182)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#183)
+        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A60 à A72)](#184)
+      - [Titre II : Domaine privé (art. A73 à A104)](#185)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#186)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#187)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#188)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#189)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#190)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#191)
+    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#192)
+      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#193)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#194)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#195)
+    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#196)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#197)
+        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#198)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#199)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -10957,7 +10961,780 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R170-4 (Ab)
 
 
-### Titre V : Dispositions particulières et finales.<a id=130></a>
+#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=130></a>
+
+##### Section 1 : Actes passés en vue de la mise en valeur agricole des terres domaniales.<a id=131></a>
+
+###### Article R170-31
+
+Dans le département de Guyane, les terres dépendant du domaine privé de l'Etat peuvent faire l'objet en vue de leur mise en
+valeur agricole :
+
+1° De concessions en vue de la culture ou de l'élevage dans les conditions prévues aux articles R. 170-32 à R. 170-42 ;
+
+2° De cessions à l'expiration des concessions mentionnées au 1er ci-dessus dans les conditions prévues aux articles R. 170-43
+et R. 170-44 ;
+
+3° De baux agricoles dans les conditions prévues à l'article R. 170-45 ;
+
+4° De conventions de mise en valeur passées avec une collectivité locale conformément aux dispositions de l'article R.
+170-46.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
+  - Code du domaine de l'Etat - art. R170-32 (Ab)
+  - Code du domaine de l'Etat - art. R170-45 (Ab)
+  - Code du domaine de l'Etat - art. R170-46 (Ab)
+  - Code du domaine de l'Etat - art. R170-63 (M)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-43 (M)
+  - Code du domaine de l'Etat - art. R170-44 (M)
+  - Code du domaine de l'Etat R170-32 à R170-42, R170-43, R170-44, R170-45, R170-46
+
+
+###### Article R170-32
+
+Les concessions mentionnées au 1° de l'article R. 170-31 sont accordées sur des terres d'une superficie maximale de cinq
+hectares et pour une période probatoire de cinq ans. Pendant cette période, le concessionnaire est tenu, sur la totalité de
+la superficie concédée exploitable, de réaliser un programme de travaux de mise en valeur agricole.
+
+Si les travaux de mise en valeur ne sont pas réalisés dans les délais fixés, des délais supplémentaires peuvent être accordés
+au concessionnaire sur sa demande. L'octroi de ces délais entraîne une prorogation de la durée de la concession, sans que la
+durée totale de celle-ci puisse excéder dix ans.
+
+A l'expiration de la concession, le concessionnaire qui n'y a pas renoncé ou n'en a pas été déchu bénéficie, sur sa demande,
+du transfert de propriété de l'immeuble concédé dans les conditions prévues à l'article R. 170-43. S'il renonce à demander le
+transfert de propriété ou s'il ne remplit pas les conditions pour l'obtenir, la concession prend fin en application des
+dispositions des articles R. 170-40 à R. 170-42.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-31 (M)
+  - Code du domaine de l'Etat - art. R170-43 (M)
+  - Code du domaine de l'Etat R170-31, R170-43, R170-40 à R170-42
+
+
+###### Article R170-33
+
+Ne peut bénéficier d'une concession qu'une personne physique majeure admise à séjourner régulièrement et à titre permanent en
+Guyane.
+
+Lors de la demande de concession, la personne s'engage à exercer la profession d'agriculteur à titre principal et à exploiter
+personnellement la concession. Est réputée exploitation personnelle celle qui est faite par le concessionnaire exploitant les
+terres avec sa famille ou qui les fait cultiver par un ouvrier sous sa direction et à ses frais.
+
+Dans tous les cas, l'administration apprécie s'il y a lieu d'attribuer la concession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-35 (M)
+
+
+###### Article R170-34
+
+L'acte de concession fixe le lieu et la nature de l'exploitation, le programme de travaux, les conditions et délais de sa
+réalisation par tranches et les conditions d'occupation des immeubles bâtis et non bâtis.
+
+L'acte de concession est complété par un cahier des charges conforme à un modèle établi par arrêté conjoint des ministres
+chargés des départements d'outre-mer, du domaine et de l'agriculture, qui détermine les clauses et conditions générales des
+concessions et notamment :
+
+1° La composition des dossiers de demande de concession ;
+
+2° Les conditions dans lesquelles les concessionnaires s'acquittent des obligations générales et des obligations propres à
+certains types d'exploitation et spécialement en matière de délimitation de l'immeuble concédé et de participation du
+concessionnaire à des associations foncières ou d'irrigation ;
+
+3° Les modalités du contrôle sur le terrain de l'exécution des travaux ;
+
+4° Les modalités de délivrance et de prorogation du titre de concession ;
+
+5° Les modalités de liquidation, de perception et de révision de la redevance domaniale, de remboursement des taxes foncières
+et autres impôts auxquels est, ou pourrait être, assujetti l'immeuble concédé ainsi que les modalités de liquidation des
+intérêts de retard.
+
+Un état des lieux établi contradictoirement est annexé à l'acte de concession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+
+###### Article R170-37
+
+La concession ne peut être accordée qu'après que la demande a fait l'objet d'une publication par extrait, aux frais du
+demandeur, dans un journal diffusé dans le département.
+
+La demande, accompagnée d'un plan de situation, fait également l'objet d'un affichage de trente jours à la mairie de chacune
+des communes sur le territoire de laquelle se situe le terrain demandé.
+
+Les ayants droit éventuels sur tout ou partie du terrain ont quinze jours à compter de la dernière des publicités prescrites
+pour faire opposition entre les mains du directeur des services fiscaux ; les réclamations qui seraient formulées après ce
+délai ne sont pas prises en compte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-38 (Ab)
+  - Code du domaine de l'Etat - art. R170-41 (Ab)
+  - Code du domaine de l'Etat - art. R170-45 (Ab)
+  - Code du domaine de l'Etat - art. R170-46-2 (M)
+
+
+###### Article R170-39
+
+Le concessionnaire est tenu de verser une redevance annuelle. Celle-ci est liquidée sur la base de tarifs fixés
+forfaitairement chaque année pour chaque commune et par hectare selon la nature des cultures ou de l'élevage par le directeur
+des services fiscaux après avis du chef du service de l'Etat chargé de l'agriculture.
+
+La redevance ainsi déterminée est, le cas échéant, majorée pour tenir compte des constructions et aménagements existants à la
+date de la concession.
+
+La redevance est payable d'avance. A défaut de paiement dans les délais prévus par l'acte de concession, la déchéance peut
+être prononcée dans les conditions prévues à l'article R. 170-40.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-40 (M)
+
+
+###### Article R170-42
+
+Lorsqu'une concession est déclarée vacante, le concessionnaire n'a droit à aucune indemnité pour les constructions et
+aménagements réalisés sur la concession.
+
+La déclaration de vacance entraîne pour le bénéficiaire de la concession ou ses ayants droit obligation d'enlever le
+matériel, le cheptel et les produits existants.
+
+La déclaration précise si la démolition des bâtiments est exigée des intéressés. Elle indique les délais à l'issue desquels,
+faute par eux d'avoir enlevé les récoltes, le matériel et le cheptel, chacun de ces éléments de l'exploitation sera considéré
+comme abandonné et vendu par l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+
+###### Article R170-43
+
+La cession ne peut intervenir que si le programme des travaux a été exécuté et si l'intéressé s'est acquitté de l'ensemble de
+ses obligations.
+
+La demande de cession doit parvenir six mois avant l'expiration de la concession.
+
+Il est statué avant l'expiration de celle-ci, faute de quoi la concession est prorogée de plein droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-31 (M)
+  - Code du domaine de l'Etat - art. R170-32 (Ab)
+  - Code du domaine de l'Etat - art. R170-66 (M)
+
+
+###### Article R170-44
+
+Le transfert de propriété a lieu à titre gratuit. Le cessionnaire est cependant tenu de payer les frais d'établissement,
+d'expédition et de publication de l'acte de cession, ainsi que les frais de transcription à la conservation des hypothèques.
+
+Lorsque la cession porte sur des terres situées dans une zone régie par une convention passée en application de l'article R.
+170-46, le cessionnaire est tenu de verser pendant une période maximale de dix ans une redevance annuelle. Le montant de la
+redevance prend en compte les dépenses d'aménagement et d'entretien de la zone par la collectivité. Il est fixé selon des
+modalités définies dans l'acte de concession.
+
+Le transfert de propriété est consenti sous la condition résolutoire de maintien de la destination agricole de l'immeuble
+cédé pendant dix ans et sous réserve de l'application des dispositions de l'article R. 170-65.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 2 (Ab)
+  - Code du domaine de l'Etat - art. R170-31 (M)
+  - Code du domaine de l'Etat - art. R170-46 (M)
+  - Code du domaine de l'Etat - art. R170-66 (M)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-65 (M)
+
+
+###### Article R170-45
+
+Les baux agricoles mentionnés au 3° de l'article R. 170-31 sont régis par les dispositions du code rural.
+
+Toutefois, les formalités prévues par les articles R. 170-35 et R. 170-37 pour les demandes de concession sont applicables à
+la passation des baux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-31 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-35 (M)
+  - Code du domaine de l'Etat - art. R170-37 (M)
+
+
+###### Article R170-46
+
+L'Etat peut passer avec la région, le département ou une commune de Guyane une convention en vue de réaliser dans une zone
+déterminée des équipements destinés à la mise en valeur agricole des terres domaniales. Ces terres peuvent faire l'objet de
+concessions par l'Etat suivies de cessions dans les conditions prévues aux 1° et 2° de l'article R. 170-31 ou de baux passés
+par la collectivité au nom de l'Etat pendant une période qui ne peut excéder cinq ans à compter de l'achèvement des travaux
+d'équipement de la zone.
+
+La convention définit les obligations de la collectivité territoriale et les modalités de contrôle de l'opération. Cette
+opération est faite sous la responsabilité de la collectivité territoriale et à ses frais. Elle fixe les délais d'exécution
+des travaux à la charge de la collectivité.
+
+La convention détermine celles des terres de la zone qui font l'objet d'une concession et celles pour lesquelles la
+collectivité est habilitée à passer des baux. Elle fixe, dans la limite de dix-huit ans, en ce qui concerne les terres
+concédées, les délais pendant lesquels une fraction de la redevance payée par les concessionnaires est reversée à la
+collectivité et, en ce qui concerne les terres louées, les délais pendant lesquels la collectivité percevra directement le
+loyer. La convention précise, en outre, les délais pendant lesquels l'Etat reversera à la collectivité la redevance prévue au
+deuxième alinéa de l'article R. 170-44.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-31 (Ab)
+  - Code du domaine de l'Etat - art. R170-44 (Ab)
+  - Code du domaine de l'Etat - art. R170-66 (M)
+
+
+##### Section 2 : Concessions et cessions d'immeubles domaniaux.<a id=132></a>
+
+###### Article R170-47
+
+Les immeubles dépendant du domaine privé de l'Etat peuvent faire l'objet, dans les conditions prévues à la présente section,
+de concessions et de cessions aux collectivités territoriales de Guyane en vue de leur aménagement conformément aux
+dispositions du deuxième alinéa de l'article L. 91.
+
+Les concessions sont consenties pour une durée de cinq ans, prorogeable une fois.
+
+Les concessions sont gratuites. Toutefois, lorsqu'une collectivité locale souhaite s'assurer la maîtrise d'un ensemble
+d'immeubles qui ne sont pas tous destinés à recevoir une affectation justifiant la gratuité, une concession peut lui être
+accordée pour la même durée dans le but de constituer une réserve foncière ; dans ce cas, l'acte de concession prévoit le
+paiement d'une redevance annuelle établie à titre prévisionnel et payable d'avance ; le montant définitif de la redevance est
+fixé six mois avant la date d'expiration de la concession.
+
+A l'expiration de la concession, le transfert de propriété a lieu de plein droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L91 (Ab)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-50 (Ab)
+  - Code du domaine de l'Etat - art. R170-54 (M)
+  - Code du domaine de l'Etat - art. R170-65 (M)
+  - Code du domaine de l'Etat - art. R170-66 (M)
+  - Code du domaine de l'Etat - art. R170-69 (Ab)
+
+
+###### Article R170-48
+
+La collectivité concessionnaire peut, par avenant à l'acte de concession, être autorisée à donner aux immeubles concédés une
+affectation différente de celle qui était prévue initialement. Si la nouvelle affectation ne justifie pas la gratuité,
+l'avenant prévoit le paiement de la redevance correspondante à compter de l'année au cours de laquelle l'avenant est
+intervenu ; si la nouvelle affectation justifie la gratuité, l'avenant prévoit la dispense du paiement de la redevance pour
+les années postérieures à son intervention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-50 (M)
+
+
+###### Article R170-49
+
+En cours de concession, la collectivité concessionnaire peut demander que les immeubles lui soient cédés ou soient cédés à
+des tiers. En cas de cession de la totalité des immeubles concédés, la concession se trouve résolue de plein droit. En cas de
+cession partielle, les immeubles cédés sont distraits de la concession.
+
+Dans le cas où la cession des immeubles ou partie d'immeubles concédés a lieu au bénéfice d'un tiers, l'Etat reverse à la
+collectivité concessionnaire la plus-value qui, éventuellement conférée par les travaux que la collectivité a pu exécuter sur
+les biens cédés a été mise à la charge du cessionnaire par l'acte de cession ; cette plus-value est déterminée par le
+directeur des services fiscaux, déduction faite des subventions accordées par l'Etat pour ces travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+
+###### Article R170-51
+
+En cas de déchéance de la collectivité concessionnaire, celle-ci ne peut prétendre au versement par l'Etat d'aucune
+indemnité.
+
+Dans ce cas, les marchés passés par la collectivité en qualité de concessionnaire, les locations ou occupations par elle
+consenties en cette qualité et, d'une façon générale, tous les actes, ayant pour objet ou pour effet d'engager la
+responsabilité de la collectivité vis-à-vis des tiers ne sont pas opposables à l'Etat. Aucune indemnité ne peut être réclamée
+à ce dernier par des tiers envers lesquels la collectivité serait débitrice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+
+###### Article R170-53
+
+Si la déchéance de la concession n'a pas été prononcée, le transfert de propriété a lieu à l'expiration de la concession dans
+les conditions prévues à l'acte de concession et ses avenants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+
+###### Article R170-54
+
+Lorsque les immeubles entrent dans une des catégories mentionnées au deuxième alinéa de l'article L. 91, le transfert de
+propriété a lieu à titre gratuit.
+
+Lorsque les immeubles ont fait l'objet d'une concession dans les conditions prévues au troisième alinéa de l'article R.
+170-47, le transfert a lieu moyennant le paiement d'un prix correspondant à la valeur vénale des immeubles, compte tenu de
+leur consistance à la date de prise d'effet de la concession. Le prix est fixé dans les conditions prévues à l'article R.
+130.
+
+L'acte de cession auquel est annexé un extrait du plan cadastral indique la consistance et la destination des immeubles ainsi
+que les délais et les conditions dans lesquels les immeubles cédés à la collectivité peuvent faire l'objet d'une aliénation à
+des tiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L91 (Ab)
+  - Code du domaine de l'Etat - art. R130 (Ab)
+  - Code du domaine de l'Etat - art. R170-47 (M)
+
+
+##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.<a id=133></a>
+
+###### Article R170-57
+
+Les droits d'usage mentionnés à l'article R. 170-56 ne peuvent être exercés que sous réserve de l'application des
+dispositions relatives à la recherche et à l'exploitation de substances minières et des dispositions relatives à la
+protection de la nature et des espèces animales et à la défense de l'environnement. Ils ne font pas obstacle à la réalisation
+de travaux d'aménagement ou d'équipement collectifs.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-56
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5143-2 (V)
+
+
+###### Article R170-58
+
+Les communautés d'habitants mentionnées à l'article R. 170-56, constituées en associations ou en sociétés, peuvent demander à
+bénéficier d'une concession à titre gratuit des terrains domaniaux situés dans une zone déterminée en vue de la culture ou de
+l'élevage ou pour pourvoir à l'habitat de leurs membres.
+
+La concession ne peut être accordée que pour une durée limitée. Elle est renouvelable. L'arrêté de concession est publié au
+bulletin des actes administratifs de la Guyane.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code forestier (nouveau) - art. R272-12 (V)
+  - Code forestier - art. R172-7 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-56
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5143-3 (V)
+
+
+###### Article R170-59
+
+La concession peut être retirée, lorsque les membres de l'association ou de la société ont cessé définitivement de résider
+dans la zone, lorsque l'association ou la société est dissoute, si elle se trouve dans l'impossibilité de remplir les
+obligations mises à sa charge par l'acte de concession ou si ses activités sont contraires à la destination prévue par cet
+acte.
+
+La concession peut faire l'objet d'un retrait partiel si, sur une partie des terrains de la zone, les membres de
+l'association ou de la société ont cessé définitivement de résider, s'ils ne remplissent pas les obligations mises à la
+charge de l'association ou de la société ou s'ils exercent des activités contraires à la destination prévue.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5143-4 (V)
+
+
+###### Article R170-60
+
+Avant l'expiration de la concession et selon les modalités prévues par l'acte de concession, l'association ou la société
+concessionnaire peut demander que les terrains lui soient cédés à titre gratuit en vue de la culture ou de l'élevage ou pour
+pourvoir à l'habitat de ses membres.
+
+Le transfert de propriété est consenti par l'Etat sous la condition résolutoire d'une résidence effective des intéressés dans
+la zone pendant un délai de dix ans et du maintien pendant le même délai de la destination prévue dans l'acte de cession.
+
+L'acte de cession indique les délais et les conditions dans lesquels les immeubles cédés peuvent faire l'objet d'une
+aliénation.
+
+La dissolution de l'association ou de la société cessionnaire dans les dix ans de l'acte de cession entraîne, de plein droit,
+la résolution de la cession.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-66 (M)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5143-5 (V)
+
+
+###### Article R170-66
+
+Les cessions prévues aux articles R. 170-43, R. 170-44, R. 170-46 et R. 170-60 doivent mentionner les conditions auxquelles
+le transfert de propriété est consenti et notamment celles des conditions dont l'inobservation entraîne la résolution de la
+cession.
+
+Les concessions prévues à l'article R. 170-47 doivent mentionner les conditions auxquelles le transfert de propriété sera
+consenti et notamment celles des conditions dont l'inobservation entraîne la résolution de la cession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-43 (M)
+  - Code du domaine de l'Etat - art. R170-44 (M)
+  - Code du domaine de l'Etat - art. R170-46 (M)
+  - Code du domaine de l'Etat - art. R170-47 (M)
+  - Code du domaine de l'Etat - art. R170-60 (V)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+  - Code du domaine de l'Etat - art. R170-69 (M)
+
+
+##### Section 4 : Dispositions communes et diverses.<a id=134></a>
+
+###### Article R170-62
+
+Le directeur des services fiscaux, compétent pour fixer la valeur des immeubles, est également compétent pour fixer les
+modalités financières des opérations prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Décret n°96-954 du 31 octobre 1996 - art. 4 (VT)
+
+_Nouveaux textes_:
+
+  - Code du domaine de l'Etat R170-65 (2è version)
+
+
+###### Article R170-63
+
+Les actes portant sur des immeubles gérés par l'Office national des forêts sont pris après avis du représentant de l'office.
+L'avis est réputé donné, s'il n'a pas été transmis par le représentant de l'office dans les deux mois de sa saisine.
+
+La concession, la cession, le bail et la convention mentionnée au 4° de l'article R. 170-31 ainsi que la reconnaissance des
+droits d'usage mentionnée à l'article R. 170-56, sur des immeubles qui dépendent de l'Office national des forêts, mettent fin
+à la gestion de l'office sur ces immeubles, sauf dispositions contraires de l'acte relatif à ces opérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-31 (M)
+  - Code du domaine de l'Etat - art. R170-56 (V)
+
+_Nouveaux textes_:
+
+  - Code du domaine de l'Etat R170-67 (3è version)
+
+
+###### Article R170-64
+
+Les concessions prévues au présent chapitre ne peuvent faire obstacle ni à l'exécution par l'Etat d'opérations tendant à la
+recherche de substances minières et à leur exploitation, ni à l'exécution de travaux d'aménagement ou d'équipement collectif.
+Les troubles de jouissance qui pourraient en résulter pour le bénéficiaire de la concession ne peuvent donner lieu à une
+indemnité à la charge de l'Etat.
+
+L'acte de concession doit, à peine de nullité, mentionner les dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R170-65 (M)
+
+_Nouveaux textes_:
+
+  - Code du domaine de l'Etat R170-68 (2è version)
+
+
+### Titre V : Dispositions particulières et finales.<a id=135></a>
 
 ###### Article R171
 
@@ -11613,17 +12390,17 @@ _Créé par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-# Partie réglementaire - Décrets simples<a id=131></a>
+# Partie réglementaire - Décrets simples<a id=136></a>
 
-## Livre Ier : Composition du domaine<a id=132></a>
+## Livre Ier : Composition du domaine<a id=137></a>
 
-### Titre II : Origine des biens<a id=133></a>
+### Titre II : Origine des biens<a id=138></a>
 
-#### Chapitre II : Domaine privé<a id=134></a>
+#### Chapitre II : Domaine privé<a id=139></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=135></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=140></a>
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=136></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=141></a>
 
 ###### Article D1
 
@@ -11773,15 +12550,15 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-## Livre II : Administration des biens domaniaux<a id=137></a>
+## Livre II : Administration des biens domaniaux<a id=142></a>
 
-### Titre II : Domaine privé<a id=138></a>
+### Titre II : Domaine privé<a id=143></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=139></a>
+#### Chapitre Ier : Domaine immobilier<a id=144></a>
 
-##### Section 1 : Locations<a id=140></a>
+##### Section 1 : Locations<a id=145></a>
 
-##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.<a id=141></a>
+##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.<a id=146></a>
 
 ###### Article D11
 
@@ -11803,7 +12580,7 @@ _Créé par_:
   - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=142></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=147></a>
 
 ###### Article D13
 
@@ -11937,9 +12714,9 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre III : Dispositions communes.<a id=143></a>
+### Titre III : Dispositions communes.<a id=148></a>
 
-#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=144></a>
+#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=149></a>
 
 ###### Article D16
 
@@ -12012,15 +12789,15 @@ _Cité par_:
   - Décret n°87-359 du 26 mai 1987 - art. 8 (V)
 
 
-## Livre III : Aliénation des biens domaniaux<a id=145></a>
+## Livre III : Aliénation des biens domaniaux<a id=150></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=146></a>
+### Titre II : Aliénation des biens du domaine privé<a id=151></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=147></a>
+#### Chapitre Ier : Domaine immobilier<a id=152></a>
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=148></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=153></a>
 
-##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=149></a>
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=154></a>
 
 ###### Article D17-1
 
@@ -12073,7 +12850,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=150></a>
+##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=155></a>
 
 ###### Article D18
 
@@ -12101,11 +12878,11 @@ _Cité par_:
   - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
 
 
-## Livre IV : Dispositions diverses<a id=151></a>
+## Livre IV : Dispositions diverses<a id=156></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=152></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=157></a>
 
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=153></a>
+#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=158></a>
 
 ###### Article D18-1
 
@@ -12167,639 +12944,7 @@ _Abrogé par_:
   - Décret n°89-734 1989-10-13 art. 3 JORF 14 octobre 1989
 
 
-#### Chapitre III : Concessions domaniales en Guyane.<a id=154></a>
-
-###### Article D19
-
-Les concessions de terres domaniales, dans le département de la Guyane, dont l'octroi est prévu par l'article L. 91, ne
-peuvent être accordées qu'aux personnes remplissant les conditions prévues à l'article D. 20.
-
-Dans tous les cas, l'administration conserve la faculté d'apprécier l'opportunité de l'attribution des terres domaniales et
-reste seule juge des motifs de refus.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 3
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D20 (Ab)
-  - Code du domaine de l'Etat - art. L91 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-
-###### Article D20
-
-Peuvent seules bénéficier des concessions prévues au présent décret les personnes physiques et morales remplissant les
-conditions suivantes :
-
-1° Personnes physiques :
-
-Etre de nationalité française et avoir satisfait à ses obligations obligations militaires ou, pour les étrangers, remplir les
-conditions pour être admis à acquérir le droit de résider en Guyane.
-
-Etre agriculteur de profession ou fils d'agriculteur exploitant ou titulaire d'un diplôme délivré par un établissement
-agricole dépendant du ministère de l'agriculture, ainsi que des écoles d'agriculture publiques ou privées ou dépendant des
-universités.
-
-Pour les étrangers, les diplômes exigés sont ceux dont l'équivalence est reconnue avec les diplômes français. Toutefois, des
-dérogations aux dispositions du paragraphe 1° du présent article peuvent être accordées par le Préfet, après avis du chef du
-service local des domaines et des représentants locaux des services relevant du ministère de l'agriculture.
-
-2° Personnes morales :
-
-Toutes sociétés se livrant normalement à l'exploitation agricole et les sociétés d'Etat prévues par l'article 2 de la loi n°
-46-860 du 30 avril 1946. Ces collectivités peuvent bénéficier d'aménagements spéciaux en ce qui concerne la limite de la
-superficie des concessions, telle qu'elle est fixée par les articles D. 23, D. 24, D. 25 et D. 26.
-
-Les dérogations aux dispositions contenues dans ces articles sont accordées éventuellement par arrêté du ministre de
-l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°46-860 du 30 avril 1946 - art. 2 (V)
-  - Code du domaine de l'Etat - art. D23 (Ab)
-  - Code du domaine de l'Etat - art. D24 (Ab)
-  - Code du domaine de l'Etat - art. D25 (Ab)
-  - Code du domaine de l'Etat - art. D26 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 4
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D19 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-
-###### Article D21
-
-Les savanes situées à l'ouest de la rivière Cayenne sont, en principe, réservées aux concessions d'élevage, sauf en ce qui
-concerne les terrains situés à proximité des villages nécessaires pour la culture maraîchère et l'élevage des animaux
-appartenant aux habitants de ces villages à la date du 10 janvier 1961, ainsi que les terres qui pourraient être affectées à
-des plantations arbustives telles que cacaoyer, caféier ou palmier à huile.
-
-Toutefois, les massifs forestiers de plus de 1000 hectares d'un seul tenant ne peuvent être concédés sauf dérogation, de même
-que les superficies boisées présentant un intérêt climatique ou hydrologique ou dont la mise en réserve s'impose pour assurer
-le ravitaillement en bois à feu des agglomérations voisines.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 5
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D25 (Ab)
-
-
-###### Article D22
-
-Un arrêté préfectoral pris sur les propositions des représentants des services locaux du ministère de l'agriculture et du
-chef du service local des domaines détermine les formations forestières à réserver en vertu des dispositions de l'article
-précédent.
-
-Les zones destinées à la culture maraîchère, à l'arboriculture fruitière et à l'élevage des animaux sont délimitées par les
-services techniques intéressés pour chaque agglomération.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 6
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D23 (Ab)
-  - Code du domaine de l'Etat - art. D24 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-
-###### Article D23
-
-A l'intérieur des zones délimitées dans les conditions prévues au 2e alinéa de l'article D. 22, des concessions peuvent être
-accordées, moyennant paiement des redevances fixées à l'article D. 27, aux propriétaires d'animaux à raison de 2 à 6
-hectares, par tête de bétail.
-
-Une commission comprenant, sous la présidence du préfet, un représentant des services locaux relevant du ministère de
-l'agriculture, un représentant du service des domaines, le maire de la commune, et un propriétaire agricole domicilié dans la
-commune, est chargée de recenser les animaux vivants à la date du 10 janvier 1961.
-
-Les concessions sont accordées aux ayants droit, à titre provisoire, pour une durée de cinq années, à charge pour eux de les
-délimiter par des clôtures en fil de fer ou par tous autres procédés de caractère permanent agréés par l'administration et
-d'y effectuer en permanence des cultures destinées à l'alimentation du bétail sur au moins un huitième de la superficie.
-
-A l'expiration du délai de cinq ans, si les conditions n'ont pas été remplies, la déchéance de la concession peut être
-prononcée dans les conditions prévues à l'article D. 29.
-
-Si les conditions ont été remplies, le concessionnaire reçoit un titre définitif.
-
-L'octroi de ces concessions ne peut être réclamé par les personnes qui seraient déjà bénéficiaires d'une concession
-d'élevage, sauf dans la limite où la nouvelle base de calcul ferait apparaître une augmentation par rapport à la superficie
-primitivement concédée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 7
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D20 (Ab)
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D22 (Ab)
-  - Code du domaine de l'Etat - art. D27 (Ab)
-  - Code du domaine de l'Etat - art. D29 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-
-###### Article D24
-
-A l'intérieur des zones délimitées dans les conditions prévues au deuxième alinéa de l'article D. 22, il peut être accordé,
-moyennant paiement des redevances fixées à l'article D. 27, des concessions à destination de cultures maraîchères.
-
-La superficie de ces concessions est de l'ordre de 2 à 5 hectares.
-
-Ces concessions sont accordées à titre provisoire pour une durée de cinq ans. Pendant cette période, le concessionnaire est
-tenu de mettre obligatoirement en valeur la totalité de la superficie cultivable par des cultures vivrières (légumes,
-racines, céréales, etc.), par des cultures fruitières (arbres à pain, bananes, etc.), et par l'élevage d'animaux de basse-
-cour ou de porcs.
-
-Il peut être tenu d'édifier sur la concession des bâtiments d'exploitation et d'habitation dont les plans sont approuvés par
-les services locaux compétents.
-
-Les services locaux relevant du ministère de l'agriculture s'assurent de la mise en valeur rationnelle de la concession.
-
-A l'expiration du délai de cinq ans prévu au 3e alinéa du présent article, si les conditions de mise en valeur ont été
-remplies, le concessionnaire reçoit un titre définitif.
-
-Si le concessionnaire n'a pas satisfait aux obligations exigées ci-dessus, il peut être déchu de ses droits dans les
-conditions prévues à l'article D. 29 après mise en demeure par les services locaux relevant du ministère de l'agriculture, en
-bénéficiant du laps de temps nécessaire pour effectuer ses récoltes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 8
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D20 (Ab)
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D22 (Ab)
-  - Code du domaine de l'Etat - art. D27 (Ab)
-  - Code du domaine de l'Etat - art. D29 (Ab)
-
-
-###### Article D25
-
-Sous les réserves formulées à l'article D. 21 et en dehors des cultures préexistantes, des concessions d'élevage sont
-accordées moyennant le paiement des redevances fixées, à l'article D. 27 ci-après dans la région des savanes situées à
-l'ouest de la rivière Cayenne ou dans toutes régions désignées par le préfet après avis des représentants locaux des services
-relevant du ministère relevant du ministère de l'agriculture et du directeur des services fiscaux.
-
-La superficie de ces concessions est au maximum de 1000 hectares pour les particuliers et de 10000 hectares pour les
-sociétés. Leur forme est, autant que possible, rectangulaire, et leurs limites naturelles (marais, cours d'eau, forêts,
-etc.).
-
-Ces concessions sont accordées à titre provisoire pour une durée de cinq années.
-
-A l'expiration du délai de cinq ans, l'exécution des clauses et conditions du contrat de concession est vérifiée par les
-représentants des services locaux du ministère de l'agriculture. Si ces conditions ont été remplies, un titre définitif est
-accordé aux concessionnaires.
-
-Dans le cas contraire, la concession provisoire peut être renouvelée pour une nouvelle période de cinq années sur
-propositions des représentants locaux des services relevant du ministère de l'agriculture.
-
-A l'expiration de cette nouvelle période, la déchéance peut être prononcée dans les conditions prévues à l'article D. 29. Il
-en est de même à l'expiration de la première période de cinq ans, si la concession provisoire n'est pas renouvelée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 9
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1161 1970-11-12 art. 2 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D20 (Ab)
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D21 (Ab)
-  - Code du domaine de l'Etat - art. D27 (Ab)
-  - Code du domaine de l'Etat - art. D29 (Ab)
-
-
-###### Article D26
-
-Dans les régions dont le choix est laissé au préfet, après avis des représentants des services locaux relevant du ministère
-de l'agriculture et du directeur des services fiscaux, il peut être attribué, moyennant paiement des redevances fixées à
-l'article D. 27 ci-après, des concessions provisoires de culture d'une superficie maximum de 100 hectares pour les
-particuliers et de 1000 hectares pour les sociétés.
-
-Ces concessions sont accordées sous condition de pratiquer, à concurrence d'un huitième de la superficie totale, des cultures
-obligatoires sur les terrains désignés et dans les conditions fixées par les services locaux relevant du ministère de
-l'agriculture.
-
-La durée de la concession provisoire est de cinq années. Pendant cette période, le concessionnaire est tenu, sous peine de
-déchéance, de se conformer aux dispositions du contrat de concession relatives à la mise en valeur de la concession et de
-suivre les directives des services agricoles pour les cultures principales fixées par le contrat de concession.
-
-Ces obligations ne valent pas pour les cultures destinées à l'alimentation humaine ou à celle des animaux, établies sur le
-reste de l'exploitation.
-
-A l'expiration du délai de cinq ans, le concessionnaire reçoit un titre définitif s'il a satisfait à toutes ses obligations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 10
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1161 1970-12-11 art. 3 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D20 (Ab)
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D27 (Ab)
-
-
-###### Article D27
-
-Pendant la durée de la concession provisoire, les concessionnaires sont tenus de verser à la caisse du comptable des impôts
-une redevance liquidée sur la base d'un tarif fixé forfaitairement par hectare et par an selon nature de la concession ; ce
-tarif peut être revisé par le service des domaines, après avis des services intéressés, à l'expiration d'un délai de cinq
-années courant du jour de son entrée en vigueur.
-
-Les redevances sont payables d'avance et par année.
-
-A défaut de paiement d'un seul terme, la déchéance peut être prononcée dans les conditions prévues à l'article D. 29.
-
-En tout état de cause, notamment en cas de déchéance quel qu'en soit le motif, les sommes versées restent acquises au Trésor.
-
-La délivrance du titre définitif de concession ne donne lieu au paiement d'aucune redevance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 11
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D23 (Ab)
-  - Code du domaine de l'Etat - art. D24 (Ab)
-  - Code du domaine de l'Etat - art. D25 (Ab)
-  - Code du domaine de l'Etat - art. D26 (Ab)
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D29 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°71-605 1971-07-15 art. 1 JORF 21 juillet 1971
-
-
-###### Article D28
-
-Une commission comprenant, sous la présidence du préfet, le directeur des services agricoles, l'ingénieur en chef du génie
-rural, le conservateur des eaux et forêts, le directeur des services, vétérinaires, le directeur des services fiscaux, deux
-représentants désignés par le préfet des organismes de coopération, d'assistance technique et de crédit, concourant à la mise
-en valeur de la Guyane et quatre agriculteurs également désignés par le préfet dont deux sont choisis parmi les membres des
-associations syndicales à caractère agricole, statue sur la délivrance des titres provisoires ou définitifs de concession.
-
-La surveillance des exploitations est assurée par les services relevant du ministère de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 12
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D31 (Ab)
-
-
-###### Article D29
-
-A défaut soit de mise en valeur dans les délais impartis des terres concédées, soit d'exécution des autres charges et
-conditions de la concession, l'administration peut prononcer la déchéance du concessionnaire. Elle établit, à cet effet, un
-procès-verbal constatant l'inexécution des obligations mises à la charge du concessionnaire après avoir fait sommation à
-l'intéressé ou à son représentant dûment mandaté d'assister aux constatations.
-
-La déchéance est prononcée par le préfet sur avis du directeur des services fiscaux et du directeur départemental de
-l'agriculture.
-
-La reprise de possession a lieu, sans aucune indemnité, un mois après la notification de la décision de déchéance au
-concessionnaire ou à ses ayants droit connus, et après affichage de ladite décision dans les formes réglementaires.
-
-En aucun cas, l'Etat n'est tenu de maintenir les sous-locations qui auraient pu être consenties par le concessionnaire déchu.
-
-En cas de déchéance d'un concessionnaire, une redevance fixée par le directeur des services fiscaux, après avis des
-représentants locaux des services relevant du ministère de l'agriculture, peut être mise à la charge du nouveau preneur,
-compte tenu des améliorations apportées par le concessionnaire déchu. Cette redevance, qui s'ajoute, le cas échéant, aux
-redevances prévues à l'article D. 27, est perçue dans les mêmes conditions que celles-ci.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 13
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D23 (Ab)
-  - Code du domaine de l'Etat - art. D24 (Ab)
-  - Code du domaine de l'Etat - art. D25 (Ab)
-  - Code du domaine de l'Etat - art. D27 (Ab)
-  - Code du domaine de l'Etat - art. D31 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1161 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-
-###### Article D30
-
-Les demandes de concession auxquelles est joint un plan au 1/10000 établi par un homme de l'art sont adressées au préfet en
-double exemplaire et doivent indiquer le but de l'exploitation, la superficie demandée et, en outre :
-
-1° Pour les particuliers :
-
-Nom, prénoms, état civil, situation de famille, profession et qualités, capital disponible en espèces et en matériel, biens
-réalisables ou susceptibles d'hypothèques.
-
-2° Pour les sociétés :
-
-Statuts, composition ds organes sociaux de direction et d'administration, nom des directeurs, gérants ou membres du conseil
-d'administration, indication du bureau de l'enregistrement qui a reçu la déclaration d'existence ou qui détient un exemplaire
-des statuts de la société, capital social avec indication de la fraction libérée.
-
-Un exemplaire de la demande est adressé au ministère de l'agriculture (division des départements d'outre-mer) pour enquête.
-
-La demande de concession accompagnée du plan fait l'objet d'une publication au journal d'annonces légales aux frais du
-demandeur et d'un affichage de trente jours francs à la mairie de chacune des communes dans les limites desquelles se trouve
-le terrain demandé. Pendant la durée de la publication, les ayants droit éventuels sur tout ou partie du terrain doivent se
-faire connaître et faire opposition entre les mains du directeur des services fiscaux ; les réclamations non formulées dans
-ce délai ne peuvent faire obstacle à l'octroi de la concession.
-
-Les conditions générales d'octroi des concessions sont fixées par des cahiers des charges approuvés par le ministre de
-l'agriculture, le ministre chargé des départements et territoires d'outre-mer et par le ministre des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 14
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-
-###### Article D31
-
-A titre transitoire, les possesseurs de titre de concession provisoire délivré avant le 1er janvier 1949 disposent d'une
-année à partir du 10 janvier 1961 pour demander la conversion de leur titre provisoire en titre définitif.
-
-La commission prévue à l'article D. 28 statue sur ces demandes après enquête des représentants des services locaux du
-ministère de l'agriculture sur l'exécution des clauses et conditions du contrat de concession provisoire.
-
-La déchéance des concessionnaires est prononcée, le cas échéant, dans les formes prévues à l'article D. 29.
-
-A l'expiration du délai fixé à l'alinéa 1er, les possesseurs de titre de concession provisoire qui n'auraient pas demandé à
-bénéficier des présentes dispositions sont déchus de plein droit de leur concession et considérés comme occupants sans titre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 15
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D28 (Ab)
-  - Code du domaine de l'Etat - art. D29 (Ab)
-
-
-###### Article D31-1
-
-Les concessions d'immeubles domaniaux dont l'octroi aux communes du département de la Guyane est autorisé par l'article L.
-91, deuxième alinéa, sont accordées par arrêté conjoint du ministre des finances et du ministre chargé des départements
-d'outre-mer, sur la proposition du préfet formulée après avis du directeur des services fiscaux et de la commission
-départementale des opérations immobilières, de l'architecture et des espaces protégés.
-
-Les arrêtés, auxquels sont annexés un plan et un état de consistance, précisent la destination d'intérêt général assignée par
-la commune attributaire à chaque immeuble ou ensemble immobilier concédé ; ils sont publiés au Journal officiel.
-
-Les immeubles concédés doivent, sous réserve des autorisations ultérieures de changement d'affectation ou d'aliénation
-prévues à l'article D. 31-2, recevoir obligatoirement la destination assignée dans l'arrêté de concession, sous peine de
-résolution de la concession.
-
-Les communes bénéficiaires doivent justifier devant le préfet de l'accomplissement des travaux d'intérêt général et de
-l'utilisation des immeubles. Le service des domaines vérifie les justifications produites, contrôle l'état d'accomplissement
-des travaux et la conformité de l'utilisation des immeubles.
-
-Les concessions sont consenties pour une durée de dix années, sauf application, le cas échéant, des dispositions de l'article
-D. 31-3.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Créé par_:
-
-  - Décret n°73-783 1973-08-04 art. 1 JORF 10 août 1973
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D31-2 (Ab)
-  - Code du domaine de l'Etat - art. L91 (Ab)
-  - Code du domaine de l'Etat L91, annexe, D31-2, D31-3
-
-
-###### Article D31-2
-
-Les biens concédés aux communes se répartissent en deux catégories :
-
-1° Immeubles bâtis ou non bâtis affectés à des services ou usages publics :
-
-2° Terrains dont les Bonis et les tribus indiennes autochtones ont la jouissance en nature.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Créé par_:
-
-  - Décret n°73-783 1973-08-04 art. 1 JORF 10 août 1973
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D31-1 (Ab)
-
-
-###### Article D32
-
-Toutes les instances auxquelles donnent lieu les concessions sont suivies par le service des domaines dans les conditions
-fixées par la législation domaniale en vigueur et notamment par les articles L. 80 à L. 84 et R. 158 à R. 162.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-18 1961-01-10 art. 16
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°73-783 1973-08-04 art. 2 JORF 10 août 1973
-
-_Abrogé par_:
-
-  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
-
-_Cite_:
-
-  - Code du domaine de l'Etat L80 à L84, R158 à R162
-
-
-#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=155></a>
+#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=159></a>
 
 ###### Article D33
 
@@ -12882,7 +13027,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=156></a>
+#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=160></a>
 
 ###### Article D35
 
@@ -12916,7 +13061,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre V : Dispositions particulières et finales.<a id=157></a>
+### Titre V : Dispositions particulières et finales.<a id=161></a>
 
 ###### Article D36
 
@@ -13246,17 +13391,17 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-# Partie réglementaire - Arrêtés<a id=158></a>
+# Partie réglementaire - Arrêtés<a id=162></a>
 
-## Livre Ier : Composition du domaine<a id=159></a>
+## Livre Ier : Composition du domaine<a id=163></a>
 
-### Titre II : Origine des biens<a id=160></a>
+### Titre II : Origine des biens<a id=164></a>
 
-#### Chapitre II : Domaine privé<a id=161></a>
+#### Chapitre II : Domaine privé<a id=165></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=162></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=166></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=163></a>
+##### Paragraphe 1 : Dispositions générales.<a id=167></a>
 
 ###### Article A01
 
@@ -13389,7 +13534,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R10 (V)
 
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=164></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=168></a>
 
 ###### Article A1
 
@@ -13647,7 +13792,7 @@ _Modifié par_:
   - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-### Titre III : Inventaire des biens.<a id=165></a>
+### Titre III : Inventaire des biens.<a id=169></a>
 
 ###### Article A7
 
@@ -13785,15 +13930,15 @@ _Cite_:
   - Code du domaine de l'Etat - art. A7 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=166></a>
+## Livre II : Administration des biens domaniaux<a id=170></a>
 
-### Titre Ier : Domaine public<a id=167></a>
+### Titre Ier : Domaine public<a id=171></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=168></a>
+#### Chapitre Ier : Occupation temporaire<a id=172></a>
 
-##### Section 1 : Délivrance des autorisations<a id=169></a>
+##### Section 1 : Délivrance des autorisations<a id=173></a>
 
-##### A) Arrêtés individuels.<a id=170></a>
+##### A) Arrêtés individuels.<a id=174></a>
 
 ###### Article A12
 
@@ -14023,7 +14168,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A16 (V)
 
 
-##### B) Arrêtés généraux.<a id=171></a>
+##### B) Arrêtés généraux.<a id=175></a>
 
 ###### Article A20
 
@@ -14242,7 +14387,7 @@ _Cite_:
   - Code du domaine de l'Etat A12 à A19
 
 
-##### C) Dispositions communes.<a id=172></a>
+##### C) Dispositions communes.<a id=176></a>
 
 ###### Article A26
 
@@ -14396,7 +14541,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R54 (M)
 
 
-##### Section 2 : Fixation des redevances.<a id=173></a>
+##### Section 2 : Fixation des redevances.<a id=177></a>
 
 ###### Article A31
 
@@ -14616,11 +14761,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A23 (V)
 
 
-#### Chapitre III : Extractions sur le domaine public<a id=174></a>
+#### Chapitre III : Extractions sur le domaine public<a id=178></a>
 
-##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=175></a>
+##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=179></a>
 
-##### A) Arrêtés individuels.<a id=176></a>
+##### A) Arrêtés individuels.<a id=180></a>
 
 ###### Article A40
 
@@ -14765,7 +14910,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A113 (M)
 
 
-##### B) Arrêtés généraux.<a id=177></a>
+##### B) Arrêtés généraux.<a id=181></a>
 
 ###### Article A45
 
@@ -14849,7 +14994,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A40 (V)
 
 
-##### C) Dispositions communes.<a id=178></a>
+##### C) Dispositions communes.<a id=182></a>
 
 ###### Article A47
 
@@ -14908,7 +15053,7 @@ _Cite_:
   - Code du domaine de l'Etat A40 à A47, R53, A40
 
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=179></a>
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=183></a>
 
 ###### Article A49
 
@@ -15165,7 +15310,7 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=180></a>
+#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=184></a>
 
 ###### Article A60
 
@@ -15541,11 +15686,11 @@ _Abrogé par_:
   - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 
-### Titre II : Domaine privé<a id=181></a>
+### Titre II : Domaine privé<a id=185></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=182></a>
+#### Chapitre Ier : Domaine immobilier<a id=186></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=183></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=187></a>
 
 ###### Article A73
 
@@ -15957,7 +16102,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=184></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=188></a>
 
 ###### Article A90
 
@@ -15977,7 +16122,7 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=185></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=189></a>
 
 ###### Article A91
 
@@ -16290,7 +16435,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A93-7 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=186></a>
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=190></a>
 
 ###### Article A94
 
@@ -16475,7 +16620,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=187></a>
+#### Chapitre II : Domaine immobilier.<a id=191></a>
 
 ###### Article A101
 
@@ -16559,11 +16704,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=188></a>
+## Livre III : Aliénation des biens domaniaux<a id=192></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=189></a>
+### Titre II : Aliénation des biens du domaine privé<a id=193></a>
 
-#### Chapitre II : Domaine mobilier.<a id=190></a>
+#### Chapitre II : Domaine mobilier.<a id=194></a>
 
 ###### Article A105
 
@@ -17007,7 +17152,7 @@ _Cite_:
   - Code du domaine de l'Etat A117-1 à A117-3
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=191></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=195></a>
 
 ###### Article A118
 
@@ -17085,11 +17230,11 @@ _Cite_:
   - Loi n°1903-12-30 art. 7
 
 
-## Livre IV : Dispositions diverses<a id=192></a>
+## Livre IV : Dispositions diverses<a id=196></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=193></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=197></a>
 
-#### Chapitre V : Concessions de logements.<a id=194></a>
+#### Chapitre V : Concessions de logements.<a id=198></a>
 
 ###### Article A120-1
 
@@ -17151,7 +17296,7 @@ _Cite_:
   - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
 
 
-### Titre V : Dispositions particulières et finales.<a id=195></a>
+### Titre V : Dispositions particulières et finales.<a id=199></a>
 
 ###### Article A122
 
