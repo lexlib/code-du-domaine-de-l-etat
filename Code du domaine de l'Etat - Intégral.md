@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1964-07-12
+Version Consolidée au 1967-06-02
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -133,8 +133,8 @@ Version Consolidée au 1964-07-12
             - [B) Arrêtés généraux. (art. A20 à A22)](#130)
             - [C) Dispositions communes. (art. A29)](#131)
           - [Section 2 : Fixation des redevances. (art. A32 à A38)](#132)
-        - [Chapitre III : Extractions sur le domaine public (art. A50 à A59)](#133)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A50 à A59)](#134)
+        - [Chapitre III : Extractions sur le domaine public (art. A49 à A59)](#133)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#134)
         - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A61 à A72)](#135)
       - [Titre II : Domaine privé (art. A73 à A104)](#136)
         - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#137)
@@ -5692,6 +5692,23 @@ _Codifié par_:
 
 ##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=134></a>
 
+###### Article A49
+
+Les demandes tendant à obtenir l'autorisation d'extraire, sur le rivage de la mer, des sables coquilliers et autres matériaux
+considérés comme amendements marins, sont adressées au directeur des affaires maritimes, qui fait examiner par les
+fonctionnaires du service des affaires maritimes si l'autorisation sollicitée peut être accordée sans inconvénient.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1876-05-10 art. 1
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+
 ###### Article A50
 
 Si ces fonctionnaires se prononcent pour l'affirmative, ils formulent les conditions à imposer au pétitionnaire, au point de
@@ -5711,6 +5728,33 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
+###### Article A54
+
+Si le directeur des affaires maritimes n'a pas d'objection à faire contre le prix qui a été fixé, il statue, sur la demande
+de concession, par un arrêté qui règle, conformément aux propositions des services intéressés, les diverses conditions de
+cette concession.
+
+Si, au contraire, il estime que les intérêts du service des affaires maritimes exigent impérieusement que le prix fixé soit
+diminué, ou même que la concession soit entièrement gratuite, il en réfère au ministre chargé des transports (secrétariat
+général de la marine marchande). S'il partage cet avis, celui-ci se concerte avec le ministre des finances pour la solution
+de la difficulté.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1876-05-10 art. 6
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A56 (V)
+  - Code du domaine de l'Etat - art. A58 (V)
+
+
 ###### Article A55
 
 Dans le cas où l'accord ne peut s'établir entre les deux ministres, l'avis du Conseil d'Etat est préalablement recueilli.
@@ -5724,6 +5768,41 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+
+###### Article A58
+
+Afin de faciliter l'instruction des demandes d'extractions les directeurs des affaires maritimes peuvent arrêter, par un
+règlement de police, les conditions auxquelles les extractions doivent être soumises sur les différentes parties du rivage,
+soit au point de vue de sa conservation, soit dans l'intérêt de la navigation ou de la pêche côtière, soit enfin sous le
+rapport des prix à exiger.
+
+Cet arrêté réglementaire, pris sur les propositions des chefs des services intéressés, détermine :
+
+1° Les parties du rivage où les extractions sont interdites ;
+
+2° Celles où elles ne sont autorisées qu'à charge de payer un prix ;
+
+3° Celles où elles sont gratuites, mais soumises à des autorisations spéciales ;
+
+4° Enfin, celles où elles sont gratuites et libres, aux conditions nécessitées par les circonstances locales.
+
+A défaut d'accord entre les chefs des services intéressés pour la préparation de ce règlement de police, il est procédé comme
+il est dit aux articles A. 54, deuxième alinéa, et A. 55, pour les autorisations particulières.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté 1876-05-10 art. 10
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A54 (V)
 
 
 ###### Article A59
