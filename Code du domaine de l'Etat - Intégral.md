@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1970-07-05
+Version Consolidée au 1970-07-10
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 1970-07-05
     - [Livre II : Administration des biens domaniaux (art. L28 à L51)](#15)
       - [Titre Ier : Domaine public (art. L28 à L35)](#16)
         - [Chapitre Ier : Occupation temporaire (art. L28 à L33)](#17)
-          - [Section 1 : Délivrance des autorisations. (art. L28)](#18)
+          - [Section 1 : Délivrance des autorisations. (art. L28 à L29)](#18)
           - [Section 2 : Fixation des redevances. (art. L30 à L34)](#19)
           - [Section 2 : Fixation des redevances. (art. L31 à L33)](#20)
         - [Chapitre II : Transfert de gestion. (art. L35)](#21)
@@ -48,7 +48,7 @@ Version Consolidée au 1970-07-05
         - [Chapitre II : Domaine mobilier. (art. L67 à L72)](#45)
         - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. L74 à L75)](#46)
     - [Livre IV : Dispositions diverses (art. L76 à L93)](#47)
-      - [Titre Ier : Dispositions générales. (art. L76)](#48)
+      - [Titre Ier : Dispositions générales. (art. L76 à L78-1)](#48)
       - [Titre II : Procédures - instances (art. L84)](#49)
         - [Chapitre II : Instances. (art. L84)](#50)
       - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. L85)](#51)
@@ -831,6 +831,40 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publiqu - art. L2122-1 (V)
+
+
+###### Article L29
+
+La délivrance des autorisations de voirie sur le domaine public national est subordonnée au paiement, outre les droits et
+redevances perçus au profit soit de l'Etat, soit des communes, d'un droit fixe correspondant aux frais exposés par la
+puissance publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°57-1336 1957-12-28
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Loi n°70-601 du 9 juillet 1970 - art. 13 () JORF 10 juillet 1970
+
+_Cité par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 5 (Ab)
+  - Loi n°90-1168 du 29 décembre 1990 - art. 124 (VT)
+  - Décret n°91-797 du 20 août 1991 - art. 14 (Ab)
+  - Loi n°92-3 du 3 janvier 1992 - art. 34 (Ab)
+  - Décret n°2001-839 du 14 septembre 2001 - art. ANNEXE (V)
+  - Code du domaine de l'Etat - art. A16 (V)
+  - Code du domaine de l'Etat - art. A23 (V)
+  - Code du domaine de l'Etat - art. A30 (V)
+  - Code du domaine de l'Etat - art. R54 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ##### Section 2 : Fixation des redevances.<a id=19></a>
@@ -2038,6 +2072,86 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L1212-4 (V)
   - Code général de la propriété des personnes publiqu - art. L2222-1 (V)
   - Code général de la propriété des personnes publiqu - art. L4111-3 (V)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+
+###### Article L77
+
+Nonobstant toutes dispositions législatives ou réglementaires antérieures, le montant des sommes et produits de toute nature
+recouvrés par le service des domaines pour le compte des services et établissements dotés de la personnalité civile ou
+seulement de l'autonomie financière, ainsi que pour le compte des tiers, donne lieu à l'application d'un prélèvement au
+profit du Trésor pour frais d'administration, de vente et de perception.
+
+Le taux de ce prélévement est fixé par arrêté du ministre des finances, dans la limite de 12 p. 100 du montant des
+recouvrements lorsque ceux-ci sont afférents à la gestion de patrimoines privés et de 8 p. 100 dans les autres cas.
+
+Le produit du prélèvement est affecté, dans des proportions et conditions déterminées par arrêté du même ministre, au
+remboursement des dépenses de matériel et à la rémunération des travaux supplémentaires effectués par les personnels
+participant aux opérations d'administration, de vente et de recouvrement.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'abrogation des dispositions du code du domaine de l'Etat mentionnées au I de l'article 7 ne
+prendra effet qu'à compter de la publication des dispositions règlementaires correspondantes du code général de la propriété
+des personnes publiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Loi n°70-601 du 9 juillet 1970 - art. 13 () JORF 10 juillet 1970
+
+_Cité par_:
+
+  - Décret n°72-823 du 6 septembre 1972 - art. 5 (V)
+  - Décret n°72-823 du 6 septembre 1972 - art. 8 (V)
+  - Décret n°2001-839 du 14 septembre 2001 - art. ANNEXE (V)
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+  - Code du domaine de l'Etat - art. A113 (V)
+  - Code du domaine de l'Etat - art. L70 (Ab)
+  - Code du domaine de l'Etat - art. R135 (Ab)
+  - Code du domaine de l'Etat - art. R35 (Ab)
+  - Nouveau code de procédure civile - art. 1353 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Fin de vigueur : date indéterminée
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2321-9 (V)
+
+
+###### Article L78-1
+
+Les bénéficiaires de concessions ou d'autorisations diverses astreints au paiement d'une redevance perçue comme en matière
+domaniale peuvent être tenus, quelle que soit la date desdites concessions ou autorisations, au paiement d'acomptes
+périodiques dans des conditions fixées par un arrêté conjoint du ministre des finances et du ministre intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°70-601 du 9 juillet 1970 - art. 13 () JORF 10 juillet 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2322-2 (V)
 
 _Codifié par_:
 
