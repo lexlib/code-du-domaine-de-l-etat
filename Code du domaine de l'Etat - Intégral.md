@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1968-02-09
+Version Consolidée au 1968-05-02
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -60,92 +60,96 @@ Version Consolidée au 1968-02-09
         - [Chapitre II : Domaine privé (art. R6 à R51)](#57)
           - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. R6 à R19)](#58)
             - [Paragraphe 1 : Dispositions générales. (art. R6 à R19)](#59)
-          - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#60)
-    - [Livre II : Administration des biens domaniaux (art. R56 à R123)](#61)
-      - [Titre Ier : Domaine public (art. R56 à R65)](#62)
-        - [Chapitre Ier : Occupation temporaire (art. R56 à R57)](#63)
-          - [Section 2 : Fixation des redevances. (art. R56 à R57)](#64)
-        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. R59 à R65)](#65)
-      - [Titre II : Domaine privé (art. R68 à R119)](#66)
-        - [Chapitre Ier : Domaine immobilier (art. R68 à R104)](#67)
-          - [Section 1 : Locations (art. R68)](#68)
-            - [Paragraphe 1 : Dispositions générales. (art. R68)](#69)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R75 à R76)](#70)
-          - [Section 4 : Echanges. (art. R79)](#71)
-          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R89)](#72)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104)](#73)
-        - [Chapitre II : Domaine mobilier. (art. R110 à R119)](#74)
-      - [Titre III : Dispositions communes (art. R120 à R123)](#75)
-        - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#76)
-        - [Chapitre V : Regroupement des services publics. (art. R123)](#77)
-    - [Livre III : Aliénation des biens domaniaux (art. R131 à R147-1)](#78)
-      - [Titre II : Aliénation des biens du domaine privé (art. R131 à R147-1)](#79)
-        - [Chapitre Ier : Domaine immobilier (art. R131 à R147-1)](#80)
-          - [Section 1 : Dispositions générales. (art. R131 à R135)](#81)
-          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R147-1)](#82)
-            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#83)
-            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#84)
-            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R147)](#85)
-            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#86)
-    - [Livre IV : Dispositions diverses (art. R151 à R174)](#87)
-      - [Titre Ier : Dispositions générales. (art. R151 à R152)](#88)
-      - [Titre II : Procédure - Instances (art. R161)](#89)
-        - [Chapitre II : Instances. (art. R161)](#90)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R165 à R170)](#91)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R165 à R170)](#92)
-      - [Titre V : Dispositions particulières et finales. (art. R171 à R174)](#93)
-  - [Partie réglementaire - Décrets simples (art. D2 à D44)](#94)
-    - [Livre Ier : Composition du domaine (art. D2 à D6)](#95)
-      - [Titre II : Origine des biens (art. D2 à D6)](#96)
-        - [Chapitre II : Domaine privé (art. D2 à D6)](#97)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D2 à D6)](#98)
-            - [Paragraphe 2 : Dispositions spéciales. (art. D2 à D6)](#99)
-    - [Livre II : Administration des biens domaniaux (art. D14 à D17)](#100)
-      - [Titre II : Domaine privé (art. D14 à D15)](#101)
-        - [Chapitre Ier : Domaine immobilier (art. D14 à D15)](#102)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D14 à D15)](#103)
-      - [Titre III : Dispositions communes. (art. D17)](#104)
-        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. D17)](#105)
-    - [Livre III : Aliénation des biens domaniaux (art. D18)](#106)
-      - [Titre II : Aliénation des biens du domaine privé (art. D18)](#107)
-        - [Chapitre Ier : Domaine immobilier (art. D18)](#108)
-          - [Section 2 : Ventes soumises à des règles particulières (art. D18)](#109)
-            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#110)
-    - [Livre IV : Dispositions diverses (art. D19 à D44)](#111)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D19 à D35)](#112)
-        - [Chapitre III : Concessions domaniales en Guyane. (art. D19 à D31)](#113)
-        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#114)
-        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#115)
-      - [Titre V : Dispositions particulières et finales. (art. D38 à D44)](#116)
-  - [Partie réglementaire - Arrêtés (art. A6 à A120)](#117)
-    - [Livre Ier : Composition du domaine (art. A6 à A11)](#118)
-      - [Titre II : Origine des biens (art. A6)](#119)
-        - [Chapitre II : Domaine privé (art. A6)](#120)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A6)](#121)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A6)](#122)
-      - [Titre III : Inventaire des biens. (art. A7 à A11)](#123)
-    - [Livre II : Administration des biens domaniaux (art. A18 à A104)](#124)
-      - [Titre Ier : Domaine public (art. A18 à A72)](#125)
-        - [Chapitre Ier : Occupation temporaire (art. A18 à A38)](#126)
-          - [Section 1 : Délivrance des autorisations (art. A18 à A29)](#127)
-            - [A) Arrêtés individuels. (art. A18)](#128)
-            - [B) Arrêtés généraux. (art. A20 à A22)](#129)
-            - [C) Dispositions communes. (art. A29)](#130)
-          - [Section 2 : Fixation des redevances. (art. A32 à A38)](#131)
-        - [Chapitre III : Extractions sur le domaine public (art. A49 à A59)](#132)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#133)
-        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A61 à A72)](#134)
-      - [Titre II : Domaine privé (art. A73 à A104)](#135)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#136)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#137)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#138)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A92 à A93)](#139)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#140)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#141)
-    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#142)
-      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#143)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A114)](#144)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#145)
+          - [Section 2 : Dons et legs (art. R22 à R45-3)](#60)
+            - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. R22 à R35)](#61)
+            - [Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat. (art. R36 à R39)](#62)
+            - [Paragraphe 3 : Dispositions communes. (art. R40 à R45-3)](#63)
+          - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#64)
+    - [Livre II : Administration des biens domaniaux (art. R56 à R123)](#65)
+      - [Titre Ier : Domaine public (art. R56 à R65)](#66)
+        - [Chapitre Ier : Occupation temporaire (art. R56 à R57)](#67)
+          - [Section 2 : Fixation des redevances. (art. R56 à R57)](#68)
+        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. R59 à R65)](#69)
+      - [Titre II : Domaine privé (art. R68 à R119)](#70)
+        - [Chapitre Ier : Domaine immobilier (art. R68 à R104)](#71)
+          - [Section 1 : Locations (art. R68)](#72)
+            - [Paragraphe 1 : Dispositions générales. (art. R68)](#73)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R75 à R76)](#74)
+          - [Section 4 : Echanges. (art. R79)](#75)
+          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R89)](#76)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104)](#77)
+        - [Chapitre II : Domaine mobilier. (art. R110 à R119)](#78)
+      - [Titre III : Dispositions communes (art. R120 à R123)](#79)
+        - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#80)
+        - [Chapitre V : Regroupement des services publics. (art. R123)](#81)
+    - [Livre III : Aliénation des biens domaniaux (art. R131 à R147-1)](#82)
+      - [Titre II : Aliénation des biens du domaine privé (art. R131 à R147-1)](#83)
+        - [Chapitre Ier : Domaine immobilier (art. R131 à R147-1)](#84)
+          - [Section 1 : Dispositions générales. (art. R131 à R135)](#85)
+          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R147-1)](#86)
+            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#87)
+            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#88)
+            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R147)](#89)
+            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#90)
+    - [Livre IV : Dispositions diverses (art. R151 à R174)](#91)
+      - [Titre Ier : Dispositions générales. (art. R151 à R152)](#92)
+      - [Titre II : Procédure - Instances (art. R161)](#93)
+        - [Chapitre II : Instances. (art. R161)](#94)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R165 à R170)](#95)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R165 à R170)](#96)
+      - [Titre V : Dispositions particulières et finales. (art. R171 à R174)](#97)
+  - [Partie réglementaire - Décrets simples (art. D2 à D44)](#98)
+    - [Livre Ier : Composition du domaine (art. D2 à D6)](#99)
+      - [Titre II : Origine des biens (art. D2 à D6)](#100)
+        - [Chapitre II : Domaine privé (art. D2 à D6)](#101)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D2 à D6)](#102)
+            - [Paragraphe 2 : Dispositions spéciales. (art. D2 à D6)](#103)
+    - [Livre II : Administration des biens domaniaux (art. D14 à D17)](#104)
+      - [Titre II : Domaine privé (art. D14 à D15)](#105)
+        - [Chapitre Ier : Domaine immobilier (art. D14 à D15)](#106)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D14 à D15)](#107)
+      - [Titre III : Dispositions communes. (art. D17)](#108)
+        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. D17)](#109)
+    - [Livre III : Aliénation des biens domaniaux (art. D18)](#110)
+      - [Titre II : Aliénation des biens du domaine privé (art. D18)](#111)
+        - [Chapitre Ier : Domaine immobilier (art. D18)](#112)
+          - [Section 2 : Ventes soumises à des règles particulières (art. D18)](#113)
+            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#114)
+    - [Livre IV : Dispositions diverses (art. D19 à D44)](#115)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D19 à D35)](#116)
+        - [Chapitre III : Concessions domaniales en Guyane. (art. D19 à D31)](#117)
+        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#118)
+        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#119)
+      - [Titre V : Dispositions particulières et finales. (art. D38 à D44)](#120)
+  - [Partie réglementaire - Arrêtés (art. A6 à A120)](#121)
+    - [Livre Ier : Composition du domaine (art. A6 à A11)](#122)
+      - [Titre II : Origine des biens (art. A6)](#123)
+        - [Chapitre II : Domaine privé (art. A6)](#124)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A6)](#125)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A6)](#126)
+      - [Titre III : Inventaire des biens. (art. A7 à A11)](#127)
+    - [Livre II : Administration des biens domaniaux (art. A18 à A104)](#128)
+      - [Titre Ier : Domaine public (art. A18 à A72)](#129)
+        - [Chapitre Ier : Occupation temporaire (art. A18 à A38)](#130)
+          - [Section 1 : Délivrance des autorisations (art. A18 à A29)](#131)
+            - [A) Arrêtés individuels. (art. A18)](#132)
+            - [B) Arrêtés généraux. (art. A20 à A22)](#133)
+            - [C) Dispositions communes. (art. A29)](#134)
+          - [Section 2 : Fixation des redevances. (art. A32 à A38)](#135)
+        - [Chapitre III : Extractions sur le domaine public (art. A49 à A59)](#136)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#137)
+        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A61 à A72)](#138)
+      - [Titre II : Domaine privé (art. A73 à A104)](#139)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#140)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#141)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#142)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A92 à A93)](#143)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#144)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#145)
+    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#146)
+      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#147)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A114)](#148)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#149)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -2327,7 +2331,989 @@ _Abrogé par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-##### Section 6 : Biens vacants et sans maître.<a id=60></a>
+##### Section 2 : Dons et legs<a id=60></a>
+
+##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=61></a>
+
+###### Article R22
+
+Tout notaire constitué dépositaire d'un testament contenant des libéralités en faveur de l'Etat est tenu, aussitôt après
+l'ouverture du testament, d'adresser au préfet du département du lieu d'ouverture de la succession la copie intégrale de ces
+dispositions ainsi qu'un état des héritiers dont l'existence lui a été révélée, avec leurs nom, prénoms, profession, degré de
+parenté et adresse.
+
+Dans la huitaine, le préfet requiert le maire du lieu d'ouverture de la succession de lui transmettre dans le plus bref délai
+tous renseignements complémentaires qu'il peut recueillir sur les héritiers déjà indiqués par le notaire ainsi que, le cas
+échéant, toutes indications relatives à d'autres héritiers.
+
+Dès réception de ces renseignements, le préfet invite les personnes qui lui ont été signalées comme héritières soit par le
+notaire, soit par le maire, à prendre connaissance du testament et à donner leur consentement à son exécution ou à produire
+leurs moyens d'opposition, le tout dans un délai d'un mois.
+
+Ces diverses communications sont faites par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R36 (Ab)
+  - Code du domaine de l'Etat - art. R40 (M)
+  - Code du domaine de l'Etat - art. R43 (Ab)
+  - Code du domaine de l'Etat - art. R44 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 1
+
+
+###### Article R23
+
+En outre, une affiche est apposée pendant un mois à la mairie du lieu d'ouverture de la succession. Le maire adresse en
+préfet un certificat constatant l'affichage.
+
+Après accomplissement de cette formalité, il est procédé à l'insertion d'un avis au Journal officiel.
+
+L'affiche et l'avis énoncent sommairement les dispositions prises par le testateur en faveur de l'Etat et font connaître aux
+personnes qui prétendraient avoir un droit sur la succession qu'elles seront recevables à présenter leurs réclamations au
+préfet du département du lieu d'ouverture de la succession dans un délai de trois mois prenant effet de la date de la
+publication au Journal officiel.
+
+Passé ce délai, il est statué par l'autorité compétente sur l'acceptation ou le refus du legs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R36 (Ab)
+  - Code du domaine de l'Etat - art. R40 (Ab)
+  - Code du domaine de l'Etat - art. R43 (M)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 2
+
+
+###### Article R24
+
+La modification de l'affectation des charges résultant des dons et legs faits à l'Etat doit tendre à permettre l'exécution de
+prestations comparables par leur nature à celles que le disposant avait initialement imposées.
+
+La réduction des charges résultant de dons et legs doit tendre à rétablir l'équilibre entre les revenus perçus et les
+prestations imposées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R37 (M)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 3
+
+
+###### Article R25
+
+La restitution des dons et legs doit être motivée par l'impossibilité ou la difficulté d'assurer, pour insuffisance de
+revenus ou pour toute autre cause, l'exécution des volontés du disposant.
+
+La restitution doit porter sur la totalité des biens originairement compris dans la libéralité qui se retrouvent en nature à
+la date de l'arrêté interministériel prévu par l'article L. 14 ; elle s'étend en outre au produit net des aliénations
+effectuées avant cette même date. Le disposant ou ses ayants droit reprennent les biens restitués en l'état où ils se
+trouvent.
+
+Il ne peut être procédé à la restitution de libéralités comprenant soit des immeubles classés monuments historiques ou portés
+à l'inventaire supplémentaire prévu à l'article 2 de la loi du 31 décembre 1913, soit des projets mobiliers classés en vertu
+de l'article 14 de ladite loi, que sur avis conforme du ministre chargé des affaires culturelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L14 (V)
+  - Loi n°1913-12-31 art. 2, art. 14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R27 (M)
+  - Code du domaine de l'Etat - art. R37 (M)
+  - Code du domaine de l'Etat - art. R44 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2222-13 (V)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 4
+
+
+###### Article R26
+
+Aucune restitution de libéralités ni réduction ou modification d'affectation des charges d'une libéralité ne peut intervenir
+avant l'expiration d'un délai de cinq ans à compter de l'acceptation du don ou du legs, à moins que le disposant ou ses
+ayants droit n'y consentent expressément.
+
+Passé ce délai, il ne peut être procédé auxdites restitutions, réductions de charges ou modifications d'affectation des
+charges qu'après que l'auteur de la libéralité ou ses ayants droit aient été invités à présenter leurs observations dans les
+conditions indiquées aux articles R. 28 et R. 29.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R27 (Ab)
+  - Code du domaine de l'Etat - art. R37 (M)
+  - Code du domaine de l'Etat - art. R45-1 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R28 (M)
+  - Code du domaine de l'Etat - art. R29 (M)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 5
+
+
+###### Article R27
+
+Les dossiers de demandes en restitution de libéralités et en réduction ou modifications d'affectation des charges de
+libéralités sont instruits à la diligence du ministre compétent et doivent contenir les pièces suivantes :
+
+1° Copie certifiée conforme des actes par lesquels ont été consenties les libéralités et, le cas échéant, des actes
+ultérieurs qui ont modifié les dispositions initiales, ainsi que des arrêtés ou décrets portant acceptation de ces
+libéralités.
+
+2° Note précisant le montant des revenus des libéralités et celui des charges correspondantes depuis l'origine de la
+libéralité, si celle-ci remonte à moins de dix ans et, dans le cas contraire, pendant les dix dernières années.
+
+3° Indication des conditions dans lesquelles sont envisagées les restitutions, réductions ou modifications d'affectation.
+
+4° Avis favorable des ministres de la justice et des finances et, dans le cas prévu à l'article R. 25, dernier alinéa, du
+ministre chargé des affaires culturelles.
+
+3° Dans le cas où l'auteur de la libéralité est décédé, liste de ses ayants droit connus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R25 (M)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R28 (M)
+  - Code du domaine de l'Etat - art. R30 (Ab)
+  - Code du domaine de l'Etat - art. R38 (M)
+  - Code du domaine de l'Etat - art. R45-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2222-16 (V)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 6, art. 7
+
+
+###### Article R28
+
+Lorsque l'adresse du disposant ou de ses ayants droit est connue, les réductions ou modifications envisagées ou le projet de
+restitution sont portés à leur connaissance par le préfet du département du dernier domicile ou de la dernière résidence
+connus en France du disposant ou, à défaut, par le préfet de l'un des lieux où les biens sont situés ou détenus.
+
+Le préfet impartit au disposant ou à ses ayants droit un délai d'un mois pour prendre connaissance du dossier à la préfecture
+et faire connaître par écrit leur adhésion ou leur opposition sauf à formuler, le cas échéant, toutes observations ou
+propositions qui leur paraîtraient opportunes.
+
+Les intéressés peuvent toutefois, s'ils justifient d'une difficulté à se déplacer obtenir l'envoi à leur adresse d'une copie
+des pièces énoncées à l'article R. 27 (1°, 2° et 3°).
+
+Les diverses communications prévues aux alinéas ci-dessus sont faites par lettre recommandée avec demande d'avis de
+réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R26 (M)
+  - Code du domaine de l'Etat - art. R39 (M)
+  - Code du domaine de l'Etat - art. R45-1 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R27 (M)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 8
+
+
+###### Article R29
+
+Lorsque l'adresse du disposant ou l'adresse ou l'identité de certains de ses ayants droit sont inconnus, une affiche est
+apposée pendant un mois à la diligence du préfet compétent, à la mairie du dernier domicile ou de la dernière résidence
+connus en France du disposant ainsi qu'à la mairie du lieu de situation des immeubles donnés ou légués. Les maires adressent
+au préfet un certificat constatant l'affichage.
+
+Le préfet fait en outre procéder à l'insertion d'un avis dans un journal paraissant dans le ou les départements dont
+dépendent les communes où a été effectué l'affichage.
+
+Après accomplissement de ces formalités, l'avis est publié au Journal officiel. Lorsque le disposant n'avait en France ni
+domicile ni résidence connus, une seconde publication est faite au Journal officiel un mois après la première.
+
+Les avis et affiches énoncent sommairement les modifications, réduction ou restitution envisagées. Ils indiquent que pendant
+un délai de trois mois à compter de la dernière publication au Journal officiel, le disposant ou ses ayants droit peuvent
+prendre connaissance du dossier à la préfecture, exprimer leur adhésion ou leur opposition et formuler leurs observations
+écrites.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R26 (M)
+  - Code du domaine de l'Etat - art. R38 (Ab)
+  - Code du domaine de l'Etat - art. R40 (M)
+  - Code du domaine de l'Etat - art. R43 (Ab)
+  - Code du domaine de l'Etat - art. R45-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1928-04-01 art. 9
+
+
+###### Article R30
+
+Les arrêtés interministériels prévus aux articles L. 13 et L. 14 sont signés par le ministre intéressé et par les ministres
+de la justice et des finances.
+
+Les décrets prévus à l'article L. 13 sont pris, après avis du Conseil d'Etat, sur le rapport des ministres désignés à
+l'alinéa précédent.
+
+Les décrets et arrêtés sont publiés au Journal officiel. Ils sont en outre notifiés individuellement aux personnes
+intéressées dont l'adresse est connue.
+
+Les arrêtés de restitution doivent mentionner, par référence aux articles R. 32 à R. 35, les modalités de remise aux ayants
+droit et de liquidation éventuelle des biens compris dans la libéralité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L13 (Ab)
+  - Code du domaine de l'Etat - art. L14 (V)
+  - Code du domaine de l'Etat L13, L14, R32 à R35
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R38 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1901-12-24 art. 1
+
+
+###### Article R31
+
+Si postérieurement à la réduction ou modification de l'affectation des charges résultant d'une libéralité, l'exécution totale
+ou partielle des obligations initialement imposées redevient possible, elle peut être demandée par le déposant ou ses ayants
+droit. La demande est adressée au ministre compétent ; il en est accusé réception. La décision est prise par l'autorité qui a
+prononcé la réduction ou la modification des charges et dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Abrogé par_:
+
+  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1896-02-01 art. 2
+
+
+###### Article R32
+
+La restitution des biens compris dans une libéralité est constatée par un procès-verbal établi par le directeur des impôts
+chargé des questions domaniales dans le département du lieu de situation des immeubles donnés ou légués. Toutefois, lorsque
+ces immeubles sont situés dans les départements différents ou lorsque la libéralité ne comporte que des biens meubles, le
+directeur compétent est spécialement désigné par le ministre des finances.
+
+Ce procès-verbal est signé par le préfet du département et par le disposant ou ses ayants droit qui acceptent la restitution.
+Il y est annexé un inventaire des biens restitués, et un état des sommes et titres versés à la caisse des dépôts et
+consignations en application de l'article L. 14.
+
+S'il y a plusieurs ayants droit, les biens sont restitués à celui ou à ceux d'entre eux qui en acceptent la remise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L14 (V)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R34 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1896-02-01 art. 3
+
+
+###### Article R33
+
+Si le disposant ou tous ses ayants droit sont restés inconnus ou inactifs, s'ils ont refusé de signer le procès-verbal de
+restitution, ou si malgré cette signature les meubles n'ont pu faire l'objet d'une remise effective, la gestion des biens est
+confiée au directeur des impôts visé à l'article précédent par une ordonnance rendue à la requête du préfet par le président
+du tribunal de grande instance dans le ressort duquel se trouve le siège de la direction des impôts appelée à gérer les
+biens.
+
+La requête est introduite au plus tard six mois après la date de publication au Journal officiel de l'arrêté de restitution.
+
+L'ordonnance du président du tribunal est signifiée au disposant ou à ses ayants droit dont l'adresse est connue.
+
+Dans le cas contraire, la signification est faite conformément aux dispositions des articles 69 8° et 158 2 du code de
+procédure civile ; en outre l'ordonnance est alors publiée par extrait au Journal officiel.
+
+La remise des biens aux domaines par l'administration détentrice est constatée par un procès-verbal dressé
+contradictoirement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code de procédure civile 69, 158
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1896-02-01 art. 4
+
+
+###### Article R34
+
+A l'expiration d'un délai d'un an à compter de la signification de l'ordonnance du président du tribunal, les domaines
+vendent, dans les formes prévues aux articles 826 et 827 du code civil, les biens dont la gestion leur a été confiée.
+
+Le délai prévu à l'alinéa 1er est porté à deux ans dans le cas où l'adresse du disposant ou de l'un de ses ayants droit est
+inconnue.
+
+En cas d'urgence, le directeur des services fiscaux chargé de la gestion des biens peut toutefois demander au président du
+tribunal l'autorisation de vendre avant l'expiration des délais prévus ci-dessus certains biens sujets à dépérissement ou
+dispendieux à conserver. Par lettre recommandée avec demande d'avis de réception, il avise de sa demande le disposant ou ses
+ayants droit dont l'adresse est connue.
+
+Le disposant ou ses ayants droit peuvent, jusqu'à la veille du jour fixé pour la vente, demander la remise des biens confiés
+aux domaines.
+
+En ce cas, la restitution est constatée dans les conditions indiquées à l'article R. 32, mais est subordonnée au paiement
+préalable par le disposant ou ses ayants droit des dépenses assumées par l'Etat, y compris, le cas échéant, celles déjà
+engagées pour parvenir à la vente des biens.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R32
+  - Code civil - art. 826
+  - Code civil - art. 827
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-26 (V)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 1896-02-01 art. 5
+
+
+###### Article R35
+
+Le produit net de la vente, après règlement des frais et dépenses et déduction du prélèvement visé à l'article L. 77, est
+versé à la Caisse des dépôts et consignations, au compte ouvert en conformité de l'article L. 14 au nom du disposant ou de sa
+succession.
+
+Sont également versés à ce compte, sous les mêmes retenues, les revenus de la libéralité échus depuis la date de l'arrêté de
+restitution et, plus généralement, toutes sommes encaissées par les domaines pour le compte des bénéficiaires de la
+restitution.
+
+Le directeur compétent rend compte au tribunal de l'accomplissement de sa mission.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L14
+  - Code du domaine de l'Etat - art. L77
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-27 (V)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 1
+
+
+##### Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat.<a id=62></a>
+
+###### Article R36
+
+Les dispositions des articles R. 22 et R. 23 sont applicables aux legs faits en faveur des établissements publics dépendant
+de l'Etat.
+
+Le notaire détenteur d'un testament contenant des libéralités au profit d'établissements publics de l'Etat est en outre tenu
+de faire parvenir auxdits établissements une copie des documents qu'il envoie au préfet du département du lieu d'ouverture de
+la succession.
+
+Lorsque, par application des articles L. 15 (2ème alinéa) ou L. 19, les établissements publics nationaux bénéficiaires d'une
+libéralité doivent présenter à l'autorité supérieure une demande d'approbation de leur décision d'acceptation ou de refus,
+ils doivent produire au ministre de tutelle un état de l'actif et des charges de la libéralité certifié par le préfet du
+département dans lequel ils sont situés. Ils y joignent un exemplaire du budget de l'exercice en cours et des budgets et
+comptes des trois derniers exercices écoulés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Décret n°95-462 du 26 avril 1995 - art. 11 (M)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L15 (Ab)
+  - Code du domaine de l'Etat - art. L19 (Ab)
+  - Code du domaine de l'Etat - art. R22 (M)
+  - Code du domaine de l'Etat - art. R23 (M)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 2
+
+
+###### Article R37
+
+Les dispositions des articles R. 24 et R. 26 sont applicables aux demandes en réduction des charges résultant de libéralités
+faites au profit d'établissements publics à caractère national ainsi qu'aux demandes en modification d'affectation des
+charges résultant de libéralités faites à des établissements publics de l'Etat, autres que des établissements publics
+d'assistance ou de bienfaisance.
+
+Les dispositions des articles R. 25 et R. 26 sont applicables aux demandes en restitution des libéralités faites aux
+établissements publics de l'Etat autres que les établissements d'assistance ou de bienfaisance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R24 (M)
+  - Code du domaine de l'Etat - art. R25 (M)
+  - Code du domaine de l'Etat - art. R26 (M)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R38 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2222-17 (V)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 3
+
+
+###### Article R38
+
+Les demandes visées à l'article précédent doivent être formulées par délibération de l'organisme ayant qualité pour accepter
+les libéralités au nom de l'établissement.
+
+Elles sont adressées au préfet du département dans lequel est situé l'établissement gratifié. Elles sont accompagnées des
+pièces prévues à l'article R. 27 (1°, 2°, 3° et 5°) ainsi que des budgets et des comptes de l'établissement afférents aux
+trois derniers exercices et du budget de l'exercice en cours.
+
+Les demandes sont enregistrées à la préfecture. Il en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R27 (M)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 4
+
+
+###### Article R39
+
+Lorsque l'adresse du disposant ou de ses ayants droit est connue, le préfet, dans les huit jours de sa saisine, les invite à
+prendre connaissance du dossier et à formuler leur avis dans les conditions prévues à l'article R. 28 (alinéas 2 à 4).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R28 (M)
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R45-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 5
+
+
+##### Paragraphe 3 : Dispositions communes.<a id=63></a>
+
+###### Article R40
+
+Lorsque l'adresse du disposant ou l'adresse ou l'identité de certains de ses ayants droit sont inconnues, le préfet fait
+publier les mesures envisagées dans les conditions prévues à l'article R. 29, une affiche devant en outre être apposée à la
+mairie du lieu de situation de l'établissement.
+
+Les intéressés peuvent faire connaître leur avis dans les conditions prévues par le dernier alinéa de l'article R. 29.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R29 (M)
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat - art. R44 (Ab)
+  - Règlement d'administration publique 56-812 1956-08-03 art. 6
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R45-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+
+###### Article R41
+
+La réduction des charges grevant une libéralité faite à un établissement public national d'assistance ou de bienfaisance
+ainsi que la réduction ou la modification de l'affectation des charges grevant une libéralité faite à un établissement public
+national autre qu'un établissement d'assistance ou de bienfaisance sont autorisées par arrêté interministériel du ministre de
+tutelle, du ministre de la justice et du ministre des finances, lorsque l'auteur de la libéralité ou ses ayants droit ont
+donné leur accord.
+
+S'il y a désaccord entre l'établissement gratifié et l'auteur de la libéralité ou ses ayants droit, la mesure envisagée doit
+être prise par décret en Conseil d'Etat, pris sur le rapport des mêmes ministres.
+
+La restitution des dons et legs faits à des établissements publics de l'Etat autres que les établissements publics
+d'assistance ou de bienfaisance est dans tous les cas autorisée par un arrêté ministériel pris dans les conditions indiquées
+à l'alinéa 1er.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Abrogé par_:
+
+  - Décret n°88-138 1988-02-10 art. 3 JORF 12 fevrier 1988
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 7
+
+
+###### Article R42
+
+Si postérieurement à la réduction ou modification de l'affectation de charges résultant d'une libéralité, l'exécution totale
+ou partielle des obligations initialement imposées redevient possible, elle peut être demandée par le disposant ou ses ayants
+droit. La demande est adressée au préfet du département où est situé l'établissement intéressé, il en est accusé réception.
+
+Dans la huitaine, le préfet notifie la demande à l'établissement gratifié et l'invite à produire dans le délai d'un mois ses
+observations.
+
+La décision est prise par l'autorité qui a prononcé la réduction ou la modification des charges et dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R38 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 8
+
+
+###### Article R43
+
+Les dispositions des articles R. 32 à R. 35 sont applicables aux restitutions de libéralités faites à des établissements
+publics de l'Etat autres que des établissements publics d'assistance ou de bienfaisance.
+
+Toutefois le procès-verbal visé à l'article R. 32 est établi par le représentant de l'établissement gratifié et signé par
+lui, conjointement avec le préfet, sauf dans le cas où la remise des biens aux bénéficiaires de la restitution intervient
+postérieurement à la signification de l'ordonnance confiant la gestion desdits biens aux domaines.
+
+La requête au président du tribunal est, s'il y a lieu, présentée par le préfet du département dans lequel est situé
+l'établissement gratifié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat R32 à R35
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 9
+
+
+###### Article R44
+
+Si un même testament contient des libéralités distinctes à diverses personnes administratives, les autorités qualifiées se
+prononcent séparément sur l'acceptation de chaque libéralité lorsqu'aucune réclamation des héritiers ne s'est produite dans
+les délais fixés par les articles R. 22 et R. 25.
+
+Dans le cas contraire, un seul décret en Conseil d'Etat statue sur l'acceptation des diverses libéralités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Abrogé par_:
+
+  - Décret n°88-138 1988-02-10 art. 4 JORF 12 février 1988
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R22 (M)
+  - Code du domaine de l'Etat - art. R25 (M)
+
+_Nouveaux textes_:
+
+  - Code du domaine de l'Etat - art. R40 (M)
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 10
+
+
+###### Article R45
+
+Lorsqu'une libéralité faite à l'Etat ou à un établissement public national est assortie d'une charge stipulée au profit d'un
+tiers personnellement désigné, celui-ci devra être consulté, si son adresse est connue, dans les mêmes conditions que
+l'auteur de la libéralité ou que les ayants droit sur tout projet soit de réduction ou de modification de la charge dont il
+bénéficie, soit de restitution de la libéralité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Abrogé par_:
+
+  - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
+
+_Anciens textes_:
+
+  - Règlement d'administration publique 56-812 1956-08-03 art. 11
+
+
+###### Article R45-1
+
+La modification de la périodicité des attributions prévues par le disposant ou le regroupement en une seule attribution des
+revenus provenant de libéralités assorties de charges analogues consenties à l'Etat ou à un établissement public de l'Etat
+peuvent être autorisées par arrêté du ministre intéressé lorsque l'auteur de la libéralité ou ses ayants droit ont donné leur
+accord.
+
+En cas d'opposition du disposant ou de ses ayants droit l'autorisation est donnée par décret en Conseil d'Etat pris sur le
+rapport du ministre intéressé.
+
+Les modifications et regroupements visés aux alinéas précédents doivent avoir pour objet d'assurer une meilleure exécution
+des volontés du disposant.
+
+Lorsque ces mesures concernant des libéralités faites à un établissement public, elles doivent faire l'objet d'une
+délibération de l'organisme ayant qualité pour accepter les dons et legs au nom de l'établissement.
+
+Les dossiers sont instruits à la diligence du ministre intéressé ou du préfet selon que la personne gratifiée est l'Etat ou
+un établissement public. Ils comprennent, outre les pièces indiquées à l'article R. 27 (1°, 2° et 5°), l'indication des
+modifications de périodicité ou de regroupements envisagés et, s'il y a lieu, la délibération visée à l'alinéa précédent.
+
+Le disposant ou ses ayants droit sont invités à présenter leurs observations, dans les conditions prévues, soit aux articles
+R. 28 et R. 29, soit aux articles R. 39 et R. 40, selon la personne morale gratifiée est l'Etat ou un établissement public
+national.
+
+Les dispositions de l'article R. 26 sont applicables aux modifications et regroupements prévus par le présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Abrogé par_:
+
+  - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R26 (M)
+  - Code du domaine de l'Etat - art. R27 (M)
+  - Code du domaine de l'Etat - art. R28 (M)
+  - Code du domaine de l'Etat - art. R29 (M)
+  - Code du domaine de l'Etat - art. R39 (M)
+  - Code du domaine de l'Etat - art. R40 (M)
+
+_Créé par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+
+###### Article R45-2
+
+En cas de regroupement de revenus provenant de libéralités assorties de charges analogues, les appellations que chaque
+prestation recevait en conformité de la volonté du disposant doivent, dans la mesure du possible, figurer dans la nouvelle
+dénomination retenue pour la prestation unique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Abrogé par_:
+
+  - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
+
+
+###### Article R45-3
+
+Si après modification de la périodicité des attributions prévues par le disposant ou après regroupement en une seule
+attribution des revenus provenant de libéralités assorties de charges analogues, l'exécution totale ou partielle des
+obligations initialement imposées redevient possible, elle peut être demandée par l'auteur de la libéralité ou ses ayants
+droit.
+
+La demande est adressée au ministre intéressé, il en est accusé réception. Si elle concerne une libéralité consentie à un
+établissement public, les observations de ce dernier sont recueillies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+
+_Abrogé par_:
+
+  - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
+
+
+##### Section 6 : Biens vacants et sans maître.<a id=64></a>
 
 ###### Article R46
 
@@ -2514,13 +3500,13 @@ _Anciens textes_:
   - Décret n°1937-06-18 art. 6
 
 
-## Livre II : Administration des biens domaniaux<a id=61></a>
+## Livre II : Administration des biens domaniaux<a id=65></a>
 
-### Titre Ier : Domaine public<a id=62></a>
+### Titre Ier : Domaine public<a id=66></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=63></a>
+#### Chapitre Ier : Occupation temporaire<a id=67></a>
 
-##### Section 2 : Fixation des redevances.<a id=64></a>
+##### Section 2 : Fixation des redevances.<a id=68></a>
 
 ###### Article R56
 
@@ -2601,7 +3587,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2125-3 (V)
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=65></a>
+#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=69></a>
 
 ###### Article R59
 
@@ -2760,13 +3746,13 @@ _Abrogé par_:
   - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
 
 
-### Titre II : Domaine privé<a id=66></a>
+### Titre II : Domaine privé<a id=70></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=67></a>
+#### Chapitre Ier : Domaine immobilier<a id=71></a>
 
-##### Section 1 : Locations<a id=68></a>
+##### Section 1 : Locations<a id=72></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=69></a>
+##### Paragraphe 1 : Dispositions générales.<a id=73></a>
 
 ###### Article R68
 
@@ -2795,7 +3781,7 @@ _Codifié par_:
   - Décret n°62-299 1962-03-14
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=70></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=74></a>
 
 ###### Article R75
 
@@ -2857,7 +3843,7 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R76-1 (Ab)
 
 
-##### Section 4 : Echanges.<a id=71></a>
+##### Section 4 : Echanges.<a id=75></a>
 
 ###### Article R79
 
@@ -2890,7 +3876,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-43 (V)
 
 
-##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=72></a>
+##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=76></a>
 
 ###### Article R81
 
@@ -2992,7 +3978,7 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R83 (VT)
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=73></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=77></a>
 
 ###### Article R92
 
@@ -3371,7 +4357,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 
-#### Chapitre II : Domaine mobilier.<a id=74></a>
+#### Chapitre II : Domaine mobilier.<a id=78></a>
 
 ###### Article R110
 
@@ -3601,9 +4587,9 @@ _Anciens textes_:
   - Décret n°1852-06-02 art. 4
 
 
-### Titre III : Dispositions communes<a id=75></a>
+### Titre III : Dispositions communes<a id=79></a>
 
-#### Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat.<a id=76></a>
+#### Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat.<a id=80></a>
 
 ###### Article R120
 
@@ -3647,7 +4633,7 @@ _Cite_:
   - Code de l'environnement - art. L341-4 (V)
 
 
-#### Chapitre V : Regroupement des services publics.<a id=77></a>
+#### Chapitre V : Regroupement des services publics.<a id=81></a>
 
 ###### Article R123
 
@@ -3671,13 +4657,13 @@ _Abrogé par_:
   - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
 
 
-## Livre III : Aliénation des biens domaniaux<a id=78></a>
+## Livre III : Aliénation des biens domaniaux<a id=82></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=79></a>
+### Titre II : Aliénation des biens du domaine privé<a id=83></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=80></a>
+#### Chapitre Ier : Domaine immobilier<a id=84></a>
 
-##### Section 1 : Dispositions générales.<a id=81></a>
+##### Section 1 : Dispositions générales.<a id=85></a>
 
 ###### Article R131
 
@@ -3805,9 +4791,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-32 (V)
 
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=82></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=86></a>
 
-##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=83></a>
+##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=87></a>
 
 ###### Article R136
 
@@ -3854,7 +4840,7 @@ _Cite_:
   - Loi n°1933-03-28 annexe
 
 
-##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=84></a>
+##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=88></a>
 
 ###### Article R138
 
@@ -3912,7 +4898,7 @@ _Abrogé par_:
   - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969 en vigueur le 1er avril 1970
 
 
-##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=85></a>
+##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=89></a>
 
 ###### Article R147
 
@@ -3938,7 +4924,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R130 (Ab)
 
 
-##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=86></a>
+##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=90></a>
 
 ###### Article R147-1
 
@@ -3980,9 +4966,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-24 (V)
 
 
-## Livre IV : Dispositions diverses<a id=87></a>
+## Livre IV : Dispositions diverses<a id=91></a>
 
-### Titre Ier : Dispositions générales.<a id=88></a>
+### Titre Ier : Dispositions générales.<a id=92></a>
 
 ###### Article R151
 
@@ -4044,9 +5030,9 @@ _Codifié par_:
   - Décret n°62-299 1962-03-14
 
 
-### Titre II : Procédure - Instances<a id=89></a>
+### Titre II : Procédure - Instances<a id=93></a>
 
-#### Chapitre II : Instances.<a id=90></a>
+#### Chapitre II : Instances.<a id=94></a>
 
 ###### Article R161
 
@@ -4078,9 +5064,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2331-9 (V)
 
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=91></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=95></a>
 
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=92></a>
+#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=96></a>
 
 ###### Article R165
 
@@ -4243,7 +5229,7 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R170-4 (Ab)
 
 
-### Titre V : Dispositions particulières et finales.<a id=93></a>
+### Titre V : Dispositions particulières et finales.<a id=97></a>
 
 ###### Article R171
 
@@ -4441,17 +5427,17 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3221-3 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=94></a>
+# Partie réglementaire - Décrets simples<a id=98></a>
 
-## Livre Ier : Composition du domaine<a id=95></a>
+## Livre Ier : Composition du domaine<a id=99></a>
 
-### Titre II : Origine des biens<a id=96></a>
+### Titre II : Origine des biens<a id=100></a>
 
-#### Chapitre II : Domaine privé<a id=97></a>
+#### Chapitre II : Domaine privé<a id=101></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=98></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=102></a>
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=99></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=103></a>
 
 ###### Article D2
 
@@ -4519,13 +5505,13 @@ _Abrogé par_:
   - Décret n°69-825 du 28 août 1969 - art. 70 (Ab) JORF 6 septembre 1969 en vigueur le 1er avril 1970
 
 
-## Livre II : Administration des biens domaniaux<a id=100></a>
+## Livre II : Administration des biens domaniaux<a id=104></a>
 
-### Titre II : Domaine privé<a id=101></a>
+### Titre II : Domaine privé<a id=105></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=102></a>
+#### Chapitre Ier : Domaine immobilier<a id=106></a>
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=103></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=107></a>
 
 ###### Article D14
 
@@ -4610,9 +5596,9 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre III : Dispositions communes.<a id=104></a>
+### Titre III : Dispositions communes.<a id=108></a>
 
-#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=105></a>
+#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=109></a>
 
 ###### Article D17
 
@@ -4641,15 +5627,15 @@ _Cité par_:
   - Décret n°87-359 du 26 mai 1987 - art. 8 (V)
 
 
-## Livre III : Aliénation des biens domaniaux<a id=106></a>
+## Livre III : Aliénation des biens domaniaux<a id=110></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=107></a>
+### Titre II : Aliénation des biens du domaine privé<a id=111></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=108></a>
+#### Chapitre Ier : Domaine immobilier<a id=112></a>
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=109></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=113></a>
 
-##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=110></a>
+##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=114></a>
 
 ###### Article D18
 
@@ -4673,11 +5659,11 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-## Livre IV : Dispositions diverses<a id=111></a>
+## Livre IV : Dispositions diverses<a id=115></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=112></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=116></a>
 
-#### Chapitre III : Concessions domaniales en Guyane.<a id=113></a>
+#### Chapitre III : Concessions domaniales en Guyane.<a id=117></a>
 
 ###### Article D19
 
@@ -5021,7 +6007,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. D29 (Ab)
 
 
-#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=114></a>
+#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=118></a>
 
 ###### Article D33
 
@@ -5104,7 +6090,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=115></a>
+#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=119></a>
 
 ###### Article D35
 
@@ -5138,7 +6124,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre V : Dispositions particulières et finales.<a id=116></a>
+### Titre V : Dispositions particulières et finales.<a id=120></a>
 
 ###### Article D38
 
@@ -5225,17 +6211,17 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-# Partie réglementaire - Arrêtés<a id=117></a>
+# Partie réglementaire - Arrêtés<a id=121></a>
 
-## Livre Ier : Composition du domaine<a id=118></a>
+## Livre Ier : Composition du domaine<a id=122></a>
 
-### Titre II : Origine des biens<a id=119></a>
+### Titre II : Origine des biens<a id=123></a>
 
-#### Chapitre II : Domaine privé<a id=120></a>
+#### Chapitre II : Domaine privé<a id=124></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=121></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=125></a>
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=122></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=126></a>
 
 ###### Article A6
 
@@ -5252,7 +6238,7 @@ _Modifié par_:
   - Arrêté 1973-11-06 art. 2 JORF 15 novembre 1973
 
 
-### Titre III : Inventaire des biens.<a id=123></a>
+### Titre III : Inventaire des biens.<a id=127></a>
 
 ###### Article A7
 
@@ -5334,15 +6320,15 @@ _Cite_:
   - Code du domaine de l'Etat - art. A7 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=124></a>
+## Livre II : Administration des biens domaniaux<a id=128></a>
 
-### Titre Ier : Domaine public<a id=125></a>
+### Titre Ier : Domaine public<a id=129></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=126></a>
+#### Chapitre Ier : Occupation temporaire<a id=130></a>
 
-##### Section 1 : Délivrance des autorisations<a id=127></a>
+##### Section 1 : Délivrance des autorisations<a id=131></a>
 
-##### A) Arrêtés individuels.<a id=128></a>
+##### A) Arrêtés individuels.<a id=132></a>
 
 ###### Article A18
 
@@ -5364,7 +6350,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2125-2 (V)
 
 
-##### B) Arrêtés généraux.<a id=129></a>
+##### B) Arrêtés généraux.<a id=133></a>
 
 ###### Article A20
 
@@ -5418,7 +6404,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. L33 (M)
 
 
-##### C) Dispositions communes.<a id=130></a>
+##### C) Dispositions communes.<a id=134></a>
 
 ###### Article A29
 
@@ -5436,7 +6422,7 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-##### Section 2 : Fixation des redevances.<a id=131></a>
+##### Section 2 : Fixation des redevances.<a id=135></a>
 
 ###### Article A32
 
@@ -5588,9 +6574,9 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-#### Chapitre III : Extractions sur le domaine public<a id=132></a>
+#### Chapitre III : Extractions sur le domaine public<a id=136></a>
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=133></a>
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=137></a>
 
 ###### Article A49
 
@@ -5728,7 +6714,7 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=134></a>
+#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=138></a>
 
 ###### Article A61
 
@@ -5925,11 +6911,11 @@ _Abrogé par_:
   - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 
-### Titre II : Domaine privé<a id=135></a>
+### Titre II : Domaine privé<a id=139></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=136></a>
+#### Chapitre Ier : Domaine immobilier<a id=140></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=137></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=141></a>
 
 ###### Article A73
 
@@ -6278,7 +7264,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=138></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=142></a>
 
 ###### Article A90
 
@@ -6298,7 +7284,7 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=139></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=143></a>
 
 ###### Article A92
 
@@ -6373,7 +7359,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. D12 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=140></a>
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=144></a>
 
 ###### Article A94
 
@@ -6493,7 +7479,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=141></a>
+#### Chapitre II : Domaine immobilier.<a id=145></a>
 
 ###### Article A101
 
@@ -6528,11 +7514,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=142></a>
+## Livre III : Aliénation des biens domaniaux<a id=146></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=143></a>
+### Titre II : Aliénation des biens du domaine privé<a id=147></a>
 
-#### Chapitre II : Domaine mobilier.<a id=144></a>
+#### Chapitre II : Domaine mobilier.<a id=148></a>
 
 ###### Article A105
 
@@ -6725,7 +7711,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A113 (M)
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=145></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=149></a>
 
 ###### Article A118
 
