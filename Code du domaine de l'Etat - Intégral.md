@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1971-07-21
+Version Consolidée au 1971-10-06
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -111,10 +111,10 @@ Version Consolidée au 1971-07-21
         - [Chapitre II : Domaine mobilier. (art. R149)](#108)
     - [Livre IV : Dispositions diverses (art. R150 à R186)](#109)
       - [Titre Ier : Dispositions générales. (art. R150 à R152)](#110)
-      - [Titre II : Procédure - Instances (art. R153 à R162)](#111)
+      - [Titre II : Procédure - Instances (art. R153 à R163)](#111)
         - [Chapitre Ier : Recouvrement des produits domaniaux (art. R153 à R157-2)](#112)
           - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#113)
-        - [Chapitre II : Instances. (art. R158 à R162)](#114)
+        - [Chapitre II : Instances. (art. R158 à R163)](#114)
       - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R165 à R170)](#115)
         - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R165 à R170)](#116)
       - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#117)
@@ -8414,6 +8414,75 @@ _Nouveaux textes_:
 _Modifié par_:
 
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R163
+
+Devant les juridictions administratives et judiciaires autres que le Conseil d'Etat et la Cour de cassation, la procédure de
+toutes les instances auxquelles le service des domaines est partie en exécution des articles R. 158, R. 158-1 et R. 159 est
+préparée et suivie jusqu'à l'entière exécution des jugements et arrêts :
+
+1° Pour les instances visées à l'article R. 158 2°, par le préfet du département où est géré le patrimoine privé concerné, ou
+par le directeur des services fiscaux chargé de la gestion des patrimoines privés lorsque sa compétence territoriale excède
+l'étendue d'un département ;
+
+2° Pour les instances visées à l'article R. 158 3°, par le directeur des services fiscaux dont relève le comptable chargé du
+recouvrement ;
+
+3° Pour toutes les autres instances, par le préfet du département dans lequel le litige a pris naissance.
+
+Le préfet peut toutefois, conformément aux dispositions des décrets n° 64-250 du 14 mars 1964 et n° 68-57 du 19 janvier 1968,
+déléguer sa signature au directeur intéressé des services fiscaux ; en outre, pour les instances visées à l'article R. 158
+2°, il peut, par application du décret n° 71-11 du 6 janvier 1971, déléguer ses pouvoirs à ce chef de service et autoriser
+celui-ci a déléguer sa propre signature à ses subordonnés pour les décisions nécessitées par l'exercice desdits pouvoirs.
+
+Tous actes de procédure, et notamment les assignations, peuvent être valablement signifiés dans les bureaux de la direction
+des services fiscaux intéressée.
+
+Les chefs des différents services ministériels dans les départements concourent, chacun en ce qui concerne son service, à la
+défense des droits de l'Etat, en remettant au service des domaines tous les titres, plans et documents qu'ils peuvent avoir
+par-devers eux ; ils y joignent leurs observations et leur avis.
+
+Les instances devant la Cour de cassation sont suivies par le chef du service des domaines.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R158
+  - Code du domaine de l'Etat - art. R158-1
+  - Code du domaine de l'Etat - art. R159
+  - Décret n°64-250 du 14 mars 1964
+  - Décret n°68-57 du 19 janvier 1968
+  - Décret n°71-11 du 6 janvier 1971
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2331-5 (V)
+  - Code général de la propriété des personnes publ... - art. R2331-6 (V)
+
+_Modifié par_:
+
+  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Décret n°71-822 1971-10-01 art. 1 JORF 6 octobre 1971
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Anciens textes_:
+
+  - Ordonnance 1838-05-05
 
 
 ### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=115></a>
