@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2001-07-11
+Version Consolidée au 2001-12-12
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -440,28 +440,6 @@ _Cité par_:
 _Abrogé par_:
 
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L9
-
-Il est fait défense aux conservateurs des hypothèques de publier les actes d'acquisition d'immeubles souscrits pour le compte
-de l'Etat, des établissements publics nationaux ou de leurs concessionnaires, lorsque ces actes n'ont pas été soumis
-préalablement au visa du directeur des services fiscaux compétent, constatant qu'ils satisfont aux conditions fixées par
-décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 23 (V)
 
 
 ###### Article L10
