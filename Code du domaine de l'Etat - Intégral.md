@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-02-22
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -156,7 +156,7 @@ Version Consolidée au 1983-01-01
         - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#153)
         - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#154)
       - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#155)
-  - [Partie réglementaire - Arrêtés (art. A01 à A120)](#156)
+  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#156)
     - [Livre Ier : Composition du domaine (art. A01 à A11)](#157)
       - [Titre II : Origine des biens (art. A01 à A5)](#158)
         - [Chapitre II : Domaine privé (art. A01 à A5)](#159)
@@ -190,6 +190,8 @@ Version Consolidée au 1983-01-01
       - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#187)
         - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#188)
         - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#189)
+    - [Livre IV : Dispositions diverses (art. A122)](#190)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#191)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -16326,5 +16328,31 @@ _Cite_:
 
   - Code du domaine de l'Etat - art. A119 (V)
   - Loi n°1903-12-30 art. 7
+
+
+## Livre IV : Dispositions diverses<a id=190></a>
+
+### Titre V : Dispositions particulières et finales.<a id=191></a>
+
+###### Article A122
+
+Pour l'application de l'article D. 36, les limites minimales dont le dépassement rend obligatoire la consultation de la
+commission interministérielle sont fixées à :
+
+300000 F pour la valeur vénale des immeubles acquis à l'étranger    72000 F pour le loyer annuel, charges comprises, des
+immeubles pris à bail dans les pays figurant sur une liste fixée par décision conjointe du ministre des relations extérieures
+et du ministre chargé du domaine ;
+
+60000 F pour le loyer annuel, charges comprises, des immeubles pris à bail dans les autres pays étrangers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. D36 (M)
 
 
