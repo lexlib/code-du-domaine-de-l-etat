@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-09-03
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -88,7 +88,7 @@ Version Consolidée au 2003-08-02
           - [Section 3 : Droit de préemption de l'Etat. (art. R45-4)](#85)
           - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#86)
       - [Titre III : Inventaire des biens. (art. R52)](#87)
-    - [Livre II : Administration des biens domaniaux (art. R53 à R128-7)](#88)
+    - [Livre II : Administration des biens domaniaux (art. R53 à R128-11)](#88)
       - [Titre Ier : Domaine public (art. R53 à R63)](#89)
         - [Chapitre Ier : Occupation temporaire (art. R53 à R57-13)](#90)
           - [Section 1 : Délivrance des autorisations. (art. R53 à R54)](#91)
@@ -115,11 +115,11 @@ Version Consolidée au 2003-08-02
           - [Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation. (art. R105)](#112)
           - [Section 9 : Administration du domaine forestier. (art. R105-1)](#113)
         - [Chapitre II : Domaine mobilier. (art. R106 à R119)](#114)
-      - [Titre III : Dispositions communes (art. R120 à R128-7)](#115)
+      - [Titre III : Dispositions communes (art. R120 à R128-11)](#115)
         - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#116)
         - [Chapitre V : Regroupement des services publics. (art. R121 à R124)](#117)
         - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R125 à R128)](#118)
-        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. R128-1 à R128-7)](#119)
+        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. R128-1 à R128-11)](#119)
     - [Livre III : Aliénation des biens domaniaux (art. R129 à R149)](#120)
       - [Titre II : Aliénation des biens du domaine privé (art. R129 à R149)](#121)
         - [Chapitre Ier : Domaine immobilier (art. R129 à R148-4)](#122)
@@ -11825,6 +11825,165 @@ _Nouveaux textes_:
 
   - Code général de la propriété des personnes publ... - art. R2123-8 (V)
   - Code général de la propriété des personnes publ... - art. R2222-15 (V)
+
+
+###### Article R128-8
+
+La convention d'attribution prévue à l'article L. 51-2 définit les conditions, et notamment les modalités de suivi, de
+l'utilisation des immeubles du domaine public de l'Etat attribués au Conservatoire de l'espace littoral et des rivages
+lacustres.
+
+Elle est signée au nom de l'Etat par le préfet agissant en qualité de représentant du ministre chargé du domaine et sur
+proposition du chef du service gestionnaire du domaine public concerné.
+
+Elle précise les conditions dans lesquelles le Conservatoire de l'espace littoral et des rivages lacustres ou l'organisme
+gestionnaire peuvent, en application de l'article L. 51-2, accorder des autorisations d'occupation non constitutives de
+droits réels et être substitués à l'Etat pour l'application des dispositions des articles L. 28, L. 30, L. 32, L. 33, R. 53,
+R. 55 et R. 57.
+
+Les autorisations d'occupation sont contresignées par le préfet dans les cas où leur terme excède celui de la convention
+d'attribution.
+
+La convention d'attribution et la convention de gestion mentionnent expressément qu'elles ne sont pas constitutives de droits
+réels.
+
+A compter de la signature de la convention d'attribution, le Conservatoire de l'espace littoral et des rivages lacustres est
+substitué de plein droit à l'Etat pour la responsabilité, les charges et impôts de toute nature afférents aux immeubles en
+cause.
+
+Il peut être mis fin par le préfet à la convention d'attribution avant la date prévue par celle-ci soit dans les cas prévus
+par la convention, soit pour inexécution des obligations par l'attributaire, soit pour des motifs d'intérêt général.
+
+Les indemnités éventuellement dues à l'expiration, pour quelque cause que ce soit de la convention d'attribution, restent à
+la charge du Conservatoire de l'espace littoral et des rivages lacustres sauf dans les cas où la convention en dispose
+autrement.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°2003-839 du 29 août 2003 - art. 2 () JORF 3 septembre 2003
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L28
+  - Code du domaine de l'Etat - art. L30
+  - Code du domaine de l'Etat - art. L32
+  - Code du domaine de l'Etat - art. L33
+  - Code du domaine de l'Etat - art. L51-2
+  - Code du domaine de l'Etat - art. R53
+  - Code du domaine de l'Etat - art. R55
+  - Code du domaine de l'Etat - art. R57
+
+
+###### Article R128-9
+
+La convention de gestion conclue entre le Conservatoire de l'espace littoral et des rivages lacustres et l'organisme
+gestionnaire du domaine attribué au conservatoire en application de l'article L. 51-2 du présent code est transmise pour
+approbation au préfet. Cette approbation est considérée comme acquise en l'absence de réponse dans le délai de deux mois à
+compter de la saisine du préfet.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Créé par_:
+
+  - Décret n°2003-839 du 29 août 2003 - art. 2 () JORF 3 septembre 2003
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L51-2
+
+
+###### Article R128-10
+
+Les revenus de toute nature produits par les immeubles attribués au Conservatoire de l'espace littoral et des rivages
+lacustres sont, dans les conditions prévues par la convention d'attribution et la convention de gestion, directement perçus
+et recouvrés par les organismes gestionnaires ou, à défaut de gestionnaire, par l'établissement public attributaire.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Cité par_:
+
+  - Décret n°75-293 du 21 avril 1975 - art. 10-1 (Ab)
+  - Code de l'environnement - art. D422-126 (V)
+
+_Créé par_:
+
+  - Décret n°2003-839 du 29 août 2003 - art. 2 () JORF 3 septembre 2003
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R128-11
+
+Le Conservatoire de l'espace littoral et des rivages lacustres adresse chaque année au préfet un bilan des actions qu'il mène
+sur les immeubles attribués. Lorsque la gestion des immeubles est confiée à un organisme mentionné à l'article L. 322-9 du
+code de l'environnement, celui-ci adresse au Conservatoire de l'espace littoral et des rivages lacustres un compte rendu de
+gestion établi selon des modalités approuvées par le conseil d'administration du conservatoire.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Créé par_:
+
+  - Décret n°2003-839 du 29 août 2003 - art. 2 () JORF 3 septembre 2003
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code de l'environnement - art. L322-9
 
 
 ## Livre III : Aliénation des biens domaniaux<a id=120></a>
