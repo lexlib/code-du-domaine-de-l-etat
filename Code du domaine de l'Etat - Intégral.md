@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-08-21
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -258,7 +258,9 @@ _Cité par_:
 Ceux des biens visés à l'article précédent qui ne sont pas susceptibles d'une propriété privée en raison de leur nature ou de
 la destination qui leur est donnée sont considérés comme des dépendances du domaine public national.
 
-Les autres biens constituent le domaine privé.
+Les autres biens constituent le domaine privé. Notamment, les biens immobiliers à usage de bureaux, propriété de l'Etat ou de
+ses établissements publics, à l'exclusion de ceux formant un ensemble indivisible avec des biens immobiliers appartenant au
+domaine public, font partie du domaine privé de ces personnes publiques.
 
 **Liens relatifs à cet article**
 
@@ -267,9 +269,13 @@ _Codifié par_:
   - Décret n°57-1336 1957-12-28
   - Décret n°62-298 1962-03-14
 
-_Cite_:
+_Modifié par_:
 
-  - Code du domaine de l'Etat - art. L1 (Ab)
+  - Ordonnance n°2004-825 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -278,6 +284,7 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publiqu - art. L2111-1 (V)
+  - Code général de la propriété des personnes publiqu - art. L2211-1 (V)
 
 
 ### Titre II : Origine des biens<a id=4></a>
@@ -2615,8 +2622,23 @@ _Nouveaux textes_:
 
 ###### Article L54
 
-Les immeubles du domaine privé de l'Etat, non susceptibles d'être affectés ou utilisés, sont aliénés par le service des
-domaines qui en recouvre le prix.
+Les immeubles à usage de bureaux mentionnés au second alinéa de l'article L. 2 peuvent être aliénés alors qu'ils continuent à
+être utilisés par les services de l'Etat ou d'un établissement public. Dans ce cas, l'acte d'aliénation comporte des clauses
+permettant de préserver la continuité du service public.
+
+Lorsqu'un établissement public, autre qu'un établissement public à caractère industriel et commercial, envisage de procéder à
+la cession d'un tel immeuble, qui continue à être utilisé par ses services, il doit recueillir l'accord préalable du ministre
+chargé du budget et du ministre de tutelle.
+
+Les immeubles du domaine privé de l'Etat, lorsque leur aliénation est décidée, sont aliénés par le service des domaines qui
+en recouvre le prix.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L54 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception des mots " du ministre chargé du budget et du ministre de tutelle " et de son dernier alinéa qui seront abrogés à
+compter de la publication des dispositions règlementaires correspondantes du code général de la propriété des personnes
+publiques.
 
 **Liens relatifs à cet article**
 
@@ -2631,6 +2653,29 @@ _Cité par_:
   - Loi n°2003-660 du 21 juillet 2003 - art. 58 (V)
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
   - Code du domaine de l'Etat - art. L61 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-825 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L2 (M)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-1 (V)
+  - Code général de la propriété des personnes publ... - art. R3211-31 (V)
+  - Code général de la propriété des personnes publiqu - art. L3211-13 (V)
+  - Code général de la propriété des personnes publiqu - art. L3211-2 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
 ###### Article L55
