@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1981-02-18
+Version Consolidée au 1981-03-19
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -15654,6 +15654,33 @@ _Codifié par_:
 _Créé par_:
 
   - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article A117-2
+
+La durée du crédit est de :
+
+Trois mois si le prix principal, tout en étant supérieur à 40000 F, ne dépasse pas 200000 F ;
+
+Six mois, si le prix principal, tout en étant supérieur à 200000 F, ne dépasse pas 2 millions de francs ;
+
+Neuf mois si le prix principal dépasse deux millions de francs.
+
+Ces délais prennent effet du jour de la vente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Créé par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Modifié par_:
+
+  - Arrêté 1981-03-12 art. 2 JORF 19 mars 1981
 
 
 ###### Article A117-4
