@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1969-02-10
+Version Consolidée au 1969-03-19
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -82,10 +82,10 @@ Version Consolidée au 1969-02-10
       - [Titre III : Dispositions communes (art. R120 à R123)](#79)
         - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#80)
         - [Chapitre V : Regroupement des services publics. (art. R123)](#81)
-    - [Livre III : Aliénation des biens domaniaux (art. R131 à R148)](#82)
-      - [Titre II : Aliénation des biens du domaine privé (art. R131 à R148)](#83)
-        - [Chapitre Ier : Domaine immobilier (art. R131 à R148)](#84)
-          - [Section 1 : Dispositions générales. (art. R131 à R135)](#85)
+    - [Livre III : Aliénation des biens domaniaux (art. R130 à R148)](#82)
+      - [Titre II : Aliénation des biens du domaine privé (art. R130 à R148)](#83)
+        - [Chapitre Ier : Domaine immobilier (art. R130 à R148)](#84)
+          - [Section 1 : Dispositions générales. (art. R130 à R135)](#85)
           - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R148)](#86)
             - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#87)
             - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#88)
@@ -4762,6 +4762,41 @@ _Abrogé par_:
 #### Chapitre Ier : Domaine immobilier<a id=84></a>
 
 ##### Section 1 : Dispositions générales.<a id=85></a>
+
+###### Article R130
+
+Lorsqu'il est procédé, en vertu des lois ou règlements spéciaux, à la cession amiable d'immeubles domaniaux ou de droits
+immobiliers appartenant à l'Etat, le prix en est fixé par le directeur départemental des impôts chargé du domaine et
+l'aliénation est consentie par le préfet, quelle que soit la valeur des biens décés.
+
+A défaut d'accord amiable, le prix est fixé comme en matière d'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code du domaine de l'Etat (ancien) L85
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 19 mars 1969
+
+_Abrogé par_:
+
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R139 (M)
+  - Code du domaine de l'Etat - art. R146 (M)
+  - Code du domaine de l'Etat - art. R147 (Ab)
+  - Code du domaine de l'Etat - art. R148 (M)
+  - Code du domaine de l'Etat - art. R170-54 (Ab)
+
 
 ###### Article R131
 
