@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1978-03-18
+Version Consolidée au 1978-03-25
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -152,12 +152,12 @@ Version Consolidée au 1978-03-18
         - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#149)
         - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#150)
       - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#151)
-  - [Partie réglementaire - Arrêtés (art. A02 à A120)](#152)
-    - [Livre Ier : Composition du domaine (art. A02 à A11)](#153)
-      - [Titre II : Origine des biens (art. A02 à A5)](#154)
-        - [Chapitre II : Domaine privé (art. A02 à A5)](#155)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A02 à A5)](#156)
-            - [Paragraphe 1 : Dispositions générales. (art. A02)](#157)
+  - [Partie réglementaire - Arrêtés (art. A01 à A120)](#152)
+    - [Livre Ier : Composition du domaine (art. A01 à A11)](#153)
+      - [Titre II : Origine des biens (art. A01 à A5)](#154)
+        - [Chapitre II : Domaine privé (art. A01 à A5)](#155)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#156)
+            - [Paragraphe 1 : Dispositions générales. (art. A01 à A02)](#157)
             - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#158)
       - [Titre III : Inventaire des biens. (art. A7 à A11)](#159)
     - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#160)
@@ -11427,6 +11427,33 @@ _Abrogé par_:
 ##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=156></a>
 
 ##### Paragraphe 1 : Dispositions générales.<a id=157></a>
+
+###### Article A01
+
+Les chiffres limites visés aux articles R. 3 à R. 5 sont fixés comme il suit :
+
+1° Article R. 3 : 30000 F.
+
+2° Article R. 4 : 100000 F.
+
+3° Article R. 5 : 100000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1975-10-07 art. 1, art. 2, art. 3 JORF 6 novembre 1975
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R3 (V)
+  - Code du domaine de l'Etat - art. R4 (V)
+  - Code du domaine de l'Etat R3 à R5, R3, R4
+
 
 ###### Article A02
 
