@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1977-01-01
+Version Consolidée au 1977-02-03
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -164,23 +164,24 @@ Version Consolidée au 1977-01-01
             - [B) Arrêtés généraux. (art. A20 à A25)](#161)
             - [C) Dispositions communes. (art. A26 à A30)](#162)
           - [Section 2 : Fixation des redevances. (art. A32 à A38)](#163)
-        - [Chapitre III : Extractions sur le domaine public (art. A43 à A59)](#164)
-          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A43 à A45)](#165)
-            - [A) Arrêtés individuels. (art. A43 à A44)](#166)
-            - [B) Arrêtés généraux. (art. A45)](#167)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#168)
-        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A60 à A72)](#169)
-      - [Titre II : Domaine privé (art. A73 à A104)](#170)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#171)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#172)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#173)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#174)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#175)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#176)
-    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#177)
-      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#178)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#179)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#180)
+        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#164)
+          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#165)
+            - [A) Arrêtés individuels. (art. A40 à A44)](#166)
+            - [B) Arrêtés généraux. (art. A45 à A46)](#167)
+            - [C) Dispositions communes. (art. A47 à A48)](#168)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#169)
+        - [Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public. (art. A60 à A72)](#170)
+      - [Titre II : Domaine privé (art. A73 à A104)](#171)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#172)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#173)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#174)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#175)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#176)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#177)
+    - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#178)
+      - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#179)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#180)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#181)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -12219,6 +12220,89 @@ _Codifié par_:
 
 ##### A) Arrêtés individuels.<a id=166></a>
 
+###### Article A40
+
+Les demandes pour extractions sur le domaine public maritime de sables, terres, pierres, galets ou de tous matériaux et
+produits autres que les amendements marins sont soumises à une première instruction de la part du chef du service maritime.
+
+Les demandes pour extractions dans le lit des cours d'eau domaniaux de sables, graviers, pierres ou de tous autres matériaux
+sont soumises à une première instruction de la part du chef du service chargé de la police des eaux de ces cours d'eau.
+
+Ces chefs de service examinent si les permissions sollicitées peuvent être accordées sans inconvénient. Dans la négative, la
+décision de rejet est prise par l'autorité définie à l'article R. 53.
+
+Dans l'affirmative, et pour les extractions dans le lit des cours d'eau domaniaux, les chefs de service recueillent :
+
+L'avis du directeur départemental de l'agriculture s'il s'agit d'un cours d'eau non canalisé et si le chef de service chargé
+de la police des eaux est un chef de service de la navigation ou un directeur départemental de l'équipement ;
+
+L'avis du directeur départemental de l'équipement ou du chef du service de la navigation si le chef de service chargé de la
+police des eaux est le directeur départemental de l'agriculture ;
+
+Les chefs de service chargés de la première instruction formulent les conditions à prescrire au point de vue de la
+conservation et de la police du domaine public maritime ou fluvial comme à celui de toute autre convenance du service qui
+leur est confié.
+
+Ils présentent en outre des propositions relativement aux prix qu'il conviendrait de fixer.
+
+Lorsqu'ils estiment que les extractions doivent être favorables soit à la conservation du rivage ou au maintien des passes
+d'entrée aux ports, soit au maintien du chenal, ou à tout autre intérêt public dont la sauvegarde leur est confiée, ils
+examinent si ces extractions ne doivent pas être autorisées moyennant un prix réduit ou à titre gratuit. Ils présentent des
+propositions motivées à cet égard.
+
+Dans les cas prévus par les règlements sur les travaux mixtes, les chefs de service se conforment aux prescriptions de ces
+règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Arrêté 1977-01-18 art. 1 JORF 3 février 1977
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A46 (V)
+  - Code du domaine de l'Etat - art. A48 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R53 (M)
+
+
+###### Article A42
+
+Lorsqu'il y a accord entre les représentants de tous les services intéressés, l'autorisation d'opérer les extractions est
+accordée par l'autorité définie à l'article R. 53.
+
+Lorsque cet accord n'existe pas, l'affaire est soumise à l'administration supérieure pour y être statuée par le ministre de
+l'économie et des finances et par le ministre de l'équipement ouet le ministre de l'agriculture, selon leur compétence
+respective.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Arrêté 1977-01-18 art. 2 JORF 3 février 1977
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A45 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R53 (M)
+
+
 ###### Article A43
 
 En cas de dissentiment entre ces ministres sur la question de savoir si des extractions doivent ou non être autorisées à
@@ -12309,7 +12393,100 @@ _Cite_:
   - Code du domaine de l'Etat - art. R53 (M)
 
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=168></a>
+###### Article A46
+
+Lorsque les demandes en autorisation d'extraction entrent dans les prévisions du règlement de police pris en exécution de
+l'article précédent, le service chargé de la première instruction visé à l'article A. 40 le constate, sans consultation
+préalable des autres services, par la délivrance d'un récépissé où sont reproduits in extenso les prix et conditions
+générales fixés par ledit règlement et les conditions particulières applicables dans l'espèce.
+
+Ce récépissé est rédigé en double exemplaire : le premier est adressé immédiatement au directeur des services fiscaux,
+l'autre au comptable des impôts chargé de le remettre, après paiement du prix stipulé et de la taxe forfaitaire, à
+l'intéressé qui peut alors seulement commencer les extractions.
+
+Le service chargé de la première instruction informe l'intéressé de la transmission du récépissé au comptable des impôts
+auprès duquel il l'invite à retirer cette pièce.
+
+Avis de la délivrance du récépissé est donné à l'administration des affaires maritimes en cas d'extraction sur le domaine
+public maritime, et dans les autres cas, s'il y a lieu, à ce même fonctionnaire, au directeur départemental de l'équipement,
+au directeur départemental de l'agriculture et au directeur du génie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Arrêté 1977-01-18 art. 3 JORF 3 février 1977
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A40 (V)
+
+
+##### C) Dispositions communes.<a id=168></a>
+
+###### Article A47
+
+Les autorisations d'extraire des matériaux du domaine public maritime ou fluvial sont accordées après appel à la concurrence
+chaque fois que le directeur des services fiscaux estime, sur avis technique conforme du chef du service chargé de la
+première instruction, que cette procédure est favorable à une meilleure exploitation du lot considéré. L'opération a lieu
+selon les règles tracées par les articles A. 107 et A. 116.
+
+Les conditions d'exploitation imposées à l'acquéreur sont énoncées dans un cahier des charges particulières.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Arrêté 1977-01-18 art. 4 JORF 3 février 1977
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A107 (M)
+  - Code du domaine de l'Etat - art. A116 (M)
+
+
+###### Article A48
+
+Les autorisations auxquelles s'appliquent les articles A. 40 à A. 47 sont accordées à titre précaire et elles sont
+révocables, sans indemnité, à la première réquisition de l'administration. 
+
+Le retrait des permissions est prononcé par l'autorité définie à l'article R. 53. Dans le cas où cette décision est de la
+compétence du préfet, elle est prise sur proposition du chef de service chargé de la première instruction visée à l'article
+A. 40. Toutefois, en cas de désaccord entre les services intéressés, la décision est prise par le ministre de l'équipement ou
+le ministre de l'agriculture.
+
+La révocation des permissions peut être prononcée soit à la demande du directeur des services fiscaux pour inexécution des
+conditions financières, soit à la demande du chef du service chargé de la première instruction visée à l'article A. 40 en cas
+d'inexécution de toutes autres conditions, sans préjudice, s'il y a lieu, des poursuites pour contravention de grande voirie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A40 (V)
+  - Code du domaine de l'Etat - art. R53 (M)
+  - Code du domaine de l'Etat A40 à A47, R53, A40
+
+
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=169></a>
 
 ###### Article A49
 
@@ -12542,7 +12719,7 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=169></a>
+#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.<a id=170></a>
 
 ###### Article A60
 
@@ -12918,11 +13095,11 @@ _Abrogé par_:
   - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 
-### Titre II : Domaine privé<a id=170></a>
+### Titre II : Domaine privé<a id=171></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=171></a>
+#### Chapitre Ier : Domaine immobilier<a id=172></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=172></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=173></a>
 
 ###### Article A73
 
@@ -13334,7 +13511,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=173></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=174></a>
 
 ###### Article A90
 
@@ -13354,7 +13531,7 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=174></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=175></a>
 
 ###### Article A91
 
@@ -13597,7 +13774,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A93-7 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=175></a>
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=176></a>
 
 ###### Article A94
 
@@ -13782,7 +13959,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=176></a>
+#### Chapitre II : Domaine immobilier.<a id=177></a>
 
 ###### Article A101
 
@@ -13817,11 +13994,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=177></a>
+## Livre III : Aliénation des biens domaniaux<a id=178></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=178></a>
+### Titre II : Aliénation des biens du domaine privé<a id=179></a>
 
-#### Chapitre II : Domaine mobilier.<a id=179></a>
+#### Chapitre II : Domaine mobilier.<a id=180></a>
 
 ###### Article A105
 
@@ -14213,7 +14390,7 @@ _Cite_:
   - Code du domaine de l'Etat A117-1 à A117-3
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=180></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=181></a>
 
 ###### Article A118
 
