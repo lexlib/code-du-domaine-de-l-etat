@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-08-21
+Version Consolidée au 2004-11-06
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -12311,25 +12311,18 @@ _Cite_:
 
 ###### Article R129
 
-Sauf l'effet de dispositions législatives ou réglementaires spéciales, l'aliénation d'un immeuble du domaine privé de l'Etat
-a lieu par adjudication publique.
+L'aliénation d'un immeuble du domaine privé de l'Etat a lieu avec publicité et mise en concurrence, soit par adjudication
+publique, soit à l'amiable.
 
-L'adjudication est autorisée :
+La cession amiable est précédée d'une publicité permettant une mise en concurrence.
 
-1° Par le préfet après avis du directeur des services fiscaux lorsque la valeur vénale est inférieure ou égale à 1100000
-euros. La valeur vénale et la mise à prix sont fixées par le directeur des services fiscaux ;
+Ces procédures ne sont pas applicables aux cessions d'immeubles mentionnées à l'article R. 129-5.
 
-2° Par le ministre chargé du domaine si la valeur vénale déterminée par le directeur des services fiscaux excède 1100000
-euros.
+**Nota:**
 
-Le chef du service des domaines établit le cahier des charges type fixant les conditions générales des ventes et détermine
-les modalités générales de la publicité préalable aux adjudications.
-
-Lorsque, en raison de dispositions spéciales, la cession peut être faite à l'amiable, elle est consentie par le préfet, après
-avis du directeur des services fiscaux. Le directeur des services fiscaux détermine la valeur vénale et fixe le prix. Lorsque
-la valeur vénale excède 550000 euros, la cession amiable est autorisée par le ministre chargé du domaine.
-
-Ces valeurs limites peuvent être modifiées par décret en Conseil d'Etat pris sur le rapport du ministre chargé du domaine.
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -12353,25 +12346,152 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R129-5
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-2 (V)
 
 
 ###### Article R129-1
 
-La cession peut également être faite à l'amiable:
+L'adjudication publique est autorisée par le préfet après avis du directeur des services fiscaux. La mise à prix est fixée
+par le directeur des services fiscaux.
 
-1° Lorsque l'adjudication publique a été infructueuse ;
+Le directeur général des impôts, chef du service des domaines, établit le cahier des charges type fixant les conditions
+générales des aliénations et détermine les modalités générales de la publicité préalable aux adjudications.
 
-2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération
-d'intérêt général par une personne exclue du bénéfice de l'affectation ou de la dotation domaniales ou par un établissement
-public national à caractère industriel et commercial ;
+**Nota:**
 
-3° Lorsque la cession de l'immeuble est justifiée par les conditions particulières d'utilisation imposées à l'acquéreur ;
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
-4° Lorsque la spécificité de l'immeuble détermine la qualité de l'acquéreur ;
+**Liens relatifs à cet article**
 
-5° Lorsque la valeur vénale de l'immeuble n'excède pas des montants fixés par arrêté du ministre chargé du domaine dans la
-limite de 80000 euros.
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. A104-1 (M)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-2 (V)
+  - Code général de la propriété des personnes publ... - art. R3211-3 (V)
+
+
+###### Article R129-2
+
+Le préfet annonce la cession amiable au moyen d'un avis. Cet avis est inséré dans une publication à diffusion locale,
+nationale ou internationale, habilitée à recevoir des annonces légales, ou dans une publication spécialisée dans le secteur
+de l'immobilier, ou publié par voie électronique. Le choix des modalités de publication est fonction, notamment, de la nature
+et de l'importance de l'immeuble dont la cession est envisagée.
+
+L'avis précise notamment :
+
+1° La localisation et les caractéristiques essentielles de l'immeuble ;
+
+2° L'adresse du service auprès duquel le cahier des charges de la vente peut, s'il y a lieu, être demandé ou consulté ;
+
+3° Les modalités de présentation des offres par les acquéreurs potentiels ;
+
+4° Les modalités d'organisation des visites de l'immeuble.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Créé par_:
+
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+_Cité par_:
+
+  - Arrêté du 20 octobre 2005 - art. 1-1 (Ab)
+  - Code du domaine de l'Etat - art. R148-3 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-4 (V)
+
+
+###### Article R129-3
+
+Les critères de sélection des offres prennent notamment en compte les conditions financières proposées ainsi que les
+garanties de bonne fin et de solvabilité présentées.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Créé par_:
+
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R148-3 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-5 (V)
+
+
+###### Article R129-4
+
+La cession est consentie par le préfet, aux conditions financières fixées par le directeur des services fiscaux.
+
+Lorsque la valeur vénale de l'immeuble excède un montant fixé par arrêté du ministre chargé du domaine, la cession est
+autorisée par le ministre chargé du domaine.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -12379,13 +12499,75 @@ _Codifié par_:
 
   - Décret n°62-299 1962-03-14
 
+_Créé par_:
+
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 _Cité par_:
 
-  - Code du domaine de l'Etat - art. A104-1 (M)
+  - Code des ports maritimes - art. R*113-22 (Ab)
+  - Code du domaine de l'Etat - art. A104-1 (V)
+  - Code du domaine de l'Etat - art. R129-5 (Ab)
+  - Code du domaine de l'Etat - art. R139 (Ab)
+  - Code du domaine de l'Etat - art. R146 (Ab)
+  - Code du domaine de l'Etat - art. R148 (Ab)
+  - Code du domaine de l'Etat - art. R148-4 (Ab)
+  - Code du patrimoine - art. R541-1 (V)
 
-_Modifié par_:
+_Nouveaux textes_:
 
-  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
+  - Code général de la propriété des personnes publ... - art. R3211-6 (V)
+
+
+###### Article R129-5
+
+La cession d'un immeuble peut également être faite à l'amiable, sans appel à la concurrence :
+
+1° Lorsque des dispositions législatives ou réglementaires spéciales impliquent la cession de l'immeuble au profit d'un
+acquéreur ou d'une catégorie d'acquéreurs déterminés.
+
+Dans ce cas, le prix est fixé par le directeur des services fiscaux et l'aliénation est consentie par le préfet, quelle que
+soit la valeur des immeubles cédés. A défaut d'accord amiable, le prix est fixé comme en matière d'expropriation pour cause
+d'utilité publique ;
+
+2° Lorsque des dispositions législatives ou réglementaires spéciales permettent la cession de l'immeuble au profit d'un
+acquéreur ou d'une catégorie d'acquéreurs déterminés ;
+
+3° Lorsque l'adjudication publique a été infructueuse ;
+
+4° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération
+d'intérêt général par une personne exclue du bénéfice de l'affectation ou de la dotation domaniale ou par un établissement
+public national à caractère industriel et commercial ;
+
+5° Lorsque les conditions particulières d'utilisation de l'immeuble le justifient ;
+
+6° Lorsque l'immeuble est affecté, attribué ou confié en gestion à un établissement public à caractère industriel et
+commercial qui souhaite l'acquérir.
+
+Dans les cas prévus aux 2°, 3°, 4°, 5° et 6°, la cession est consentie selon les modalités prévues à l'article R. 129-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 1962-03-14
+
+_Créé par_:
+
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+_Cité par_:
+
+  - Décret n°2005-1538 du 8 décembre 2005 - art. 3 (V)
+  - Code du domaine de l'Etat - art. R129 (Ab)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R129-4 (V)
 
 
 ###### Article R130
@@ -12678,13 +12860,19 @@ _Cité par_:
 
 ###### Article R139
 
-Les immeubles bâtis ou non bâtis appartenant à l'Etat peuvent être cédés à l'amiable, dans les conditions prévues au
-quatrième alinéa de l'article R. 129, sur les instructions du ministre intéressé et après avis favorable du ministre chargé
-du logement, lorsqu'ils sont destinés à être utilisés pour la réalisation d'opérations d'urbanisme ou de construction.
+Les immeubles bâtis ou non bâtis appartenant à l'Etat peuvent être cédés à l'amiable, dans les conditions prévues à l'article
+R. 129-4, sur les instructions du ministre intéressé et après avis favorable du ministre chargé du logement, lorsqu'ils sont
+destinés à être utilisés pour la réalisation d'opérations d'urbanisme ou de construction.
 
 Les conditions de l'utilisation des immeubles par les cessionnaires sont définies dans des cahiers des charges établis par le
 service des domaines avec le concours des services du ministère chargé du logement. Ces cahiers des charges fixent les
 modalités de résiliation des cessions au cas d'inexécution des obligations du cessionnaire.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -12694,16 +12882,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 2 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R129 (M)
+  - Code du domaine de l'Etat - art. R129-4
 
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R140 (Ab)
   - Code du domaine de l'Etat - art. R69 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-11 (V)
 
 
 ###### Article R140
@@ -13045,11 +13241,16 @@ _Cite_:
 
 ###### Article R146
 
-Les dispositions de l'article R. 129, quatrième alinéa, sont applicables aux concessions accordées en application de
-l'article L. 64.
+Les dispositions de l'article R. 129-4, sont applicables aux concessions accordées en application de l'article L. 64.
 
 Toutefois, lorsque l'opération a donné lieu à une enquête publique, la concession est approuvée par décret en Conseil d'Etat
 en cas d'avis défavorable du commissaire enquêteur ou de la commission d'enquête portant sur ladite opération.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -13063,12 +13264,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 3 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. L64 (Ab)
-  - Code du domaine de l'Etat - art. R129 (M)
+  - Code du domaine de l'Etat - art. L64
+  - Code du domaine de l'Etat - art. R129-4
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-23 (V)
+  - Code général de la propriété des personnes publ... - art. R3211-34 (M)
 
 
 ###### Article R147
@@ -13142,24 +13352,38 @@ _Nouveaux textes_:
 ###### Article R148
 
 Les cessions amiables de servitudes constituées au profit de l'Etat sont consenties par le préfet, sur proposition du
-directeur départemental des impôts chargé du domaine, dans les conditions prévues au quatrième alinéa de l'article R. 129.
+directeur des services fiscaux, dans les conditions prévues à l'article R. 129-4.
 
 Le projet de cession est préalablement affiché à la mairie de la situation des lieux et soumis à un enquête d'une durée de
 dix jours.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
 
 _Modifié par_:
 
-  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 4 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R129 (M)
+  - Code du domaine de l'Etat - art. R129-4
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-25 (V)
 
 
 ##### Paragraphe 11 : Rétrocession d'immeubles expropriés.<a id=133></a>
@@ -13237,24 +13461,26 @@ _Abrogé par_:
 
 ###### Article R148-3
 
-Jusqu'au 31 décembre 2008, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
-voie d'adjudication publique.
+Jusqu'au 31 décembre 2008, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu avec
+publicité et mise en concurrence soit par adjudication publique, soit à l'amiable. La cession amiable est précédée d'une
+publicité adaptée à la nature et à l'importance de l'immeuble dont la cession est envisagée, permettant une mise en
+concurrence, dans les conditions mentionnées aux articles R. 129-2 et R. 129-3.
 
-Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
+Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence, dans les cas suivants :
 
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 150000 euros ;
+1° Lorsque la valeur vénale de l'immeuble n'excède pas 150 000 euros ;
 
 2° Lorsqu'une précédente adjudication a été infructueuse ;
 
 3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département ou la région de la situation du bien
 ou un établissement public de coopération intercommunale agissant dans le cadre de ses compétences, s'engage à acquérir
-l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense.
+l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense ;
+
+4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
+l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense ;
 
 Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
 amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix ;
-
-4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
-l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -13264,18 +13490,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-712 du 28 juillet 2003 - art. 1 () JORF 2 août 2003
-  - Décret n°2003-712 du 28 juillet 2003 - art. 2 () JORF 2 août 2003
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 5 () JORF 6 novembre 2004
 
 _Cité par_:
 
   - Décret du 23 juillet 2015 (V)
 
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R129-2 (V)
+  - Code du domaine de l'Etat - art. R129-3 (V)
+
 
 ###### Article R148-4
 
-Les dispositions des articles R. 129 et R. 138 ne sont pas applicables aux aliénations des immeubles domaniaux visés à
-l'article précédent.
+Les dispositions des articles R. 129, R. 129-4 et R. 138 ne sont pas applicables aux aliénations des immeubles domaniaux
+visés à l'article précédent.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -13285,12 +13521,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-712 du 28 juillet 2003 - art. 1 () JORF 2 août 2003
+  - Décret n°2004-1175 du 4 novembre 2004 - art. 6 () JORF 6 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R129 (M)
-  - Code du domaine de l'Etat - art. R138 (V)
+  - Code du domaine de l'Etat - art. R129
+  - Code du domaine de l'Etat - art. R129-4
+  - Code du domaine de l'Etat - art. R138
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R3211-27 (V)
 
 
 #### Chapitre II : Domaine mobilier.<a id=136></a>
