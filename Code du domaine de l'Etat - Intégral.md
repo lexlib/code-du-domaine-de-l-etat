@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1978-09-06
+Version Consolidée au 1979-02-07
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -1989,13 +1989,26 @@ _Nouveaux textes_:
 ###### Article L63
 
 Les parcelles domaniales incluses dans les secteurs de reboisement peuvent être cédées dans des conditions déterminées par
-l'article 23 du décret n° 54-1302 du 30 décembre 1954 relatif aux groupements pour le reboisement et la gestion forestière.
+l'article L. 244-3 du code forestier.
+
+**Nota:**
+
+NOTA : L'article L244-3 du code forestier a été abrogé par la loi 2001-602 (art. 72) du 9 juillet 2001.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°79-113 du 25 janvier 1979 - art. 1 (V) JORF 7 février 1979
+  - Décret n°79-113 du 25 janvier 1979 - art. 4 (V) JORF 7 février 1979
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
 _Cite_:
 
-  - Décret n°54-1302 1954-12-30 art. 23
+  - Code forestier - art. L244-3 (Ab)
 
 _Codifié par_:
 
