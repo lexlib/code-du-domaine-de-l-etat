@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1997-12-05
+Version Consolidée au 1998-07-03
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -2936,6 +2936,12 @@ sont affectées à des oeuvres d'assistance, notamment à la redistribution grat
 défavorisées. Lesdites associations ne pourront procéder à la rétrocession, à titre onéreux, des biens ainsi alloués à peine
 d'être exclues du bénéfice des présentes mesures.
 
+De même, les services de l'Etat, les collectivités territoriales et leurs établissements sont autorisés à céder gratuitement
+les matériels informatiques dont ils n'ont plus l'emploi et dont la valeur unitaire n'excède pas 1000 F aux associations de
+parents d'élèves et aux associations de soutien scolaire. Ces associations s'engagent par écrit à n'utiliser les matériels
+qui leur sont cédés que pour l'objet prévu par leurs statuts, à l'exclusion de tout autre. Elles ne peuvent procéder à la
+rétrocession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice de la présente loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -2944,14 +2950,10 @@ _Cite_:
   - Code du domaine de l'Etat - art. L68 (M)
   - Loi n°1901-07-01
 
-_Modifié par_:
-
-  - Loi - art. 47 () JORF 31 décembre 1995
-
 _Cité par_:
 
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
   - Code du domaine de l'Etat - art. A115-1 (V)
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
 
 _Nouveaux textes_:
 
@@ -2960,6 +2962,10 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°62-298 1962-03-14
+
+_Modifié par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 105 () JORF 3 juillet 1998
 
 
 ###### Article L70
