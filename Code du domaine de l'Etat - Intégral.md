@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1989-10-13
+Version Consolidée au 1989-10-14
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -131,7 +131,7 @@ Version Consolidée au 1989-10-13
           - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#128)
         - [Chapitre II : Instances. (art. R158 à R163)](#129)
       - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170-65)](#130)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R169)](#131)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R169-3)](#131)
         - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-65)](#132)
           - [Section 1 : Actes passés en vue de la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46)](#133)
           - [Section 2 : Concessions et cessions d'immeubles domaniaux. (art. R170-47 à R170-55)](#134)
@@ -156,51 +156,50 @@ Version Consolidée au 1989-10-13
           - [Section 2 : Ventes soumises à des règles particulières (art. D17-1 à D18)](#153)
             - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. D17-1)](#154)
             - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#155)
-    - [Livre IV : Dispositions diverses (art. D18-1 à D44)](#156)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D18-1 à D35)](#157)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. D18-1)](#158)
-        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#159)
-        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#160)
-      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#161)
-  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#162)
-    - [Livre Ier : Composition du domaine (art. A01 à A11)](#163)
-      - [Titre II : Origine des biens (art. A01 à A5)](#164)
-        - [Chapitre II : Domaine privé (art. A01 à A5)](#165)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#166)
-            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#167)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#168)
-      - [Titre III : Inventaire des biens. (art. A7 à A11)](#169)
-    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#170)
-      - [Titre Ier : Domaine public (art. A12 à A65)](#171)
-        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#172)
-          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#173)
-            - [A) Arrêtés individuels. (art. A12 à A19)](#174)
-            - [B) Arrêtés généraux. (art. A20 à A25)](#175)
-            - [C) Dispositions communes. (art. A26 à A30)](#176)
-          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#177)
-        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#178)
-          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#179)
-            - [A) Arrêtés individuels. (art. A40 à A44)](#180)
-            - [B) Arrêtés généraux. (art. A45 à A46)](#181)
-            - [C) Dispositions communes. (art. A47 à A48)](#182)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#183)
-        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#184)
-      - [Titre II : Domaine privé (art. A73 à A104)](#185)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#186)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#187)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#188)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#189)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#190)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#191)
-    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#192)
-      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#193)
-        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#194)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#195)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#196)
-    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#197)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#198)
-        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#199)
-      - [Titre V : Dispositions particulières et finales. (art. A122)](#200)
+    - [Livre IV : Dispositions diverses (art. D33 à D44)](#156)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D33 à D35)](#157)
+        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#158)
+        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#159)
+      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#160)
+  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#161)
+    - [Livre Ier : Composition du domaine (art. A01 à A11)](#162)
+      - [Titre II : Origine des biens (art. A01 à A5)](#163)
+        - [Chapitre II : Domaine privé (art. A01 à A5)](#164)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#165)
+            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#166)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#167)
+      - [Titre III : Inventaire des biens. (art. A7 à A11)](#168)
+    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#169)
+      - [Titre Ier : Domaine public (art. A12 à A65)](#170)
+        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#171)
+          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#172)
+            - [A) Arrêtés individuels. (art. A12 à A19)](#173)
+            - [B) Arrêtés généraux. (art. A20 à A25)](#174)
+            - [C) Dispositions communes. (art. A26 à A30)](#175)
+          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#176)
+        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#177)
+          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#178)
+            - [A) Arrêtés individuels. (art. A40 à A44)](#179)
+            - [B) Arrêtés généraux. (art. A45 à A46)](#180)
+            - [C) Dispositions communes. (art. A47 à A48)](#181)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#182)
+        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#183)
+      - [Titre II : Domaine privé (art. A73 à A104)](#184)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#185)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#186)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#187)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#188)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#189)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#190)
+    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#191)
+      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#192)
+        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#193)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#194)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#195)
+    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#196)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#197)
+        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#198)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#199)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -8901,7 +8900,9 @@ ou culturel ;
 
 3° Immeubles classés en réserve naturelle ou dont le caractère naturel doit être préservé ;
 
-4° Immeubles acquis en vue de la réalisation ultérieure d'opérations d'urbanisme ou d'aménagement de toute nature.
+4° Immeubles acquis en vue de la réalisation ultérieure d'opérations d'urbanisme ou d'aménagement de toute nature ;
+
+5° Immeubles compris dans la zone définie à l'article L. 87, dans les conditions prévues aux articles R. 169 à R. 169-3.
 
 **Liens relatifs à cet article**
 
@@ -8909,9 +8910,15 @@ _Codifié par_:
 
   - Décret n°62-299 1962-03-14
 
+_Modifié par_:
+
+  - Décret n°89-734 1989-10-13 art. 1 JORF 14 octobre 1989
+
 _Cite_:
 
   - Code du domaine de l'Etat - art. L51-1 (V)
+  - Code du domaine de l'Etat - art. L87 (M)
+  - Code du domaine de l'Etat L51-1, L87, R169 à R169-3
 
 _Cité par_:
 
@@ -10949,165 +10956,398 @@ _Anciens textes_:
 
 ###### Article R164
 
-Les terrains dépendant de la zone de cinquante pas géométriques peuvent, quelle que soit leur valeur, être cédés à l'amiable,
-après avis de la commission départementale des opérations immobilières, de l'architecture et des espaces protégés. La
-commission nationale des opérations immobilières et de l'architecture connaît, au lieu et place des commissions
-départementales normalement compétentes, des projets de l'espèce que le Premier ministre, de sa propre initiative ou à la
-demande d'un ministre, du préfet d'un département d'outre-mer ou du président de la commission nationale, décide de lui
-soumettre en raison de leur intérêt exceptionnel.
+Une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87 ne peut être déclassée qu'en vue de
+son aliénation.
+
+Le déclassement est prononcé par arrêté du préfet. Toutefois, lorsque la dépendance à déclasser comprend des terrains ayant
+le caractère de lais et relais de la mer, le déclassement est prononcé par arrêté conjoint du ministre chargé de la mer et du
+ministre chargé du domaine.
+
+Le déclassement prend effet à la date du transfert de propriété.
+
+L'acte opérant le transfert de propriété vise l'arrêté prévu au présent article.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat (ancien) L142
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L87
 
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R169 (M)
   - Code du domaine de l'Etat - art. R170-1 (Ab)
   - Code du domaine de l'Etat - art. R170-5 (Ab)
+  - Code du domaine de l'Etat - art. R170-7 (Ab)
 
-_Modifié par_:
+_Nouveaux textes_:
 
-  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-  - Décret n°74-402 1974-05-06 art. 9 JORF 14 mai 1974
+  - Code général de la propriété des personnes publ... - art. R5111-1 (V)
 
 
 ###### Article R165
 
-Si l'administration décide la vente, au profit de particuliers, de terrains occupés en vertu d'un titre administratif de
-jouissance reconnu valable ou sur lesquels des constructions ont été édifiées par un tiers, ces terrains sont cédés à
-l'amiable aux occupants qui, dans le délai de six mois à compter de la notification qui leur est faite, souscrivent un
-engagement d'acquérir aux conditions fixées par le service des domaines.
+Les terrains compris dans la zone définie à l'article L. 87 et occupés en vertu d'un titre administratif de jouissance ou sur
+lesquels des constructions ont été édifiées antérieurement à l'entrée en vigueur de la loi n° 86-2 du 3 janvier 1986 relative
+à l'aménagement, la protection et la mise en valeur du littoral peuvent être déclassés aux fins de cession aux occupants
+lorsque ceux-ci ont souscrit aux conditions contenues dans une offre de cession qui leur est notifiée par le directeur des
+services fiscaux. Cette offre est caduque à l'expiration d'un délai de six mois à compter de la notification si l'occupant
+n'a pas souscrit dans ce délai aux conditions qu'elle spécifie.
+
+Le transfert de propriété ne peut avoir lieu qu'après l'entière exécution des conditions mises à la cession. Le prix est fixé
+selon les dispositions applicables à l'aliénation des immeubles du domaine privé.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat (ancien) L143
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
+
+_Cite_:
+
+  - Loi n°86-2 du 3 janvier 1986
+  - Code du domaine de l'Etat - art. L87
+
+_Modifié par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5111-2 (V)
 
 
 ###### Article R166
 
-Le préfet, après avis d'une commission dont la composition est déterminée par décret, peut décider que les terrains
-disponibles de la zone des cinquante pas géométriques seront utilisés pour favoriser le développement de l'économie agricole.
-Ces terrains seront, directement ou par l'intermédiaire des organismes prévues à l'article R. 167, soit cédés à titre onéreux
-ou loués à des exploitants agricoles désignés par les soins du préfet, soit échangés contre des terrains à vocation agricole
-dont celui-ci aura reconnu opportune l'acquisition par l'Etat ou par lesdits organismes.
+Une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87 ne peut être mise à la disposition
+d'un département ministériel ou d'un établissement public de l'Etat que par arrêté conjoint du ministre chargé du domaine, du
+ministre chargé de la mer et du ministre sous l'autorité duquel se trouve le service ou l'établissement public appelé à en
+bénéficier.
 
-Après avis de la même commission, le préfet peut décider que les terrains reçus en échange par l'Etat ou par les organismes
-prévus audit article R. 167 seront cédés à titre onéreux ou loués aux exploitants qu'il aura désignés.
+**Nota:**
 
-Les terrains en cause de la zone des cinquante pas géométriques ou ceux reçus en échange par l'Etat qui n'auraient été ni
-cédés ni loués pourront être affectés au ministère de l'agriculture.
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-561 1961-06-03 art. 1
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 _Cité par_:
 
   - Code du domaine de l'Etat - art. D18-1 (Ab)
-  - Code du domaine de l'Etat - art. R167 (M)
+  - Code du domaine de l'Etat - art. R167 (Ab)
   - Code du domaine de l'Etat - art. R168 (M)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L87
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5111-3 (V)
 
 
 ###### Article R167
 
-Les terrains affectés au ministère de l'agriculture seront gérés, aménagés et lotis, soit directement par ses services, soit,
-sous leur contrôle technique, par l'intermédiaire des sociétés d'Etat prévues à l'article de la loi n° 46-860 du 30 avril
-1946, des institutions de crédit agricole mutuel prévues au chapitre VI du titre Ier du livre V du code rural, ou, le cas
-échéant, des sociétés d'aménagement foncier et d'établissement rural prévues à l'article 15 de la loi n° 60-808 du 5 août
-1960. L'intervention de ces organismes peut être conjointe.
+Si une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87, mise à la disposition d'un
+département ministériel ou d'un établissement public de l'Etat, cesse d'être utile au bénéficiaire sans être mise
+concomitamment à la disposition d'un autre bénéficiaire dans les conditions prévues à l'article R. 166, elle fait l'objet
+d'un procès-verbal de remise en gestion au service maritime. Le procès-verbal est dressé, contradictoirement entre le
+représentant de ce service et celui du département ministériel ou de l'établissement antérieurement gestionnaire, par le
+représentant du service des domaines.
 
-Ces terrains pourront ensuite être cédés à titre onéreux ou loués aux exploitants désignés par le préfet après avis de la
-commission prévue à l'article R. 166.
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°46-860 1946-04-30
-  - Loi n°60-808 1960-08-05 art. 15
-  - Code du domaine de l'Etat - art. R166 (M)
-
-_Anciens textes_:
-
-  - Décret n°61-561 1961-06-03 art. 2
-
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L87
+  - Code du domaine de l'Etat - art. R166 (Ab)
 
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R168 (M)
 
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5111-4 (V)
+
 
 ###### Article R168
 
-Nul ne peut obtenir la mise à sa disposition, en propriété ou en jouissance, de terres, en application des articles R. 166 ou
-R. 167, sans avoir accepté un cahier des charges type et, sauf dispense décidée dans les conditions déterminées par arrêté
-préfectoral, sans avoir adhéré à un groupement d'exploitants agricoles agréé par le préfet ou, s'il s'agit d'un groupement
-agricole, sans que ledit groupement ait été agréé par le préfet.
+Les projets d'aliénation et de transfert de gestion sont soumis à l'avis de la commission des cinquante pas géométriques
+constituée dans le département.
+
+Cette commission est présidée par le préfet ou son représentant et comprend :
+
+1° Quatre représentants des services de l'Etat désignés par le préfet ;
+
+2° Un représentant du conseil régional et un représentant du conseil général désignés par ces assemblées.
+
+Le maire de la commune sur le territoire de laquelle est situé l'immeuble dont l'aliénation ou le transfert sont envisagés
+siège avec voix délibérative.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Le président peut inviter aux séances de la commission, avec voix consultative, toute personne dont l'avis lui paraît utile.
+
+**Nota:**
+
+Décret n° 2009-634 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commissions des
+cinquante pas géométriques).
+
+L'article 1 du décret n° 2014-592 du 6 juin 2014 a renouvelé pour une durée d'un an à compter du 8 juin 2014 les Commissions
+des cinquante pas géométriques.
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-561 1961-06-03 art. 3
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
 
 _Cité par_:
 
   - Décret n°2009-634 du 6 juin 2009 - art. (V)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code du domaine de l'Etat - art. R166 (M)
-  - Code du domaine de l'Etat - art. R167 (M)
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. D5111-6 (V)
+  - Code général de la propriété des personnes publ... - art. R5111-5 (V)
 
 
 ###### Article R169
 
-Quelle que soit la valeur des terrains domaniaux aliénés ou échangés, les opérations seront dispensées de l'intervention des
-commissions prévues à l'article R. 164.
+Les conventions de gestion conclues au profit des communes en application des articles L. 51-1 et L. 89 sont consenties par
+le préfet, dans les conditions prévues à l'article R. 128-3, pour une durée qui ne peut excéder dix-huit ans.
+
+Elles ne peuvent porter que sur l'ensemble de la zone définie à l'article L. 87 située sur le territoire de la commune à
+l'exclusion des immeubles confiés en gestion à des services ou établissements publics de l'Etat. Peuvent en être exclus des
+périmètres comprenant ces immeubles ou des secteurs dont l'Etat conserve la gestion.
+
+Elles déterminent les secteurs dont la commune deviendra propriétaire au plus tard à l'expiration de la convention. Elles
+peuvent en exclure des immeubles dont l'Etat conservera la propriété.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Décret n°61-561 1961-06-03 art. 4
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L51-1
+  - Code du domaine de l'Etat - art. L87
+  - Code du domaine de l'Etat - art. L89
+  - Code du domaine de l'Etat - art. R128-3
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R169-1 (Ab)
+  - Code général de la propriété des personnes publ... - art. R2123-1 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5111-7 (V)
+
+
+###### Article R169-1
+
+Les dispositions des articles R. 128-4 (II et III) et R. 128-5 à R. 128-7 restent applicables au domaine inclus dans les
+conventions conclues conformément à l'article R. 169.
+
+Toutefois, les revenus mentionnés à l'article R. 128-6 sont affectés aux charges et opérations énumérées à cet article et
+concernant les secteurs non cessibles de la zone.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Créé par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat
+  - Code du domaine de l'Etat - art. R128-4
+  - Code du domaine de l'Etat - art. R128-6
+  - Code du domaine de l'Etat - art. R169 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5111-8 (V)
+
+
+###### Article R169-2
+
+Le directeur des services fiscaux fixe le prix des terrains cédés en vertu de l'article L. 89 en déduisant de leur valeur
+vénale déterminée par ses soins la plus-value résultant des améliorations apportées par la commune qui n'ont pas été
+financées par des subventions de l'Etat.
+
+Lorsque la cession porte sur des terrains déterminés par un avenant à la convention initiale, la déduction retient la plus-
+value résultant d'améliorations qui n'ont été financées ni par subvention de l'Etat ni en application de l'article R. 128-6.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
 
+_Créé par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R164 (M)
+  - Code du domaine de l'Etat - art. L89
+  - Code du domaine de l'Etat - art. R128-6
 
-_Cité par_:
+_Nouveaux textes_:
 
-  - Code général de la propriété des personnes publ... - art. R2123-1 (V)
+  - Code général de la propriété des personnes publ... - art. R5111-9 (V)
+
+
+###### Article R169-3
+
+Toute cession d'une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87 et incluse dans le
+périmètre d'une convention de gestion conclue en application des articles L. 51-1 et L. 89 distrait de plein droit cette
+dépendance du champ de cette convention.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-299 du 14 mars 1962
+
+_Créé par_:
+
+  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L51-1
+  - Code du domaine de l'Etat - art. L87
+  - Code du domaine de l'Etat - art. L89
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5111-10 (V)
 
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=132></a>
@@ -13305,69 +13545,7 @@ _Codifié par_:
 
 ### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=157></a>
 
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=158></a>
-
-###### Article D18-1
-
-Dans les départements de la Guadeloupe de la Martinique et de la Réunion, la commission prévue à l'article R. 166 est
-dénommée "Commission des cinquante pas géométriques".
-
-Elle comprend sous la présidence du préfet ou de son représentant :
-
-Trois délégués du conseil général ;
-
-Deux délégués de l'association des maires ;
-
-Le président de la chambre d'agriculture ;
-
-Le président de la chambre d'industrie et de commerce ;
-
-Le président de la fédération départementale des exploitants agricoles ;
-
-Un salarié agricole désigné par le préfet sur proposition des organisations ouvrières ;
-
-Le directeur des services fiscaux ;
-
-L'ingénieur en chef, directeur départemental de l'agriculture ;
-
-Le représentant dans le département de l'Office national des forêts ;
-
-Le fonctionnaire chargé de l'inspection des lois sociales en agriculture ;
-
-Le délégué aux affaires économiques.
-
-Les collectivités, organisations et associations proposent ou désignent, en même temps que des délégués titulaires, des
-délégués suppléants.
-
-Les présidents des chambres d'agriculture et des chambres d'industrie et de commerce sont suppléés par un vice-président.
-
-En cas d'empêchement, les fonctionnaires peuvent se faire représenter par le fonctionnaire qui les supplée normalement dans
-leur service.
-
-Peuvent être appelés à participer, à titre consultatif, aux travaux de la commission : le maire de la commune intéressée, le
-conseiller général du canton, les chefs des services publics éventuellement intéressés et, de manière générale, toute
-personne dont l'avis paraît utile. Le secrétariat de la commission est assuré par les services de la préfecture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. R166 (M)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Créé par_:
-
-  - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Décret n°89-734 1989-10-13 art. 3 JORF 14 octobre 1989
-
-
-#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=159></a>
+#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=158></a>
 
 ###### Article D33
 
@@ -13450,7 +13628,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=160></a>
+#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=159></a>
 
 ###### Article D35
 
@@ -13484,7 +13662,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre V : Dispositions particulières et finales.<a id=161></a>
+### Titre V : Dispositions particulières et finales.<a id=160></a>
 
 ###### Article D36
 
@@ -13814,17 +13992,17 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-# Partie réglementaire - Arrêtés<a id=162></a>
+# Partie réglementaire - Arrêtés<a id=161></a>
 
-## Livre Ier : Composition du domaine<a id=163></a>
+## Livre Ier : Composition du domaine<a id=162></a>
 
-### Titre II : Origine des biens<a id=164></a>
+### Titre II : Origine des biens<a id=163></a>
 
-#### Chapitre II : Domaine privé<a id=165></a>
+#### Chapitre II : Domaine privé<a id=164></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=166></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=165></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=167></a>
+##### Paragraphe 1 : Dispositions générales.<a id=166></a>
 
 ###### Article A01
 
@@ -13957,7 +14135,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R10 (V)
 
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=168></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=167></a>
 
 ###### Article A1
 
@@ -14215,7 +14393,7 @@ _Modifié par_:
   - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-### Titre III : Inventaire des biens.<a id=169></a>
+### Titre III : Inventaire des biens.<a id=168></a>
 
 ###### Article A7
 
@@ -14353,15 +14531,15 @@ _Cite_:
   - Code du domaine de l'Etat - art. A7 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=170></a>
+## Livre II : Administration des biens domaniaux<a id=169></a>
 
-### Titre Ier : Domaine public<a id=171></a>
+### Titre Ier : Domaine public<a id=170></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=172></a>
+#### Chapitre Ier : Occupation temporaire<a id=171></a>
 
-##### Section 1 : Délivrance des autorisations<a id=173></a>
+##### Section 1 : Délivrance des autorisations<a id=172></a>
 
-##### A) Arrêtés individuels.<a id=174></a>
+##### A) Arrêtés individuels.<a id=173></a>
 
 ###### Article A12
 
@@ -14591,7 +14769,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A16 (V)
 
 
-##### B) Arrêtés généraux.<a id=175></a>
+##### B) Arrêtés généraux.<a id=174></a>
 
 ###### Article A20
 
@@ -14810,7 +14988,7 @@ _Cite_:
   - Code du domaine de l'Etat A12 à A19
 
 
-##### C) Dispositions communes.<a id=176></a>
+##### C) Dispositions communes.<a id=175></a>
 
 ###### Article A26
 
@@ -14964,7 +15142,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R54 (M)
 
 
-##### Section 2 : Fixation des redevances.<a id=177></a>
+##### Section 2 : Fixation des redevances.<a id=176></a>
 
 ###### Article A31
 
@@ -15184,11 +15362,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A23 (V)
 
 
-#### Chapitre III : Extractions sur le domaine public<a id=178></a>
+#### Chapitre III : Extractions sur le domaine public<a id=177></a>
 
-##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=179></a>
+##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=178></a>
 
-##### A) Arrêtés individuels.<a id=180></a>
+##### A) Arrêtés individuels.<a id=179></a>
 
 ###### Article A40
 
@@ -15333,7 +15511,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A113 (M)
 
 
-##### B) Arrêtés généraux.<a id=181></a>
+##### B) Arrêtés généraux.<a id=180></a>
 
 ###### Article A45
 
@@ -15417,7 +15595,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A40 (V)
 
 
-##### C) Dispositions communes.<a id=182></a>
+##### C) Dispositions communes.<a id=181></a>
 
 ###### Article A47
 
@@ -15476,7 +15654,7 @@ _Cite_:
   - Code du domaine de l'Etat A40 à A47, R53, A40
 
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=183></a>
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=182></a>
 
 ###### Article A49
 
@@ -15733,7 +15911,7 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=184></a>
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=183></a>
 
 ###### Article A60
 
@@ -15890,11 +16068,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A66 (Ab)
 
 
-### Titre II : Domaine privé<a id=185></a>
+### Titre II : Domaine privé<a id=184></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=186></a>
+#### Chapitre Ier : Domaine immobilier<a id=185></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=187></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=186></a>
 
 ###### Article A73
 
@@ -16306,7 +16484,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=188></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=187></a>
 
 ###### Article A90
 
@@ -16326,7 +16504,7 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=189></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=188></a>
 
 ###### Article A91
 
@@ -16639,7 +16817,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A93-7 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=190></a>
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=189></a>
 
 ###### Article A94
 
@@ -16824,7 +17002,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=191></a>
+#### Chapitre II : Domaine immobilier.<a id=190></a>
 
 ###### Article A101
 
@@ -16908,11 +17086,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=192></a>
+## Livre III : Aliénation des biens domaniaux<a id=191></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=193></a>
+### Titre II : Aliénation des biens du domaine privé<a id=192></a>
 
-#### Chapitre Ier : Domaine immobilier.<a id=194></a>
+#### Chapitre Ier : Domaine immobilier.<a id=193></a>
 
 ###### Article A104-1
 
@@ -16936,7 +17114,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R129-1 (M)
 
 
-#### Chapitre II : Domaine mobilier.<a id=195></a>
+#### Chapitre II : Domaine mobilier.<a id=194></a>
 
 ###### Article A105
 
@@ -17380,7 +17558,7 @@ _Cite_:
   - Code du domaine de l'Etat A117-1 à A117-3
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=196></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=195></a>
 
 ###### Article A118
 
@@ -17462,11 +17640,11 @@ _Modifié par_:
   - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
 
 
-## Livre IV : Dispositions diverses<a id=197></a>
+## Livre IV : Dispositions diverses<a id=196></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=198></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=197></a>
 
-#### Chapitre V : Concessions de logements.<a id=199></a>
+#### Chapitre V : Concessions de logements.<a id=198></a>
 
 ###### Article A120-1
 
@@ -17528,7 +17706,7 @@ _Cite_:
   - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
 
 
-### Titre V : Dispositions particulières et finales.<a id=200></a>
+### Titre V : Dispositions particulières et finales.<a id=199></a>
 
 ###### Article A122
 
