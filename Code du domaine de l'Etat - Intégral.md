@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1977-04-14
+Version Consolidée au 1977-06-08
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -54,9 +54,9 @@ Version Consolidée au 1977-04-14
         - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. L74 à L75)](#51)
     - [Livre IV : Dispositions diverses (art. L76 à L94)](#52)
       - [Titre Ier : Dispositions générales. (art. L76 à L78-1)](#53)
-      - [Titre II : Procédures - instances (art. L82-1 à L84)](#54)
-        - [Chapitre Ier : Recouvrement des produits domaniaux (art. L82-1 à L83)](#55)
-          - [Section 2 : Procédure du recouvrement. (art. L82-1 à L83)](#56)
+      - [Titre II : Procédures - instances (art. L81 à L84)](#54)
+        - [Chapitre Ier : Recouvrement des produits domaniaux (art. L81 à L83)](#55)
+          - [Section 2 : Procédure du recouvrement. (art. L81 à L83)](#56)
         - [Chapitre II : Instances. (art. L84)](#57)
       - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. L85)](#58)
       - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. L86 à L90)](#59)
@@ -2518,6 +2518,46 @@ _Codifié par_:
 #### Chapitre Ier : Recouvrement des produits domaniaux<a id=55></a>
 
 ##### Section 2 : Procédure du recouvrement.<a id=56></a>
+
+###### Article L81
+
+Les poursuites procédant de l'avis de mise en recouvrement peuvent être engagées vingt jours après notification d'une mise en
+demeure par pli recommandé avec avis de réception, à défaut de paiement ou de réclamation assortie d'une demande de sursis de
+paiement avec constitution de garanties dans les conditions prévues à l'article précédent.
+
+Elles ont lieu par ministère d'huissier ou de tout autre agent habilité à exercer des poursuites à la requête du comptable
+chargé du recouvrement.
+
+Les actes sont soumis au point de vue de la forme aux règles du droit commun.
+
+Lorsque les poursuites exercées ont lieu par voie de saisie mobilière, la notification de la mise en demeure tient lieu du
+commandement prescrit par le code de procédure civile. La saisie peut être pratiquée, sans autre formalité, à l'expiration du
+délai fixé au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°77-574 1977-06-07 art. 35 JORF 8 juin 1977
+  - décret 70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cité par_:
+
+  - Code du domaine de l'Etat - art. R157-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publiqu - art. L2323-2 (M)
+  - Code général de la propriété des personnes publiqu - art. L2323-4 (M)
+
+_Codifié par_:
+
+  - Décret n°62-298 1962-03-14
+
 
 ###### Article L82-1
 
