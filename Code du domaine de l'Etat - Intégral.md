@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2001-07-11
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -932,30 +932,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°62-298 1962-03-14
-
-
-###### Article L26
-
-Les dispositions des articles 22 à 25 du décret n° 54-1302 du 30 décembre 1954 relatif aux groupements pour le reboisement et
-la gestion forestière sont applicables aux parcelles présumées vacantes et sans maître comprises dans les secteurs de
-reboisement créés par le ministre de l'agriculture en application de l'article 2 de la loi du 21 janvier 1942 et de l'article
-200 du code forestier.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°54-1302 1954-12-30 art. 22 à art. 25
-  - Code forestier 200
-  - Loi n°1942-01-21 art. 2
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Loi n°2001-602 du 9 juillet 2001 - art. 72 (V) JORF 11 juillet 2001
 
 
 ###### Article L27
