@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1991-04-20
+Version Consolidée au 1991-07-30
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -118,7 +118,7 @@ Version Consolidée au 1991-04-20
             - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#115)
             - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#116)
             - [Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique. (art. R142)](#117)
-            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#118)
+            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#118)
             - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat. (art. R144)](#119)
             - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R145 à R147)](#120)
             - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#121)
@@ -6656,30 +6656,37 @@ _Modifié par_:
 
 ###### Article R70
 
-La location des immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, ou par le
-ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de
-centres urbains nouveaux, peut être consentie pour une durée supérieure à dix-huit ans.
+La location des immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds
+pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts
+pour la réalisation de villes nouvelles ou de centres urbains nouveaux, peut être consentie pour une durée supérieure à dix-
+huit ans.
 
 Les actes de location sont passés par le service des domaines dans les formes ordinaires.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-526 1957-04-19 art. 10, art. 12 al. 1
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°91-734 du 24 juillet 1991 - art. 1 () JORF 30 juillet 1991
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*331-10 (Ab)
   - Code de l'urbanisme - art. R*331-12 (Ab)
-
-_Modifié par_:
-
-  - Décret n°70-96 1970-01-29 art. 1 JORF 3 février 1970
 
 
 ##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=97></a>
@@ -9779,39 +9786,50 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=118></a>
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=118></a>
 
 ###### Article R143
 
 Le service des domaines peut procéder, sans limitation de valeur, à l'aliénation des immeubles acquis ou aménagés par le
-fonds national de l'aménagement foncier et de l'urbanisme, ou par le ministère de l'équipement et du logement sur des crédits
-budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux ; ces aliénations peuvent
-intervenir avant l'achèvement des travaux d'aménagement. 
+fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le
+ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de
+centres urbains nouveaux ; ces aliénations peuvent intervenir avant achèvement des travaux d'aménagement.
 
 En cas de cessions de gré à gré, celles-ci sont faites en vertu de décisions d'attribution prises par le ministre de
-l'équipement et du logement. Pour les immeubles acquis ou aménagés par le fonds national de l'aménagement foncier de
+l'équipement et du logement. Pour les immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de
 l'urbanisme, la décision d'attribution comporte fixation du prix après avis du service des domaines sur la valeur vénale des
 immeubles. Pour les immeubles acquis ou aménagés par le ministère de l'équipement et du logement sur les crédits budgétaires
-visés à l'alinéa précédent, la décision d'attribution comporte indication du prix fixé par le service des domaines.
+visés à l'alinéa précédent ou par le fonds pour l'aménagement de l'Ile-de-France, la décision d'attribution comporte
+indication du prix fixé par le service des domaines.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°57-526 1957-04-19 art. 11, art. 12 al. 1
-
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Décret n°91-734 du 24 juillet 1991 - art. 2 () JORF 30 juillet 1991
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*331-11 (Ab)
   - Code du domaine de l'Etat - art. D17-1 (Ab)
 
-_Modifié par_:
+_Nouveaux textes_:
 
-  - Décret n°70-96 1970-01-29 art. 1, art. 2 JORF 3 février 1970
+  - Code général de la propriété des personnes publ... - art. R3211-28 (V)
 
 
 ##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat.<a id=119></a>
