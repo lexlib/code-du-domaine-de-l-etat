@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1962-11-18
+Version Consolidée au 1963-06-23
 ## Contenu: 
   - [Partie législative (art. L1 à L93)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -145,7 +145,7 @@ Version Consolidée au 1962-11-18
         - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#142)
     - [Livre III : Aliénation des biens domaniaux (art. A105 à A120)](#143)
       - [Titre II : Aliénation des biens du domaine privé (art. A105 à A120)](#144)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A112)](#145)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A114)](#145)
         - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#146)
 # Partie législative<a id=1></a>
 
@@ -6615,6 +6615,31 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+
+###### Article A114
+
+Le taux de la taxe forfaitaire visée au premier alinéa de l'article A. 113 est fixé à 8 % en cas de vente effectuée avec
+publicité et concurrence et à 4 % en cas de cession amiable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1962-03-14
+
+_Anciens textes_:
+
+  - Arrêté 1963-06-07 art. 1
+
+_Cité par_:
+
+  - Code de la route - art. R289-1 (Ab)
+  - Code de la route. - art. R325-29 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A113 (M)
 
 
 #### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=146></a>
