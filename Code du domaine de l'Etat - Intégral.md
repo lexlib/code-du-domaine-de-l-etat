@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1997-12-03
+Version Consolidée au 1997-12-05
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -132,7 +132,7 @@ Version Consolidée au 1997-12-03
             - [Paragraphe 10 : Servitudes. (art. R148)](#129)
             - [Paragraphe 11 : Rétrocession d'immeubles expropriés. (art. R148-1)](#130)
             - [Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé. (art. R148-2)](#131)
-            - [Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1996. (art. R148-3 à R148-4)](#132)
+            - [Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2002. (art. R148-3 à R148-4)](#132)
         - [Chapitre II : Domaine mobilier. (art. R149)](#133)
     - [Livre IV : Dispositions diverses (art. R150 à R186)](#134)
       - [Titre Ier : Dispositions générales. (art. R150 à R152-1)](#135)
@@ -12250,11 +12250,11 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1996.<a id=132></a>
+##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2002.<a id=132></a>
 
 ###### Article R148-3
 
-Jusqu'au 31 décembre 1996, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
+Jusqu'au 31 décembre 2002, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
 voie d'adjudication publique.
 
 Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
@@ -12263,8 +12263,8 @@ Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
 
 2° Lorsqu'une précédente adjudication a été infructueuse ;
 
-3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département de la situation du bien ou un
-établissement public de coopération intercommunale agissant dans l'exercice de ses compétences, s'engage à acquérir
+3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département ou la région de la situation du bien
+ou un établissement public de coopération intercommunale agissant dans le cadre de ses compétences, s'engage à acquérir
 l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense.
 
 Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
@@ -12278,8 +12278,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-1005 du 16 novembre 1994 - art. 1 () JORF 23 novembre 1994
-  - Décret n°94-1005 du 16 novembre 1994 - art. 2 () JORF 23 novembre 1994
+  - Décret n°97-1119 du 3 décembre 1997 - art. 1 () JORF 5 décembre 1997
+  - Décret n°97-1119 du 3 décembre 1997 - art. 2 () JORF 5 décembre 1997
 
 _Cité par_:
 
@@ -12299,7 +12299,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-1005 du 16 novembre 1994 - art. 1 () JORF 23 novembre 1994
+  - Décret n°97-1119 du 3 décembre 1997 - art. 1 () JORF 5 décembre 1997
 
 _Cite_:
 
