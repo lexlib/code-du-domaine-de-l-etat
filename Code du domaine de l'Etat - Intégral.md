@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1988-09-18
+Version Consolidée au 1989-10-13
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -131,7 +131,7 @@ Version Consolidée au 1988-09-18
           - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#128)
         - [Chapitre II : Instances. (art. R158 à R163)](#129)
       - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170-65)](#130)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R170)](#131)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R169)](#131)
         - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-65)](#132)
           - [Section 1 : Actes passés en vue de la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46)](#133)
           - [Section 2 : Concessions et cessions d'immeubles domaniaux. (art. R170-47 à R170-55)](#134)
@@ -11113,35 +11113,6 @@ _Cite_:
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R2123-1 (V)
-
-
-###### Article R170
-
-Nonobstant toutes autres dispositions, les dépendances boisées du domaine public maritime et du domaine public lacustre
-peuvent faire l'objet de concessions à charge d'endigage dans les conditions prévues à l'article L. 64.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-561 1961-06-03 art. 7
-
-_Codifié par_:
-
-  - Décret n°62-299 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°89-734 1989-10-13 art. 3 JORF 14 octobre 1989
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L64 (Ab)
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R170-2 (Ab)
-  - Code du domaine de l'Etat - art. R170-4 (Ab)
 
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=132></a>
