@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-21
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -15216,7 +15216,8 @@ II. - La demande comporte :
 - un plan de situation de l'immeuble, établi suivant les modalités prévues au II de l'article R. 170 ;
 
 - tous documents permettant d'établir que le demandeur a lui-même édifié ou fait édifier sur le terrain, avant le 1er janvier
-1995, une ou plusieurs constructions affectées à l'exploitation d'établissements à usage professionnel.
+1995, une ou plusieurs constructions affectées à l'exploitation d'établissements à usage professionnel, ou qu'il est un des
+ayants droit de celui qui a édifié ou fait édifier, avant le 1er janvier 1995, la ou les constructions en cause.
 
 III. - Lorsque les occupants d'un terrain peuvent en demander la cession au titre de la présente section et que ce même
 terrain fait l'objet d'une demande sur le fondement de l'article L. 89-3, ils disposent, pour présenter leur demande, d'un
@@ -15235,26 +15236,45 @@ demandée.
 V. - La superficie à céder est ajustée par le préfet conformément aux dispositions du dernier alinéa de l'article L. 89-4,
 compte tenu le cas échéant des propositions présentées par le président du conseil d'administration de l'agence.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-345 du 18 avril 2000 - art. 4 () JORF 21 avril 2000
+  - Décret n°2005-519 du 19 mai 2005 - art. 1 () JORF 21 mai 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. L89-2 (Ab)
-  - Code du domaine de l'Etat - art. L89-3 (Ab)
-  - Code du domaine de l'Etat - art. L89-4 (M)
-  - Code du domaine de l'Etat - art. R170 (Ab)
+  - Code du domaine de l'Etat - art. L89-2
+  - Code du domaine de l'Etat - art. L89-3
+  - Code du domaine de l'Etat - art. L89-4
+  - Code du domaine de l'Etat - art. R170
 
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R170-2 (Ab)
+  - Code du domaine de l'Etat - art. R170-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5112-14 (V)
+  - Code général de la propriété des personnes publ... - art. R5112-15 (V)
+  - Code général de la propriété des personnes publ... - art. R5112-16 (V)
+  - Code général de la propriété des personnes publ... - art. R5112-17 (V)
+  - Code général de la propriété des personnes publ... - art. R5112-18 (V)
 
 
 ###### Article R170-5
