@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-08-01
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -6256,26 +6256,41 @@ _Cite_:
 
 Les opérations immobilières présentant un caractère secret poursuivies par voie d'expropriation pour cause d'utilité publique
 par les services publics relevant du ministre de la défense, ou placés sous sa tutelle, sont soumises pour avis à la
-commission instituée auprès du Premier ministre par l'article 1er du décret n° 87-359 du 26 mai 1987.
+commission instituée auprès du Premier ministre par l'article R. 11-17 du code de l'expropriation pour cause d'utilité
+publique.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
 
-_Cite_:
+_Modifié par_:
 
-  - Décret n°87-359 du 26 mai 1987 - art. 1 (AbD)
+  - Décret n°2005-467 du 13 mai 2005 - art. 59 () JORF 15 mai 2005 en vigueur le 1er août 2005
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°87-359 du 26 mai 1987 - art. 6 () JORF 2 juin 1987
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R127 (Ab)
   - Code du domaine de l'Etat - art. R21-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1211-8 (V)
+
+_Cite_:
+
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-17
 
 
 ###### Article R21-2
