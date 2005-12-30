@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-12-17
+Version Consolidée au 2005-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -7525,7 +7525,7 @@ _Abrogé par_:
 
 Les sociétés, compagnies, entreprises commerciales ou civiles, les départements, communes, établissements publics ou
 d'utilité publique et, d'une façon générale, toutes les collectivités, soit privées, soit publiques, sont tenues de remettre
-à la recette des impôts de leur siège :
+au service des impôts de leur siège :
 
 1° Le montant des coupons, intérêts ou dividendes atteints par la prescription quinquennale ou conventionnelle et afférents
 aux actions, parts de fondateur ou obligations négociables qu'elles ont émises ;
@@ -7534,11 +7534,32 @@ aux actions, parts de fondateur ou obligations négociables qu'elles ont émises
 des actions, parts de fondateur, obligations et autres valeurs mobilières émises par elles, ainsi qu'il est précisé à
 l'article R. 49, 2°, et qui n'ont pas été déposées à la Caisse des dépôts et consignations conformément à l'article R. 47-1.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2006-460 du 21 avril 2006, ces dispositions abrogées en vertu du III de
+l'article 7 restent en vigueur en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, dans les îles
+Wallis et Futuna et dans les Terres australes et antarctiques françaises, sous réserve des compétences en matière domaniale
+des collectivités de Nouvelle-Calédonie, de Polynésie française et des îles Wallis et Futuna à la date d'entrée en vigueur de
+la présente ordonnance.
+
+Aux termes du 1° de l'article 10 de l'ordonnance n° 2016-1255 du 28 septembre 2016, ces dispositions, en tant qu'elles
+s'appliquent en Nouvelle-Calédonie, en Polynésie française et à Wallis et Futuna, sous réserve des compétence en matière
+domaniale des collectivités de Nouvelle-Calédonie, de Polynésie française et de Wallis et Fututna à la date d'entrée en
+vigueur de l'ordonnance du 28 septembre, sont abrogées.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-299 1962-03-14
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -7557,7 +7578,7 @@ _Nouveaux textes_:
 ###### Article R47
 
 Tout établissement de crédit et tous autres établissements qui reçoivent, soit des fonds en dépôts ou en compte courant, soit
-des titres en dépôts ou pour toute autre cause, sont tenus de remettre à la recette des impôts du siège de leur établissement
+des titres en dépôts ou pour toute autre cause, sont tenus de remettre au service des impôts du siège de leur établissement
 tous les dépôts ou avoirs en espèces ou en titres, qui n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou
 réclamation depuis trente ans et qui n'ont pas été déposés à la caisse des dépôts et consignations conformément à l'article
 R. 47-1.
@@ -7574,7 +7595,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 _Cité par_:
 
@@ -7601,26 +7622,36 @@ Six mois avant la date de ce dépôt, les sociétés ou établissement ci-dessus
 par lettre recommandée adressée à leur dernier domicile.
 
 Lorsqu'ils sont atteints par la prescription trentenaire ou conventionnelle, ces dépôts sont remis par la Caisse des dépôts
-et consignations à la recette des impôts spécialement désignée par le directeur général des impôts.
+et consignations au service des impôts spécialement désignée par le directeur général des impôts.
 
 Ces avoirs ne donnent lieu à aucune rémunération de la part de la Caisse des dépôts et consignations.
 
 La gestion de ces avoirs peut donner lieu à perception de droits et de frais dans les conditions fixées par arrêté conjoint
 des ministres chargés de l'économie et du budget.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
 
 _Cite_:
 
-  - Loi n°77-4 du 3 janvier 1977 - art. 2 (V)
+  - Loi n°77-4 du 3 janvier 1977 - art. 2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°79-894 du 15 octobre 1979 - art. 2 () JORF 19 octobre 1979
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cité par_:
 
@@ -7629,25 +7660,48 @@ _Cité par_:
   - Code du domaine de l'Etat - art. R48 (Ab)
   - Code du domaine de l'Etat - art. R49 (Ab)
 
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1126-4 (V)
+  - Code général de la propriété des personnes publ... - art. R1126-5 (V)
+
 
 ###### Article R48
 
-Les remises à la recette des impôts effectuées en application des articles R. 46, R. 47 et R. 47-1 ont lieu dans les vingt
+Les remises au service des impôts effectuées en application des articles R. 46, R. 47 et R. 47-1 ont lieu dans les vingt
 premiers jours du mois de janvier de chaque année.
 
 Elles comprennent toutes les sommes et valeurs qui ont été atteintes par la prescription au cours de l'année précédente.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R46 (M)
-  - Code du domaine de l'Etat - art. R47 (M)
-  - Code du domaine de l'Etat - art. R47-1 (M)
+  - Code du domaine de l'Etat - art. R46
+  - Code du domaine de l'Etat - art. R47
+  - Code du domaine de l'Etat - art. R47-1
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R1126-2 (V)
 
 
 ###### Article R49
@@ -7709,14 +7763,32 @@ _Nouveaux textes_:
 
 ###### Article R50
 
-Le recouvrement des sommes à verser à la recette des impôts ainsi que les remises de titres sont poursuivis, et les instances
+Le recouvrement des sommes à verser au service des impôts ainsi que les remises de titres sont poursuivis, et les instances
 introduites et jugées comme en matière de recouvrement de produits et revenus domaniaux.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-34 (V)
 
 
 ###### Article R51
@@ -14266,19 +14338,25 @@ _Cite_:
 
 L'avis de mise en recouvrement individuel est rédigé en double exemplaire.
 
-Le premier, dit original, est déposé à la recette des impôts chargée du recouvrement des produits domaniaux.
+Le premier, dit original, est déposé au service des impôts chargée du recouvrement des produits domaniaux.
 
 Le second, dit ampliation, est destiné à être notifié au redevable ou à son fondé de pouvoir suivant les modalités fixées à
 l'article R. 157.
 
-L'avis de mise en recouvrement collectif est rédigé en un seul exemplaire, dit original, qui est déposé à la recette des
-impôts chargée du recouvrement des produits domaniaux.
+L'avis de mise en recouvrement collectif est rédigé en un seul exemplaire, dit original, qui est déposé au service des impôts
+chargée du recouvrement des produits domaniaux.
 
 Pour sa notification dans les conditions fixées à l'article R. 157 ci-après, il en est dressé un extrait au nom de chacun des
 redevables qui y sont inscrits.
 
 Chaque extrait reproduit intégralement le texte de l'original, à l'exception des indications qui concernent personnellement
 les redevables autres que celui auquel il est destiné.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -14290,13 +14368,17 @@ _Codifié par_:
 
   - Décret n°62-299 1962-03-14
 
-_Cite_:
-
-  - Code du domaine de l'Etat - art. R157 (M)
-
 _Modifié par_:
 
-  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R157
 
 
 ###### Article R156
@@ -14350,12 +14432,18 @@ adresse connue de l'administration des postes et télécommunications ;
 
 - D'autre part, du motif de sa non-délivrance.
 
-Dans cette éventualité, l'ampliation ou l'extrait retourné reste déposé à la recette des impôts chargée du recouvrement des
+Dans cette éventualité, l'ampliation ou l'extrait retourné reste déposé au service des impôts chargée du recouvrement des
 produits domaniaux où il peut en être délivré copie à tout moment et sans frais soit au redevable lui-même, soit à son fondé
 de pouvoir.
 
 L'administration peut également faire procéder à la notification d'un avis de mise en recouvrement par le ministère d'un
 huissier. En ce cas la notification est soumise aux règles de signification des exploits.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -14367,14 +14455,18 @@ _Codifié par_:
 
   - Décret n°62-299 1962-03-14
 
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R155 (Ab)
   - Code du domaine de l'Etat - art. R157-2 (Ab)
-
-_Modifié par_:
-
-  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
 ###### Article R157-1
