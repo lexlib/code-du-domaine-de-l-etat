@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-03-04
 ## Contenu: 
   - [Partie législative (art. L1 à L94)](#1)
     - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
@@ -220,7 +220,7 @@ Version Consolidée au 2006-01-06
     - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#217)
       - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#218)
         - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#219)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117-4)](#220)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117)](#220)
         - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#221)
     - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#222)
       - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#223)
@@ -23817,14 +23817,14 @@ Toute adjudication est précédée d'une publicité en rapport avec l'importance
 
 Exception faite pour les denrées périssables, les objets dont l'enlèvement immédiat s'impose ou les objets de minime valeur,
 l'adjudication est annoncée dix jours au moins avant sa date dans un bulletin publié périodiquement par le service des
-domaines.
+domaines ou par tout autre moyen approprié, notamment par voie électronique.
 
 Le service de ce bulletin est assuré gratuitement aux administrations de l'Etat, aux chambres de commerce et aux bourses de
 commerce qui en font la demande. Des abonnements payants peuvent être souscrits à ce bulletin par les particuliers ; le prix
 de l'abonnement est fixé par le service des domaines.
 
 Les adjudications sont portées à la connaissance du public par voie d'affiches et d'annonces dans la presse toutes les fois
-que le service des domaines le juge utile. Elles peuvent faire l'objet de communiqués radiodiffusés par les postes de l'Etat.
+que le service des domaines le juge utile.
 
 **Liens relatifs à cet article**
 
@@ -23835,6 +23835,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 2006-02-15 art. 1 JORF 4 mars 2006
 
 _Cité par_:
 
@@ -23957,16 +23961,16 @@ admise en non-valeur.
 Dans le cas où ce produit est supérieur au montant des droits de timbre et d'enregistrement exigibles, l'excédent est :
 
 - soit transféré dans les mêmes conditions que le prix principal de la vente lorsque le service qui était détenteur des
-objets aliénés est doté d'un budget annexe ou d'un budget autonome ;
+objets aliénés est doté d'un budget annexe ou d'un budget autonome;
 
-- soit imputé en recettes au compte spécial du Trésor "Opérations commerciales des domaines", subdivision "Opérations du
-S.C.V.M.", lorsque le service qui était détenteur des objets aliénés relève du budget général.
+- soit imputé en recettes au compte spécial du Trésor "Opérations commerciales des domaines", subdivision "ventes mobilières
+et patrimoines privés" lorsque le service qui était détenteur des objets aliénés relève du budget général.
 
 Sont imputés au même compte spécial du Trésor et à la même subdivision le produit des abonnements et de la publicité
-afférents au bulletin visé à l'article A. 107 ainsi que les frais de régie prévus aux articles L. 70 et L. 77, sous réserve
-du reversement de ces derniers au Trésor dans des proportions et conditions déterminées par arrêté du ministre des finances.
+afférents au bulletin visé à l'article A. 107 ainsi que les frais de régie prévus aux articles L. 70 et L. 77.
 
-Les frais de vente sont, après vérification, imputés en dépense à la même subdivision.
+Les frais liés aux opérations qu'elle retrace sont, après vérification et à l'exception des dépenses de personnel et des
+dépenses immobilières, imputés en dépense sur cette subdivision.
 
 **Liens relatifs à cet article**
 
@@ -23980,7 +23984,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+  - Arrêté 2006-02-15 art. 2 JORF 4 mars 2006
 
 _Cite_:
 
@@ -23996,8 +24000,8 @@ _Cité par_:
 
 ###### Article A114
 
-Le taux de la taxe forfaitaire visée au premier alinéa de l'article A. 113 est fixé à 8 % en cas de vente effectuée avec
-publicité et concurrence et à 4 % en cas de cession amiable.
+Le taux de la taxe forfaitaire visée au premier alinéa de l'article A. 113 est fixé à 11 % en cas de ventes avec publicité et
+concurrence et à 6 % en cas de cession amiable.
 
 **Liens relatifs à cet article**
 
@@ -24008,6 +24012,10 @@ _Codifié par_:
 _Anciens textes_:
 
   - Arrêté 1963-06-07 art. 1
+
+_Modifié par_:
+
+  - Arrêté 2006-02-15 art. 3 JORF 4 mars 2006
 
 _Cité par_:
 
@@ -24024,13 +24032,15 @@ _Cite_:
 La cession amiable, dans le cas où elle est autorisée par l'article L. 69 (3ème alinéa), est constatée au moyen d'une
 soumission, approuvée par le préfet. Le prix est fixé par le directeur des services fiscaux.
 
-Lorsque le prix excède 300 000 euros, l'opération doit être approuvée par le ministre chargé du domaine.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Arrêté 2006-02-15 art. 4 JORF 4 mars 2006
 
 _Cité par_:
 
@@ -24040,9 +24050,9 @@ _Cite_:
 
   - Code du domaine de l'Etat - art. L69 (M)
 
-_Modifié par_:
+_Nouveaux textes_:
 
-  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
+  - Code général de la propriété des personnes publ... - art. R3211-39 (V)
 
 
 ###### Article A115-1
@@ -24144,104 +24154,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
-
-
-###### Article A117-1
-
-Sous réserve du paiement comptant de la taxe forfaitaire, les prix principaux des biens mobiliers de l'Etat dont le
-recouvrement est assuré par le service des domaines peuvent, sous la responsabilité du receveur divisionnaire ou du receveur
-principal des impôts, lorsqu'ils sont, pour une même opération et un même acquéreur, supérieurs à 6100 euros, être acquittés
-en obligations cautionnées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1962-03-14
-
-_Modifié par_:
-
-  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
-
-
-###### Article A117-2
-
-La durée du crédit est de :
-
-Trois mois si le prix principal, tout en étant supérieur à 6 100 euros, ne dépasse pas 30 000 euros ;
-
-Six mois, si le prix principal, tout en étant supérieur à 30 000 euros, ne dépasse pas 300 000 euros ;
-
-Neuf mois si le prix principal dépasse 300 000 euros.
-
-Ces délais prennent effet du jour de la vente.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1962-03-14
-
-_Modifié par_:
-
-  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
-
-
-###### Article A117-3
-
-Le taux de l'intérêt de crédit est de 14,50 % l'an ; celui de la remise spéciale est de 0,25 % ou 0,50 % ou 0,75 % selon que
-le crédit concédé est de trois, six ou neuf mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1962-03-14
-
-_Créé par_:
-
-  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
-
-_Cité par_:
-
-  - Arrêté du 30 octobre 1981 - art. 1 (V)
-  - Arrêté du 16 juillet 1982 - art. 1 (V)
-
-
-###### Article A117-4
-
-Les prix principaux des bois façonnés domaniaux ne seront payables en obligations cautionnées, aux conditions des articles A.
-117-1 à A. 117-3, qu'à une date qui sera fixée par arrêté ministériel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1962-03-14
-
-_Créé par_:
-
-  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat A117-1 à A117-3
 
 
 #### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=221></a>
