@@ -1,455 +1,204 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2006-06-07
+Version Consolidée au 2006-07-01
 ## Contenu: 
-  - [Partie législative (art. L1 à L94)](#1)
-    - [Livre Ier : Composition du domaine (art. L1 à L27 ter)](#2)
-      - [Titre Ier : Dispositions générales. (art. L1 à L2)](#3)
-      - [Titre II : Origine des biens (art. L3 à L27 ter)](#4)
-        - [Chapitre Ier : Domaine public. (art. L3)](#5)
-        - [Chapitre II : Domaine privé (art. L4 à L27 ter)](#6)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. L4 à L10)](#7)
-            - [Paragraphe 1 : Dispositions générales. (art. L4 à L10)](#8)
-          - [Section 2 : Dons et legs (art. L11 à L21)](#9)
-            - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. L11 à L14)](#10)
-            - [Paragraphe 2 : Dons et legs faits aux établissements publics dépendant de l'Etat. (art. L15 à L18)](#11)
-            - [Paragraphe 3 : Dispositions communes. (art. L19 à L21)](#12)
-          - [Section 3 : Droit de préemption de l'Etat. (art. L22)](#13)
-          - [Section 4 : Successions en déshérence. (art. L23)](#14)
-          - [Section 5 : Confiscations pénales. (art. L24)](#15)
-          - [Section 6 : Biens vacants et sans maître. (art. L25 à L27 ter)](#16)
-    - [Livre II : Administration des biens domaniaux (art. L28 à L51-2)](#17)
-      - [Titre Ier : Domaine public (art. L28 à L35)](#18)
-        - [Chapitre Ier : Occupation temporaire (art. L28 à L34-9)](#19)
-          - [Section 1 : Délivrance des autorisations. (art. L28 à L29)](#20)
-          - [Section 2 : Fixation des redevances. (art. L30 à L34)](#21)
-          - [Section 3 : Occupations constitutives de droits réels. (art. L34-1 à L34-9)](#22)
-        - [Chapitre II : Transfert de gestion. (art. L35)](#23)
-      - [Titre II : Domaine privé (art. L36 à L46)](#24)
-        - [Chapitre Ier : Domaine immobilier (art. L36 à L44)](#25)
-          - [Section 1 : Locations (art. L36 à L39)](#26)
-            - [Paragraphe 1 : Dispositions générales. (art. L36 à L38)](#27)
-            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. L39)](#28)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation (art. L40)](#29)
-          - [Section 4 : Echanges. (art. L41 à L44)](#30)
-        - [Chapitre II : Domaine mobilier. (art. L45 à L46)](#31)
-      - [Titre III : Dispositions communes (art. L47 à L51-2)](#32)
-        - [Chapitre Ier : Recouvrement des produits domaniaux. (art. L47 à L49)](#33)
-        - [Chapitre II : Utilisation complémentaire des immeubles domaniaux. (art. L50)](#34)
-        - [Chapitre III : Apport en participation d'immeubles domaniaux. (art. L51)](#35)
-        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. L51-1 à L51-2)](#36)
-    - [Livre III : Aliénation des biens domaniaux (art. L52 à L75)](#37)
-      - [Titre Ier : Inaliénabilité et imprescriptibilité des biens du domaine public. (art. L52)](#38)
-      - [Titre II : Aliénation des biens du domaine privé (art. L53 à L75)](#39)
-        - [Chapitre Ier : Domaine immobilier (art. L53 à L66-2)](#40)
-          - [Section 1 : Dispositions générales. (art. L53 à L57)](#41)
-          - [Section 2 : Ventes soumises à des règles particulières (art. L58 à L66-2)](#42)
-            - [Paragraphe 1 : Iles, îlots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés (art. L58 à L59)](#43)
-            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat (art. L60)](#44)
-            - [Paragraphe 6 : Immeubles d'habitation de caractère définitif construits directement par l'Etat (art. L61)](#45)
-            - [Paragraphe 7 : Forêts. (art. L62 à L63)](#46)
-            - [Paragraphe 8 : Lais et relais de la mer - marais - concessions. (art. L64)](#47)
-            - [Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre (art. L65)](#48)
-            - [Paragraphe 11 : Rétrocession d'immeubles expropriés (art. L66)](#49)
-            - [Paragraphe 11 bis : Cession à des collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat dans les zones à urbaniser en priorité et dans les zones d'aménagement différé (art. L66-1)](#50)
-            - [Paragraphe 14 : Cession d'immeubles domaniaux en vue de la réalisation de programmes de logement social (art. L66-2)](#51)
-        - [Chapitre II : Domaine mobilier. (art. L67 à L73)](#52)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. L74 à L75)](#53)
-    - [Livre IV : Dispositions diverses (art. L76 à L94)](#54)
-      - [Titre Ier : Dispositions générales. (art. L76 à L78-1)](#55)
-      - [Titre II : Procédures - instances (art. L79 à L84)](#56)
-        - [Chapitre Ier : Recouvrement des produits domaniaux (art. L79 à L83)](#57)
-          - [Section 1 : Dispositions générales. (art. L79)](#58)
-          - [Section 2 : Procédure du recouvrement. (art. L80 à L83)](#59)
-        - [Chapitre II : Instances. (art. L84)](#60)
-      - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. L85)](#61)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. L86 à L91-8)](#62)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. L86 à L89)](#63)
-        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique. (art. L89-1 à L89-9)](#64)
-        - [Chapitre II : Domanialité publique des eaux. (art. L90)](#65)
-        - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. L91-1 à L91-8)](#66)
-          - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales (art. L91-1 à L91-1-2)](#67)
-          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à un établissement public d'aménagement (art. L91-2 à L91-2-1)](#68)
-          - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt (art. L91-3)](#69)
-          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3. (art. L91-4 à L91-6)](#70)
-          - [Section 5 : Dispositions communes et diverses. (art. L91-7 à L91-8)](#71)
-      - [Titre V : Dispositions particulières et finales. (art. L92 à L94)](#72)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#73)
-    - [Livre Ier : Composition du domaine (art. R1 à R52)](#74)
-      - [Titre II : Origine des biens (art. R1 à R51)](#75)
-        - [Chapitre Ier : Domaine public. (art. R1)](#76)
-        - [Chapitre II : Domaine privé (art. R2 à R51)](#77)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. R2 à R21-3)](#78)
-            - [Paragraphe 1 : Dispositions générales. (art. R2 à R21)](#79)
-            - [Paragraphe 2 : Dispositions spéciales. (art. R21-1 à R21-3)](#80)
-          - [Section 2 : Dons et legs (art. R22 à R45-3)](#81)
-            - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. R22 à R35)](#82)
-            - [Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat. (art. R36 à R39)](#83)
-            - [Paragraphe 3 : Dispositions communes. (art. R40 à R45-3)](#84)
-          - [Section 3 : Droit de préemption de l'Etat. (art. R45-4)](#85)
-          - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#86)
-      - [Titre III : Inventaire des biens. (art. R52)](#87)
-    - [Livre II : Administration des biens domaniaux (art. R53 à R128-11)](#88)
-      - [Titre Ier : Domaine public (art. R53 à R63)](#89)
-        - [Chapitre Ier : Occupation temporaire (art. R53 à R57-17)](#90)
-          - [Section 1 : Délivrance des autorisations. (art. R53 à R54)](#91)
-          - [Section 2 : Fixation des redevances. (art. R55 à R57)](#92)
-          - [Section 3 : Occupations constitutives de droits réels (art. R57-1 à R57-17)](#93)
-            - [Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat (art. R57-2 à R57-6)](#94)
-              - [Paragraphe 1 : Délivrance du titre. (art. R57-2 à R57-5)](#95)
-              - [Paragraphe 2 : Retrait du titre. (art. R57-6)](#96)
-            - [Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail. (art. R57-7 à R57-9)](#97)
-            - [Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements. (art. R57-10 à R57-13)](#98)
-            - [Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes. (art. R57-14 à R57-17)](#99)
-        - [Chapitre II : Transfert de gestion. (art. R58)](#100)
-        - [Chapitre III : Extractions sur le domaine public. (art. R58-1 à R58-7)](#101)
-        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales (art. R63)](#102)
-      - [Titre II : Domaine privé (art. R66 à R119)](#103)
-        - [Chapitre Ier : Domaine immobilier (art. R66 à R105-1)](#104)
-          - [Section 1 : Locations (art. R66 à R70)](#105)
-            - [Paragraphe 1 : Dispositions générales. (art. R66 à R68)](#106)
-            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. R69 à R70)](#107)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. R71 à R73)](#108)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R74 à R76-1)](#109)
-          - [Section 4 : Echanges. (art. R77 à R80)](#110)
-          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R91)](#111)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104-1)](#112)
-          - [Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation. (art. R105)](#113)
-          - [Section 9 : Administration du domaine forestier. (art. R105-1)](#114)
-        - [Chapitre II : Domaine mobilier. (art. R106 à R119)](#115)
-      - [Titre III : Dispositions communes (art. R120 à R128-11)](#116)
-        - [Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat. (art. R120)](#117)
-        - [Chapitre V : Regroupement des services publics. (art. R121 à R124)](#118)
-        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R125 à R128)](#119)
-        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. R128-1 à R128-11)](#120)
-    - [Livre III : Aliénation des biens domaniaux (art. R129 à R149)](#121)
-      - [Titre II : Aliénation des biens du domaine privé (art. R129 à R149)](#122)
-        - [Chapitre Ier : Domaine immobilier (art. R129 à R148-9)](#123)
-          - [Section 1 : Dispositions générales. (art. R129 à R135)](#124)
-          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R148-9)](#125)
-            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#126)
-            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#127)
-            - [Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique. (art. R142)](#128)
-            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#129)
-            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat. (art. R144)](#130)
-            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R145 à R147)](#131)
-            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#132)
-            - [Paragraphe 10 : Servitudes. (art. R148)](#133)
-            - [Paragraphe 11 : Rétrocession d'immeubles expropriés. (art. R148-1)](#134)
-            - [Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé. (art. R148-2)](#135)
-            - [Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2008. (art. R148-3 à R148-4)](#136)
-            - [Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social. (art. R148-5 à R148-9)](#137)
-        - [Chapitre II : Domaine mobilier. (art. R149)](#138)
-    - [Livre IV : Dispositions diverses (art. R150 à R186)](#139)
-      - [Titre Ier : Dispositions générales. (art. R150 à R152-1)](#140)
-      - [Titre II : Procédure - Instances (art. R153 à R163)](#141)
-        - [Chapitre Ier : Recouvrement des produits domaniaux (art. R153 à R157-2)](#142)
-          - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#143)
-        - [Chapitre II : Instances. (art. R158 à R163)](#144)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170-71)](#145)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R169-4)](#146)
-        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique (art. R170 à R170-27)](#147)
-          - [Section 1 : Cession de terrains prévue par l'article L. 89-3. (art. R170 à R170-3)](#148)
-          - [Section 2 : Cession de terrains prévue par l'article L. 89-4. (art. R170-4 à R170-5)](#149)
-          - [Section 3 : Cession de terrains prévue par l'article L. 89-5. (art. R170-6 à R170-7)](#150)
-          - [Section 4 : Dispositions relatives à l'application de l'article L. 89-8. (art. R170-8 à R170-10)](#151)
-          - [Section 5 : Dispositions relatives à l'application de l'article L. 89-2. (art. R170-11 à R170-27)](#152)
-        - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-71)](#153)
-          - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46-6)](#154)
-          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane. (art. R170-47 à R170-55)](#155)
-          - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt. (art. R170-56 à R170-61)](#156)
-          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3. (art. R170-62 à R170-64)](#157)
-          - [Section 5 : Dispositions communes et diverses. (art. R170-65 à R170-71)](#158)
-      - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#159)
-  - [Partie réglementaire - Décrets simples (art. D5 à D44)](#160)
-    - [Livre Ier : Composition du domaine (art. D5)](#161)
-      - [Titre II : Origine des biens (art. D5)](#162)
-        - [Chapitre II : Domaine privé (art. D5)](#163)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D5)](#164)
-            - [Paragraphe 2 : Dispositions spéciales. (art. D5)](#165)
-    - [Livre II : Administration des biens domaniaux (art. D11 à D15)](#166)
-      - [Titre II : Domaine privé (art. D11 à D15)](#167)
-        - [Chapitre Ier : Domaine immobilier (art. D11 à D15)](#168)
-          - [Section 1 : Locations (art. D11)](#169)
-            - [Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales. (art. D11)](#170)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D12 à D15)](#171)
-    - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#172)
-      - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#173)
-        - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#174)
-          - [Section 2 : Ventes soumises à des règles particulières (art. D17-1 à D18)](#175)
-            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. D17-1)](#176)
-            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#177)
-    - [Livre IV : Dispositions diverses (art. D19 à D44)](#178)
-      - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. D19)](#179)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D20 à D35)](#180)
-        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique. (art. D20)](#181)
-        - [Chapitre III : Concessions domaniales en Guyane. (art. D21)](#182)
-          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III. (art. D21)](#183)
-        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#184)
-        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#185)
-      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#186)
-  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#187)
-    - [Livre Ier : Composition du domaine (art. A01 à A11)](#188)
-      - [Titre II : Origine des biens (art. A01 à A5)](#189)
-        - [Chapitre II : Domaine privé (art. A01 à A5)](#190)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#191)
-            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#192)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#193)
-      - [Titre III : Inventaire des biens. (art. A7 à A11)](#194)
-    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#195)
-      - [Titre Ier : Domaine public (art. A12 à A65)](#196)
-        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#197)
-          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#198)
-            - [A) Arrêtés individuels. (art. A12 à A19)](#199)
-            - [B) Arrêtés généraux. (art. A20 à A25)](#200)
-            - [C) Dispositions communes. (art. A26 à A30)](#201)
-          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#202)
-        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#203)
-          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#204)
-            - [A) Arrêtés individuels. (art. A40 à A44)](#205)
-            - [B) Arrêtés généraux. (art. A45 à A46)](#206)
-            - [C) Dispositions communes. (art. A47 à A48)](#207)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#208)
-        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#209)
-      - [Titre II : Domaine privé (art. A73 à A104)](#210)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#211)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#212)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#213)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#214)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#215)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#216)
-    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#217)
-      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#218)
-        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#219)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117)](#220)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#221)
-    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#222)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#223)
-        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#224)
-      - [Titre V : Dispositions particulières et finales. (art. A122)](#225)
+  - [Partie législative (art. L10 à L92)](#1)
+    - [Livre Ier : Composition du domaine (art. L10 à L27 bis)](#2)
+      - [Titre II : Origine des biens (art. L10 à L27 bis)](#3)
+        - [Chapitre II : Domaine privé (art. L10 à L27 bis)](#4)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. L10)](#5)
+            - [Paragraphe 1 : Dispositions générales. (art. L10)](#6)
+          - [Section 2 : Dons et legs (art. L11 à L14)](#7)
+            - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. L11 à L14)](#8)
+          - [Section 6 : Biens vacants et sans maître. (art. L27 à L27 bis)](#9)
+    - [Livre II : Administration des biens domaniaux (art. L30 à L51-1)](#10)
+      - [Titre Ier : Domaine public (art. L30 à L33)](#11)
+        - [Chapitre Ier : Occupation temporaire (art. L30 à L33)](#12)
+          - [Section 2 : Fixation des redevances. (art. L30 à L33)](#13)
+      - [Titre II : Domaine privé (art. L43)](#14)
+        - [Chapitre Ier : Domaine immobilier (art. L43)](#15)
+          - [Section 4 : Echanges. (art. L43)](#16)
+      - [Titre III : Dispositions communes (art. L51 à L51-1)](#17)
+        - [Chapitre III : Apport en participation d'immeubles domaniaux. (art. L51)](#18)
+        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. L51-1)](#19)
+    - [Livre III : Aliénation des biens domaniaux (art. L53 à L70)](#20)
+      - [Titre II : Aliénation des biens du domaine privé (art. L53 à L70)](#21)
+        - [Chapitre Ier : Domaine immobilier (art. L53 à L65)](#22)
+          - [Section 1 : Dispositions générales. (art. L53 à L54)](#23)
+          - [Section 2 : Ventes soumises à des règles particulières (art. L65)](#24)
+            - [Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre (art. L65)](#25)
+        - [Chapitre II : Domaine mobilier. (art. L67 à L70)](#26)
+    - [Livre IV : Dispositions diverses (art. L77 à L92)](#27)
+      - [Titre Ier : Dispositions générales. (art. L77)](#28)
+      - [Titre II : Procédures - instances (art. L80)](#29)
+        - [Chapitre Ier : Recouvrement des produits domaniaux (art. L80)](#30)
+          - [Section 2 : Procédure du recouvrement. (art. L80)](#31)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. L91-1-2)](#32)
+        - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. L91-1-2)](#33)
+          - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales (art. L91-1-2)](#34)
+      - [Titre V : Dispositions particulières et finales. (art. L92)](#35)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#36)
+    - [Livre Ier : Composition du domaine (art. R1 à R52)](#37)
+      - [Titre II : Origine des biens (art. R1 à R51)](#38)
+        - [Chapitre Ier : Domaine public. (art. R1)](#39)
+        - [Chapitre II : Domaine privé (art. R2 à R51)](#40)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. R2 à R21-3)](#41)
+            - [Paragraphe 1 : Dispositions générales. (art. R2 à R21)](#42)
+            - [Paragraphe 2 : Dispositions spéciales. (art. R21-1 à R21-3)](#43)
+          - [Section 2 : Dons et legs (art. R22 à R45-3)](#44)
+            - [Paragraphe 1 : Dons et legs faits à l'Etat. (art. R22 à R35)](#45)
+            - [Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat. (art. R36 à R39)](#46)
+            - [Paragraphe 3 : Dispositions communes. (art. R40 à R45-3)](#47)
+          - [Section 3 : Droit de préemption de l'Etat. (art. R45-4)](#48)
+          - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#49)
+      - [Titre III : Inventaire des biens. (art. R52)](#50)
+    - [Livre II : Administration des biens domaniaux (art. R53 à R128-11)](#51)
+      - [Titre Ier : Domaine public (art. R53 à R63)](#52)
+        - [Chapitre Ier : Occupation temporaire (art. R53 à R57-17)](#53)
+          - [Section 1 : Délivrance des autorisations. (art. R53 à R54)](#54)
+          - [Section 2 : Fixation des redevances. (art. R55 à R57)](#55)
+          - [Section 3 : Occupations constitutives de droits réels (art. R57-1 à R57-17)](#56)
+            - [Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat (art. R57-2 à R57-6)](#57)
+              - [Paragraphe 1 : Délivrance du titre. (art. R57-2 à R57-5)](#58)
+              - [Paragraphe 2 : Retrait du titre. (art. R57-6)](#59)
+            - [Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail. (art. R57-7 à R57-9)](#60)
+            - [Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements. (art. R57-10 à R57-13)](#61)
+            - [Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes. (art. R57-14 à R57-17)](#62)
+        - [Chapitre II : Transfert de gestion. (art. R58)](#63)
+        - [Chapitre III : Extractions sur le domaine public. (art. R58-1 à R58-7)](#64)
+        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales (art. R63)](#65)
+      - [Titre II : Domaine privé (art. R66 à R119)](#66)
+        - [Chapitre Ier : Domaine immobilier (art. R66 à R105-1)](#67)
+          - [Section 1 : Locations (art. R66 à R70)](#68)
+            - [Paragraphe 1 : Dispositions générales. (art. R66 à R68)](#69)
+            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. R69 à R70)](#70)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. R71 à R73)](#71)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R74 à R76-1)](#72)
+          - [Section 4 : Echanges. (art. R77 à R80)](#73)
+          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R91)](#74)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104-1)](#75)
+          - [Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation. (art. R105)](#76)
+          - [Section 9 : Administration du domaine forestier. (art. R105-1)](#77)
+        - [Chapitre II : Domaine mobilier. (art. R106 à R119)](#78)
+      - [Titre III : Dispositions communes (art. R121 à R128-11)](#79)
+        - [Chapitre V : Regroupement des services publics. (art. R121 à R124)](#80)
+        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R125 à R128)](#81)
+        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. R128-1 à R128-11)](#82)
+    - [Livre III : Aliénation des biens domaniaux (art. R129 à R149)](#83)
+      - [Titre II : Aliénation des biens du domaine privé (art. R129 à R149)](#84)
+        - [Chapitre Ier : Domaine immobilier (art. R129 à R148-9)](#85)
+          - [Section 1 : Dispositions générales. (art. R129 à R135)](#86)
+          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R148-9)](#87)
+            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#88)
+            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#89)
+            - [Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique. (art. R142)](#90)
+            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#91)
+            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat. (art. R144)](#92)
+            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R145 à R147)](#93)
+            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#94)
+            - [Paragraphe 10 : Servitudes. (art. R148)](#95)
+            - [Paragraphe 11 : Rétrocession d'immeubles expropriés. (art. R148-1)](#96)
+            - [Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé. (art. R148-2)](#97)
+            - [Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2008. (art. R148-3 à R148-4)](#98)
+            - [Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social. (art. R148-5 à R148-9)](#99)
+        - [Chapitre II : Domaine mobilier. (art. R149)](#100)
+    - [Livre IV : Dispositions diverses (art. R150 à R186)](#101)
+      - [Titre Ier : Dispositions générales. (art. R150 à R152-1)](#102)
+      - [Titre II : Procédure - Instances (art. R153 à R163)](#103)
+        - [Chapitre Ier : Recouvrement des produits domaniaux (art. R153 à R157-2)](#104)
+          - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#105)
+        - [Chapitre II : Instances. (art. R158 à R163)](#106)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170-71)](#107)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R169-4)](#108)
+        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique (art. R170 à R170-27)](#109)
+          - [Section 1 : Cession de terrains prévue par l'article L. 89-3. (art. R170 à R170-3)](#110)
+          - [Section 2 : Cession de terrains prévue par l'article L. 89-4. (art. R170-4 à R170-5)](#111)
+          - [Section 3 : Cession de terrains prévue par l'article L. 89-5. (art. R170-6 à R170-7)](#112)
+          - [Section 4 : Dispositions relatives à l'application de l'article L. 89-8. (art. R170-8 à R170-10)](#113)
+          - [Section 5 : Dispositions relatives à l'application de l'article L. 89-2. (art. R170-11 à R170-27)](#114)
+        - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-71)](#115)
+          - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46-6)](#116)
+          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane. (art. R170-47 à R170-55)](#117)
+          - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt. (art. R170-56 à R170-61)](#118)
+          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3. (art. R170-62 à R170-64)](#119)
+          - [Section 5 : Dispositions communes et diverses. (art. R170-65 à R170-71)](#120)
+      - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#121)
+  - [Partie réglementaire - Décrets simples (art. D5 à D44)](#122)
+    - [Livre Ier : Composition du domaine (art. D5)](#123)
+      - [Titre II : Origine des biens (art. D5)](#124)
+        - [Chapitre II : Domaine privé (art. D5)](#125)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D5)](#126)
+            - [Paragraphe 2 : Dispositions spéciales. (art. D5)](#127)
+    - [Livre II : Administration des biens domaniaux (art. D11 à D15)](#128)
+      - [Titre II : Domaine privé (art. D11 à D15)](#129)
+        - [Chapitre Ier : Domaine immobilier (art. D11 à D15)](#130)
+          - [Section 1 : Locations (art. D11)](#131)
+            - [Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales. (art. D11)](#132)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D12 à D15)](#133)
+    - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#134)
+      - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#135)
+        - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#136)
+          - [Section 2 : Ventes soumises à des règles particulières (art. D17-1 à D18)](#137)
+            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. D17-1)](#138)
+            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#139)
+    - [Livre IV : Dispositions diverses (art. D19 à D44)](#140)
+      - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. D19)](#141)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D20 à D35)](#142)
+        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique. (art. D20)](#143)
+        - [Chapitre III : Concessions domaniales en Guyane. (art. D21)](#144)
+          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III. (art. D21)](#145)
+        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#146)
+        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#147)
+      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#148)
+  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#149)
+    - [Livre Ier : Composition du domaine (art. A01 à A11)](#150)
+      - [Titre II : Origine des biens (art. A01 à A5)](#151)
+        - [Chapitre II : Domaine privé (art. A01 à A5)](#152)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#153)
+            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#154)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#155)
+      - [Titre III : Inventaire des biens. (art. A7 à A11)](#156)
+    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#157)
+      - [Titre Ier : Domaine public (art. A12 à A65)](#158)
+        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#159)
+          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#160)
+            - [A) Arrêtés individuels. (art. A12 à A19)](#161)
+            - [B) Arrêtés généraux. (art. A20 à A25)](#162)
+            - [C) Dispositions communes. (art. A26 à A30)](#163)
+          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#164)
+        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#165)
+          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#166)
+            - [A) Arrêtés individuels. (art. A40 à A44)](#167)
+            - [B) Arrêtés généraux. (art. A45 à A46)](#168)
+            - [C) Dispositions communes. (art. A47 à A48)](#169)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#170)
+        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#171)
+      - [Titre II : Domaine privé (art. A73 à A104)](#172)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#173)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#174)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#175)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#176)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#177)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#178)
+    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#179)
+      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#180)
+        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#181)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117)](#182)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#183)
+    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#184)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#185)
+        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#186)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#187)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
 
-### Titre Ier : Dispositions générales.<a id=3></a>
+### Titre II : Origine des biens<a id=3></a>
 
-###### Article L1
+#### Chapitre II : Domaine privé<a id=4></a>
 
-Le domaine national s'entend de tous les biens et droits mobiliers et immobiliers qui appartiennent à l'Etat.
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=5></a>
 
-Leur administration et leur aliénation sont régies par le présent code, sous réserve des dispositions insérées dans d'autres
-codes ou dans des textes particuliers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L2 (M)
-
-
-###### Article L2
-
-Ceux des biens visés à l'article précédent qui ne sont pas susceptibles d'une propriété privée en raison de leur nature ou de
-la destination qui leur est donnée sont considérés comme des dépendances du domaine public national.
-
-Les autres biens constituent le domaine privé. Notamment, les biens immobiliers à usage de bureaux, propriété de l'Etat ou de
-ses établissements publics, à l'exclusion de ceux formant un ensemble indivisible avec des biens immobiliers appartenant au
-domaine public, font partie du domaine privé de ces personnes publiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Ordonnance n°2004-825 du 19 août 2004 - art. 1 () JORF 21 août 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L54 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2111-1 (V)
-  - Code général de la propriété des personnes publiqu - art. L2211-1 (V)
-
-
-### Titre II : Origine des biens<a id=4></a>
-
-#### Chapitre Ier : Domaine public.<a id=5></a>
-
-###### Article L3
-
-L'incorporation au domaine public des immeubles dépendant du domaine privé de l'Etat est réalisée dans les conditions fixées
-par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-#### Chapitre II : Domaine privé<a id=6></a>
-
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=7></a>
-
-##### Paragraphe 1 : Dispositions générales.<a id=8></a>
-
-###### Article L4
-
-Sont réalisés dans les formes et conditions déterminées par décret en Conseil d'Etat :
-
-- les baux, accords amiables et conventions quelconques ayant pour objet la prise en location d'immeubles de toute nature par
-l'Etat ou par les établissements publics nationaux ;
-
-- les acquisitions d'immeubles ou de droits immobiliers poursuivies à l'amiable ou par expropriation par l'Etat, par les
-établissements publics nationaux ou par leurs concessionnaires ;
-
-- les constructions d'immeubles projetées par l'Etat, par les établissements publics nationaux ou par leurs concessionnaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L5
-
-Les administrations financières de l'Etat sont autorisées à communiquer au service des domaines tous les renseignements et
-documents qu'elles possèdent concernant les particuliers, et pouvant servir à la détermination de la valeur locative ou de la
-valeur vénale des immeubles dont l'acquisition ou la location est projetée par des services de l'Etat ou organismes
-assimilés.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*311-6 (Ab)
-  - Décret n°69-825 du 28 août 1969 - art. 63 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L6
-
-Dans les communes visées à l'alinéa 5 de l'article 1er de la loi n° 48-1360 du 1er septembre 1948, à l'expiration des baux
-conclus entre les parties ou à l'expiration du droit au maintien dans les lieux conféré par des dispositions antérieures et
-notamment par l'article 4 de la loi n° 50-244 du 28 février 1950, les administrations publiques de l'Etat ainsi que les
-personnes occupant des locaux affectés à l'exercice d'une fonction publique dans lesquels l'habitation n'est pas
-indivisiblement liée au local utilisé pour cette fonction, bénéficieront, sous réserve d'y être autorisées comme il est
-indiqué ci-dessous, quelle que soit la qualité du preneur et nonobstant toute clause contractuelle ou décision judiciaire
-contraire, d'un délai pour évacuer les immeubles ou parties d'immeubles qu'elles occupent.
-
-Le bénéfice du délai d'évacuation prévu à l'alinéa précédent est subordonné, dans les départements de Paris, des Hauts-de-
-Seine, du Val-de-Marne et de Seine-Saint-Denis, à l'autorisation de la commission centrale de contrôle des opérations
-immobilières et, dans les autres départements, à l'autorisation de la commission départementale de contrôle des opérations
-immobilières (1).
-
-Le délai d'évacuation autorisé par lesdites commissions est au maximum d'un an. Il peut être renouvelé sans que la durée des
-délais successifs puisse excéder trois ans.
-
-**Nota:**
-
-NOTA (1) : Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales
-des opérations immobilières sont supprimées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°48-1360 du 1 septembre 1948 - art. 5 (M)
-  - fr Loi 50-244 1950-02-28
-
-_Modifié par_:
-
-  - Loi n°64-707 du 10 juillet 1964 - art. 1 (V) JORF 12 juillet 1964
-
-_Cité par_:
-
-  - Ordonnance n°77-1107 du 26 septembre 1977 - art. 5 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L7
-
-Dans les communes autres que celles visées à l'article précédent, le délai d'évacuation ne devra pas dépasser un an.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Ordonnance n°77-1107 du 26 septembre 1977 - art. 5 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L8
-
-L'occupation des lieux pendant le délai d'évacuation ouvre droit pour le propriétaire à une indemnité qui sera fixée, à
-défaut d'accord amiable, par le juge à l'aide de tous éléments d'appréciation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Ordonnance n°77-1107 du 26 septembre 1977 - art. 5 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
+##### Paragraphe 1 : Dispositions générales.<a id=6></a>
 
 ###### Article L10
 
@@ -493,9 +242,9 @@ _Modifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-##### Section 2 : Dons et legs<a id=9></a>
+##### Section 2 : Dons et legs<a id=7></a>
 
-##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=10></a>
+##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=8></a>
 
 ###### Article L11
 
@@ -644,304 +393,7 @@ _Codifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-##### Paragraphe 2 : Dons et legs faits aux établissements publics dépendant de l'Etat.<a id=11></a>
-
-###### Article L15
-
-Les établissements publics de l'Etat autres que les hospices et hôpitaux acceptent et refusent sans autorisation de
-l'administration supérieure les dons et legs qui leur sont faits sans charge, conditions ni affectation immobilière.
-
-Lorsque ces dons ou legs sont grevés de charges, de conditions ou d'affectation immobilière, l'acceptation ou le refus est
-autorisé par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Loi n°66-458 du 2 juillet 1966 - art. 2 (Ab)
-  - Décret n°92-1338 du 22 décembre 1992 - art. 19 (VD)
-  - Décret n°95-462 du 26 avril 1995 - art. 11 (M)
-  - Décret n°95-463 du 27 avril 1995 - art. 18-1 (Ab)
-  - Décret n°97-1181 du 24 décembre 1997 - art. 16 (V)
-  - Décret n°2003-1300 du 26 décembre 2003 - art. 22 (V)
-  - Décret n°2003-1301 du 26 décembre 2003 - art. 22 (VD)
-  - Décret n°2003-1302 du 26 décembre 2003 - art. 1 (Ab)
-  - Code de la défense. - art. L3422-2 (V)
-  - Code du domaine de l'Etat - art. R36 (M)
-  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L1121-2 (V)
-
-
-###### Article L18
-
-Les dispositions des articles L. 12 et L. 14 sont applicables aux dons et legs faits aux établissements publics de l'Etat,
-sous réserve, en ce qui concerne les établissements hospitaliers, des dispositions de l'article L. 6145-10 du code de la
-santé publique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°84-562 1984-07-04 art. 3, art. 6 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L12 (V)
-  - Code du domaine de l'Etat - art. L14 (V)
-  - Code de la santé publique - art. L6145-10 (V)
-
-_Cité par_:
-
-  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2222-17 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Anciens textes_:
-
-  - Loi n°59-1454 1959-12-26 art. 72 al. 1
-
-
-##### Paragraphe 3 : Dispositions communes.<a id=12></a>
-
-###### Article L19
-
-Dans tous les cas où les dons et legs donnent lieu à des réclamations des familles, l'autorisation de les accepter est donnée
-par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Décret n°90-1027 du 14 novembre 1990 - art. 2 (Ab)
-  - Décret n°92-1338 du 22 décembre 1992 - art. 19 (VD)
-  - Décret n°95-463 du 27 avril 1995 - art. 18-1 (Ab)
-  - Décret n°97-1181 du 24 décembre 1997 - art. 16 (V)
-  - Décret n°2003-1300 du 26 décembre 2003 - art. 22 (V)
-  - Décret n°2003-1301 du 26 décembre 2003 - art. 22 (VD)
-  - Décret n°2003-1302 du 26 décembre 2003 - art. 1 (Ab)
-  - Code du domaine de l'Etat - art. R36 (M)
-  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L1121-3 (M)
-  - Code général de la propriété des personnes publiqu - art. L1121-3 (V)
-
-
-###### Article L21
-
-Un décret en Conseil d'Etat détermine les modalités d'exécution des articles L. 12 et L. 14, et notamment les formalités
-propres à mettre les auteurs des libéralités ou leurs ayants droit en mesure de formuler leurs observations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°59-1454 1959-12-26 art. 72 al. 4
-
-_Modifié par_:
-
-  - Loi n°84-562 1984-07-04 art. 4, art. 6 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-  - Loi n°84-562 du 4 juillet 1984 - art. 6 (Ab) JORF 6 juillet 1984 en vigueur le 1er octobre 1984
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L12 (V)
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L14 (Ab)
-  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2222-18 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Section 3 : Droit de préemption de l'Etat.<a id=13></a>
-
-###### Article L22
-
-Le droit de préemption de l'Etat à l'égard de certains biens est exercé dans les conditions prévues à l'article 637 ter du
-code général des impôts (1) et aux articles 2, 3, 8, 9, 11 bis et 13 de la loi modifiée n° 62-848 du 26 juillet 1962 relative
-au droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé (2). Le cas échéant, il
-est fait application de dispositions de l'article 3 de la loi n° 65-561 du 10 juillet 1965.
-
-**Nota:**
-
-Nota - (1) L'article 637 ter du code général des impôts est devenu l'article L. 18 du livre des procédures fiscales, lequel a
-été abrogé par l'article 113 de la loi de finances pour 1997, n° 96-1181 du 30 décembre 1996 publiée au JORF du 31 décembre
-1996.
-
-Nota - (2) La loi n° 62-848 du 26 juillet 1962 a été abrogée par l'article 80 de la loi n° 76-1285 du 31 décembre 1976,
-publiée au JORF du 1er janvier 1977 et codifiée aux articles L. 210-1 et suivants du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 637 ter
-  - Loi n°62-848 1962-07-26 art. 2, art. 3, art. 8, art. 9, art. 11 bis, art. 13
-  - Loi n°65-561 du 10 juillet 1965 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-##### Section 4 : Successions en déshérence.<a id=14></a>
-
-###### Article L23
-
-Par application des dispositions des articles 539, 724 et 768 du code civil, les biens des personnes qui décèdent sans
-héritiers ou dont les successions sont abandonnées appartiennent à l'Etat, à moins qu'il ne soit disposé de ces biens par des
-lois particulières.
-
-**Nota:**
-
-NOTA : Loi 2006-728 du 23 juin 2006 en vigueur le 1er janvier 2007 art. 31 : dans l'article L23 du code du domaine de l'Etat,
-les références ",724 et 768" sont remplacées par le mot et la référence :
-
-"et 724".
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2001-1135 2001-12-03 art. 15 V, 25 I JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L1122-1 (V)
-
-_Cite_:
-
-  - Code civil - art. 539 (M)
-  - Code civil - art. 724 (M)
-  - Code civil - art. 768 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Section 5 : Confiscations pénales.<a id=15></a>
-
-###### Article L24
-
-Les confiscations prononcées par application des articles 37, 38 et 39 du code pénal (1) et 290, 292 et 293 du code de
-justice militaire (2) sont exécutées suivant la procédure prévue auxdits articles.
-
-**Nota:**
-
-NOTA : (1) Les articles 37, 38 et 39 du code pénal ont été abrogés par l'article 372 de la loi n° 92-1336 du 16 décembre
-1992, publiée au JORF du 22 décembre 1992.
-
-(2) Les articles 290, 292 et 293 du code de justice militaire ont été abrogés par l'article 51 de la loi n° 99-929 du 10
-novembre 1999, publiée au JORF du 11 novembre 1999.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code pénal 37, 38, 39
-  - Code de justice militaire - art. 290 (Ab)
-  - Code de justice militaire - art. 292 (Ab)
-  - Code de justice militaire - art. 293 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-
-##### Section 6 : Biens vacants et sans maître.<a id=16></a>
-
-###### Article L25
-
-Les biens qui n'ont pas de maître reviennent de plein droit à l'Etat si la commune sur le territoire de laquelle ils sont
-situés a renoncé à exercer le droit de propriété qui lui est reconnu par l'article 713 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L1123-2 (V)
-
-_Cite_:
-
-  - Code civil - art. 713 (M)
-
+##### Section 6 : Biens vacants et sans maître.<a id=9></a>
 
 ###### Article L27
 
@@ -1100,124 +552,13 @@ _Cite_:
   - Code civil - art. 713 (M)
 
 
-###### Article L27 ter
+## Livre II : Administration des biens domaniaux<a id=10></a>
 
-Lorsque la propriété d'un immeuble a ainsi été attribuée à une commune ou, à défaut, à l'Etat, le propriétaire ou ses ayants
-droit ne sont plus en droit d'exiger la restitution si le bien a été aliéné ou utilisé d'une manière s'opposant à cette
-restitution. Ils ne peuvent, dans ce cas, obtenir de la commune ou de l'Etat que le paiement d'une indemnité égale à la
-valeur de l'immeuble au jour de son utilisation.
+### Titre Ier : Domaine public<a id=11></a>
 
-A défaut d'accord amiable, l'indemnité est fixée par le juge compétent en matière d'expropriation pour cause d'utilité
-publique.
+#### Chapitre Ier : Occupation temporaire<a id=12></a>
 
-La restitution de l'immeuble ou, à défaut, le paiement de l'indemnité visée à l'alinéa précédent, est subordonné au paiement
-par le propriétaire ou ses ayants droit du montant des charges qu'ils ont éludées depuis le point de départ du délai de trois
-ans mentionné à l'article précédent, ainsi que du montant des dépenses nécessaires à la conservation du bien engagées par la
-commune ou par l'Etat.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code forestier - art. R532-19 (M)
-  - Code rural - art. L125-13 (M)
-  - Code rural ancien - art. 44 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2222-20 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-## Livre II : Administration des biens domaniaux<a id=17></a>
-
-### Titre Ier : Domaine public<a id=18></a>
-
-#### Chapitre Ier : Occupation temporaire<a id=19></a>
-
-##### Section 1 : Délivrance des autorisations.<a id=20></a>
-
-###### Article L28
-
-Nul ne peut, sans autorisation délivrée par l'autorité compétente, occuper une dépendance du domaine public national ou
-l'utiliser dans des limites excédant le droit d'usage qui appartient à tous. 
-
-Le service des domaines constate les infractions aux dispositions de l'alinéa précédent en vue de poursuivre, contre les
-occupants sans titre, le recouvrement des indemnités correspondant aux redevances dont le Trésor a été frustré, le tout sans
-préjudice de la répression des contraventions de grande voirie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Décret n°89-391 du 15 juin 1989 - art. 13 (V)
-  - Décret n°92-648 du 8 juillet 1992 - art. 13 (V)
-  - Code de la voirie routière - art. L121-2 (V)
-  - Code du domaine de l'Etat - art. R128-8 (Ab)
-  - Code du domaine de l'Etat - art. R57-12 (VD)
-  - Code du domaine de l'Etat - art. R57-16 (Ab)
-  - Code du domaine de l'Etat - art. R57-4 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (I) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-1 (V)
-
-
-###### Article L29
-
-La délivrance des autorisations de voirie sur le domaine public national est subordonnée au paiement, outre les droits et
-redevances perçus au profit soit de l'Etat, soit des communes, d'un droit fixe correspondant aux frais exposés par la
-puissance publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Loi n°70-601 du 9 juillet 1970 - art. 13 () JORF 10 juillet 1970
-
-_Cité par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 5 (Ab)
-  - Loi n°90-1168 du 29 décembre 1990 - art. 124 (VT)
-  - Décret n°91-797 du 20 août 1991 - art. 14 (Ab)
-  - Loi n°92-3 du 3 janvier 1992 - art. 34 (Ab)
-  - Décret n°2001-839 du 14 septembre 2001 - art. ANNEXE (V)
-  - Code du domaine de l'Etat - art. A16 (V)
-  - Code du domaine de l'Etat - art. A23 (V)
-  - Code du domaine de l'Etat - art. A30 (V)
-  - Code du domaine de l'Etat - art. R54 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-##### Section 2 : Fixation des redevances.<a id=21></a>
+##### Section 2 : Fixation des redevances.<a id=13></a>
 
 ###### Article L30
 
@@ -1263,75 +604,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L31
-
-Les bénéficiaires d'autorisations ou de concessions de toute nature concernant le domaine public national peuvent acquitter
-la redevance à leur charge par apposition d'un timbre fiscal sur le titre qui leur a été remis. Quelle que soit la date de ce
-titre, ils peuvent être tenus, à raison du chiffre et du mode de fixation des redevances, de se libérer soit par versement
-d'acomptes mensuels, soit d'avance, par périodes triennales ou pour toute la durée de l'autorisation ou de la concession, si
-cette durée n'excède pas cinq ans.
-
-Toutefois, pour les besoins de la défense nationale, les bénéficiaires peuvent être tenus de se libérer soit par versement
-d'acomptes, soit d'avance, pour tout ou partie de la durée de l'autorisation ou de la concession, quelle que soit cette
-durée.
-
-Des arrêtés du ministre de l'économie et des finances fixent les conditions d'application de ces différents modes de
-règlement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Loi - art. 36 (V)
-  - Code des postes et des communications électronique - art. L42-2 (M)
-  - Code du domaine de l'Etat - art. A31 (V)
-
-_Modifié par_:
-
-  - Loi n°2004-804 du 9 août 2004 - art. 22 (V) JORF 11 août 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2125-4 (V)
-  - Code général de la propriété des personnes publiqu - art. L2322-3 (Ab)
-
-
-###### Article L32
-
-En cas de retard dans le paiement des redevances, les sommes restant dues sont majorées d'un intérêt moratoire dont le taux
-est fixé par décision du ministre des finances.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°89-391 du 15 juin 1989 - art. 13 (V)
-  - Décret n°89-405 du 20 juin 1989 - art. 13 (V)
-  - Décret n°92-648 du 8 juillet 1992 - art. 13 (V)
-  - Code du domaine de l'Etat - art. A35 (V)
-  - Code du domaine de l'Etat - art. R128-8 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2125-5 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
 
 
 ###### Article L33
@@ -1383,777 +655,11 @@ _Codifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-###### Article L33-1
+### Titre II : Domaine privé<a id=14></a>
 
-En cas de retrait de l'autorisation avant le terme prévu, pour un motif autre que l'inexécution de ses clauses et conditions,
-la redevance versée d'avance est restituée prorata temporis au titulaire.
+#### Chapitre Ier : Domaine immobilier<a id=15></a>
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°2004-804 du 9 août 2004 - art. 22 (V) JORF 11 août 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2125-6 (V)
-
-
-###### Article L34
-
-Les communes qui gèrent elles-mêmes leur service d'eau potable sont exonérées de toute redevance qui serait due en raison de
-l'occupation du domaine public par leurs canalisations ou réservoirs.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L371-3 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2125-2 (V)
-  - Code général de la propriété des personnes publiqu - art. L2125-2 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Section 3 : Occupations constitutives de droits réels.<a id=22></a>
-
-###### Article L34-1
-
-Le titulaire d'une autorisation d'occupation temporaire du domaine public de l'Etat a, sauf prescription contraire de son
-titre, un droit réel sur les ouvrages, constructions et installations de caractère immobilier qu'il réalise pour l'exercice
-d'une activité autorisée par ce titre.
-
-Ce droit confère à son titulaire, pour la durée de l'autorisation et dans les conditions et les limites précisées dans la
-présente section, les prérogatives et obligations du propriétaire.
-
-Le titre fixe la durée de l'autorisation, en fonction de la nature de l'activité et de celle des ouvrages autorisés, et
-compte tenu de l'importance de ces derniers, sans pouvoir excéder soixante-dix ans.
-
-**Nota:**
-
-NOTA : L34-1, troisième alinéa, 2me phrase : (Dispositions déclarées non conformes à la Constitution par décision du Conseil
-Constitutionnel n° 94-346 DC du 21 juillet 1994).
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi du 1er juin 1924 - art. 38 (V)
-  - Décret n°97-547 du 29 mai 1997 - art. ANNEXE (V)
-  - Loi - art. 83 (V)
-  - Décret n°2004-308 du 29 mars 2004 - art. 9 (Ab)
-  - Décret n°2006-608 du 26 mai 2006 - art. 4 (Ab)
-  - Décret n°2009-721 du 17 juin 2009 - art. Annexe (V)
-  - Code du domaine de l'Etat - art. L34-2 (VD)
-  - Code du domaine de l'Etat - art. L34-4 (Ab)
-  - Code du domaine de l'Etat - art. L34-7 (Ab)
-  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
-  - Code général des collectivités territoriales - art. L4424-22 (VD)
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-6 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L34-2
-
-Les droits, ouvrages, constructions et installations de caractère immobilier ne peuvent être cédés, ou transmis dans le cadre
-de mutations entre vifs ou de fusion, absorption ou scission de sociétés, pour la durée de validité du titre restant à
-courir, y compris dans le cas de réalisation de la sûreté portant sur lesdits droits et biens et dans les cas prévus aux
-troisième et quatrième alinéas, qu'à une personne agréée par l'autorité compétente, en vue d'une utilisation compatible avec
-l'affectation du domaine public occupé.
-
-Lors du décès d'une personne physique titulaire d'un titre d'occupation constitutif de droits réels, celui-ci peut être
-transmis, dans les conditions prévues à l'alinéa précédent, au conjoint survivant ou aux héritiers sous réserve que le
-bénéficiaire, désigné par accord entre eux, soit présenté à l'agrément de l'autorité compétente dans un délai de six mois à
-compter du décès.
-
-Les droits, ouvrages, constructions et installations ne peuvent être hypothéqués que pour garantir les emprunts contractés
-par le titulaire de l'autorisation en vue de financer la réalisation, la modification ou l'extension des ouvrages,
-constructions et installations de caractère immobilier situés sur la dépendance domaniale occupée.
-
-Les créanciers chirographaires autres que ceux dont la créance est née de l'exécution des travaux mentionnés à l'alinéa
-précédent ne peuvent pratiquer des mesures conservatoires ou des mesures d'exécution forcée sur les droits et biens
-mentionnés au présent article.
-
-Les hypothèques sur lesdits droits et biens s'éteignent au plus tard à l'expiration des titres d'occupation délivrés en
-application des articles L. 34-1 et L. 34-4, quels qu'en soient les circonstances et le motif.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L34-1 (Ab)
-  - Code du domaine de l'Etat - art. L34-4 (Ab)
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
-  - Code du domaine de l'Etat - art. R57-7 (Ab)
-  - Code du domaine de l'Etat - art. R57-7-1 (V)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-7 (V)
-  - Code général de la propriété des personnes publiqu - art. L2122-8 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L34-3
-
-A l'issue du titre d'occupation, les ouvrages, constructions et installations de caractère immobilier existant sur la
-dépendance domaniale occupée doivent être démolis, soit par le titulaire de l'autorisation, soit à ses frais, à moins que
-leur maintien en l'état n'ait été prévu expressément par le titre d'occupation ou que l'autorité compétente ne renonce en
-tout ou partie à leur démolition.
-
-Les ouvrages, constructions et installations de caractère immobilier dont le maintien à l'issue du titre d'occupation a été
-accepté deviennent de plein droit et gratuitement la propriété de l'Etat, francs et quittes de tous privilèges et
-hypothèques.
-
-Toutefois, en cas de retrait de l'autorisation avant le terme prévu, pour un motif autre que l'inexécution de ses clauses et
-conditions, le titulaire est indemnisé du préjudice direct, matériel et certain né de l'éviction anticipée. Les règles de
-détermination de l'indemnité peuvent être précisées dans le titre d'occupation. Les droits des créanciers régulièrement
-inscrits à la date du retrait anticipé sont reportés sur cette indemnité.
-
-Deux mois au moins avant la notification d'un retrait pour inexécution des clauses et conditions de l'autorisation, les
-créanciers régulièrement inscrits sont informés des intentions de l'autorité compétente à toutes fins utiles, et notamment
-pour être mis en mesure de proposer la substitution d'un tiers au permissionnaire défaillant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Cité par_:
-
-  - Décret n°2000-682 du 19 juillet 2000 - art. Annexe, article 15 (V)
-  - Code du domaine de l'Etat - art. L34-8 (Ab)
-  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-9 (V)
-
-
-###### Article L34-3-1
-
-L'Etat et le titulaire d'une autorisation d'occupation temporaire du domaine public peuvent conclure un bail portant sur des
-bâtiments à construire par le titulaire pour les besoins de la justice, de la police nationale, de la gendarmerie nationale,
-des armées ou des services du ministère de la défense et comportant, au profit de l'Etat, une option lui permettant
-d'acquérir, avant le terme fixé par l'autorisation d'occupation, les installations ainsi édifiées. Dans ce cas, le bail
-comporte des clauses permettant de préserver les exigences du service public.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise les conditions de passation du
-bail ainsi que les conditions suivant lesquelles l'amortissement financier peut être pris en compte dans la détermination du
-montant du loyer.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 35 septies (VT)
-  - Loi n°87-432 du 22 juin 1987 - art. 2 (V)
-  - Loi n°87-432 du 22 juin 1987 - art. 7 (V)
-  - Ordonnance n°2000-373 du 26 avril 2000 - art. 51-2 (VT)
-  - Ordonnance n°2000-371 du 26 avril 2000 - art. 51-2 (V)
-  - Ordonnance n°2000-372 du 26 avril 2000 - art. 53-2 (V)
-  - Décret n°2001-798 du 31 août 2001 - art. 2 (Ab)
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 53-2 (V)
-  - Loi n°2002-1094 du 29 août 2002 - art. 3 (VT)
-  - Loi n°2003-591 du 2 juillet 2003 - art. 6 (V)
-  - Loi n°2004-204 du 9 mars 2004 - art. 205 (V)
-  - Décret n°2006-208 du 22 février 2006 - art. 12 (V)
-  - Décret n°2006-208 du 22 février 2006 - art. 3 (V)
-  - Décret n°2006-208 du 22 février 2006 - art. 4 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1382 (M)
-  - Code du domaine de l'Etat - art. L34-7-1 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2003-73 du 27 janvier 2003 - art. 7 () JORF 29 janvier 2003
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 10 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 11 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 12 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 13 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 15 (V)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 2 (V)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 3 (V)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 4-1 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 6 (V)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 7 (V)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 8 (Ab)
-  - TXT_SOURCE: Décret n°2004-18 du 6 janvier 2004 - art. 9 (Ab)
-  - TXT_SOURCE: Arrêté du 2 février 2004
-  - TXT_SOURCE: Arrêté du 2 février 2004 - art. 1 (V)
-  - TXT_SOURCE: Décret n°2004-732 du 26 juillet 2004
-  - TXT_SOURCE: Décret n°2004-732 du 26 juillet 2004 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-15 (VT)
-  - Code général de la propriété des personnes publiqu - art. L2122-15 (V)
-
-
-###### Article L34-4
-
-Lorsque les ouvrages, constructions ou installations sont nécessaires à la continuité du service public, les dispositions de
-l'article L. 34-1 ne leur sont applicables que sur décision de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Cité par_:
-
-  - Loi - art. 83 (V)
-  - Code du domaine de l'Etat - art. L34-2 (VD)
-  - Code du domaine de l'Etat - art. L34-8 (Ab)
-  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L34-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-10 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L34-5
-
-Les dispositions de la présente section sont également applicables aux conventions de toute nature ayant pour effet
-d'autoriser l'occupation du domaine public.
-
-Lorsque ce droit d'occupation du domaine public résulte d'une concession de service public ou d'outillage public, le cahier
-des charges précise les conditions particulières auxquelles il doit être satisfait pour tenir compte des nécessités du
-service public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L34-7 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-11 (V)
-
-
-###### Article L34-6
-
-Des décrets en Conseil d'Etat fixent les conditions d'application des articles L. 34-1 à L. 34-5.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat L34-1 à L34-5
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-12 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L34-7
-
-Dans le cadre des titres d'occupation prévus par les articles L. 34-1 et L. 34-5, la réalisation des ouvrages, constructions
-et installations, à l'exclusion de ceux affectés à un service public et aménagés à cet effet ou affectés directement à
-l'usage du public ainsi que des travaux exécutés pour une personne publique dans un but d'intérêt général, peut donner lieu à
-la conclusion de contrats de crédit-bail par le titulaire du droit d'occupation.
-
-La conclusion de tels contrats de crédit-bail au bénéfice d'organismes dans lesquels l'Etat ou l'établissement public
-gestionnaire du domaine apporte un concours financier ou détient, directement ou indirectement, une participation financière
-permettant d'exercer un pouvoir prépondérant de décision ou de gestion est soumise à un agrément de l'Etat. Cet agrément peut
-être refusé si l'opération se traduit par un accroissement des charges ou une diminution des ressources de l'Etat. Les
-modalités de cet agrément sont précisées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Cité par_:
-
-  - Loi - art. 83 (V)
-  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 287 (M)
-  - Code du domaine de l'Etat - art. L34-7-1 (Ab)
-  - Code du domaine de l'Etat - art. R57-9 (VD)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L34-1 (Ab)
-  - Code du domaine de l'Etat - art. L34-5 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-13 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L34-7-1
-
-Par dérogation aux dispositions du premier alinéa de l'article L. 34-7, le financement des constructions mentionnées à
-l'article L. 34-3-1 ou réalisées dans le cadre de contrats de partenariat peut donner lieu à la conclusion de contrats de
-crédit-bail. Dans ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public.
-
-Les dispositions du deuxième alinéa de l'article L. 34-7 sont applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 35 septies (VT)
-  - Loi n°87-432 du 22 juin 1987 - art. 2 (V)
-  - Loi n°87-432 du 22 juin 1987 - art. 7 (V)
-  - Ordonnance n°2000-373 du 26 avril 2000 - art. 51-2 (VT)
-  - Ordonnance n°2000-371 du 26 avril 2000 - art. 51-2 (V)
-  - Ordonnance n°2000-372 du 26 avril 2000 - art. 53-2 (V)
-  - Décret n°2001-798 du 31 août 2001 - art. 2 (Ab)
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 53-2 (V)
-  - Loi n°2002-1094 du 29 août 2002 - art. 3 (VT)
-  - Loi n°2003-591 du 2 juillet 2003 - art. 6 (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2004-559 du 17 juin 2004 - art. 13 (V) JORF 19 juin 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L34-3-1 (M)
-  - Code du domaine de l'Etat - art. L34-7 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-16 (V)
-
-
-###### Article L34-8
-
-Les dispositions des articles L. 34-1 à L. 34-7 sont applicables aux établissements publics de l'Etat, tant pour le domaine
-public de l'Etat qui leur est confié que pour leur domaine propre.
-
-Pour l'application du deuxième alinéa de l'article L. 34-3, les ouvrages, constructions et installations concernés situés sur
-le domaine propre d'un établissement public deviennent la propriété dudit établissement public.
-
-Des décrets en Conseil d'Etat apportent les adaptations nécessaires aux dispositions relatives à la gestion du domaine public
-par les établissements publics de l'Etat, et notamment les conditions dans lesquelles les décisions prises par les autorités
-compétentes de ces établissements sont, dans les cas prévus à l'article L. 34-4, soumises à approbation de leur ministre de
-tutelle et du ministre chargé du domaine.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L34-3 (Ab)
-  - Code du domaine de l'Etat - art. L34-4 (Ab)
-  - Code du domaine de l'Etat L34-1 à L34-7, L34-3, L34-4
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-14 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L34-8-1
-
-Les dispositions de la présente section et de l'article 3 de la loi n° 94-631 du 25 juillet 1994 complétant le code du
-domaine de l'Etat et relative à la constitution de droits réels sur le domaine public sont applicables sur le domaine public
-de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements et des communes,
-mis à disposition de ces départements et de ces communes ou ayant fait l'objet à leur profit d'un transfert de gestion.
-
-Les autorisations, décisions et agréments mentionnés aux articles L. 34-1, L. 34-2, L. 34-3 et L. 34-4 sont pris ou accordés,
-après consultation du représentant de l'Etat, par le président du conseil général ou par le maire selon le cas. Ils peuvent
-également être pris ou accordés par le concessionnaire, lorsque les termes de la concession le prévoient.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
-  - Code du domaine de l'Etat - art. L34-1 (Ab)
-  - Code du domaine de l'Etat - art. L34-2 (Ab)
-  - Code du domaine de l'Etat - art. L34-3 (Ab)
-  - Code du domaine de l'Etat - art. L34-4 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2000-475 du 29 mai 2000
-  - TXT_SOURCE: Décret n°2000-475 du 29 mai 2000 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°2003-1054 du 30 octobre 2003
-  - TXT_SOURCE: Décret n°2003-1054 du 30 octobre 2003 - art. 2 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2002-276 du 27 février 2002 - art. 102 () JORF 28 février 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-17 (V)
-  - Code général de la propriété des personnes publiqu - art. L2122-18 (V)
-
-
-###### Article L34-9
-
-Les dispositions de la présente section ne sont pas applicables au domaine public naturel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2122-5 (V)
-
-
-#### Chapitre II : Transfert de gestion.<a id=23></a>
-
-###### Article L35
-
-Pour les transferts de gestion des immeubles dépendant du domaine public, dont la destination est modifiée, la remise est
-autorisée dans les conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R58 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2123-3 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-### Titre II : Domaine privé<a id=24></a>
-
-#### Chapitre Ier : Domaine immobilier<a id=25></a>
-
-##### Section 1 : Locations<a id=26></a>
-
-##### Paragraphe 1 : Dispositions générales.<a id=27></a>
-
-###### Article L36
-
-Les biens du domaine privé de l'Etat, affectés ou non à un service public, quel que soit le service qui les détient ou qui
-les régit, ne peuvent être loués que par le département des finances, qui a seul qualité pour fixer les conditions
-financières de la location.
-
-Les baux doivent être consentis dans tous les cas en la forme et suivant les règles établies pour l'amodiation des biens
-directement placés sous la main du service des domaines, sous réserve des dispositions insérées dans d'autres codes ou dans
-des textes particuliers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Décret n°97-1181 du 24 décembre 1997 - art. 7 (M)
-  - Code du domaine de l'Etat - art. A93-2 (V)
-  - Code du domaine de l'Etat - art. L39 (Ab)
-  - Code du domaine de l'Etat - art. R93 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L37
-
-Les immeubles dont l'Etat a la jouissance ou qu'il détient à un titre quelconque sans en avoir la propriété sont, à
-l'exception de ceux qu'il gère pour le compte de tiers ou qui dépendent de patrimoines séquestrés ou en liquidation, soumis
-aux dispositions législatives ou réglementaires qui régissent les locations de biens appartenant à l'Etat, leur affectation à
-un service public et les concessions de logement dans des immeubles domaniaux.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L4121-1 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L38
-
-Le locataire ne peut prétendre à aucune indemnité ou diminution du prix de son bail en aucun cas, même pour stérilité, grêle,
-gelée, ou tous autres cas fortuits.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=28></a>
-
-###### Article L39
-
-Par dérogation aux dispositions de l'article L. 36, l'amodiation des terrains acquis par l'Etat ou des immeubles bâtis par
-lui en exécution de l'ordonnance n° 45-2064 du 8 septembre 1945, autorisant la construction directe par l'Etat d'immeubles
-d'habitation de caractère définitif, fait l'objet de conventions amiables conclues avec les intéressés par le ministre chargé
-de la construction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Ordonnance 45-2064 1945-09-08
-  - Code du domaine de l'Etat - art. L36 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation<a id=29></a>
-
-###### Article L40
-
-Les occupants des bâtiments provisoires visés à l'alinéa 2, 1°, de l'article 11 de l'ordonnance n° 45-609 du 10 avril 1945
-relative aux travaux préliminaires à la reconstruction, ne peuvent se prévaloir en cette qualité des dispositions
-législatives concernant les loyers, le renouvellement ou la prorogation des baux.
-
-Les conditions dans lesquelles les occupations sont accordées et donnent lieu au paiement d'une redevance au profit du Trésor
-sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Ordonnance 45-609 1945-04-10 art. 11
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-##### Section 4 : Echanges.<a id=30></a>
-
-###### Article L41
-
-L'échange d'immeubles appartenant à l'Etat est consenti dans les conditions prévues par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat R.77 à R.80
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L1111-2 (V)
-  - Code général de la propriété des personnes publiqu - art. L3211-21 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L42
-
-Le contrat d'échange est enregistré et publié au bureau des hypothèques. L'enregistrement est fait gratis conformément à
-l'article 1040 du code général des impôts. Il n'est payé, pour la publication, que la taxe de publicité foncière légalement à
-la charge du coéchangiste et le salaire du conservateur. S'il est stipulé une soulte, celle-ci est soumise aux droits et
-taxes exigibles d'après la législation en vigueur lors de la réalisation définitive de l'échange.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1040
-
-**Liens**:
-
-  - TXT_ASSOCIE: CGI 1040 I (acquisitions et échanges faits par l'Etat)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
+##### Section 4 : Echanges.<a id=16></a>
 
 ###### Article L43
 
@@ -2193,205 +699,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L3211-22 (V)
 
 
-###### Article L44
+### Titre III : Dispositions communes<a id=17></a>
 
-Tous les frais auxquels la procédure d'échange aura donné lieu sont supportés par l'échangiste si le contrat a été résolu de
-plein droit dans les conditions prévues à l'article précédent. Il en est de même si l'Etat a été évincé de l'immeuble reçu en
-échange, dans les conditions prévues par les articles 1704 et 1705 du code civil, ou si le projet d'échange a dû être
-abandonné, en raison des revendications de propriété formulées par des tiers en ce qui concerne les immeubles offerts à
-l'Etat.
-
-Dans tous les autres cas, même si l'échange n'est pas réalisé, les fraix auxquels aura donné lieu la procédure d'échange sont
-supportés par l'échangiste, sauf convention contraire justifiée par l'intérêt de l'Etat. Les droits d'enregistrement et taxes
-perçus sur la soulte payable à l'Etat sont toujours à la charge de l'échangiste.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L1212-8 (V)
-  - Code général de la propriété des personnes publiqu - art. L3222-1 (V)
-
-_Cite_:
-
-  - Code civil - art. 1704 (V)
-  - Code civil - art. 1705 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-#### Chapitre II : Domaine mobilier.<a id=31></a>
-
-###### Article L45
-
-Les objets mobiliers et tous matériels dépendant du domaine privé de l'Etat sont utilisés, gérés et administrés par le
-service auquel ils sont affectés. Ils ne peuvent, en aucun cas, être échangés ; ils doivent être vendus lorsqu'ils ne sont
-plus susceptibles d'utilisation par ledit service.
-
-Le service des domaines s'assure de leur utilisation et peut provoquer la remise, aux fins de vente, des meubles et matériels
-appelés à demeurer inemployés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L46
-
-Les biens du domaine privé mobilier de l'Etat, affectés ou non à un service public, quelle que soit l'administration qui les
-détient ou qui les régit, ne peuvent être loués à des particuliers ou mis à la disposition d'un service autre que le service
-affectataire que par le service des domaines. Le service affectataire fixe les conditions techniques de l'opération, d'accord
-avec le service des domaines qui en arrête les conditions financières.
-
-L'opération ne peut, en aucun cas, être réalisée à titre gratuit, ni à un prix inférieur à la valeur locative.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2222-6 (V)
-  - Code général de la propriété des personnes publiqu - art. L2222-7 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-### Titre III : Dispositions communes<a id=32></a>
-
-#### Chapitre Ier : Recouvrement des produits domaniaux.<a id=33></a>
-
-###### Article L47
-
-Les revenus, redevances, droits et taxes de toutes sortes, afférents au domaine immobilier de l'Etat, tant public que privé,
-sont recouvrés par le service des domaines, sous réserve d'exceptions prévues par la réglementation en vigueur en ce qui
-concerne le domaine forestier de l'Etat. Ces revenus, redevances, droits et taxes peuvent être acquittés en obligations
-cautionnées dans les conditions prévues à l'article L. 73 et à l'arrêté du ministre des finances pris pour son application.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Loi - art. 83 (V)
-  - Décret n°95-463 du 27 avril 1995 - art. 22-1 (Ab)
-  - Code du domaine de l'Etat - art. L85 (M)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L73 (M)
-
-
-###### Article L48
-
-Les redevances, droits et produits périodiques du domaine public ou privé de l'Etat, recouvrés par le service des domaines en
-vertu des lois, décrets, arrêtés généraux ou particuliers ou décisions administratives, suivant des tarifs uniformes ou
-variables, sont soumis à la prescription quinquennale édictée par l'article 2277 du code civil.
-
-Cette prescription commence à courir à compter de la date à laquelle les droits et redevances sont devenus exigibles.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2321-4 (V)
-
-_Cite_:
-
-  - Code civil - art. 2277 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L49
-
-La prescription quadriennale des créances sur l'Etat, instituée par la loi n° 68-1250 du 31 décembre 1968, est applicable à
-l'action en restitution des droits et redevances de même nature versés au Trésor à quelque titre que ce soit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1250 1968-12-31
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2321-5 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-
-#### Chapitre II : Utilisation complémentaire des immeubles domaniaux.<a id=34></a>
-
-###### Article L50
-
-Un décret pris en exécution de l'article 39 II, 2e alinéa, de la loi n° 57-908 du 7 août 1957 tendant à favoriser la
-construction de logements et les équipements collectifs, fixe les conditions dans lesquelles les immeubles bâtis ou non bâtis
-appartenant à l'Etat peuvent, malgré leur affectation aux besoins d'un service public, faire l'objet, avec des personnes
-publiques ou privées, de conventions spéciales autorisant une utilisation complémentaire desdits immeubles, si cette
-utilisation ne fait pas obstacle à l'accomplissement du service public.
-
-Ces conventions peuvent, par stipulation expresse, exclure la précarité inhérente aux occupations du domaine public.
-
-De telles conventions peuvent être conclues par les concessionnaires ou exploitants du service public affectataire pour des
-durées excédant celle de leur concession ou de leur droit d'exploitation, avec l'accord de l'Etat. Elles n'entrent en vigueur
-qu'après l'approbation du ministre des finances et des ministres intéressés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°57-908 1957-08-07 art. 39
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-#### Chapitre III : Apport en participation d'immeubles domaniaux.<a id=35></a>
+#### Chapitre III : Apport en participation d'immeubles domaniaux.<a id=18></a>
 
 ###### Article L51
 
@@ -2432,7 +742,7 @@ _Codifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-#### Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux.<a id=36></a>
+#### Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux.<a id=19></a>
 
 ###### Article L51-1
 
@@ -2505,78 +815,13 @@ _Nouveaux textes_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-###### Article L51-2
+## Livre III : Aliénation des biens domaniaux<a id=20></a>
 
-Pour la réalisation des objectifs fixés à l'article L. 322-1 du code de l'environnement, le Conservatoire de l'espace
-littoral et des rivages lacustres peut se voir attribuer par convention des immeubles relevant du domaine public de l'Etat
-pour une durée n'excédant pas trente ans. Le renouvellement de la convention se fait dans les mêmes formes que la passation.
+### Titre II : Aliénation des biens du domaine privé<a id=21></a>
 
-La gestion est réalisée dans les mêmes conditions que celles prévues à l'article L. 322-9 du code de l'environnement.
+#### Chapitre Ier : Domaine immobilier<a id=22></a>
 
-Cette convention d'attribution peut habiliter le conservatoire, ou le gestionnaire tel que défini à l'article L. 322-9
-mentionné ci-dessus, à accorder des autorisations d'occupation temporaire non constitutives de droits réels et à percevoir
-les produits à son profit, à condition qu'il supporte les charges correspondantes.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article, en particulier pour ce qui concerne les
-règles applicables au recouvrement des produits domaniaux.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°75-293 du 21 avril 1975 - art. 10-1 (Ab)
-  - Arrêté du 8 avril 2005 - art. Annexe (V)
-  - Code de l'environnement - art. D422-126 (V)
-  - Code du domaine de l'Etat - art. R128-8 (Ab)
-  - Code du domaine de l'Etat - art. R128-9 (Ab)
-
-_Créé par_:
-
-  - Loi n°2002-276 du 27 février 2002 - art. 160 () JORF 28 février 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L322-1 (M)
-  - Code de l'environnement - art. L322-9 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-## Livre III : Aliénation des biens domaniaux<a id=37></a>
-
-### Titre Ier : Inaliénabilité et imprescriptibilité des biens du domaine public.<a id=38></a>
-
-###### Article L52
-
-Les biens du domaine public sont inaliénables et imprescriptibles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3111-1 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-### Titre II : Aliénation des biens du domaine privé<a id=39></a>
-
-#### Chapitre Ier : Domaine immobilier<a id=40></a>
-
-##### Section 1 : Dispositions générales.<a id=41></a>
+##### Section 1 : Dispositions générales.<a id=23></a>
 
 ###### Article L53
 
@@ -2678,290 +923,9 @@ _Nouveaux textes_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-###### Article L55
+##### Section 2 : Ventes soumises à des règles particulières<a id=24></a>
 
-A défaut de paiement du prix aux échéances, les acquéreurs sont déchus de plein droit s'ils ne se sont pas libérés dans la
-quinzaine de la notification d'un avis de mise en recouvrement ; ils ne sont point tenus à la folle enchère mais ils doivent
-payer, à titre de dommages et intérêts, une amende égale au dixième du prix de l'adjudication dans le cas où ils n'auraient
-encore fait aucun paiement, et au vingtième s'ils ont versé un ou plusieurs acomptes, le tout sans préjudice de la
-restitution des fruits.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D17-1 (Ab)
-  - Code du domaine de l'Etat - art. R132 (Ab)
-  - Code du domaine de l'Etat - art. R153 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-12 (M)
-  - Code général de la propriété des personnes publiqu - art. L3211-12 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-
-###### Article L56
-
-Les immeubles de toute nature que l'Etat possède par indivis avec d'autres personnes physiques ou morales, et qui sont
-reconnus n'être pas susceptibles de partage, sont vendus en totalité dans les formes et conditions prévues pour ceux qui lui
-appartiennent sans part d'autrui ; les propriétaires intéressés reçoivent leur part dans le prix, à l'époque des échéances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-3 (V)
-
-
-###### Article L57
-
-Peuvent être également vendus dans les mêmes formes et conditions, avec l'accord des propriétaires intéressés, les immeubles
-appartenant divisément à l'Etat et à des particuliers, lorsque la part de chaque propriétaire ne peut être commodément
-isolée.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-4 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-##### Section 2 : Ventes soumises à des règles particulières<a id=42></a>
-
-##### Paragraphe 1 : Iles, îlots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés<a id=43></a>
-
-###### Article L58
-
-Les anciens ouvrages et postes militaires énumérés sur la liste n° 2 annexée à la loi du 28 mars 1933 ne peuvent, à aucun
-moment, appartenir à des personnes n'ayant pas la nationalité française.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°1933-03-28 annexe
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L59
-
-Les casernes dont la nue-propriété appartient aux villes et dont l'usufruit a été réservé à l'Etat pour l'occupation par des
-corps de troupes sont remises pour la jouissance entière aux communes qui en font la demande, dans le cas où les troupes
-cessent, à titre définitif, d'utiliser ces casernes conformément à leur affectation d'origine.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-25 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat<a id=44></a>
-
-###### Article L60
-
-Le service des domaines est autorisé à céder à l'amiable, dans les conditions fixées par décret en Conseil d'Etat, les
-constructions provisoires ou semi-provisoires édifiées par l'Etat.
-
-Les recettes provenant de ces cessions sont affectées à la caisse autonome de la reconstruction.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1594 F quinquies (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 712 (T)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Paragraphe 6 : Immeubles d'habitation de caractère définitif construits directement par l'Etat<a id=45></a>
-
-###### Article L61
-
-Par dérogation aux dispositions de l'article L. 54, la cession des immeubles d'habitation de caractère définitif construits
-directement par l'Etat en exécution de l'ordonnance n° 45-2064 du 8 septembre 1945 fait l'objet de conventions amiables
-conclues avec les intéressés par le ministre chargé de la construction.
-
-Ces conventions sont réalisées après avis du ministre des finances lorsqu'elles ont pour effet des transferts opérés au
-profit de propriétaires sinistrés en règlement de tout ou partie de leur droit à participation financière de l'Etat et
-éventuellement de leurs apports, et avec son accord dans tous les autres cas.
-
-A l'occasion de ces conventions, les anciens propriétaires ne sont pas recevables à demander l'application des dispositions
-de l'article L. 12-6 du code de l'expropriation pour cause d'utilité publique. En cas de revente, les anciens propriétaires
-bénéficient à prix égal d'un droit de préférence sur les terrains qui leur appartenaient.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L54 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-6 (V)
-  - Ordonnance 45-2064 1945-09-08
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-##### Paragraphe 7 : Forêts.<a id=46></a>
-
-###### Article L62
-
-Les bois et forêts domaniaux ne peuvent être aliénés qu'en vertu d'une loi. Toutefois, il peut être procédé, dans la forme
-ordinaire, à la vente des bois domaniaux d'une contenance moindre de 150 hectares qui ne pourraient pas supporter les frais
-de garderie et qui ne sont pas nécessaires pour garantir les bords des fleuves, torrents et rivières et sont séparés et
-éloignés d'un kilomètre au moins des autres bois et forêts d'une grande étendue.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Décret n°67-759 du 1 septembre 1967 - art. 2 (Ab)
-  - Loi n°84-747 du 2 août 1984 - art. 12 (Ab)
-  - Code général des collectivités territoriales - art. L4433-13 (Ab)
-  - Code rural - art. R142-8 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-5 (M)
-  - Code général de la propriété des personnes publiqu - art. L3211-5 (V)
-
-
-###### Article L63
-
-Les parcelles domaniales incluses dans les secteurs de reboisement peuvent être cédées dans des conditions déterminées par
-l'article L. 244-3 du code forestier.
-
-**Nota:**
-
-NOTA : L'article L244-3 du code forestier a été abrogé par la loi 2001-602 (art. 72) du 9 juillet 2001.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°79-113 du 25 janvier 1979 - art. 1 (V) JORF 7 février 1979
-  - Décret n°79-113 du 25 janvier 1979 - art. 4 (V) JORF 7 février 1979
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code forestier - art. L244-3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Paragraphe 8 : Lais et relais de la mer - marais - concessions.<a id=47></a>
-
-###### Article L64
-
-L'Etat peut concéder aux conditions qu'il aura réglées les marais, lais et relais de la mer, le droit d'endigage, les
-accrues, atterrissements et alluvions des fleuves, rivières et torrents, quant à ceux de ces objets qui forment propriété
-publique ou domaniale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Décret n°77-1141 du 12 octobre 1977 - art. Annexe IV (Ab)
-  - Décret n°89-391 du 15 juin 1989 - art. 5 (V)
-  - Décret n°89-405 du 20 juin 1989 - art. 5 (V)
-  - Décret n°91-796 du 20 août 1991 - art. 6 (Ab)
-  - Décret n°92-648 du 8 juillet 1992 - art. 5 (V)
-  - Code de l'environnement - art. R122-9 (V)
-  - Code du domaine de l'Etat - art. R145 (Ab)
-  - Code du domaine de l'Etat - art. R146 (Ab)
-  - Code du domaine de l'Etat - art. R147 (Ab)
-  - Code du domaine de l'Etat - art. R170 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-10 (V)
-  - Code général de la propriété des personnes publiqu - art. L3211-15 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'environnement - art. L321-6 (M)
-
-
-##### Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre<a id=48></a>
+##### Paragraphe 9 : Terrains destinés à l'édification de monuments commémoratifs de la guerre<a id=25></a>
 
 ###### Article L65
 
@@ -2999,104 +963,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publiqu - art. L3212-1 (V)
 
 
-##### Paragraphe 11 : Rétrocession d'immeubles expropriés<a id=49></a>
-
-###### Article L66
-
-La rétrocession des immeubles expropriés est réalisée selon les prescriptions de l'article L. 12-6 du code de l'expropriation
-pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-6 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Paragraphe 11 bis : Cession à des collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat dans les zones à urbaniser en priorité et dans les zones d'aménagement différé<a id=50></a>
-
-###### Article L66-1
-
-Les immeubles acquis par l'Etat dans une zone à urbaniser en priorité ou dans une zone d'aménagement différé, par
-substitution à une collectivité locale qui n'a pas exercé sont droit de préemption, peuvent être cédés à celle-ci
-conformément aux articles L. 210-1 et suivants du code de l'urbanisme.
-
-Les anciens propriétaires des terrains acquis par l'Etat dans une zone d'aménagement différé, par substitution à une
-collectivité locale, peuvent, ainsi que leurs ayants cause universels ou à titre universel, en obtenir la rétrocession dans
-les cas et les conditions définis aux articles 9 et 11 de la loi modifiée du 26 juillet 1962.
-
-**Nota:**
-
-NOTA : La loi n° 62-848 est abrogée par la loi n° 76-1285 1976-12-31 art. 80.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°62-848 1962-07-26 art. 9, art. 11
-  - Code de l'urbanisme - art. L210-1 (M)
-
-_Modifié par_:
-
-  - Loi n°76-1285 1976-12-31 art. 80 JORF 1er janvier 1977
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R148-2 (Ab)
-
-
-##### Paragraphe 14 : Cession d'immeubles domaniaux en vue de la réalisation de programmes de logement social<a id=51></a>
-
-###### Article L66-2
-
-L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
-terrains sont destinés à la réalisation de programmes de constructions comportant essentiellement des logements dont une
-partie au moins est réalisée en logement social. La différence entre la valeur vénale et le prix de cession ne peut dépasser
-un plafond fixé par décret en Conseil d'Etat.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2005-32 du 18 janvier 2005 - art. 95 (V) JORF 19 janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R148-5 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-7 (V)
-  - Code général de la propriété des personnes publiqu - art. L3211-7 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-#### Chapitre II : Domaine mobilier.<a id=52></a>
+#### Chapitre II : Domaine mobilier.<a id=26></a>
 
 ###### Article L67
 
@@ -3328,32 +1195,6 @@ _Codifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-###### Article L69-2
-
-Lorsque des biens mobiliers ont, à l'occasion d'une procédure pénale, fait l'objet d'une décision judiciaire définitive qui
-en transfère la propriété à l'Etat, ces biens peuvent être affectés, à titre gratuit, dans des conditions déterminées par
-arrêté conjoint du ministre de l'intérieur et du ministre chargé du domaine, à des services de police, des unités de
-gendarmerie ou des services de l'administration des douanes effectuant des missions de police judiciaire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 110 () JORF 19 mars 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2222-9 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
 ###### Article L70
 
 Les objets mobiliers et matériels sans emploi provenant des services dotés de la personnalité civile, ou seulement de
@@ -3411,157 +1252,9 @@ _Codifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-###### Article L71
+## Livre IV : Dispositions diverses<a id=27></a>
 
-Le produit des ventes et locations est porté en recette au budget général de l'Etat, à moins de dispositions légales
-contraires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L72
-
-Aucune taxe locale ne peut être perçue à l'occasion de ces opérations.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3221-5 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L73
-
-Le prix principal des biens mobiliers vendus par le service des domaines peut être acquitté en obligations cautionnées à 3, 6
-ou 9 mois d'échéance, dans les conditions qui sont fixées par arrêté du ministre des finances. Il en est de même du prix
-principal de la vente des produits des forêts de l'Etat lorsqu'il est encaissé par le service des domaines.
-
-Ces obligations donnent lieu à un intérêt de crédit et à une remise spéciale dont le taux et le montant sont également fixés
-par un arrêté du même ministre.
-
-La remise spéciale ne peut pas dépasser 0,11 euros pour 15 euros.
-
-Si les obligations ne sont pas apurées à l'échéance, le Trésor poursuit immédiatement, outre le recouvrement des sommes
-garanties, le paiement des intérêts de ces sommes comptés du jour de ladite échéance et calculés d'après le taux de l'intérêt
-légal en matière civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A520-7 (V)
-  - Code du domaine de l'Etat - art. L47 (Ab)
-
-
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=53></a>
-
-###### Article L74
-
-Le service des domaines est autorisé à aliéner, dans la forme ordinaire des ventes des biens de l'Etat, tous les biens et
-valeurs provenant des successions en déshérence, immédiatement après l'envoi en possession prononcé par le tribunal de grande
-instance.
-
-Les inscriptions de rentes sur l'Etat, comme toutes les autres valeurs cotées dépendant de ces successions, sont négociées à
-la Bourse.
-
-Le produit de ces aliénations est encaissé sous le titre "Successions en déshérence".
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-20 (V)
-  - Code général de la propriété des personnes publiqu - art. L3211-9 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L75
-
-Les dispositions de l'article précédent ne portent pas atteinte aux droits des tiers et spécialement aux droits des héritiers
-et légataires éventuels, qui sont admis à exercer leur action sur le prix net des objets vendus, dans les mêmes conditions et
-délais qu'ils eussent été fondés à l'exercer sur ces objets eux-mêmes.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L3211-20 (V)
-  - Code général de la propriété des personnes publiqu - art. L3211-9 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-## Livre IV : Dispositions diverses<a id=54></a>
-
-### Titre Ier : Dispositions générales.<a id=55></a>
-
-###### Article L76
-
-Les préfets reçoivent les actes intéressant le domaine privé immobilier de l'Etat, confèrent à ces actes l'authenticité et en
-assurent la conservation.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°83-816 du 13 septembre 1983 - art. 20 (VT)
-  - Code du domaine de l'Etat - art. R80 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L1212-4 (V)
-  - Code général de la propriété des personnes publiqu - art. L2222-1 (V)
-  - Code général de la propriété des personnes publiqu - art. L4111-3 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
+### Titre Ier : Dispositions générales.<a id=28></a>
 
 ###### Article L77
 
@@ -3618,115 +1311,11 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2321-9 (V)
 
 
-###### Article L78
+### Titre II : Procédures - instances<a id=29></a>
 
-La délivrance par l'Etat de toute autorisation de commerce, susceptible d'être une source de profit pour son bénéficiaire ou
-de lui apporter une plus-value patrimoniale, donne lieu au versement d'une redevance, perçue comme en matière domaniale.
+#### Chapitre Ier : Recouvrement des produits domaniaux<a id=30></a>
 
-Les modalités d'application de la disposition qui précède sont fixées par un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Anciens textes_:
-
-  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 71, v. init.
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°73-118 1973-02-05
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L78-1
-
-Les bénéficiaires de concessions ou d'autorisations diverses astreints au paiement d'une redevance perçue comme en matière
-domaniale peuvent être tenus, quelle que soit la date desdites concessions ou autorisations, au paiement d'acomptes
-périodiques dans des conditions fixées par un arrêté conjoint du ministre des finances et du ministre intéressé.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°70-601 du 9 juillet 1970 - art. 13 () JORF 10 juillet 1970
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2322-2 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-### Titre II : Procédures - instances<a id=56></a>
-
-#### Chapitre Ier : Recouvrement des produits domaniaux<a id=57></a>
-
-##### Section 1 : Dispositions générales.<a id=58></a>
-
-###### Article L79
-
-La liquidation et le recouvrement des produits domaniaux et, en général, de toute somme dont la perception appartient au
-service des domaines, sont effectués dans les conditions prévues aux articles 1724 et 1912 du code général des impôts, L.
-252, L. 268, L. 269, L. 283 du livre des procédures fiscales du nouveau code des impôts et aux articles L. 80 à L. 83.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°81-1160 du 30 décembre 1981 - art. 42 () JORF 31 décembre 1981
-
-_Cité par_:
-
-  - Arrêté du 28 août 1987 - art. 40 (Ab)
-  - Arrêté du 21 juillet 1993 - art. ANNEXE , 40 (Ab)
-  - Arrêté du 23 février 1998 - art. ANNEXE (V)
-  - Arrêté du 8 avril 2005 - art. Annexe (V)
-  - Code de l'urbanisme - art. R520-6 (V)
-  - Code du domaine de l'Etat - art. L82 (Ab)
-
-_Cite_:
-
-  - CGI 1724, 1912
-  - Livre des procédures fiscales - art. L252 (M)
-  - Livre des procédures fiscales - art. L268 (MMN)
-  - Livre des procédures fiscales - art. L269 (P)
-  - Livre des procédures fiscales - art. L283 (M)
-  - Code du domaine de l'Etat L80 à L83
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
-  - Code général de la propriété des personnes publiqu - art. L2322-1 (M)
-  - Code général de la propriété des personnes publiqu - art. L2323-13 (V)
-  - Code général de la propriété des personnes publiqu - art. L2323-6 (M)
-  - Code général de la propriété des personnes publiqu - art. L2323-7 (V)
-
-
-##### Section 2 : Procédure du recouvrement.<a id=59></a>
+##### Section 2 : Procédure du recouvrement.<a id=31></a>
 
 ###### Article L80
 
@@ -3814,1055 +1403,11 @@ _Modifié par_:
   - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
-###### Article L81
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=32></a>
 
-Les poursuites procédant de l'avis de mise en recouvrement peuvent être engagées vingt jours après notification d'une mise en
-demeure par pli recommandé avec avis de réception, à défaut de paiement ou de réclamation assortie d'une demande de sursis de
-paiement avec constitution de garanties dans les conditions prévues à l'article précédent.
+#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=33></a>
 
-Elles ont lieu par ministère d'huissier ou de tout autre agent habilité à exercer des poursuites à la requête du comptable
-chargé du recouvrement.
-
-Les actes sont soumis au point de vue de la forme aux règles du droit commun.
-
-Lorsque les poursuites exercées ont lieu par voie de saisie mobilière, la notification de la mise en demeure tient lieu du
-commandement prescrit par le code de procédure civile. La saisie peut être pratiquée, sans autre formalité, à l'expiration du
-délai fixé au premier alinéa.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°77-574 1977-06-07 art. 35 JORF 8 juin 1977
-  - décret 70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R157-2 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2323-2 (M)
-  - Code général de la propriété des personnes publiqu - art. L2323-4 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L82
-
-En ce qui concerne les produits domaniaux et sommes quelconques visées à l'article L. 79, les dispositions des articles L.
-268, L. 269, L. 283, R. 284-4, R. 284-5 et R. 283-1 du livre des procédures fiscales sont applicables aux poursuites engagées
-pour le recouvrement et aux réclamations relatives à ces poursuites. Le directeur des services fiscaux dont relève le
-comptable chargé du recouvrement a qualité pour statuer, dans les conditions prévues par les articles R. 281-3, R. 281-4 et
-R. 283-1 du livre des procédures fiscales, sur les oppositions aux actes de poursuites et sur les demandes en revendication
-d'objets saisis.
-
-L'opposition aux actes de poursuites ne peut être fondée que sur l'irrégularité de forme de l'acte ou sur la non-exigibilité
-de la somme réclamée résultant soit du paiement effectué, soit de la prescription acquise postérieurement à l'expiration du
-délai de réclamation fixé à l'article L. 80 (alinéa 4) soit de tout autre motif ne remettant pas en question l'assiette et le
-calcul même des redevances et sommes quelconques énoncées à l'alinéa précédent.
-
-Elle est vidée dans les conditions fixées aux articles R. 281-3 et R. 281-4 du livre des procédures fiscales. La décision du
-directeur des services fiscaux rejetant l'opposition peut être déférée devant le tribunal de grande instance en cas
-d'opposition fondée sur l'irrégularité de forme ou devant le tribunal compétent pour statuer sur le fond du droit en cas
-d'opposition fondée sur la non-exigibilité des sommes réclamées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI Livre des procédures fiscales L268, L269, L283, R284-4, R284-5, R283-1, R281-3, R281-4
-  - Code du domaine de l'Etat - art. L79 (Ab)
-  - Code du domaine de l'Etat - art. L80 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code de procédure civile - art. 1001 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2323-12 (V)
-  - Code général de la propriété des personnes publiqu - art. L2323-12 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-
-###### Article L82-1
-
-La notification d'un avis de mise en recouvrement interrompt la prescription courant contre l'administration et y substitue
-une prescription décennale.
-
-La prescription est également interrompue par les déclarations ou notifications de procès-verbaux, par tous actes comportant
-reconnaissance des redevables ou par tous autres actes interruptifs de droit commun.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R154 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2323-8 (V)
-  - Code général de la propriété des personnes publiqu - art. L2323-8 (M)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L83
-
-Les modalités d'application des articles L. 80 à L. 82-1 sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat L80 à L82-1
-
-
-#### Chapitre II : Instances.<a id=60></a>
-
-###### Article L84
-
-Les litiges relatifs aux contrats comportant occupation du domaine public, quelle que soit leur forme ou dénomination, passés
-par l'Etat, les établissements publics ou leurs concessionnaires, sont portés en premier ressort devant le tribunal
-administratif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. A89 (V)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2331-1 (V)
-
-
-### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=61></a>
-
-###### Article L85
-
-L'exception prévue à la compétence du service des domaines, par les articles 1er et 2 du décret du 26 décembre 1921, en ce
-qui concerne le domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle est supprimée. Dans les
-mêmes départements, le produit de l'exploitation des forêts de l'Etat et en général toutes les créances provenant de la
-gestion desdites forêts sont encaissés dans des conditions fixées par décret.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1921-12-26 art. 1, art. 2
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°91-5 1991-01-03 art. 19 JORF 6 janvier 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=62></a>
-
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=63></a>
-
-###### Article L86
-
-La réserve domaniale dite "des cinquante pas géométriques" est constituée par une bande de terrain déjà délimitée dans le
-département de la Réunion et présentant, dans les départements de la Guadeloupe, de la Guyane française et de la Martinique,
-une largeur de 81,20 mètres comptée à partir de la limite du rivage de la mer tel qu'il a été délimité en application de la
-législation et de la réglementation relatives à la délimitation du rivage de la mer.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L156-2 (M)
-  - Code du domaine de l'Etat - art. L87 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5111-2 (V)
-
-
-###### Article L87
-
-La zone comprise entre la limite du rivage de la mer et la limite supérieure de la zone dite des cinquante pas géométriques
-définie à l'article L. 86 du présent code fait partie du domaine public maritime. Ces dispositions s'appliquent sous réserve
-des droits des tiers à l'entrée en vigueur de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la
-mise en valeur du littoral. Elles ne s'appliquent pas :
-
-- aux parcelles appartenant en propriété à des personnes publiques ou privées qui peuvent justifier de leur droit ;
-
-- aux immeubles qui dépendent soit du domaine public autre que maritime, soit du domaine privé de l'Etat affecté aux services
-publics ;
-
-- aux terrains domaniaux gérés par l'Office national des forêts en application de l'article L. 121-2 du code forestier.
-
-Le déclassement de ceux de ces terrains qui ne seraient plus utiles à la satisfaction des besoins d'intérêt public est
-prononcé dans des conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°86-2 1986-01-03
-  - Code du domaine de l'Etat - art. L86 (Ab)
-  - Code forestier - art. L121-2 (V)
-
-_Modifié par_:
-
-  - Loi n°86-2 du 3 janvier 1986 - art. 37 () JORF 4 janvier 1986
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L88-1 (Ab)
-  - Code du domaine de l'Etat - art. L89-1 (Ab)
-  - Code du domaine de l'Etat - art. L89-3 (Ab)
-  - Code du domaine de l'Etat - art. R128-1 (Ab)
-  - Code du domaine de l'Etat - art. R164 (Ab)
-  - Code du domaine de l'Etat - art. R165 (Ab)
-  - Code du domaine de l'Etat - art. R166 (Ab)
-  - Code du domaine de l'Etat - art. R167 (Ab)
-  - Code du domaine de l'Etat - art. R169 (Ab)
-  - Code du domaine de l'Etat - art. R169-3 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L2111-4 (V)
-  - Code général de la propriété des personnes publiqu - art. L5111-1 (V)
-  - Code général de la propriété des personnes publiqu - art. L5111-3 (V)
-  - Code général de la propriété des personnes publiqu - art. L5111-4 (V)
-
-
-###### Article L88
-
-Les droits des tiers résultant soit de titres valides en vertu des dispositions de l'article 10 du décret n° 55-885 du 30
-juin 1955 relatif à l'introduction dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la
-Réunion, de la législation et de la réglementation métropolitaines concernant le domaine public maritime et l'exécution des
-travaux mixtes, et modifiant le statut de la zone dite des cinquante pas géométriques existant dans ces départements, soit de
-ventes ou promesses de vente consenties ultérieurement par l'Etat, soit enfin, dans le département de la Réunion, des
-éventuelles prescriptions acquises à la date de promulgation de la loi n° 86-2 du 3 janvier 1986 précitée, sont expressément
-réservés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-885 du 30 juin 1955 - art. 10 (V)
-  - Loi n°86-2 1986-01-03
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Loi n°86-2 du 3 janvier 1986 - art. 38 () JORF 4 janvier 1986
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5111-3 (V)
-
-
-###### Article L88-1
-
-Dans les départements de Guyane et de la Réunion et la collectivité départementale de Mayotte, les espaces naturels situés à
-l'intérieur de la zone définie à l'article L. 87 sont remis en gestion au Conservatoire de l'espace littoral et des rivages
-lacustres pour être gérés dans les conditions prévues aux articles L. 322-1 à L. 322-10 du code de l'environnement. En cas de
-refus du conservatoire, la gestion de ces espaces naturels peut être confiée à une collectivité territoriale ou un groupement
-de collectivités territoriales en vertu d'une convention de gestion prévue à l'article L. 51-1 du présent code, passée après
-accord du Conservatoire de l'espace littoral et des rivages lacustres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-  - Loi n°2002-276 du 27 février 2002 - art. 167 () JORF 28 février 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L51-1 (V)
-  - Code du domaine de l'Etat - art. L87 (M)
-  - Code de l'environnement L322-1 à L322-10
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5331-7 (VT)
-  - Code général de la propriété des personnes publiqu - art. L5113-1 (V)
-  - Code général de la propriété des personnes publiqu - art. L5331-7 (V)
-
-
-###### Article L88-2
-
-Dans le département de Guyane, il est institué une commission départementale de vérification des titres dans les conditions
-prévues à l'article L. 89-2, à l'exception des dispositions des huitième et neuvième alinéas.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
-_Cité par_:
-
-  - Décret n°98-836 du 14 septembre 1998 - art. 3 (V)
-  - Décret n°2014-930 du 19 août 2014 (V)
-  - Code du domaine de l'Etat - art. R169-4 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L89-2 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5113-2 (V)
-
-
-###### Article L89
-
-La commune peut obtenir, après déclassement, la cession à son profit de terrains susceptibles d'aménagement, situés dans la
-zone dite des cinquante pas géométriques dépendant du domaine public de l'Etat.
-
-Cette cession ne peut concerner que des terrains classés en zone urbaine par un plan d'occupation des sols opposable aux
-tiers et inclus dans un périmètre géré par la commune en vertu d'une convention de gestion de l'article L. 51-1.
-
-La cession doit avoir pour but la réalisation d'opérations d'aménagement conformes au code de l'urbanisme et notamment aux
-objectifs définis au II de son article L. 156-3.
-
-Le paiement du prix de cession peut être échelonné ou différé, sur la demande de la commune, dans un délai ne pouvant excéder
-la date d'achèvement de chaque tranche de travaux ou à la date d'utilisation ou de commercialisation des terrains si elle est
-antérieure. Dans ce cas, il est actualisé à la date du ou des règlements.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 11 () JORF 1er janvier 1997
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L51-1 (V)
-  - Code de l'urbanisme - art. L156-3 (M)
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R169 (Ab)
-  - Code du domaine de l'Etat - art. R169-2 (Ab)
-  - Code du domaine de l'Etat - art. R169-3 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5111-5 (V)
-
-
-#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique.<a id=64></a>
-
-###### Article L89-1
-
-I. - Dans un délai d'un an à compter de la date de publication de la loi n° 96-1241 du 30 décembre 1996 relative à
-l'aménagement, la protection et la mise en valeur de la zone dite des cinquante pas géométriques dans les départements
-d'outre-mer, le préfet délimite, par arrêté, après consultation des communes, à l'intérieur de cette zone, d'une part, les
-espaces urbains et les secteurs occupés par une urbanisation diffuse, d'autre part, les espaces naturels.
-
-II. - Lorsqu'elle n'a pas été délimitée en application de la législation et de la réglementation en vigueur, la limite
-supérieure de la zone définie à l'article L. 87 est fixée à partir de la limite du rivage de la mer tel qu'il a été délimité
-en application de la législation et de la réglementation relatives à la délimitation du rivage de la mer.
-
-Lorsque le rivage de la mer n'a pas été délimité, il est procédé aux opérations nécessaires à sa délimitation dans un délai
-d'un an à compter de la date de publication de la loi n° 96-1241 du 30 décembre 1996 précitée.
-
-III. - L'arrêté portant délimitation, d'une part, des espaces urbains et des secteurs occupés par une urbanisation diffuse
-et, d'autre part, des espaces naturels constate l'état d'occupation du sol.
-
-Le schéma d'aménagement régional prévu à l'article L. 4433-7 du code général des collectivités territoriales, les schémas
-directeurs et les plans d'occupation des sols prévus par le code de l'urbanisme sont pris en compte.
-
-IV. - Pour l'application des dispositions du présent article, la présence de constructions éparses ne peut faire obstacle à
-l'identification d'un secteur comme espace naturel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°96-1241 1996-12-30
-  - Code du domaine de l'Etat - art. L87 (M)
-  - Code général des collectivités territoriales - art. L4433-7 (M)
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
-_Cité par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 4 (V)
-  - Loi n°96-1241 du 30 décembre 1996 - art. 5 (V)
-  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
-  - Code du domaine de l'Etat - art. L89-3 (Ab)
-  - Code du domaine de l'Etat - art. L89-4 (Ab)
-  - Code du domaine de l'Etat - art. L89-5 (Ab)
-  - Code du domaine de l'Etat - art. L89-7 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-1 (V)
-
-
-###### Article L89-2
-
-Dans chacun des départements de la Guadeloupe et de la Martinique, il est institué, dans un délai qui ne peut être supérieur
-à un an à compter de l'entrée en vigueur de la loi n° 96-1241 du 30 décembre 1996 précitée, une commission départementale de
-vérification des titres.
-
-Cette commission apprécie la validité de tous les titres antérieurs à l'entrée en vigueur du décret n° 55-885 du 30 juin 1955
-qui n'ont pas été examinés par la commission, prévue par son article 10, établissant les droits de propriété, réels ou de
-jouissance sur les terrains précédemment situés sur le domaine de la zone des cinquante pas géométriques dont la détention
-par la personne privée requérante n'était contrariée par aucun fait de possession d'un tiers à la date du 1er janvier 1995.
-
-Sous peine de forclusion, seuls les titres présentés dans un délai de deux ans à compter de la constitution de la commission
-départementale de vérification des titres seront examinés.
-
-La commission départementale de vérification des titres comprend trois membres en activité ou honoraires : un magistrat de
-l'ordre judiciaire, qui assure la présidence, un membre de la chambre régionale des comptes dont relève le département
-concerné et un membre du corps des tribunaux administratifs et des cours administratives d'appel.
-
-Un notaire présenté par la chambre départementale des notaires et deux fonctionnaires des services déconcentrés de l'Etat
-sont associés à ses travaux, sans prendre part à ses délibérations. Le notaire ne peut participer aux travaux de la
-commission lorsqu'il exerce ses fonctions dans une étude ayant eu à connaître d'un acte relatif aux droits établis par le
-titre litigieux.
-
-Le secrétariat de cette commission est assuré par le greffe de la cour d'appel.
-
-La cour d'appel connaît de l'appel interjeté à l'encontre des décisions de la commission.
-
-Les personnes privées qui ont présenté un titre ne peuvent déposer une demande de cession à titre onéreux pour les mêmes
-terrains, dans les conditions prévues aux articles L. 89-4 et L. 89-5 tant que la commission n'a pas statué sur la validation
-de ce titre.
-
-Les personnes privées qui ont déposé un dossier de demande de cession à titre onéreux dans les conditions prévues aux
-articles L. 89-4 et L. 89-5 ne peuvent saisir la commission en vue de la validation d'un titre portant sur les mêmes terrains
-tant que la demande de cession n'a pas fait l'objet d'une décision de l'Etat.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-885 du 30 juin 1955 - art. 10 (V)
-  - Loi n°96-1241 1996-12-30
-  - Code du domaine de l'Etat - art. L89-4 (M)
-  - Code du domaine de l'Etat - art. L89-5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
-_Cité par_:
-
-  - Décret n°98-836 du 14 septembre 1998 - art. 3 (V)
-  - Décret n°2014-930 du 19 août 2014 (V)
-  - Code du domaine de l'Etat - art. L88-2 (Ab)
-  - Code du domaine de l'Etat - art. R170 (Ab)
-  - Code du domaine de l'Etat - art. R170-11 (Ab)
-  - Code du domaine de l'Etat - art. R170-15 (Ab)
-  - Code du domaine de l'Etat - art. R170-16 (Ab)
-  - Code du domaine de l'Etat - art. R170-19 (Ab)
-  - Code du domaine de l'Etat - art. R170-25 (Ab)
-  - Code du domaine de l'Etat - art. R170-4 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-3 (V)
-
-
-###### Article L89-3
-
-L'Etat peut consentir aux communes et aux organismes ayant pour objet la réalisation d'opérations d'habitat social, après
-déclassement, la cession gratuite à leur profit de terrains situés dans la zone définie à l'article L. 87 dépendant du
-domaine public maritime de l'Etat.
-
-Cette cession gratuite ne peut concerner que des terrains situés dans les espaces urbains et les secteurs occupés par une
-urbanisation diffuse, délimités selon les modalités prévues à l'article L. 89-1.
-
-Elle doit avoir pour but la réalisation par la commune d'opérations d'aménagement à des fins d'utilité publique ou la
-réalisation par les organismes compétents d'opérations d'habitat social.
-
-Toutefois, lorsque les terrains ont été équipés par l'agence créée en application de l'article 4 de la loi n° 96-1241 du 30
-décembre 1996 précitée, la cession est faite au prix correspondant au coût des aménagements réalisés sur les terrains cédés,
-et financés par l'agence.
-
-Lorsqu'ils n'ont pas été utilisés dans un délai de dix ans à compter de la date de la cession conformément à l'objet qui l'a
-justifiée, les terrains cédés reviennent dans le patrimoine de l'Etat, à charge pour celui-ci de rembourser, le cas échéant,
-aux cessionnaires le coût des aménagements qu'ils auront acquitté.
-
-Les conditions dans lesquelles les terrains autres que ceux libres de toute occupation peuvent être cédés aux communes ou aux
-organismes d'habitat social sont précisées par décret en Conseil d'Etat.
-
-Dans le département de la Guadeloupe sont rattachées au domaine privé de l'Etat les parcelles AN 661, AN 662 et AN 663
-autrefois cadastrées AN 591 situées sur le territoire de la ville de Basse-Terre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997 rectificatif JORF 23 janvier 1997
-
-_Cite_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 4 (M)
-  - Code du domaine de l'Etat - art. L87 (M)
-  - Code du domaine de l'Etat - art. L89-1 (Ab)
-
-_Cité par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 5 (V)
-  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
-  - Code du domaine de l'Etat - art. R170 (Ab)
-  - Code du domaine de l'Etat - art. R170-3 (Ab)
-  - Code du domaine de l'Etat - art. R170-4 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-4 (V)
-
-
-###### Article L89-4
-
-Les terrains situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités selon les
-modalités prévues à l'article L. 89-1, peuvent être déclassés aux fins de cession à titre onéreux aux occupants qui y ont
-édifié ou fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions affectées à l'exploitation
-d'établissements à usage professionnel.
-
-Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
-fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
-
-La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
-conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
-des bâtiments et installations édifiés avant le 1er janvier 1995.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
-  - Code du domaine de l'Etat - art. L89-2 (Ab)
-  - Code du domaine de l'Etat - art. L89-8 (Ab)
-  - Code du domaine de l'Etat - art. R170-2 (Ab)
-  - Code du domaine de l'Etat - art. R170-4 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2003-660 du 21 juillet 2003 - art. 52 () JORF 22 juillet 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L89-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-5 (V)
-
-
-###### Article L89-5
-
-Les terrains situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités selon les
-modalités prévues à l'article L. 89-1, peuvent être déclassés aux fins de cession à titre onéreux aux personnes ayant édifié
-ou fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions à usage d'habitation qu'elles occupent
-à titre principal ou qu'elles donnent à bail en vue d'une occupation principale.
-
-A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de
-cession à titre onéreux aux occupants de constructions affectées à leur habitation principale et édifiées avant le 1er
-janvier 1995.
-
-Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
-fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
-
-La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
-conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
-_Cité par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 3 (V)
-  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
-  - Loi - art. 79 (P)
-  - Code du domaine de l'Etat - art. D20 (Ab)
-  - Code du domaine de l'Etat - art. L89-2 (Ab)
-  - Code du domaine de l'Etat - art. L89-8 (Ab)
-  - Code du domaine de l'Etat - art. R170-2 (Ab)
-  - Code du domaine de l'Etat - art. R170-6 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2000-375 du 27 avril 2000
-  - TXT_SOURCE: Décret n°2000-375 du 27 avril 2000 - art. 1 ()
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L89-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-6 (V)
-
-
-###### Article L89-6
-
-Un terrain ne peut être cédé à une personne privée tant qu'il n'a pas été délimité et que les servitudes et usages dont il
-fait l'objet après sa cession n'ont pas été intégralement précisés.
-
-Dans les quartiers d'habitat spontané, les cessions font l'objet de la délivrance d'un titre accompagné d'un plan de bornage
-extrait de la division parcellaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-7 (V)
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L89-7
-
-Les espaces naturels délimités selon les modalités de l'article L. 89-1 sont remis en gestion au Conservatoire de l'espace
-littoral et des rivages lacustres pour être gérés dans les conditions prévues aux articles L. 322-1 à L. 322-10 du code de
-l'environnement. En cas de refus du conservatoire, la gestion de ces espaces naturels peut être confiée à une collectivité
-territoriale ou un groupement de collectivités territoriales en vertu d'une convention de gestion prévue à l'article L. 51-1
-du présent code, passée après accord du Conservatoire de l'espace littoral et des rivages lacustres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Loi n°2002-276 du 27 février 2002 - art. 167 () JORF 28 février 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L51-1 (V)
-  - Code du domaine de l'Etat - art. L89-1 (Ab)
-  - Code de l'environnement L322-1 à L322-10
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-8 (V)
-
-
-###### Article L89-8
-
-Pendant un délai de six mois à compter de la date de l'enregistrement ou de l'accomplissement de la formalité fusionnée, les
-communes et, à défaut, les agences créées en application de la loi n° 96-1241 du 30 décembre 1996 précitée peuvent exercer un
-droit de préemption sur les terrains cédés en application des articles L. 89-4 et L. 89-5 en offrant de verser à l'acquéreur
-ou à ses ayants droit une indemnité égale au prix de cession du terrain par l'Etat majoré du coût des aménagements réalisés
-par le propriétaire. Il est tenu compte de l'évolution du coût de la construction pour l'évaluation de ces aménagements.
-
-Aucune vente, aucune promesse de vente ni aucune promesse d'achat ne peut être valablement conclue avant que celui qui
-souhaite acquérir n'ait été informé par le vendeur du montant de l'indemnité de préemption prévue à l'alinéa précédent.
-
-Seuls les terrains cédés depuis moins de dix ans dans le cadre des articles L. 89-4 et L. 89-5 relèvent du droit de
-préemption prévu au premier alinéa.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°96-1241 1996-12-30
-  - Code du domaine de l'Etat - art. L89-4 (M)
-  - Code du domaine de l'Etat - art. L89-5 (Ab)
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
-_Cité par_:
-
-  - Décret n°98-1081 du 30 novembre 1998 - art. 2 (V)
-  - Code du domaine de l'Etat - art. R170-8 (Ab)
-  - Code du domaine de l'Etat - art. R170-9 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-9 (V)
-
-
-###### Article L89-9
-
-Un décret en Conseil d'Etat, publié dans un délai de trois mois à compter de la date de publication de la loi n° 96-1241 du
-30 décembre 1996 précitée, précise les conditions d'application des dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°57-1336 1957-12-28
-  - Décret n°62-298 1962-03-14
-
-_Cite_:
-
-  - Loi n°96-1241 1996-12-30
-
-_Créé par_:
-
-  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5112-10 (V)
-
-
-#### Chapitre II : Domanialité publique des eaux.<a id=65></a>
-
-###### Article L90
-
-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, font partie du domaine public de
-l'Etat, sous réserve des droits régulièrement acquis par les usagers et propriétaires riverains à la date du 6 avril 1948 :
-
-Toutes les eaux stagnantes ou courantes, à l'exception des eaux pluviales même lorsqu'elles sont accumulées
-artificiellement ;
-
-Tous les cours d'eau, navigables, flottables ou non, naturels ou artificiels ;
-
-Les sources ;
-
-Par dérogation aux dispositions de l'article 552 du code civil, les eaux souterraines.
-
-Toutefois, tout propriétaire peut, sans autorisation, utiliser, dans les limites fixées par décret en Conseil d'Etat, l'eau
-provenant de sources situées ou de puits creusés sur son fonds pour l'usage domestique ou pour les besoins de l'exploitation
-agricole. Une autorisation est néanmoins nécessaire pour l'usage de ces eaux aux fins d'irrigation dans les départements de
-la Guadeloupe, de la Martinique et de la Réunion. Les prélèvements effectués sans autorisation ne sont pas assujettis à
-redevance domaniale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Cité par_:
-
-  - Décret n°48-633 du 31 mars 1948 - art. 6 (Ab)
-
-_Modifié par_:
-
-  - Loi n°73-550 du 28 juin 1973 - art. 1 () JORF 29 juin 1973
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5121-1 (M)
-  - Code général de la propriété des personnes publiqu - art. L5121-2 (V)
-
-_Cite_:
-
-  - Code civil - art. 552 (V)
-
-
-#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=66></a>
-
-##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales<a id=67></a>
-
-###### Article L91-1
-
-Dans le département de la Guyane, les terres dépendant du domaine privé de l'Etat, à l'exclusion des terrains situés dans les
-zones identifiées pour l'intérêt de leur patrimoine naturel dans le cadre de l'inventaire prévu à l'article L. 411-5 du code
-de l'environnement ou des terres faisant l'objet des mesures de protection prévues aux articles L. 331-1 et suivants, L.
-332-1 et suivants, L. 341-1 et suivants, L. 342-1 et L. 411-2 et suivants du même code, peuvent, dans la limite des
-superficies effectivement mises en valeur, faire l'objet de cessions gratuites aux titulaires de baux emphytéotiques à
-vocation agricole depuis plus de dix ans, ou aux titulaires de concessions accordées par l'Etat en vue de la culture et de
-l'élevage qui ont réalisé leur programme de mise en valeur à l'issue d'une période probatoire de cinq ans, pouvant être
-prorogée d'une ou plusieurs années dans la limite de cinq ans supplémentaires.
-
-Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés pendant trente ans à compter de la date de
-transfert de propriété, cette période de trente ans étant réduite de la durée effective de la période probatoire pour les
-titulaires de concessions ou réduite de la période de mise en valeur antérieure pour les baux emphytéotiques.
-
-Peuvent également bénéficier de cessions gratuites les agriculteurs qui, depuis leur installation, antérieure à la date de
-publication de l'ordonnance n° 98-777 du 2 septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé
-l'aménagement et la mise en valeur des terres mises à leur disposition par l'Etat, les ont exploitées directement à des fins
-exclusivement agricoles et qui s'engagent à les maintenir à cet usage pendant trente ans à compter de la date de transfert de
-propriété. Pour bénéficier, dans les mêmes conditions, des dispositions du présent alinéa les agriculteurs qui exploitent ces
-terres sans titre régulier doivent présenter une demande dans un délai fixé par décret en Conseil d'Etat.
-
-Les dispositions du présent article sont applicables aux personnes morales dont l'objet est essentiellement agricole et dont
-plus de 50 % du capital social est détenu par des personnes physiques répondant aux conditions requises pour bénéficier à
-titre individuel de ces dispositions.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 98-777 1998-09-02
-  - Code de l'environnement - art. L331-1 (M)
-  - Code de l'environnement - art. L332-1 (V)
-  - Code de l'environnement - art. L341-1 (M)
-  - Code de l'environnement - art. L342-1 (V)
-  - Code de l'environnement - art. L411-2 (M)
-  - Code de l'environnement - art. L411-5 (M)
-
-_Modifié par_:
-
-  - Loi n°2006-11 du 5 janvier 2006 - art. 100 () JORF 6 janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
-  - Code du domaine de l'Etat - art. L91-7 (Ab)
-  - Code du domaine de l'Etat - art. R170-31 (M)
-  - Code du domaine de l'Etat - art. R170-32 (Ab)
-  - Code du domaine de l'Etat - art. R170-33 (Ab)
-  - Code du domaine de l'Etat - art. R170-38 (Ab)
-  - Code du domaine de l'Etat - art. R170-46-1 (V)
-  - Code du domaine de l'Etat - art. R170-46-2 (M)
-  - Code du domaine de l'Etat - art. R170-68 (M)
-  - Code du domaine de l'Etat - art. R170-70 (M)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5141-4 (V)
-  - Code général de la propriété des personnes publiqu - art. L5141-1 (V)
-  - Code général de la propriété des personnes publiqu - art. L5141-2 (V)
-  - Code général de la propriété des personnes publiqu - art. L5141-3 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L91-1-1
-
-Lorsqu'il est créé en application des articles L. 321-1 et suivants du code de l'urbanisme un établissement public
-d'aménagement, celui-ci peut se voir confier par convention la passation, au nom de l'Etat, des contrats de concession et
-cession mentionnées à l'article L. 91-1.
-
-L'établissement public d'aménagement visé à l'alinéa précédent peut, pour réaliser des travaux d'aménagement rural,
-bénéficier par convention avec l'Etat de concessions et de cessions gratuites de terres, selon les mêmes procédures que les
-personnes physiques. Cette convention définit les conditions et les modalités de concession ou de vente des terres qui ont
-fait l'objet des travaux d'aménagement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
-
-_Cité par_:
-
-  - Décret n°96-954 du 31 octobre 1996 - art. 2 (VT)
-  - Code du domaine de l'Etat - art. R170-31 (M)
-  - Code du domaine de l'Etat - art. R170-31-1 (Ab)
-  - Code du domaine de l'Etat - art. R170-35 (Ab)
-  - Code du domaine de l'Etat - art. R170-46-1 (M)
-  - Code du domaine de l'Etat - art. R170-46-5 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L91-1 (M)
-  - Code de l'urbanisme - art. L321-1 (M)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5141-6 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
+##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales<a id=34></a>
 
 ###### Article L91-1-2
 
@@ -4904,328 +1449,7 @@ _Cité par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
 
 
-##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à un établissement public d'aménagement<a id=68></a>
-
-###### Article L91-2
-
-Dans le département de Guyane, les immeubles domaniaux compris dans un plan d'occupation des sols opposable ou un document
-d'urbanisme en tenant lieu, peuvent faire l'objet :
-
-1° De concessions gratuites aux collectivités territoriales lorsqu'ils sont destinés à être affectés à l'aménagement
-d'équipements collectifs, à la construction de logements à vocation très sociale et locatifs aidés ou à des services ou
-usages publics ;
-
-2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ;
-
-3° De cessions gratuites aux communes ou à un établissement public d'aménagement créé en application des articles L. 321-1 et
-suivants du code de l'urbanisme en vue de constituer sur le territoire d'une commune des réserves foncières dans les
-conditions prévues aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens soient libres de toute
-occupation ou ne soient pas confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs fois ne peut
-excéder sur chaque commune une superficie de référence égale à dix fois la superficie des parties agglomérées de la commune
-de situation des biens cédés à la date de la première cession gratuite. Lorsque les cessions gratuites sont consenties à un
-établissement public d'aménagement, elles doivent faire l'objet d'un accord préalable de la commune de situation des biens
-cédés.
-
-Peuvent également être cédés gratuitement aux collectivités territoriales les immeubles dépendant du domaine privé de l'Etat
-dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs mentionnés au 1° ci-dessus.
-
-Les concessions et cessions mentionnées au présent article peuvent faire l'objet de prescriptions particulières visant à
-préserver l'environnement. Le non-respect de ces prescriptions peut entraîner l'abrogation de l'acte de concession ou de
-cession par le représentant de l'Etat dans le département.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 333 J (M)
-  - Code du domaine de l'Etat - art. L91-7 (Ab)
-  - Code du domaine de l'Etat - art. R170-47 (Ab)
-  - Code du domaine de l'Etat - art. R170-48 (Ab)
-  - Code du domaine de l'Etat - art. R170-54 (Ab)
-  - Code du domaine de l'Etat - art. R170-54-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5142-1 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L221-1 (M)
-  - Code de l'urbanisme - art. L221-2 (M)
-  - Code de l'urbanisme L321, L221-1, L221-2
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L91-2-1
-
-En Guyane, les forêts dépendant du domaine privé de l'Etat et relevant du régime forestier en application de l'article L.
-172-2 du code forestier peuvent faire l'objet de cessions gratuites aux collectivités territoriales sur le territoire
-desquelles elles sont situées en raison du rôle social ou environnemental que ces forêts jouent au plan local.
-
-La collectivité territoriale bénéficiaire de la cession est substituée à l'Etat dans l'ensemble de ses droits et obligations
-à l'égard des tiers et, notamment, des droits des communautés d'habitants qui tirent traditionnellement leurs moyens de
-subsistance de la forêt reconnus en application de l'article L. 91-3 ou en application de l'article L. 172-5 du code
-forestier.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2005-867 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L91-3 (Ab)
-  - Code forestier - art. L172-2 (V)
-  - Code forestier - art. L172-5 (V)
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L91-7 (Ab)
-  - Code forestier - art. L172-3 (VT)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5142-2 (M)
-  - Code général de la propriété des personnes publiqu - art. L5142-2 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt<a id=69></a>
-
-###### Article L91-3
-
-Dans le département de Guyane, les immeubles domaniaux dépendant du domaine privé de l'Etat peuvent être cédés ou concédés
-gratuitement à des personnes morales en vue de leur utilisation par les communautés d'habitants qui tirent traditionnellement
-leurs moyens de subsistance de la forêt.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. L91-2-1 (Ab)
-  - Code du domaine de l'Etat - art. L91-7 (Ab)
-  - Code forestier - art. L172-4 (VT)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5143-1 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3.<a id=70></a>
-
-###### Article L91-4
-
-A l'intérieur de zones délimitées par l'autorité administrative après consultation des communes et en tenant compte tant des
-documents d'urbanisme en vigueur que de l'état effectif d'occupation des sols, les terrains peuvent faire l'objet de cessions
-gratuites à des personnes physiques dans les conditions prévues à la présente section.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
-
-_Cité par_:
-
-  - Décret n°96-954 du 31 octobre 1996 - art. 4 (V)
-  - Code du domaine de l'Etat - art. R170-62 (Ab)
-  - Code du domaine de l'Etat - art. R170-67 (M)
-
-_Modifié par_:
-
-  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5144-1 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L91-5
-
-Peuvent bénéficier de cessions gratuites les personnes physiques occupant, à la date de publication de l'ordonnance n° 98-777
-du 2 septembre 1998, sur les terrains mentionnés à l'article précédent, des constructions principalement affectées à leur
-habitation.
-
-Ces personnes ne doivent pas être déjà, directement ou par personnes interposées, propriétaires d'un bien immobilier ou
-titulaires d'un droit réel immobilier, à moins que ce droit n'entre dans le champ d'application des dispositions de l'article
-68-13 du code minier.
-
-A la date de leur demande de cession, les mêmes personnes doivent :
-
-- avoir leur domicile fiscal en Guyane ;
-
-- être soit ressortissantes d'un Etat membre de la Communauté européenne, soit détentrices d'un titre de séjour régulier
-d'une durée supérieure à un an.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Créé par_:
-
-  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
-
-_Cité par_:
-
-  - Décret n°96-954 du 31 octobre 1996 - art. 4 (V)
-
-_Cite_:
-
-  - Ordonnance 98-777 1998-09-02
-  - Code minier 68-13
-
-_Modifié par_:
-
-  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5144-2 (V)
-
-
-###### Article L91-6
-
-La cession gratuite ne peut porter que sur un seul terrain, dont la superficie ne doit pas excéder un plafond déterminé par
-décret.
-
-Ce terrain ne peut faire l'objet, à peine de nullité de la cession, d'une aliénation volontaire pendant une durée de quinze
-ans à compter de son acquisition.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. D21 (Ab)
-  - Code du domaine de l'Etat - art. R170-64 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5144-3 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-##### Section 5 : Dispositions communes et diverses.<a id=71></a>
-
-###### Article L91-7
-
-Lorsqu'ils ne sont pas utilisés conformément à l'objet qui a justifié leur cession gratuite en application des dispositions
-des articles L. 91-1, L. 91-2, L. 91-3, les immeubles cédés reviennent gratuitement dans le patrimoine de l'Etat à moins que
-le cessionnaire ne soit autorisé à en conserver la propriété contre le paiement d'un prix correspondant à leur valeur vénale.
-
-Les dispositions du premier alinéa sont également applicables aux cessions de forêts dépendant du domaine privé de l'Etat
-consenties en application de l'article L. 91-2-1.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2005-867 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. L91-1 (M)
-  - Code du domaine de l'Etat - art. L91-2 (M)
-  - Code du domaine de l'Etat - art. L91-2-1 (Ab)
-  - Code du domaine de l'Etat - art. L91-3 (Ab)
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. R170-71 (Ab)
-  - Code forestier - art. L172-3 (VT)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5145-1 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-###### Article L91-8
-
-Un décret en Conseil d'Etat fixe les formes et conditions des concessions et cessions prévues au présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publiqu - art. L5145-2 (V)
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-
-### Titre V : Dispositions particulières et finales.<a id=72></a>
+### Titre V : Dispositions particulières et finales.<a id=35></a>
 
 ###### Article L92
 
@@ -5263,67 +1487,13 @@ _Cité par_:
   - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
 
 
-###### Article L93
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=36></a>
 
-Il sera procédé tous les ans, par décret en Conseil d'Etat, pris sur le rapport du ministre des finances et des ministres
-contresignataires, après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes
-législatifs et réglementaires, à l'incorporation, sans modification de fond, dans le présent code, des textes législatifs le
-modifiant ou le complétant.
+## Livre Ier : Composition du domaine<a id=37></a>
 
-**Liens relatifs à cet article**
+### Titre II : Origine des biens<a id=38></a>
 
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L94
-
-Le présent code se substitue aux dispositions législatives suivantes en tant qu'elles concernaient le domaine de l'Etat et
-celui des établissements publics qui en dépendent :
-
-Code du domaine de l'Etat, articles L. 1, L. 2, L. 3, 1er alinéa ; L. 4, 2e alinéa ; L. 6, L. 7, L. 8, L. 13, L. 14, 1er
-alinéa ; L. 16, L. 17, L. 18, L. 19, L. 20, L. 21, L. 22, L. 23, L. 24, L. 27, L. 28, L. 29, L. 30, L. 32, L. 33, 1er
-alinéa ; L. 34, L. 37, L. 38, L. 39, 1er et 3e alinéas ; L. 40, L. 41, 1er alinéa ; L. 42, L. 43, L. 46, L. 54, L. 57, 3e
-alinéa ; L. 65, L. 66, L. 67, L. 68, L. 69, L. 72, L. 75, L. 76, L. 77, L. 78, L. 79, L. 81, L. 82, L. 83, 1er alinéa ; L.
-86, L. 89, L. 90, L. 92, 4e alinéa ; L. 93, 3e alinéa ; L. 102, 3e alinéa ; L. 103, L. 104, L. 105, L. 106, 1er alinéa ; L.
-109, L. 111, L. 116, L. 117, L. 118, L. 119, 1er et 2e alinéas ; L. 120, L. 121, L. 122, L. 124, L. 125, L. 126, 2e alinéa ;
-L. 129, L. 130, L. 134, L. 137, L. 138, L. 139, L. 140, L. 141, L. 144, L. 145, L. 146, L. 147, L. 148 ;
-
-Code général des impôts, articles 255, 1915, 1916, 1917, 1918, 2000-2 et 2000-5 ;
-
-Ordonnance n° 58-1374 du 30 décembre 1958, article 71 ;
-
-Loi n° 59-1454 du 26 décembre 1959, article 72 ;
-
-Loi n° 63-1316 du 27 décembre 1963 (art. 1er, 2, 19, 46 et 47).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-298 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=73></a>
-
-## Livre Ier : Composition du domaine<a id=74></a>
-
-### Titre II : Origine des biens<a id=75></a>
-
-#### Chapitre Ier : Domaine public.<a id=76></a>
+#### Chapitre Ier : Domaine public.<a id=39></a>
 
 ###### Article R1
 
@@ -5392,11 +1562,11 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2111-2 (V)
 
 
-#### Chapitre II : Domaine privé<a id=77></a>
+#### Chapitre II : Domaine privé<a id=40></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=78></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=41></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=79></a>
+##### Paragraphe 1 : Dispositions générales.<a id=42></a>
 
 ###### Article R2
 
@@ -6332,7 +2502,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R20
 
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=80></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=43></a>
 
 ###### Article R21-1
 
@@ -6435,9 +2605,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R1211-8 (V)
 
 
-##### Section 2 : Dons et legs<a id=81></a>
+##### Section 2 : Dons et legs<a id=44></a>
 
-##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=82></a>
+##### Paragraphe 1 : Dons et legs faits à l'Etat.<a id=45></a>
 
 ###### Article R22
 
@@ -7037,7 +3207,7 @@ _Anciens textes_:
   - Règlement d'administration publique 56-812 1956-08-03 art. 1
 
 
-##### Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat.<a id=83></a>
+##### Paragraphe 2 : Dons et legs faits aux établissements publics de l'Etat.<a id=46></a>
 
 ###### Article R36
 
@@ -7130,34 +3300,44 @@ _Nouveaux textes_:
 
 ###### Article R38
 
-Les demandes mentionnées à l'article R. 37 doivent être formulées par délibération de l'organisme ayant qualité pour accepter
-les libéralités au nom de l'établissement.
+Les demandes mentionnées à l'article L. 2222-17 du code général des personnes publiques doivent être formulées par
+délibération de l'organisme ayant qualité pour accepter les libéralités au nom de l'établissement. 
 
-Elles sont adressées au préfet du département dans lequel est situé l'établissement gratifié.
+Elles sont adressées au préfet du département dans lequel est situé l'établissement gratifié. 
 
 Le préfet accomplit, s'il y a lieu, les formalités prévues à l'article R. 29. Lorsqu'il fait procéder aux publications
-prévues à l'article R. 42, une affiche doit en outre être apposée à la mairie du lieu de situation de l'établissement.
+prévues à l'article R. 42, une affiche doit en outre être apposée à la mairie du lieu de situation de l'établissement. 
 
-Les dispositions de l'article R. 30 sont applicables aux demandes de révision ou de restitution mentionnées à l'article R.
-37. Le ministre intéressé est le ministre chargé de la tutelle de l'établissement public gratifié.
+Les dispositions de l'article R. 30 sont applicables aux demandes de révision ou de restitution mentionnées à l'article L.
+2222-17 du code général des personnes publiques. Le ministre intéressé est le ministre chargé de la tutelle de
+l'établissement public gratifié.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-299 1962-03-14
-
 _Modifié par_:
 
-  - Décret n°88-138 1988-02-10 art. 3 JORF 12 février 1988
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Ordonnance n°2006-460 du 21 avril 2006 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R29 (M)
-  - Code du domaine de l'Etat - art. R30 (M)
-  - Code du domaine de l'Etat - art. R37 (M)
-  - Code du domaine de l'Etat - art. R42 (M)
+  - Code du domaine de l'Etat - art. R29
+  - Code du domaine de l'Etat - art. R30
+  - Code du domaine de l'Etat - art. R42
+  - Code général de la propriété des personnes publ... - art. L2222-17 (V)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R2222-28 (V)
 
 
 ###### Article R39
@@ -7206,7 +3386,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2222-29 (V)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=84></a>
+##### Paragraphe 3 : Dispositions communes.<a id=47></a>
 
 ###### Article R40
 
@@ -7527,7 +3707,7 @@ _Abrogé par_:
   - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
 
 
-##### Section 3 : Droit de préemption de l'Etat.<a id=85></a>
+##### Section 3 : Droit de préemption de l'Etat.<a id=48></a>
 
 ###### Article R45-4
 
@@ -7574,7 +3754,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Section 6 : Biens vacants et sans maître.<a id=86></a>
+##### Section 6 : Biens vacants et sans maître.<a id=49></a>
 
 ###### Article R46
 
@@ -7632,15 +3812,15 @@ _Nouveaux textes_:
 
 ###### Article R47
 
-Tout établissement de crédit et tous autres établissements qui reçoivent, soit des fonds en dépôts ou en compte courant, soit
-des titres en dépôts ou pour toute autre cause, sont tenus de remettre au service des impôts du siège de leur établissement
-tous les dépôts ou avoirs en espèces ou en titres, qui n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou
-réclamation depuis trente ans et qui n'ont pas été déposés à la caisse des dépôts et consignations conformément à l'article
-R. 47-1.
-
 Pour les banques, établissements ou entreprises qui possèdent des agences ou succursales et dont les écritures comptables
 relatives à ces dépôts ou avoirs ne sont pas centralisées à l'établissement principal, la remise doit être faite au bureau
 des domaines du siège de l'agence ou de la succursale intéressée.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -7650,7 +3830,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cité par_:
 
@@ -7659,6 +3843,7 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code général de la propriété des personnes publ... - art. R1126-2 (V)
   - Code général de la propriété des personnes publiqu - art. L1126-3 (V)
 
 
@@ -7876,7 +4061,7 @@ _Anciens textes_:
   - Décret n°1937-06-18 art. 6
 
 
-### Titre III : Inventaire des biens.<a id=87></a>
+### Titre III : Inventaire des biens.<a id=50></a>
 
 ###### Article R52
 
@@ -7913,13 +4098,13 @@ _Cite_:
   - Code du domaine de l'Etat - art. R10 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=88></a>
+## Livre II : Administration des biens domaniaux<a id=51></a>
 
-### Titre Ier : Domaine public<a id=89></a>
+### Titre Ier : Domaine public<a id=52></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=90></a>
+#### Chapitre Ier : Occupation temporaire<a id=53></a>
 
-##### Section 1 : Délivrance des autorisations.<a id=91></a>
+##### Section 1 : Délivrance des autorisations.<a id=54></a>
 
 ###### Article R53
 
@@ -8019,7 +4204,7 @@ _Modifié par_:
   - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 2 : Fixation des redevances.<a id=92></a>
+##### Section 2 : Fixation des redevances.<a id=55></a>
 
 ###### Article R55
 
@@ -8145,7 +4330,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2125-3 (V)
 
 
-##### Section 3 : Occupations constitutives de droits réels<a id=93></a>
+##### Section 3 : Occupations constitutives de droits réels<a id=56></a>
 
 ###### Article R57-1
 
@@ -8186,9 +4371,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-9 (V)
 
 
-##### Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat<a id=94></a>
+##### Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat<a id=57></a>
 
-##### Paragraphe 1 : Délivrance du titre.<a id=95></a>
+##### Paragraphe 1 : Délivrance du titre.<a id=58></a>
 
 ###### Article R57-2
 
@@ -8449,7 +4634,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-17 (V)
 
 
-##### Paragraphe 2 : Retrait du titre.<a id=96></a>
+##### Paragraphe 2 : Retrait du titre.<a id=59></a>
 
 ###### Article R57-6
 
@@ -8490,7 +4675,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-18 (V)
 
 
-##### Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail.<a id=97></a>
+##### Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail.<a id=60></a>
 
 ###### Article R57-7
 
@@ -8747,7 +4932,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-27 (V)
 
 
-##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.<a id=98></a>
+##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.<a id=61></a>
 
 ###### Article R57-10
 
@@ -8898,7 +5083,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-54 (M)
 
 
-##### Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes.<a id=99></a>
+##### Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes.<a id=62></a>
 
 ###### Article R57-14
 
@@ -9055,7 +5240,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-54 (M)
 
 
-#### Chapitre II : Transfert de gestion.<a id=100></a>
+#### Chapitre II : Transfert de gestion.<a id=63></a>
 
 ###### Article R58
 
@@ -9124,7 +5309,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2123-9 (V)
 
 
-#### Chapitre III : Extractions sur le domaine public.<a id=101></a>
+#### Chapitre III : Extractions sur le domaine public.<a id=64></a>
 
 ###### Article R58-1
 
@@ -9355,7 +5540,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales<a id=102></a>
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales<a id=65></a>
 
 ###### Article R63
 
@@ -9392,13 +5577,13 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-### Titre II : Domaine privé<a id=103></a>
+### Titre II : Domaine privé<a id=66></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=104></a>
+#### Chapitre Ier : Domaine immobilier<a id=67></a>
 
-##### Section 1 : Locations<a id=105></a>
+##### Section 1 : Locations<a id=68></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=106></a>
+##### Paragraphe 1 : Dispositions générales.<a id=69></a>
 
 ###### Article R66
 
@@ -9502,7 +5687,7 @@ _Codifié par_:
   - Décret n°62-299 1962-03-14
 
 
-##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=107></a>
+##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=70></a>
 
 ###### Article R69
 
@@ -9584,7 +5769,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*331-12 (Ab)
 
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=108></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=71></a>
 
 ###### Article R71
 
@@ -9728,7 +5913,7 @@ _Modifié par_:
   - Décret n°70-1190 1970-12-11 art. 2 JORF 15 décembre 1970
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=109></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=72></a>
 
 ###### Article R74
 
@@ -9845,7 +6030,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R76 (V)
 
 
-##### Section 4 : Echanges.<a id=110></a>
+##### Section 4 : Echanges.<a id=73></a>
 
 ###### Article R77
 
@@ -9989,7 +6174,7 @@ _Modifié par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=111></a>
+##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=74></a>
 
 ###### Article R81
 
@@ -10575,7 +6760,7 @@ _Modifié par_:
   - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=112></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=75></a>
 
 ###### Article R92
 
@@ -11167,7 +7352,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation.<a id=113></a>
+##### Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation.<a id=76></a>
 
 ###### Article R105
 
@@ -11208,7 +7393,7 @@ _Modifié par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-##### Section 9 : Administration du domaine forestier.<a id=114></a>
+##### Section 9 : Administration du domaine forestier.<a id=77></a>
 
 ###### Article R105-1
 
@@ -11259,7 +7444,7 @@ _Cite_:
   - Code forestier - art. L121-2
 
 
-#### Chapitre II : Domaine mobilier.<a id=115></a>
+#### Chapitre II : Domaine mobilier.<a id=78></a>
 
 ###### Article R106
 
@@ -11748,53 +7933,9 @@ _Anciens textes_:
   - Décret n°1852-06-02 art. 4
 
 
-### Titre III : Dispositions communes<a id=116></a>
+### Titre III : Dispositions communes<a id=79></a>
 
-#### Chapitre IV : Classement des monuments naturels ou sites compris dans le domaine public ou privé de l'Etat.<a id=117></a>
-
-###### Article R120
-
-Conformément à l'article L. 341-4 du code de l'environnement, le monument naturel ou le site compris dans le domaine public
-ou privé de l'Etat est classé :
-
-1° En cas d'accord avec le ministre dans les attributions duquel le monument naturel ou le site se trouve placé, et avec le
-chef du service des domaines, par arrêté du ministre chargé des beaux-arts ;
-
-2° Dans le cas contraire, par décret en Conseil d'Etat.
-
-**Nota:**
-
-Conformément à l'article 10 de l'ordonnance n° 2006-460 du 21 avril 2006, ces dispositions abrogées en vertu du III de
-l'article 7 restent en vigueur en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, dans les îles
-Wallis et Futuna et dans les Terres australes et antarctiques françaises, sous réserve des compétences en matière domaniale
-des collectivités de Nouvelle-Calédonie, de Polynésie française et des îles Wallis et Futuna à la date d'entrée en vigueur de
-la présente ordonnance.
-
-Aux termes du 1° de l'article 10 de l'ordonnance n° 2016-1255 du 28 septembre 2016, ces dispositions, en tant qu'elles
-s'appliquent en Nouvelle-Calédonie, en Polynésie française et à Wallis et Futuna, sous réserve des compétence en matière
-domaniale des collectivités de Nouvelle-Calédonie, de Polynésie française et de Wallis et Fututna à la date d'entrée en
-vigueur de l'ordonnance du 28 septembre, sont abrogées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code du domaine de l'Etat (ancien) L90
-
-_Codifié par_:
-
-  - Décret n°62-299 1962-03-14
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en en vigueur le 1er juillet 2006
-
-_Cite_:
-
-  - Code de l'environnement - art. L341-4 (V)
-
-
-#### Chapitre V : Regroupement des services publics.<a id=118></a>
+#### Chapitre V : Regroupement des services publics.<a id=80></a>
 
 ###### Article R121
 
@@ -11934,7 +8075,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=119></a>
+#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=81></a>
 
 ###### Article R125
 
@@ -12139,7 +8280,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux.<a id=120></a>
+#### Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux.<a id=82></a>
 
 ###### Article R128-1
 
@@ -12639,13 +8780,13 @@ _Cite_:
   - Code de l'environnement - art. L322-9
 
 
-## Livre III : Aliénation des biens domaniaux<a id=121></a>
+## Livre III : Aliénation des biens domaniaux<a id=83></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=122></a>
+### Titre II : Aliénation des biens du domaine privé<a id=84></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=123></a>
+#### Chapitre Ier : Domaine immobilier<a id=85></a>
 
-##### Section 1 : Dispositions générales.<a id=124></a>
+##### Section 1 : Dispositions générales.<a id=86></a>
 
 ###### Article R129
 
@@ -13108,9 +9249,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-32 (V)
 
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=125></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=87></a>
 
-##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=126></a>
+##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=88></a>
 
 ###### Article R136
 
@@ -13173,7 +9314,7 @@ _Cite_:
   - Loi n°1933-03-28 annexe
 
 
-##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=127></a>
+##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=89></a>
 
 ###### Article R138
 
@@ -13317,7 +9458,7 @@ _Abrogé par_:
   - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969 en vigueur le 1er avril 1970
 
 
-##### Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique.<a id=128></a>
+##### Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique.<a id=90></a>
 
 ###### Article R142
 
@@ -13354,7 +9495,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=129></a>
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=91></a>
 
 ###### Article R143
 
@@ -13400,7 +9541,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-28 (V)
 
 
-##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat.<a id=130></a>
+##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat.<a id=92></a>
 
 ###### Article R144
 
@@ -13437,7 +9578,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=131></a>
+##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=93></a>
 
 ###### Article R145
 
@@ -13659,7 +9800,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R130 (Ab)
 
 
-##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=132></a>
+##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=94></a>
 
 ###### Article R147-1
 
@@ -13701,7 +9842,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-24 (V)
 
 
-##### Paragraphe 10 : Servitudes.<a id=133></a>
+##### Paragraphe 10 : Servitudes.<a id=95></a>
 
 ###### Article R148
 
@@ -13740,7 +9881,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-25 (V)
 
 
-##### Paragraphe 11 : Rétrocession d'immeubles expropriés.<a id=134></a>
+##### Paragraphe 11 : Rétrocession d'immeubles expropriés.<a id=96></a>
 
 ###### Article R148-1
 
@@ -13775,7 +9916,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé.<a id=135></a>
+##### Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé.<a id=97></a>
 
 ###### Article R148-2
 
@@ -13811,7 +9952,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2008.<a id=136></a>
+##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2008.<a id=98></a>
 
 ###### Article R148-3
 
@@ -13892,7 +10033,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-27 (V)
 
 
-##### Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social.<a id=137></a>
+##### Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social.<a id=99></a>
 
 ###### Article R148-5
 
@@ -14067,7 +10208,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-14
 
 
-#### Chapitre II : Domaine mobilier.<a id=138></a>
+#### Chapitre II : Domaine mobilier.<a id=100></a>
 
 ###### Article R149
 
@@ -14109,9 +10250,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-41 (V)
 
 
-## Livre IV : Dispositions diverses<a id=139></a>
+## Livre IV : Dispositions diverses<a id=101></a>
 
-### Titre Ier : Dispositions générales.<a id=140></a>
+### Titre Ier : Dispositions générales.<a id=102></a>
 
 ###### Article R150
 
@@ -14285,11 +10426,11 @@ _Abrogé par_:
   - CODIFIE: Code général de la propriété des personnes publ... - art. R2124-56 (V)
 
 
-### Titre II : Procédure - Instances<a id=141></a>
+### Titre II : Procédure - Instances<a id=103></a>
 
-#### Chapitre Ier : Recouvrement des produits domaniaux<a id=142></a>
+#### Chapitre Ier : Recouvrement des produits domaniaux<a id=104></a>
 
-##### Section 2 : Procédure de recouvrement.<a id=143></a>
+##### Section 2 : Procédure de recouvrement.<a id=105></a>
 
 ###### Article R153
 
@@ -14597,7 +10738,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre II : Instances.<a id=144></a>
+#### Chapitre II : Instances.<a id=106></a>
 
 ###### Article R158
 
@@ -14931,9 +11072,9 @@ _Anciens textes_:
   - Ordonnance 1838-05-05
 
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=145></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=107></a>
 
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=146></a>
+#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=108></a>
 
 ###### Article R164
 
@@ -15366,9 +11507,9 @@ _Cite_:
   - Code du domaine de l'Etat L88-2, L170-11 à R170-18, R170-20 à R170-27, R170-13, R170-14
 
 
-#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique<a id=147></a>
+#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique<a id=109></a>
 
-##### Section 1 : Cession de terrains prévue par l'article L. 89-3.<a id=148></a>
+##### Section 1 : Cession de terrains prévue par l'article L. 89-3.<a id=110></a>
 
 ###### Article R170
 
@@ -15628,7 +11769,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-12 (V)
 
 
-##### Section 2 : Cession de terrains prévue par l'article L. 89-4.<a id=149></a>
+##### Section 2 : Cession de terrains prévue par l'article L. 89-4.<a id=111></a>
 
 ###### Article R170-4
 
@@ -15746,7 +11887,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-19 (V)
 
 
-##### Section 3 : Cession de terrains prévue par l'article L. 89-5.<a id=150></a>
+##### Section 3 : Cession de terrains prévue par l'article L. 89-5.<a id=112></a>
 
 ###### Article R170-6
 
@@ -15861,7 +12002,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-25 (V)
 
 
-##### Section 4 : Dispositions relatives à l'application de l'article L. 89-8.<a id=151></a>
+##### Section 4 : Dispositions relatives à l'application de l'article L. 89-8.<a id=113></a>
 
 ###### Article R170-8
 
@@ -15979,7 +12120,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-28 (V)
 
 
-##### Section 5 : Dispositions relatives à l'application de l'article L. 89-2.<a id=152></a>
+##### Section 5 : Dispositions relatives à l'application de l'article L. 89-2.<a id=114></a>
 
 ###### Article R170-11
 
@@ -16559,9 +12700,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-45 (V)
 
 
-#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=153></a>
+#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=115></a>
 
-##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales.<a id=154></a>
+##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales.<a id=116></a>
 
 ###### Article R170-31
 
@@ -16570,20 +12711,12 @@ valeur agricole et de la réalisation de travaux d'aménagement rural :
 
 1° De concessions en vue de la culture ou de l'élevage dans les conditions prévues aux articles R. 170-32 à R. 170-42 ;
 
-2° De cessions à l'expiration des concessions mentionnées au 1er ci-dessus dans les conditions prévues aux articles R. 170-43
-et R. 170-44 ;
+2° alinéa abrogé
 
 3° De baux agricoles dans les conditions prévues à l'article R. 170-45 ;
 
 4° De conventions de mise en valeur passées avec une collectivité locale conformément aux dispositions de l'article R.
-170-46 ;
-
-5° De cessions consenties en application des dispositions du troisième alinéa de l'article L. 91-1 dans les conditions
-prévues aux articles R. 170-46-1 à R. 170-46-4 ;
-
-6° De conventions passées en application du second alinéa de l'article L. 91-1-1 avec l'établissement public visé audit
-article, en vue de faire bénéficier cet établissement de concessions et de cessions gratuites, dans les conditions prévues à
-l'article R. 170-46-5 et R. 170-46-6.
+170-46.
 
 **Liens relatifs à cet article**
 
@@ -16593,7 +12726,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-225 du 10 mars 2000 - art. 2 () JORF 11 mars 2000
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -16605,12 +12738,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. L91-1 (M)
-  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
-  - Code du domaine de l'Etat - art. R170-43 (M)
-  - Code du domaine de l'Etat - art. R170-44 (M)
-  - Code du domaine de l'Etat - art. R170-46-5 (V)
-  - Code du domaine de l'Etat R170-32 à R170-42, R170-43, R170-44, R170-45, R170-46, L91-1, R170-46-1 à R170-46-4, L91-1-1, R170-46-5
+  - Code du domaine de l'Etat R170-32 à R170-42, R170-45, R170-46
 
 
 ###### Article R170-31-1
@@ -17556,7 +13684,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5141-25 (V)
 
 
-##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane.<a id=155></a>
+##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane.<a id=117></a>
 
 ###### Article R170-47
 
@@ -17972,7 +14100,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. D5142-10 (V)
 
 
-##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.<a id=156></a>
+##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.<a id=118></a>
 
 ###### Article R170-56
 
@@ -18245,7 +14373,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. D5143-6 (V)
 
 
-##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3.<a id=157></a>
+##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3.<a id=119></a>
 
 ###### Article R170-62
 
@@ -18391,7 +14519,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5144-3 (V)
 
 
-##### Section 5 : Dispositions communes et diverses.<a id=158></a>
+##### Section 5 : Dispositions communes et diverses.<a id=120></a>
 
 ###### Article R170-65
 
@@ -18709,7 +14837,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5145-7 (V)
 
 
-### Titre V : Dispositions particulières et finales.<a id=159></a>
+### Titre V : Dispositions particulières et finales.<a id=121></a>
 
 ###### Article R171
 
@@ -19392,17 +15520,17 @@ _Créé par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-# Partie réglementaire - Décrets simples<a id=160></a>
+# Partie réglementaire - Décrets simples<a id=122></a>
 
-## Livre Ier : Composition du domaine<a id=161></a>
+## Livre Ier : Composition du domaine<a id=123></a>
 
-### Titre II : Origine des biens<a id=162></a>
+### Titre II : Origine des biens<a id=124></a>
 
-#### Chapitre II : Domaine privé<a id=163></a>
+#### Chapitre II : Domaine privé<a id=125></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=164></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=126></a>
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=165></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=127></a>
 
 ###### Article D5
 
@@ -19439,15 +15567,15 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-## Livre II : Administration des biens domaniaux<a id=166></a>
+## Livre II : Administration des biens domaniaux<a id=128></a>
 
-### Titre II : Domaine privé<a id=167></a>
+### Titre II : Domaine privé<a id=129></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=168></a>
+#### Chapitre Ier : Domaine immobilier<a id=130></a>
 
-##### Section 1 : Locations<a id=169></a>
+##### Section 1 : Locations<a id=131></a>
 
-##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.<a id=170></a>
+##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.<a id=132></a>
 
 ###### Article D11
 
@@ -19469,7 +15597,7 @@ _Créé par_:
   - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=171></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=133></a>
 
 ###### Article D12
 
@@ -19646,15 +15774,15 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=172></a>
+## Livre III : Aliénation des biens domaniaux<a id=134></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=173></a>
+### Titre II : Aliénation des biens du domaine privé<a id=135></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=174></a>
+#### Chapitre Ier : Domaine immobilier<a id=136></a>
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=175></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=137></a>
 
-##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=176></a>
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=138></a>
 
 ###### Article D17-1
 
@@ -19707,7 +15835,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=177></a>
+##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=139></a>
 
 ###### Article D18
 
@@ -19745,9 +15873,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. D3211-30 (V)
 
 
-## Livre IV : Dispositions diverses<a id=178></a>
+## Livre IV : Dispositions diverses<a id=140></a>
 
-### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=179></a>
+### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=141></a>
 
 ###### Article D19
 
@@ -19772,9 +15900,9 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=180></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=142></a>
 
-#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique.<a id=181></a>
+#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique.<a id=143></a>
 
 ###### Article D20
 
@@ -19818,9 +15946,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. D5112-24 (V)
 
 
-#### Chapitre III : Concessions domaniales en Guyane.<a id=182></a>
+#### Chapitre III : Concessions domaniales en Guyane.<a id=144></a>
 
-##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III.<a id=183></a>
+##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III.<a id=145></a>
 
 ###### Article D21
 
@@ -19859,7 +15987,7 @@ _Créé par_:
   - Décret n°2000-226 du 10 mars 2000 - art. 1 () JORF 11 mars 2000
 
 
-#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=184></a>
+#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=146></a>
 
 ###### Article D33
 
@@ -19942,7 +16070,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=185></a>
+#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=147></a>
 
 ###### Article D35
 
@@ -19976,7 +16104,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre V : Dispositions particulières et finales.<a id=186></a>
+### Titre V : Dispositions particulières et finales.<a id=148></a>
 
 ###### Article D36
 
@@ -20323,17 +16451,17 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-# Partie réglementaire - Arrêtés<a id=187></a>
+# Partie réglementaire - Arrêtés<a id=149></a>
 
-## Livre Ier : Composition du domaine<a id=188></a>
+## Livre Ier : Composition du domaine<a id=150></a>
 
-### Titre II : Origine des biens<a id=189></a>
+### Titre II : Origine des biens<a id=151></a>
 
-#### Chapitre II : Domaine privé<a id=190></a>
+#### Chapitre II : Domaine privé<a id=152></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=191></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=153></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=192></a>
+##### Paragraphe 1 : Dispositions générales.<a id=154></a>
 
 ###### Article A01
 
@@ -20470,7 +16598,7 @@ _Modifié par_:
   - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=193></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=155></a>
 
 ###### Article A1
 
@@ -20727,7 +16855,7 @@ _Modifié par_:
   - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-### Titre III : Inventaire des biens.<a id=194></a>
+### Titre III : Inventaire des biens.<a id=156></a>
 
 ###### Article A7
 
@@ -20865,15 +16993,15 @@ _Cite_:
   - Code du domaine de l'Etat - art. A7 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=195></a>
+## Livre II : Administration des biens domaniaux<a id=157></a>
 
-### Titre Ier : Domaine public<a id=196></a>
+### Titre Ier : Domaine public<a id=158></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=197></a>
+#### Chapitre Ier : Occupation temporaire<a id=159></a>
 
-##### Section 1 : Délivrance des autorisations<a id=198></a>
+##### Section 1 : Délivrance des autorisations<a id=160></a>
 
-##### A) Arrêtés individuels.<a id=199></a>
+##### A) Arrêtés individuels.<a id=161></a>
 
 ###### Article A12
 
@@ -21103,7 +17231,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A16 (V)
 
 
-##### B) Arrêtés généraux.<a id=200></a>
+##### B) Arrêtés généraux.<a id=162></a>
 
 ###### Article A20
 
@@ -21322,7 +17450,7 @@ _Cite_:
   - Code du domaine de l'Etat A12 à A19
 
 
-##### C) Dispositions communes.<a id=201></a>
+##### C) Dispositions communes.<a id=163></a>
 
 ###### Article A26
 
@@ -21476,7 +17604,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R54 (M)
 
 
-##### Section 2 : Fixation des redevances.<a id=202></a>
+##### Section 2 : Fixation des redevances.<a id=164></a>
 
 ###### Article A31
 
@@ -21694,11 +17822,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A23 (V)
 
 
-#### Chapitre III : Extractions sur le domaine public<a id=203></a>
+#### Chapitre III : Extractions sur le domaine public<a id=165></a>
 
-##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=204></a>
+##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=166></a>
 
-##### A) Arrêtés individuels.<a id=205></a>
+##### A) Arrêtés individuels.<a id=167></a>
 
 ###### Article A40
 
@@ -21842,7 +17970,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A113 (M)
 
 
-##### B) Arrêtés généraux.<a id=206></a>
+##### B) Arrêtés généraux.<a id=168></a>
 
 ###### Article A45
 
@@ -21926,7 +18054,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A40 (V)
 
 
-##### C) Dispositions communes.<a id=207></a>
+##### C) Dispositions communes.<a id=169></a>
 
 ###### Article A47
 
@@ -21985,7 +18113,7 @@ _Cite_:
   - Code du domaine de l'Etat A40 à A47, R53, A40
 
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=208></a>
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=170></a>
 
 ###### Article A49
 
@@ -22241,7 +18369,7 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=209></a>
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=171></a>
 
 ###### Article A60
 
@@ -22398,11 +18526,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A66 (Ab)
 
 
-### Titre II : Domaine privé<a id=210></a>
+### Titre II : Domaine privé<a id=172></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=211></a>
+#### Chapitre Ier : Domaine immobilier<a id=173></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=212></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=174></a>
 
 ###### Article A73
 
@@ -22814,7 +18942,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=213></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=175></a>
 
 ###### Article A90
 
@@ -22834,7 +18962,7 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=214></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=176></a>
 
 ###### Article A91
 
@@ -23174,7 +19302,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A93-7 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=215></a>
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=177></a>
 
 ###### Article A94
 
@@ -23359,7 +19487,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=216></a>
+#### Chapitre II : Domaine immobilier.<a id=178></a>
 
 ###### Article A101
 
@@ -23443,11 +19571,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=217></a>
+## Livre III : Aliénation des biens domaniaux<a id=179></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=218></a>
+### Titre II : Aliénation des biens du domaine privé<a id=180></a>
 
-#### Chapitre Ier : Domaine immobilier.<a id=219></a>
+#### Chapitre Ier : Domaine immobilier.<a id=181></a>
 
 ###### Article A104-1
 
@@ -23469,7 +19597,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R129-4 (V)
 
 
-#### Chapitre II : Domaine mobilier.<a id=220></a>
+#### Chapitre II : Domaine mobilier.<a id=182></a>
 
 ###### Article A105
 
@@ -23853,7 +19981,7 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=221></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=183></a>
 
 ###### Article A118
 
@@ -23935,11 +20063,11 @@ _Modifié par_:
   - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
 
 
-## Livre IV : Dispositions diverses<a id=222></a>
+## Livre IV : Dispositions diverses<a id=184></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=223></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=185></a>
 
-#### Chapitre V : Concessions de logements.<a id=224></a>
+#### Chapitre V : Concessions de logements.<a id=186></a>
 
 ###### Article A120-1
 
@@ -24001,7 +20129,7 @@ _Cite_:
   - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
 
 
-### Titre V : Dispositions particulières et finales.<a id=225></a>
+### Titre V : Dispositions particulières et finales.<a id=187></a>
 
 ###### Article A122
 
