@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-28
 ## Contenu: 
   - [Partie législative (art. L10 à L92)](#1)
     - [Livre Ier : Composition du domaine (art. L10 à L27 bis)](#2)
@@ -20355,8 +20355,8 @@ _Cite_:
 
 ###### Article A117
 
-Lorsqu'un trésor de monnaies aura été remis au domaine, ce service devra aviser simultanément de cette remise
-l'administration des monnaies et médailles et celle de la bibliothèque nationale.
+Lorsqu'un trésor de monnaies aura été remis au domaine, ce service devra aviser simultanément de cette remise l'établissement
+public La Monnaie de Paris et l'administration de la bibliothèque nationale.
 
 En ce qui concerne les objets remis au domaine à Paris, cette notification sera directement faite aux services intéressés par
 le directeur régional chargé de la direction nationale d'interventions domaniales, et, pour ceux remis dans les départements,
@@ -20374,6 +20374,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Arrêté 1962-03-14
+
+_Modifié par_:
+
+  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 
 #### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=183></a>
