@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-11-17
 ## Contenu: 
   - [Partie législative (art. L10 à L92)](#1)
     - [Livre Ier : Composition du domaine (art. L10 à L27 bis)](#2)
@@ -117,7 +117,7 @@ Version Consolidée au 2008-05-25
           - [Section 5 : Dispositions relatives à l'application de l'article L. 89-2. (art. R170-11 à R170-27)](#114)
         - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-71)](#115)
           - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46-6)](#116)
-          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane. (art. R170-47 à R170-55)](#117)
+          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane. (art. R170-47 à R170-55-2)](#117)
           - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt. (art. R170-56 à R170-61)](#118)
           - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3. (art. R170-62 à R170-64)](#119)
           - [Section 5 : Dispositions communes et diverses. (art. R170-65 à R170-71)](#120)
@@ -14491,6 +14491,87 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publ... - art. D5142-10 (V)
+
+
+###### Article R170-55-1
+
+La demande de cession gratuite d'une forêt dépendant du domaine privé de l'Etat et relevant du régime forestier en
+application de l'article L. 5142-2 du code général de la propriété des personnes publiques est adressée au préfet par la
+collectivité territoriale. 
+
+Le préfet examine, après avis du représentant de l'Office national des forêts et du directeur de l'agriculture et de la
+forêt, si le rôle social ou environnemental que la forêt dont la cession est demandée joue au plan local justifie ou non la
+cession. 
+
+Le préfet se prononce sur la demande de cession dans les quatre mois de son dépôt.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1180 du 14 novembre 2008 - art. 7
+
+_Cité par_:
+
+  - Code forestier (nouveau) - art. R272-9 (V)
+  - Code du domaine de l'Etat - art. R170-55-2 (Ab)
+  - Code forestier - art. R172-6 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5142-11 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L5142-2
+
+
+###### Article R170-55-2
+
+Les cessions mentionnées à l'article R. 170-55-1 sont constatées par un acte indiquant la localisation, la consistance et la
+destination des immeubles.
+
+L'acte mentionne également que la forêt cédée relève du régime forestier dans les conditions prévues à l'article L. 111-1 du
+code forestier.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1180 du 14 novembre 2008 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R170-55-1 (Ab)
+  - Code forestier - art. L111-1
+
+_Cité par_:
+
+  - Code forestier - art. R172-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code général de la propriété des personnes publ... - art. R5142-12 (V)
 
 
 ##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.<a id=118></a>
