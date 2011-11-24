@@ -1,8 +1,8 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2011-11-24
+Version Consolidée au 2011-11-25
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
-    - [Livre Ier : Composition du domaine (art. R1 à R52)](#2)
+    - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
       - [Titre II : Origine des biens (art. R1 à R51)](#3)
         - [Chapitre Ier : Domaine public. (art. R1)](#4)
         - [Chapitre II : Domaine privé (art. R2 à R51)](#5)
@@ -15,145 +15,141 @@ Version Consolidée au 2011-11-24
             - [Paragraphe 3 : Dispositions communes. (art. R40 à R45-3)](#12)
           - [Section 3 : Droit de préemption de l'Etat. (art. R45-4)](#13)
           - [Section 6 : Biens vacants et sans maître. (art. R46 à R51)](#14)
-      - [Titre III : Inventaire des biens. (art. R52)](#15)
-    - [Livre II : Administration des biens domaniaux (art. R53 à R128-17)](#16)
-      - [Titre Ier : Domaine public (art. R53 à R63)](#17)
-        - [Chapitre Ier : Occupation temporaire (art. R53 à R57-17)](#18)
-          - [Section 1 : Délivrance des autorisations. (art. R53 à R54)](#19)
-          - [Section 2 : Fixation des redevances. (art. R55 à R57)](#20)
-          - [Section 3 : Occupations constitutives de droits réels (art. R57-1 à R57-17)](#21)
-            - [Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat (art. R57-2 à R57-6)](#22)
-              - [Paragraphe 1 : Délivrance du titre. (art. R57-2 à R57-5)](#23)
-              - [Paragraphe 2 : Retrait du titre. (art. R57-6)](#24)
-            - [Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail. (art. R57-7 à R57-9)](#25)
-            - [Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements. (art. R57-10 à R57-13)](#26)
-            - [Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes. (art. R57-14 à R57-17)](#27)
-        - [Chapitre II : Transfert de gestion. (art. R58)](#28)
-        - [Chapitre III : Extractions sur le domaine public. (art. R58-1 à R58-7)](#29)
-        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales (art. R63)](#30)
-      - [Titre II : Domaine privé (art. R66 à R119)](#31)
-        - [Chapitre Ier : Domaine immobilier (art. R66 à R105-1)](#32)
-          - [Section 1 : Locations (art. R66 à R70)](#33)
-            - [Paragraphe 1 : Dispositions générales. (art. R66 à R68)](#34)
-            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. R69 à R70)](#35)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. R71 à R73)](#36)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R74 à R76-1)](#37)
-          - [Section 4 : Echanges. (art. R77 à R80)](#38)
-          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R91)](#39)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104-1)](#40)
-          - [Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation. (art. R105)](#41)
-          - [Section 9 : Administration du domaine forestier. (art. R105-1)](#42)
-        - [Chapitre II : Domaine mobilier. (art. R106 à R119)](#43)
-      - [Titre III : Dispositions communes (art. R121 à R128-17)](#44)
-        - [Chapitre V : Regroupement des services publics. (art. R121 à R124)](#45)
-        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R125 à R128)](#46)
-        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. R128-1 à R128-11)](#47)
-        - [Chapitre VIII : Utilisation des immeubles domaniaux par les services de l'Etat et ses établissements publics. (art. R128-12 à R128-17)](#48)
-    - [Livre III : Aliénation des biens domaniaux (art. R129 à R149)](#49)
-      - [Titre II : Aliénation des biens du domaine privé (art. R129 à R149)](#50)
-        - [Chapitre Ier : Domaine immobilier (art. R129 à R148-9)](#51)
-          - [Section 1 : Dispositions générales. (art. R129 à R135)](#52)
-          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R148-9)](#53)
-            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#54)
-            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#55)
-            - [Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique. (art. R142)](#56)
-            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#57)
-            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat. (art. R144)](#58)
-            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R145 à R147)](#59)
-            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#60)
-            - [Paragraphe 10 : Servitudes. (art. R148)](#61)
-            - [Paragraphe 11 : Rétrocession d'immeubles expropriés. (art. R148-1)](#62)
-            - [Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé. (art. R148-2)](#63)
-            - [Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministre de la défense. (art. R148-3 à R148-4)](#64)
-            - [Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social. (art. R148-5 à R148-9)](#65)
-        - [Chapitre II : Domaine mobilier. (art. R149)](#66)
-    - [Livre IV : Dispositions diverses (art. R150 à R186)](#67)
-      - [Titre Ier : Dispositions générales. (art. R150 à R152-1)](#68)
-      - [Titre II : Procédure - Instances (art. R153 à R163)](#69)
-        - [Chapitre Ier : Recouvrement des produits domaniaux (art. R153 à R157-2)](#70)
-          - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#71)
-        - [Chapitre II : Instances. (art. R158 à R163)](#72)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170-71)](#73)
-        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R169-4)](#74)
-        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique (art. R170 à R170-27)](#75)
-          - [Section 1 : Cession de terrains prévue par l'article L. 89-3. (art. R170 à R170-3)](#76)
-          - [Section 2 : Cession de terrains prévue par l'article L. 89-4. (art. R170-4 à R170-5)](#77)
-          - [Section 3 : Cession de terrains prévue par l'article L. 89-5. (art. R170-6 à R170-7)](#78)
-          - [Section 4 : Dispositions relatives à l'application de l'article L. 89-8. (art. R170-8 à R170-10)](#79)
-          - [Section 5 : Dispositions relatives à l'application de l'article L. 89-2. (art. R170-11 à R170-27)](#80)
-        - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-71)](#81)
-          - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46-6)](#82)
-          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane. (art. R170-47 à R170-55-2)](#83)
-          - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt. (art. R170-56 à R170-61)](#84)
-          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3. (art. R170-62 à R170-64)](#85)
-          - [Section 5 : Dispositions communes et diverses. (art. R170-65 à R170-71)](#86)
-      - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#87)
-  - [Partie réglementaire - Décrets simples (art. D5 à D44)](#88)
-    - [Livre Ier : Composition du domaine (art. D5)](#89)
-      - [Titre II : Origine des biens (art. D5)](#90)
-        - [Chapitre II : Domaine privé (art. D5)](#91)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D5)](#92)
-            - [Paragraphe 2 : Dispositions spéciales. (art. D5)](#93)
-    - [Livre II : Administration des biens domaniaux (art. D11 à D15)](#94)
-      - [Titre II : Domaine privé (art. D11 à D15)](#95)
-        - [Chapitre Ier : Domaine immobilier (art. D11 à D15)](#96)
-          - [Section 1 : Locations (art. D11)](#97)
-            - [Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales. (art. D11)](#98)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D12 à D15)](#99)
-    - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#100)
-      - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#101)
-        - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#102)
-          - [Section 2 : Ventes soumises à des règles particulières (art. D17-1 à D18)](#103)
-            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. D17-1)](#104)
-            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#105)
-    - [Livre IV : Dispositions diverses (art. D19 à D44)](#106)
-      - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. D19)](#107)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D20 à D35)](#108)
-        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique. (art. D20)](#109)
-        - [Chapitre III : Concessions domaniales en Guyane. (art. D21)](#110)
-          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III. (art. D21)](#111)
-        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#112)
-        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#113)
-      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#114)
-  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#115)
-    - [Livre Ier : Composition du domaine (art. A01 à A11)](#116)
-      - [Titre II : Origine des biens (art. A01 à A5)](#117)
-        - [Chapitre II : Domaine privé (art. A01 à A5)](#118)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#119)
-            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#120)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#121)
-      - [Titre III : Inventaire des biens. (art. A7 à A11)](#122)
-    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#123)
-      - [Titre Ier : Domaine public (art. A12 à A65)](#124)
-        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#125)
-          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#126)
-            - [A) Arrêtés individuels. (art. A12 à A19)](#127)
-            - [B) Arrêtés généraux. (art. A20 à A25)](#128)
-            - [C) Dispositions communes. (art. A26 à A30)](#129)
-          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#130)
-        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#131)
-          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#132)
-            - [A) Arrêtés individuels. (art. A40 à A44)](#133)
-            - [B) Arrêtés généraux. (art. A45 à A46)](#134)
-            - [C) Dispositions communes. (art. A47 à A48)](#135)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#136)
-        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#137)
-      - [Titre II : Domaine privé (art. A73 à A104)](#138)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#139)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#140)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#141)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#142)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#143)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#144)
-    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#145)
-      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#146)
-        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#147)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117)](#148)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#149)
-    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#150)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#151)
-        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#152)
-      - [Titre V : Dispositions particulières et finales. (art. A122)](#153)
+    - [Livre II : Administration des biens domaniaux (art. R53 à R128-17)](#15)
+      - [Titre Ier : Domaine public (art. R53 à R63)](#16)
+        - [Chapitre Ier : Occupation temporaire (art. R53 à R57-17)](#17)
+          - [Section 1 : Délivrance des autorisations. (art. R53 à R54)](#18)
+          - [Section 2 : Fixation des redevances. (art. R55 à R57)](#19)
+          - [Section 3 : Occupations constitutives de droits réels (art. R57-1 à R57-17)](#20)
+            - [Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat (art. R57-2 à R57-6)](#21)
+              - [Paragraphe 1 : Délivrance du titre. (art. R57-2 à R57-5)](#22)
+              - [Paragraphe 2 : Retrait du titre. (art. R57-6)](#23)
+            - [Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail. (art. R57-7 à R57-9)](#24)
+            - [Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements. (art. R57-10 à R57-13)](#25)
+            - [Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes. (art. R57-14 à R57-17)](#26)
+        - [Chapitre II : Transfert de gestion. (art. R58)](#27)
+        - [Chapitre III : Extractions sur le domaine public. (art. R58-1 à R58-7)](#28)
+        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales (art. R63)](#29)
+      - [Titre II : Domaine privé (art. R66 à R119)](#30)
+        - [Chapitre Ier : Domaine immobilier (art. R66 à R105-1)](#31)
+          - [Section 1 : Locations (art. R66 à R70)](#32)
+            - [Paragraphe 1 : Dispositions générales. (art. R66 à R68)](#33)
+            - [Paragraphe 2 : Locations soumises à des règles particulières. (art. R69 à R70)](#34)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. R71 à R73)](#35)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. R74 à R76-1)](#36)
+          - [Section 4 : Echanges. (art. R77 à R80)](#37)
+          - [Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R81 à R91)](#38)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. R92 à R104-1)](#39)
+          - [Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation. (art. R105)](#40)
+          - [Section 9 : Administration du domaine forestier. (art. R105-1)](#41)
+        - [Chapitre II : Domaine mobilier. (art. R106 à R119)](#42)
+      - [Titre III : Dispositions communes (art. R121 à R128-17)](#43)
+        - [Chapitre V : Regroupement des services publics. (art. R121 à R124)](#44)
+        - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux. (art. R125 à R128)](#45)
+        - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux. (art. R128-1 à R128-11)](#46)
+        - [Chapitre VIII : Utilisation des immeubles domaniaux par les services de l'Etat et ses établissements publics. (art. R128-12 à R128-17)](#47)
+    - [Livre III : Aliénation des biens domaniaux (art. R129 à R149)](#48)
+      - [Titre II : Aliénation des biens du domaine privé (art. R129 à R149)](#49)
+        - [Chapitre Ier : Domaine immobilier (art. R129 à R148-9)](#50)
+          - [Section 1 : Dispositions générales. (art. R129 à R135)](#51)
+          - [Section 2 : Ventes soumises à des règles particulières (art. R136 à R148-9)](#52)
+            - [Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés. (art. R136 à R137)](#53)
+            - [Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction. (art. R138 à R141)](#54)
+            - [Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique. (art. R142)](#55)
+            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. R143)](#56)
+            - [Paragraphe 5 : Constructions provisoires édifiées par l'Etat. (art. R144)](#57)
+            - [Paragraphe 8 : Lais et relais de mer - Marais - Concessions. (art. R145 à R147)](#58)
+            - [Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier. (art. R147-1)](#59)
+            - [Paragraphe 10 : Servitudes. (art. R148)](#60)
+            - [Paragraphe 11 : Rétrocession d'immeubles expropriés. (art. R148-1)](#61)
+            - [Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé. (art. R148-2)](#62)
+            - [Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social. (art. R148-5 à R148-9)](#63)
+        - [Chapitre II : Domaine mobilier. (art. R149)](#64)
+    - [Livre IV : Dispositions diverses (art. R150 à R186)](#65)
+      - [Titre Ier : Dispositions générales. (art. R150 à R152-1)](#66)
+      - [Titre II : Procédure - Instances (art. R153 à R163)](#67)
+        - [Chapitre Ier : Recouvrement des produits domaniaux (art. R153 à R157-2)](#68)
+          - [Section 2 : Procédure de recouvrement. (art. R153 à R157-2)](#69)
+        - [Chapitre II : Instances. (art. R158 à R163)](#70)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. R164 à R170-71)](#71)
+        - [Chapitre Ier : Zone des cinquante pas géométriques. (art. R164 à R169-4)](#72)
+        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique (art. R170 à R170-27)](#73)
+          - [Section 1 : Cession de terrains prévue par l'article L. 89-3. (art. R170 à R170-3)](#74)
+          - [Section 2 : Cession de terrains prévue par l'article L. 89-4. (art. R170-4 à R170-5)](#75)
+          - [Section 3 : Cession de terrains prévue par l'article L. 89-5. (art. R170-6 à R170-7)](#76)
+          - [Section 4 : Dispositions relatives à l'application de l'article L. 89-8. (art. R170-8 à R170-10)](#77)
+          - [Section 5 : Dispositions relatives à l'application de l'article L. 89-2. (art. R170-11 à R170-27)](#78)
+        - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane (art. R170-31 à R170-71)](#79)
+          - [Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales. (art. R170-31 à R170-46-6)](#80)
+          - [Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane. (art. R170-47 à R170-55-2)](#81)
+          - [Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt. (art. R170-56 à R170-61)](#82)
+          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3. (art. R170-62 à R170-64)](#83)
+          - [Section 5 : Dispositions communes et diverses. (art. R170-65 à R170-71)](#84)
+      - [Titre V : Dispositions particulières et finales. (art. R171 à R186)](#85)
+  - [Partie réglementaire - Décrets simples (art. D5 à D44)](#86)
+    - [Livre Ier : Composition du domaine (art. D5)](#87)
+      - [Titre II : Origine des biens (art. D5)](#88)
+        - [Chapitre II : Domaine privé (art. D5)](#89)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D5)](#90)
+            - [Paragraphe 2 : Dispositions spéciales. (art. D5)](#91)
+    - [Livre II : Administration des biens domaniaux (art. D12 à D15)](#92)
+      - [Titre II : Domaine privé (art. D12 à D15)](#93)
+        - [Chapitre Ier : Domaine immobilier (art. D12 à D15)](#94)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D12 à D15)](#95)
+    - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#96)
+      - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#97)
+        - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#98)
+          - [Section 2 : Ventes soumises à des règles particulières (art. D17-1 à D18)](#99)
+            - [Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux. (art. D17-1)](#100)
+            - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#101)
+    - [Livre IV : Dispositions diverses (art. D19 à D44)](#102)
+      - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. D19)](#103)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D20 à D35)](#104)
+        - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique. (art. D20)](#105)
+        - [Chapitre III : Concessions domaniales en Guyane. (art. D21)](#106)
+          - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III. (art. D21)](#107)
+        - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#108)
+        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#109)
+      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#110)
+  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#111)
+    - [Livre Ier : Composition du domaine (art. A01 à A11)](#112)
+      - [Titre II : Origine des biens (art. A01 à A5)](#113)
+        - [Chapitre II : Domaine privé (art. A01 à A5)](#114)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#115)
+            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#116)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#117)
+      - [Titre III : Inventaire des biens. (art. A7 à A11)](#118)
+    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#119)
+      - [Titre Ier : Domaine public (art. A12 à A65)](#120)
+        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#121)
+          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#122)
+            - [A) Arrêtés individuels. (art. A12 à A19)](#123)
+            - [B) Arrêtés généraux. (art. A20 à A25)](#124)
+            - [C) Dispositions communes. (art. A26 à A30)](#125)
+          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#126)
+        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#127)
+          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#128)
+            - [A) Arrêtés individuels. (art. A40 à A44)](#129)
+            - [B) Arrêtés généraux. (art. A45 à A46)](#130)
+            - [C) Dispositions communes. (art. A47 à A48)](#131)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#132)
+        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#133)
+      - [Titre II : Domaine privé (art. A73 à A104)](#134)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#135)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#136)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#137)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#138)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#139)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#140)
+    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#141)
+      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#142)
+        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#143)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117)](#144)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#145)
+    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#146)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#147)
+        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#148)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#149)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -2746,47 +2742,13 @@ _Anciens textes_:
   - Décret n°1937-06-18 art. 6
 
 
-### Titre III : Inventaire des biens.<a id=15></a>
+## Livre II : Administration des biens domaniaux<a id=15></a>
 
-###### Article R52
+### Titre Ier : Domaine public<a id=16></a>
 
-Il est établi et tenu à jour un état des immeubles appartenant à l'Etat ou aux établissements publics nationaux à caractère
-administratif et des immeubles dont l'Etat ou les établissements publics nationaux à caractère administratif ont la
-jouissance ou qu'ils détiennent à un titre quelconque sans en avoir la propriété. Cet état constitue un inventaire physique.
+#### Chapitre Ier : Occupation temporaire<a id=17></a>
 
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°83-816 du 13 septembre 1983 - art. 23 (VT)
-
-_Modifié par_:
-
-  - Décret n°2009-563 du 19 mai 2009 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R2312-5 (V)
-  - Code général de la propriété des personnes publ... - art. R4121-4 (V)
-
-
-## Livre II : Administration des biens domaniaux<a id=16></a>
-
-### Titre Ier : Domaine public<a id=17></a>
-
-#### Chapitre Ier : Occupation temporaire<a id=18></a>
-
-##### Section 1 : Délivrance des autorisations.<a id=19></a>
+##### Section 1 : Délivrance des autorisations.<a id=18></a>
 
 ###### Article R53
 
@@ -2886,7 +2848,7 @@ _Modifié par_:
   - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 2 : Fixation des redevances.<a id=20></a>
+##### Section 2 : Fixation des redevances.<a id=19></a>
 
 ###### Article R55
 
@@ -3012,7 +2974,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2125-3 (V)
 
 
-##### Section 3 : Occupations constitutives de droits réels<a id=21></a>
+##### Section 3 : Occupations constitutives de droits réels<a id=20></a>
 
 ###### Article R57-1
 
@@ -3053,9 +3015,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-9 (V)
 
 
-##### Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat<a id=22></a>
+##### Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat<a id=21></a>
 
-##### Paragraphe 1 : Délivrance du titre.<a id=23></a>
+##### Paragraphe 1 : Délivrance du titre.<a id=22></a>
 
 ###### Article R57-2
 
@@ -3321,7 +3283,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-17 (V)
 
 
-##### Paragraphe 2 : Retrait du titre.<a id=24></a>
+##### Paragraphe 2 : Retrait du titre.<a id=23></a>
 
 ###### Article R57-6
 
@@ -3362,7 +3324,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-18 (V)
 
 
-##### Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail.<a id=25></a>
+##### Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail.<a id=24></a>
 
 ###### Article R57-7
 
@@ -3619,7 +3581,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-27 (V)
 
 
-##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.<a id=26></a>
+##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.<a id=25></a>
 
 ###### Article R57-10
 
@@ -3770,7 +3732,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-54 (M)
 
 
-##### Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes.<a id=27></a>
+##### Sous-section 4 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des communes.<a id=26></a>
 
 ###### Article R57-14
 
@@ -3927,7 +3889,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-54 (M)
 
 
-#### Chapitre II : Transfert de gestion.<a id=28></a>
+#### Chapitre II : Transfert de gestion.<a id=27></a>
 
 ###### Article R58
 
@@ -3996,7 +3958,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2123-9 (V)
 
 
-#### Chapitre III : Extractions sur le domaine public.<a id=29></a>
+#### Chapitre III : Extractions sur le domaine public.<a id=28></a>
 
 ###### Article R58-1
 
@@ -4227,7 +4189,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales<a id=30></a>
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales<a id=29></a>
 
 ###### Article R63
 
@@ -4268,13 +4230,13 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-### Titre II : Domaine privé<a id=31></a>
+### Titre II : Domaine privé<a id=30></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=32></a>
+#### Chapitre Ier : Domaine immobilier<a id=31></a>
 
-##### Section 1 : Locations<a id=33></a>
+##### Section 1 : Locations<a id=32></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=34></a>
+##### Paragraphe 1 : Dispositions générales.<a id=33></a>
 
 ###### Article R66
 
@@ -4386,7 +4348,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=35></a>
+##### Paragraphe 2 : Locations soumises à des règles particulières.<a id=34></a>
 
 ###### Article R69
 
@@ -4468,7 +4430,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*331-12 (Ab)
 
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=36></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=35></a>
 
 ###### Article R71
 
@@ -4612,7 +4574,7 @@ _Modifié par_:
   - Décret n°70-1190 1970-12-11 art. 2 JORF 15 décembre 1970
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=37></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=36></a>
 
 ###### Article R74
 
@@ -4751,7 +4713,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R76
 
 
-##### Section 4 : Echanges.<a id=38></a>
+##### Section 4 : Echanges.<a id=37></a>
 
 ###### Article R77
 
@@ -4895,7 +4857,7 @@ _Modifié par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=39></a>
+##### Section 5 : Affectation d'immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=38></a>
 
 ###### Article R81
 
@@ -5481,7 +5443,7 @@ _Modifié par_:
   - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=40></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=39></a>
 
 ###### Article R92
 
@@ -6073,7 +6035,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation.<a id=41></a>
+##### Section 8 : Achat, gestion et vente d'immeubles construits ou réparés à l'aide des prêts prévus par la loi n° 46-2389 du 28 octobre 1946 et par l'article L312-1 du code de la construction et de l'habitation.<a id=40></a>
 
 ###### Article R105
 
@@ -6114,7 +6076,7 @@ _Modifié par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-##### Section 9 : Administration du domaine forestier.<a id=42></a>
+##### Section 9 : Administration du domaine forestier.<a id=41></a>
 
 ###### Article R105-1
 
@@ -6165,7 +6127,7 @@ _Cite_:
   - Code forestier - art. L121-2
 
 
-#### Chapitre II : Domaine mobilier.<a id=43></a>
+#### Chapitre II : Domaine mobilier.<a id=42></a>
 
 ###### Article R106
 
@@ -6659,9 +6621,9 @@ _Anciens textes_:
   - Décret n°1852-06-02 art. 4
 
 
-### Titre III : Dispositions communes<a id=44></a>
+### Titre III : Dispositions communes<a id=43></a>
 
-#### Chapitre V : Regroupement des services publics.<a id=45></a>
+#### Chapitre V : Regroupement des services publics.<a id=44></a>
 
 ###### Article R121
 
@@ -6801,7 +6763,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=46></a>
+#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.<a id=45></a>
 
 ###### Article R125
 
@@ -7010,7 +6972,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux.<a id=47></a>
+#### Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux.<a id=46></a>
 
 ###### Article R128-1
 
@@ -7510,7 +7472,7 @@ _Cite_:
   - Code de l'environnement - art. L322-9
 
 
-#### Chapitre VIII : Utilisation des immeubles domaniaux par les services de l'Etat et ses établissements publics.<a id=48></a>
+#### Chapitre VIII : Utilisation des immeubles domaniaux par les services de l'Etat et ses établissements publics.<a id=47></a>
 
 ###### Article R128-12
 
@@ -7738,13 +7700,13 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R4121-2 (V)
 
 
-## Livre III : Aliénation des biens domaniaux<a id=49></a>
+## Livre III : Aliénation des biens domaniaux<a id=48></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=50></a>
+### Titre II : Aliénation des biens du domaine privé<a id=49></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=51></a>
+#### Chapitre Ier : Domaine immobilier<a id=50></a>
 
-##### Section 1 : Dispositions générales.<a id=52></a>
+##### Section 1 : Dispositions générales.<a id=51></a>
 
 ###### Article R129
 
@@ -8224,9 +8186,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-32 (V)
 
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=53></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=52></a>
 
-##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=54></a>
+##### Paragraphe 1 : Iles, ilots, forts, châteaux forts et batteries du littoral, immeubles militaires déclassés.<a id=53></a>
 
 ###### Article R136
 
@@ -8289,7 +8251,7 @@ _Cite_:
   - Loi n°1933-03-28 annexe
 
 
-##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=55></a>
+##### Paragraphe 2 : Immeubles domaniaux cédés en vue de favoriser la construction.<a id=54></a>
 
 ###### Article R138
 
@@ -8433,7 +8395,7 @@ _Abrogé par_:
   - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969 en vigueur le 1er avril 1970
 
 
-##### Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique.<a id=56></a>
+##### Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique.<a id=55></a>
 
 ###### Article R142
 
@@ -8470,7 +8432,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=57></a>
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=56></a>
 
 ###### Article R143
 
@@ -8516,7 +8478,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-28 (V)
 
 
-##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat.<a id=58></a>
+##### Paragraphe 5 : Constructions provisoires édifiées par l'Etat.<a id=57></a>
 
 ###### Article R144
 
@@ -8553,7 +8515,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=59></a>
+##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.<a id=58></a>
 
 ###### Article R145
 
@@ -8779,7 +8741,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R130 (Ab)
 
 
-##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=60></a>
+##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.<a id=59></a>
 
 ###### Article R147-1
 
@@ -8821,7 +8783,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-24 (V)
 
 
-##### Paragraphe 10 : Servitudes.<a id=61></a>
+##### Paragraphe 10 : Servitudes.<a id=60></a>
 
 ###### Article R148
 
@@ -8864,7 +8826,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-25 (M)
 
 
-##### Paragraphe 11 : Rétrocession d'immeubles expropriés.<a id=62></a>
+##### Paragraphe 11 : Rétrocession d'immeubles expropriés.<a id=61></a>
 
 ###### Article R148-1
 
@@ -8899,7 +8861,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé.<a id=63></a>
+##### Paragraphe 11 bis : Cession aux collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat par droit de préemption dans les zones à urbaniser en priorité et dans les zones d'aménagement différé.<a id=62></a>
 
 ###### Article R148-2
 
@@ -8935,100 +8897,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministre de la défense.<a id=64></a>
-
-###### Article R148-3
-
-Jusqu'au 31 décembre 2014, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense avant le 31
-décembre 2008 a lieu avec publicité et mise en concurrence soit par adjudication publique, soit à l'amiable. L'aliénation des
-immeubles domaniaux reconnus inutiles par le ministre de la défense après le 31 décembre 2008 compris dans un site ayant fait
-l'objet d'une décision de restructuration prise par le ministre de la défense a lieu dans les mêmes conditions jusqu'au 31
-décembre 2014. La cession amiable est précédée d'une publicité adaptée à la nature et à l'importance de l'immeuble dont la
-cession est envisagée, permettant une mise en concurrence, dans les conditions mentionnées aux articles R. 129-2 et R.
-129-3. 
-
-Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence, dans les cas suivants : 
-
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 150 000 euros ; 
-
-2° Lorsqu'une précédente adjudication a été infructueuse ; 
-
-3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département ou la région de la situation du bien
-ou un établissement public de coopération intercommunale agissant dans le cadre de ses compétences, s'engage à acquérir
-l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense ; 
-
-4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
-l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense ; 
-
-Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
-amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-255 du 4 mars 2009 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-_Cité par_:
-
-  - Décret du 23 juillet 2015 (V)
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. R129-2
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R3211-26 (M)
-
-
-###### Article R148-4
-
-Les dispositions des articles R. 129, R. 129-4 et R. 138 ne sont pas applicables aux aliénations des immeubles domaniaux
-visés à l'article précédent.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-299 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°2004-1175 du 4 novembre 2004 - art. 6 () JORF 6 novembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. R129
-  - Code du domaine de l'Etat - art. R129-4
-  - Code du domaine de l'Etat - art. R138
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R3211-27 (V)
-
-
-##### Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social.<a id=65></a>
+##### Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social.<a id=63></a>
 
 ###### Article R148-5
 
@@ -9218,7 +9087,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-14
 
 
-#### Chapitre II : Domaine mobilier.<a id=66></a>
+#### Chapitre II : Domaine mobilier.<a id=64></a>
 
 ###### Article R149
 
@@ -9260,9 +9129,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R3211-41 (V)
 
 
-## Livre IV : Dispositions diverses<a id=67></a>
+## Livre IV : Dispositions diverses<a id=65></a>
 
-### Titre Ier : Dispositions générales.<a id=68></a>
+### Titre Ier : Dispositions générales.<a id=66></a>
 
 ###### Article R150
 
@@ -9480,11 +9349,11 @@ _Abrogé par_:
   - CODIFIE: Code général de la propriété des personnes publ... - art. R2124-56 (V)
 
 
-### Titre II : Procédure - Instances<a id=69></a>
+### Titre II : Procédure - Instances<a id=67></a>
 
-#### Chapitre Ier : Recouvrement des produits domaniaux<a id=70></a>
+#### Chapitre Ier : Recouvrement des produits domaniaux<a id=68></a>
 
-##### Section 2 : Procédure de recouvrement.<a id=71></a>
+##### Section 2 : Procédure de recouvrement.<a id=69></a>
 
 ###### Article R153
 
@@ -9792,7 +9661,7 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre II : Instances.<a id=72></a>
+#### Chapitre II : Instances.<a id=70></a>
 
 ###### Article R158
 
@@ -10126,9 +9995,9 @@ _Anciens textes_:
   - Ordonnance 1838-05-05
 
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=73></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=71></a>
 
-#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=74></a>
+#### Chapitre Ier : Zone des cinquante pas géométriques.<a id=72></a>
 
 ###### Article R164
 
@@ -10561,9 +10430,9 @@ _Cite_:
   - Code du domaine de l'Etat L88-2, L170-11 à R170-18, R170-20 à R170-27, R170-13, R170-14
 
 
-#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique<a id=75></a>
+#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique<a id=73></a>
 
-##### Section 1 : Cession de terrains prévue par l'article L. 89-3.<a id=76></a>
+##### Section 1 : Cession de terrains prévue par l'article L. 89-3.<a id=74></a>
 
 ###### Article R170
 
@@ -10823,7 +10692,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-12 (V)
 
 
-##### Section 2 : Cession de terrains prévue par l'article L. 89-4.<a id=77></a>
+##### Section 2 : Cession de terrains prévue par l'article L. 89-4.<a id=75></a>
 
 ###### Article R170-4
 
@@ -10941,7 +10810,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-19 (V)
 
 
-##### Section 3 : Cession de terrains prévue par l'article L. 89-5.<a id=78></a>
+##### Section 3 : Cession de terrains prévue par l'article L. 89-5.<a id=76></a>
 
 ###### Article R170-6
 
@@ -11056,7 +10925,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-25 (V)
 
 
-##### Section 4 : Dispositions relatives à l'application de l'article L. 89-8.<a id=79></a>
+##### Section 4 : Dispositions relatives à l'application de l'article L. 89-8.<a id=77></a>
 
 ###### Article R170-8
 
@@ -11174,7 +11043,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-28 (V)
 
 
-##### Section 5 : Dispositions relatives à l'application de l'article L. 89-2.<a id=80></a>
+##### Section 5 : Dispositions relatives à l'application de l'article L. 89-2.<a id=78></a>
 
 ###### Article R170-11
 
@@ -11797,9 +11666,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5112-45 (V)
 
 
-#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=81></a>
+#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane<a id=79></a>
 
-##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales.<a id=82></a>
+##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales.<a id=80></a>
 
 ###### Article R170-31
 
@@ -13069,7 +12938,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5141-25 (V)
 
 
-##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane.<a id=83></a>
+##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane.<a id=81></a>
 
 ###### Article R170-47
 
@@ -13566,7 +13435,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5142-12 (V)
 
 
-##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.<a id=84></a>
+##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.<a id=82></a>
 
 ###### Article R170-56
 
@@ -13839,7 +13708,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. D5143-6 (V)
 
 
-##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3.<a id=85></a>
+##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3.<a id=83></a>
 
 ###### Article R170-62
 
@@ -13985,7 +13854,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5144-3 (V)
 
 
-##### Section 5 : Dispositions communes et diverses.<a id=86></a>
+##### Section 5 : Dispositions communes et diverses.<a id=84></a>
 
 ###### Article R170-65
 
@@ -14303,7 +14172,7 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R5145-7 (V)
 
 
-### Titre V : Dispositions particulières et finales.<a id=87></a>
+### Titre V : Dispositions particulières et finales.<a id=85></a>
 
 ###### Article R171
 
@@ -14986,17 +14855,17 @@ _Créé par_:
   - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-# Partie réglementaire - Décrets simples<a id=88></a>
+# Partie réglementaire - Décrets simples<a id=86></a>
 
-## Livre Ier : Composition du domaine<a id=89></a>
+## Livre Ier : Composition du domaine<a id=87></a>
 
-### Titre II : Origine des biens<a id=90></a>
+### Titre II : Origine des biens<a id=88></a>
 
-#### Chapitre II : Domaine privé<a id=91></a>
+#### Chapitre II : Domaine privé<a id=89></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=92></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat<a id=90></a>
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=93></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=91></a>
 
 ###### Article D5
 
@@ -15033,37 +14902,13 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-## Livre II : Administration des biens domaniaux<a id=94></a>
+## Livre II : Administration des biens domaniaux<a id=92></a>
 
-### Titre II : Domaine privé<a id=95></a>
+### Titre II : Domaine privé<a id=93></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=96></a>
+#### Chapitre Ier : Domaine immobilier<a id=94></a>
 
-##### Section 1 : Locations<a id=97></a>
-
-##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.<a id=98></a>
-
-###### Article D11
-
-L'affermage des lots attribués aux sociétés de chasse fait l'objet d'un acte administratif passé par le préfet et, le cas
-échéant, par le chef de service intéressé lorsque la compétence de celui-ci excède l'étendue du département.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-_Abrogé par_:
-
-  - Décret n°68-119 1968-02-08 art. 12 JORF 9 février 1968
-
-_Créé par_:
-
-  - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
-
-
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=99></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=95></a>
 
 ###### Article D12
 
@@ -15240,15 +15085,15 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=100></a>
+## Livre III : Aliénation des biens domaniaux<a id=96></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=101></a>
+### Titre II : Aliénation des biens du domaine privé<a id=97></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=102></a>
+#### Chapitre Ier : Domaine immobilier<a id=98></a>
 
-##### Section 2 : Ventes soumises à des règles particulières<a id=103></a>
+##### Section 2 : Ventes soumises à des règles particulières<a id=99></a>
 
-##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=104></a>
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.<a id=100></a>
 
 ###### Article D17-1
 
@@ -15301,7 +15146,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=105></a>
+##### Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques.<a id=101></a>
 
 ###### Article D18
 
@@ -15347,9 +15192,9 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-## Livre IV : Dispositions diverses<a id=106></a>
+## Livre IV : Dispositions diverses<a id=102></a>
 
-### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=107></a>
+### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=103></a>
 
 ###### Article D19
 
@@ -15374,9 +15219,9 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=108></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer<a id=104></a>
 
-#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique.<a id=109></a>
+#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique.<a id=105></a>
 
 ###### Article D20
 
@@ -15420,9 +15265,9 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. D5112-24 (V)
 
 
-#### Chapitre III : Concessions domaniales en Guyane.<a id=110></a>
+#### Chapitre III : Concessions domaniales en Guyane.<a id=106></a>
 
-##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III.<a id=111></a>
+##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III.<a id=107></a>
 
 ###### Article D21
 
@@ -15461,7 +15306,7 @@ _Créé par_:
   - Décret n°2000-226 du 10 mars 2000 - art. 1 () JORF 11 mars 2000
 
 
-#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=112></a>
+#### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.<a id=108></a>
 
 ###### Article D33
 
@@ -15544,7 +15389,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=113></a>
+#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=109></a>
 
 ###### Article D35
 
@@ -15578,7 +15423,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-### Titre V : Dispositions particulières et finales.<a id=114></a>
+### Titre V : Dispositions particulières et finales.<a id=110></a>
 
 ###### Article D36
 
@@ -15925,17 +15770,17 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-# Partie réglementaire - Arrêtés<a id=115></a>
+# Partie réglementaire - Arrêtés<a id=111></a>
 
-## Livre Ier : Composition du domaine<a id=116></a>
+## Livre Ier : Composition du domaine<a id=112></a>
 
-### Titre II : Origine des biens<a id=117></a>
+### Titre II : Origine des biens<a id=113></a>
 
-#### Chapitre II : Domaine privé<a id=118></a>
+#### Chapitre II : Domaine privé<a id=114></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=119></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=115></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=120></a>
+##### Paragraphe 1 : Dispositions générales.<a id=116></a>
 
 ###### Article A01
 
@@ -16072,7 +15917,7 @@ _Modifié par_:
   - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=121></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=117></a>
 
 ###### Article A1
 
@@ -16329,7 +16174,7 @@ _Modifié par_:
   - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-### Titre III : Inventaire des biens.<a id=122></a>
+### Titre III : Inventaire des biens.<a id=118></a>
 
 ###### Article A7
 
@@ -16467,15 +16312,15 @@ _Cite_:
   - Code du domaine de l'Etat - art. A7 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=123></a>
+## Livre II : Administration des biens domaniaux<a id=119></a>
 
-### Titre Ier : Domaine public<a id=124></a>
+### Titre Ier : Domaine public<a id=120></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=125></a>
+#### Chapitre Ier : Occupation temporaire<a id=121></a>
 
-##### Section 1 : Délivrance des autorisations<a id=126></a>
+##### Section 1 : Délivrance des autorisations<a id=122></a>
 
-##### A) Arrêtés individuels.<a id=127></a>
+##### A) Arrêtés individuels.<a id=123></a>
 
 ###### Article A12
 
@@ -16705,7 +16550,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A16 (V)
 
 
-##### B) Arrêtés généraux.<a id=128></a>
+##### B) Arrêtés généraux.<a id=124></a>
 
 ###### Article A20
 
@@ -16924,7 +16769,7 @@ _Cite_:
   - Code du domaine de l'Etat A12 à A19
 
 
-##### C) Dispositions communes.<a id=129></a>
+##### C) Dispositions communes.<a id=125></a>
 
 ###### Article A26
 
@@ -17078,7 +16923,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R54 (M)
 
 
-##### Section 2 : Fixation des redevances.<a id=130></a>
+##### Section 2 : Fixation des redevances.<a id=126></a>
 
 ###### Article A31
 
@@ -17296,11 +17141,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A23 (V)
 
 
-#### Chapitre III : Extractions sur le domaine public<a id=131></a>
+#### Chapitre III : Extractions sur le domaine public<a id=127></a>
 
-##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=132></a>
+##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=128></a>
 
-##### A) Arrêtés individuels.<a id=133></a>
+##### A) Arrêtés individuels.<a id=129></a>
 
 ###### Article A40
 
@@ -17444,7 +17289,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A113 (M)
 
 
-##### B) Arrêtés généraux.<a id=134></a>
+##### B) Arrêtés généraux.<a id=130></a>
 
 ###### Article A45
 
@@ -17528,7 +17373,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A40 (V)
 
 
-##### C) Dispositions communes.<a id=135></a>
+##### C) Dispositions communes.<a id=131></a>
 
 ###### Article A47
 
@@ -17587,7 +17432,7 @@ _Cite_:
   - Code du domaine de l'Etat A40 à A47, R53, A40
 
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=136></a>
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=132></a>
 
 ###### Article A49
 
@@ -17843,7 +17688,7 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=137></a>
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=133></a>
 
 ###### Article A60
 
@@ -18000,11 +17845,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A66 (Ab)
 
 
-### Titre II : Domaine privé<a id=138></a>
+### Titre II : Domaine privé<a id=134></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=139></a>
+#### Chapitre Ier : Domaine immobilier<a id=135></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=140></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=136></a>
 
 ###### Article A73
 
@@ -18345,7 +18190,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=141></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=137></a>
 
 ###### Article A90
 
@@ -18365,7 +18210,7 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=142></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=138></a>
 
 ###### Article A91
 
@@ -18705,7 +18550,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A93-7 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=143></a>
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=139></a>
 
 ###### Article A94
 
@@ -18890,7 +18735,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=144></a>
+#### Chapitre II : Domaine immobilier.<a id=140></a>
 
 ###### Article A101
 
@@ -18974,11 +18819,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=145></a>
+## Livre III : Aliénation des biens domaniaux<a id=141></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=146></a>
+### Titre II : Aliénation des biens du domaine privé<a id=142></a>
 
-#### Chapitre Ier : Domaine immobilier.<a id=147></a>
+#### Chapitre Ier : Domaine immobilier.<a id=143></a>
 
 ###### Article A104-1
 
@@ -19000,7 +18845,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R129-4 (V)
 
 
-#### Chapitre II : Domaine mobilier.<a id=148></a>
+#### Chapitre II : Domaine mobilier.<a id=144></a>
 
 ###### Article A105
 
@@ -19388,7 +19233,7 @@ _Modifié par_:
   - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=149></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=145></a>
 
 ###### Article A118
 
@@ -19470,11 +19315,11 @@ _Modifié par_:
   - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
 
 
-## Livre IV : Dispositions diverses<a id=150></a>
+## Livre IV : Dispositions diverses<a id=146></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=151></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=147></a>
 
-#### Chapitre V : Concessions de logements.<a id=152></a>
+#### Chapitre V : Concessions de logements.<a id=148></a>
 
 ###### Article A120-1
 
@@ -19536,7 +19381,7 @@ _Cite_:
   - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
 
 
-### Titre V : Dispositions particulières et finales.<a id=153></a>
+### Titre V : Dispositions particulières et finales.<a id=149></a>
 
 ###### Article A122
 
