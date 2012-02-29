@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-03-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -8901,18 +8901,12 @@ _Nouveaux textes_:
 
 ###### Article R148-6
 
-Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface hors oeuvre nette
+Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de   surface de plancher
 affectée au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
-construction et de l'habitation.
+construction et de l'habitation. 
 
 L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans le prix de revient des logements
 locatifs sociaux réalisés sur le terrain aliéné.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -8920,56 +8914,30 @@ _Codifié par_:
 
   - Décret n°62-299 du 14 mars 1962
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-1571 du 15 décembre 2005 - art. 1 () JORF 17 décembre 2005
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R3211-14 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L351-2
+  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
 
 
 ###### Article R148-7
 
 La décote ne peut excéder 25 % ou, dans la zone définie en fonction du niveau du marché foncier par arrêté conjoint des
 ministres chargés du budget et du logement, 35 % du produit de la valeur vénale du terrain, pondérée par le rapport de la
-surface hors oeuvre nette affectée au logement locatif social à la surface hors oeuvre nette totale du programme immobilier.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+surface de plancher affectée au logement locatif social à la   surface de plancher totale du programme immobilier.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°2006-895 du 18 juillet 2006 - art. 1 () JORF 20 juillet 2006
+  - Décret n°62-299 du 14 mars 1962
 
 _Cité par_:
 
   - Décret n°2006-895 du 18 juillet 2006 - art. 2 (V)
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R3211-15 (V)
+  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
 
 
 ###### Article R148-8
