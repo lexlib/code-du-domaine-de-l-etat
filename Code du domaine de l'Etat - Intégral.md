@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-05-11
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -104,52 +104,51 @@ Version Consolidée au 2012-03-01
             - [Paragraphe 12 : Immeubles domaniaux attribués à l'Office national d'études et de recherches aéronautiques. (art. D18)](#101)
     - [Livre IV : Dispositions diverses (art. D19 à D44)](#102)
       - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. D19)](#103)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D20 à D35)](#104)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer (art. D20 à D34)](#104)
         - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique. (art. D20)](#105)
         - [Chapitre III : Concessions domaniales en Guyane. (art. D21)](#106)
           - [Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections I, II et III. (art. D21)](#107)
         - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane. (art. D33 à D34)](#108)
-        - [Chapitre V : Concessions de logements dans les départements d'outre-mer. (art. D35)](#109)
-      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#110)
-  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#111)
-    - [Livre Ier : Composition du domaine (art. A01 à A11)](#112)
-      - [Titre II : Origine des biens (art. A01 à A5)](#113)
-        - [Chapitre II : Domaine privé (art. A01 à A5)](#114)
-          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#115)
-            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#116)
-            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#117)
-      - [Titre III : Inventaire des biens. (art. A7 à A11)](#118)
-    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#119)
-      - [Titre Ier : Domaine public (art. A12 à A65)](#120)
-        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#121)
-          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#122)
-            - [A) Arrêtés individuels. (art. A12 à A19)](#123)
-            - [B) Arrêtés généraux. (art. A20 à A25)](#124)
-            - [C) Dispositions communes. (art. A26 à A30)](#125)
-          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#126)
-        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#127)
-          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#128)
-            - [A) Arrêtés individuels. (art. A40 à A44)](#129)
-            - [B) Arrêtés généraux. (art. A45 à A46)](#130)
-            - [C) Dispositions communes. (art. A47 à A48)](#131)
-          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#132)
-        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#133)
-      - [Titre II : Domaine privé (art. A73 à A104)](#134)
-        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#135)
-          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#136)
-          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#137)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#138)
-          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#139)
-        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#140)
-    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#141)
-      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#142)
-        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#143)
-        - [Chapitre II : Domaine mobilier. (art. A105 à A117)](#144)
-        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#145)
-    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#146)
-      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#147)
-        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#148)
-      - [Titre V : Dispositions particulières et finales. (art. A122)](#149)
+      - [Titre V : Dispositions particulières et finales. (art. D36 à D44)](#109)
+  - [Partie réglementaire - Arrêtés (art. A01 à A122)](#110)
+    - [Livre Ier : Composition du domaine (art. A01 à A11)](#111)
+      - [Titre II : Origine des biens (art. A01 à A5)](#112)
+        - [Chapitre II : Domaine privé (art. A01 à A5)](#113)
+          - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat. (art. A01 à A5)](#114)
+            - [Paragraphe 1 : Dispositions générales. (art. A01 à A04)](#115)
+            - [Paragraphe 2 : Dispositions spéciales. (art. A1 à A5)](#116)
+      - [Titre III : Inventaire des biens. (art. A7 à A11)](#117)
+    - [Livre II : Administration des biens domaniaux (art. A12 à A104)](#118)
+      - [Titre Ier : Domaine public (art. A12 à A65)](#119)
+        - [Chapitre Ier : Occupation temporaire (art. A12 à A39)](#120)
+          - [Section 1 : Délivrance des autorisations (art. A12 à A30)](#121)
+            - [A) Arrêtés individuels. (art. A12 à A19)](#122)
+            - [B) Arrêtés généraux. (art. A20 à A25)](#123)
+            - [C) Dispositions communes. (art. A26 à A30)](#124)
+          - [Section 2 : Fixation des redevances. (art. A31 à A39)](#125)
+        - [Chapitre III : Extractions sur le domaine public (art. A40 à A59)](#126)
+          - [Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux. (art. A40 à A48)](#127)
+            - [A) Arrêtés individuels. (art. A40 à A44)](#128)
+            - [B) Arrêtés généraux. (art. A45 à A46)](#129)
+            - [C) Dispositions communes. (art. A47 à A48)](#130)
+          - [Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins. (art. A49 à A59)](#131)
+        - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales. (art. A60 à A65)](#132)
+      - [Titre II : Domaine privé (art. A73 à A104)](#133)
+        - [Chapitre Ier : Domaine immobilier (art. A73 à A100)](#134)
+          - [Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation. (art. A73 à A89)](#135)
+          - [Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux. (art. A90)](#136)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. A91 à A93-8)](#137)
+          - [Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat. (art. A94 à A100)](#138)
+        - [Chapitre II : Domaine immobilier. (art. A101 à A104)](#139)
+    - [Livre III : Aliénation des biens domaniaux (art. A104-1 à A120)](#140)
+      - [Titre II : Aliénation des biens du domaine privé (art. A104-1 à A120)](#141)
+        - [Chapitre Ier : Domaine immobilier. (art. A104-1)](#142)
+        - [Chapitre II : Domaine mobilier. (art. A105 à A117)](#143)
+        - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence. (art. A118 à A120)](#144)
+    - [Livre IV : Dispositions diverses (art. A120-1 à A122)](#145)
+      - [Titre IV : Dispositions spéciales aux départements d'outre-mer. (art. A120-1 à A121)](#146)
+        - [Chapitre V : Concessions de logements. (art. A120-1 à A121)](#147)
+      - [Titre V : Dispositions particulières et finales. (art. A122)](#148)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## Livre Ier : Composition du domaine<a id=2></a>
@@ -15321,41 +15320,7 @@ _Codifié par_:
   - Décret n°62-300 1962-03-14
 
 
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.<a id=109></a>
-
-###### Article D35
-
-Conformément à l'article R. 104, les dispositions des articles R. 92 à R. 102 sont étendues aux occupations de logements par
-les personnels civils et par les personnels militaires des armées de terre, de mer et de l'air, dans les immeubles
-appartenant à l'Etat ou détenus par lui à un titre quelconque dans les départements de la Guadeloupe, de la Guyane française,
-de la Martinique et de la Réunion.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-240 1951-02-28 art. 1
-  - Décret n°52-1148 1952-10-13 art. 1
-
-_Abrogé par_:
-
-  - Décret n°2012-752 du 9 mai 2012 - art. 12
-
-_Cite_:
-
-  - Code du domaine de l'Etat
-  - Code du domaine de l'Etat - art. R104
-
-_Cité par_:
-
-  - Code du domaine de l'Etat - art. A120-1 (V)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-
-### Titre V : Dispositions particulières et finales.<a id=110></a>
+### Titre V : Dispositions particulières et finales.<a id=109></a>
 
 ###### Article D36
 
@@ -15702,17 +15667,17 @@ _Abrogé par_:
   - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-# Partie réglementaire - Arrêtés<a id=111></a>
+# Partie réglementaire - Arrêtés<a id=110></a>
 
-## Livre Ier : Composition du domaine<a id=112></a>
+## Livre Ier : Composition du domaine<a id=111></a>
 
-### Titre II : Origine des biens<a id=113></a>
+### Titre II : Origine des biens<a id=112></a>
 
-#### Chapitre II : Domaine privé<a id=114></a>
+#### Chapitre II : Domaine privé<a id=113></a>
 
-##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=115></a>
+##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.<a id=114></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=116></a>
+##### Paragraphe 1 : Dispositions générales.<a id=115></a>
 
 ###### Article A01
 
@@ -15849,7 +15814,7 @@ _Modifié par_:
   - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
-##### Paragraphe 2 : Dispositions spéciales.<a id=117></a>
+##### Paragraphe 2 : Dispositions spéciales.<a id=116></a>
 
 ###### Article A1
 
@@ -16106,7 +16071,7 @@ _Modifié par_:
   - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
-### Titre III : Inventaire des biens.<a id=118></a>
+### Titre III : Inventaire des biens.<a id=117></a>
 
 ###### Article A7
 
@@ -16244,15 +16209,15 @@ _Cite_:
   - Code du domaine de l'Etat - art. A7 (V)
 
 
-## Livre II : Administration des biens domaniaux<a id=119></a>
+## Livre II : Administration des biens domaniaux<a id=118></a>
 
-### Titre Ier : Domaine public<a id=120></a>
+### Titre Ier : Domaine public<a id=119></a>
 
-#### Chapitre Ier : Occupation temporaire<a id=121></a>
+#### Chapitre Ier : Occupation temporaire<a id=120></a>
 
-##### Section 1 : Délivrance des autorisations<a id=122></a>
+##### Section 1 : Délivrance des autorisations<a id=121></a>
 
-##### A) Arrêtés individuels.<a id=123></a>
+##### A) Arrêtés individuels.<a id=122></a>
 
 ###### Article A12
 
@@ -16482,7 +16447,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A16 (V)
 
 
-##### B) Arrêtés généraux.<a id=124></a>
+##### B) Arrêtés généraux.<a id=123></a>
 
 ###### Article A20
 
@@ -16701,7 +16666,7 @@ _Cite_:
   - Code du domaine de l'Etat A12 à A19
 
 
-##### C) Dispositions communes.<a id=125></a>
+##### C) Dispositions communes.<a id=124></a>
 
 ###### Article A26
 
@@ -16855,7 +16820,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R54 (M)
 
 
-##### Section 2 : Fixation des redevances.<a id=126></a>
+##### Section 2 : Fixation des redevances.<a id=125></a>
 
 ###### Article A31
 
@@ -17073,11 +17038,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A23 (V)
 
 
-#### Chapitre III : Extractions sur le domaine public<a id=127></a>
+#### Chapitre III : Extractions sur le domaine public<a id=126></a>
 
-##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=128></a>
+##### Section 1 : Extractions sur le domaine public maritime, des sables, pierres et autres matériaux non considérés comme amendements marins et, dans le lit des cours d'eau domaniaux, des sables, graviers, pierres et tous autres matériaux.<a id=127></a>
 
-##### A) Arrêtés individuels.<a id=129></a>
+##### A) Arrêtés individuels.<a id=128></a>
 
 ###### Article A40
 
@@ -17221,7 +17186,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A113 (M)
 
 
-##### B) Arrêtés généraux.<a id=130></a>
+##### B) Arrêtés généraux.<a id=129></a>
 
 ###### Article A45
 
@@ -17305,7 +17270,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A40 (V)
 
 
-##### C) Dispositions communes.<a id=131></a>
+##### C) Dispositions communes.<a id=130></a>
 
 ###### Article A47
 
@@ -17364,7 +17329,7 @@ _Cite_:
   - Code du domaine de l'Etat A40 à A47, R53, A40
 
 
-##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=132></a>
+##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.<a id=131></a>
 
 ###### Article A49
 
@@ -17620,7 +17585,7 @@ _Cite_:
   - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=133></a>
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.<a id=132></a>
 
 ###### Article A60
 
@@ -17777,11 +17742,11 @@ _Cité par_:
   - Code du domaine de l'Etat - art. A66 (Ab)
 
 
-### Titre II : Domaine privé<a id=134></a>
+### Titre II : Domaine privé<a id=133></a>
 
-#### Chapitre Ier : Domaine immobilier<a id=135></a>
+#### Chapitre Ier : Domaine immobilier<a id=134></a>
 
-##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=136></a>
+##### Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.<a id=135></a>
 
 ###### Article A73
 
@@ -18122,7 +18087,7 @@ _Cite_:
   - Code du domaine de l'Etat L84, R158 à R163
 
 
-##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=137></a>
+##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.<a id=136></a>
 
 ###### Article A90
 
@@ -18142,7 +18107,7 @@ _Cite_:
   - Code du domaine de l'Etat A94 à A99
 
 
-##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=138></a>
+##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.<a id=137></a>
 
 ###### Article A91
 
@@ -18482,7 +18447,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A93-7 (V)
 
 
-##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=139></a>
+##### Section 7 : Gestion des immeubles d'habitation de caractère définitif construits directement par l'Etat.<a id=138></a>
 
 ###### Article A94
 
@@ -18667,7 +18632,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. A94 (V)
 
 
-#### Chapitre II : Domaine immobilier.<a id=140></a>
+#### Chapitre II : Domaine immobilier.<a id=139></a>
 
 ###### Article A101
 
@@ -18751,11 +18716,11 @@ _Codifié par_:
   - Arrêté 1962-03-14
 
 
-## Livre III : Aliénation des biens domaniaux<a id=141></a>
+## Livre III : Aliénation des biens domaniaux<a id=140></a>
 
-### Titre II : Aliénation des biens du domaine privé<a id=142></a>
+### Titre II : Aliénation des biens du domaine privé<a id=141></a>
 
-#### Chapitre Ier : Domaine immobilier.<a id=143></a>
+#### Chapitre Ier : Domaine immobilier.<a id=142></a>
 
 ###### Article A104-1
 
@@ -18777,7 +18742,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R129-4 (V)
 
 
-#### Chapitre II : Domaine mobilier.<a id=144></a>
+#### Chapitre II : Domaine mobilier.<a id=143></a>
 
 ###### Article A105
 
@@ -19165,7 +19130,7 @@ _Modifié par_:
   - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 
-#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=145></a>
+#### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.<a id=144></a>
 
 ###### Article A118
 
@@ -19247,11 +19212,11 @@ _Modifié par_:
   - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
 
 
-## Livre IV : Dispositions diverses<a id=146></a>
+## Livre IV : Dispositions diverses<a id=145></a>
 
-### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=147></a>
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.<a id=146></a>
 
-#### Chapitre V : Concessions de logements.<a id=148></a>
+#### Chapitre V : Concessions de logements.<a id=147></a>
 
 ###### Article A120-1
 
@@ -19313,7 +19278,7 @@ _Cite_:
   - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
 
 
-### Titre V : Dispositions particulières et finales.<a id=149></a>
+### Titre V : Dispositions particulières et finales.<a id=148></a>
 
 ###### Article A122
 
