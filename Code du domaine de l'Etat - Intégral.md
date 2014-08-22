@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2014-08-23
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -92,10 +92,10 @@ Version Consolidée au 2013-01-01
         - [Chapitre II : Domaine privé (art. D5)](#89)
           - [Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat (art. D5)](#90)
             - [Paragraphe 2 : Dispositions spéciales. (art. D5)](#91)
-    - [Livre II : Administration des biens domaniaux (art. D12 à D15)](#92)
-      - [Titre II : Domaine privé (art. D12 à D15)](#93)
-        - [Chapitre Ier : Domaine immobilier (art. D12 à D15)](#94)
-          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D12 à D15)](#95)
+    - [Livre II : Administration des biens domaniaux (art. D12 à D13)](#92)
+      - [Titre II : Domaine privé (art. D12 à D13)](#93)
+        - [Chapitre Ier : Domaine immobilier (art. D12 à D13)](#94)
+          - [Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat. (art. D12 à D13)](#95)
     - [Livre III : Aliénation des biens domaniaux (art. D17-1 à D18)](#96)
       - [Titre II : Aliénation des biens du domaine privé (art. D17-1 à D18)](#97)
         - [Chapitre Ier : Domaine immobilier (art. D17-1 à D18)](#98)
@@ -14912,89 +14912,6 @@ _Nouveaux textes_:
 
   - Code général de la propriété des personnes publ... - art. R2124-77 (Ab)
   - Code général de la propriété des personnes publ... - art. R2222-19 (V)
-  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-
-###### Article D14
-
-Les personnels de tous grades de la gendarmerie nationale en activité de service et logés dans des casernements ou des locaux
-annexés aux casernements, tant en métropole que dans les territoires et départements situés en dehors du territoire de la
-France métropolitaine, bénéficient d'une concession de logement par nécessité absolue de service.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011, article 3 II : Le livre II de la partie réglementaire du code du domaine de l'Etat
-(troisième partie : Décrets) est abrogé à l'exception de l'article D. 14 en tant qu'il s'applique en dehors du territoire
-métropolitain.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-888 1951-07-09 art. 1
-
-_Cité par_:
-
-  - Loi n°75-1242 du 27 décembre 1975 - art. 3 (V)
-  - Décret n°2014-930 du 19 août 2014 - art. 10 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 83 (M)
-  - Code du domaine de l'Etat - art. D15 (Ab)
-  - Code général des impôts, CGI. - art. 82 (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-  - Décret n°2014-930 du 19 août 2014 - art. 3
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. D2124-75 (V)
-  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
-  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
-
-_Codifié par_:
-
-  - Décret n°62-300 1962-03-14
-
-
-###### Article D15
-
-La gratuité du logement accordée en application de l'article D. 14 s'étend à la fourniture de l'eau, à l'exclusion de toutes
-autres fournitures.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011, article 3 II : Le livre II de la partie réglementaire du code du domaine de l'Etat
-(troisième partie : Décrets) est abrogé à l'exception de l'article D. 15 en tant qu'il s'applique en dehors du territoire
-métropolitain.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-888 1951-07-09 art. 2
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-  - Décret n°2014-930 du 19 août 2014 - art. 3
-
-_Cité par_:
-
-  - Décret n°2014-930 du 19 août 2014 - art. 10 (V)
-
-_Cite_:
-
-  - Code du domaine de l'Etat - art. D14 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. D2124-76 (T)
-  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
   - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 _Codifié par_:
