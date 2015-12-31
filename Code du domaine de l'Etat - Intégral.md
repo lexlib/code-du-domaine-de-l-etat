@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2015-12-07
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
