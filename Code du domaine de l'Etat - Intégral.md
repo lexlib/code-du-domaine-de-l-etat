@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-10-28
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -3422,6 +3422,44 @@ _Nouveaux textes_:
   - Code général de la propriété des personnes publ... - art. R2122-21 (V)
   - Code général de la propriété des personnes publ... - art. R2122-25 (M)
   - Code général de la propriété des personnes publ... - art. R2122-26 (V)
+
+
+###### Article R57-7-1
+
+La demande préalable mentionnée au deuxième alinéa de l'article L. 34-2 est adressée par le titulaire de l'autorisation
+d'occupation temporaire à l'autorité gestionnaire, par pli recommandé avec demande d'avis de réception. 
+
+Elle comporte : 
+
+1° Les éléments d'identification et les caractéristiques principales de la personne susceptible d'être substituée dans les
+droits et obligations du titulaire du titre d'occupation ; 
+
+2° Une copie du titre d'occupation et des autres documents nécessaires à l'identification de l'immeuble ; 
+
+3° Les justifications de la capacité technique et financière de la personne susceptible d'être substituée dans les droits et
+obligations du titulaire à respecter, pour ce qui concerne l'immeuble, les conditions auxquelles le titre d'occupation
+conférant un droit réel a été délivré, notamment le paiement de la redevance domaniale correspondant au droit réel et à
+l'immeuble cédés. 
+
+Les dispositions des articles L. 231-1 et L. 232-3 du code des relations entre le public et l'administration s'appliquent à
+la demande. La décision implicite d'acceptation fait également l'objet, à la demande de la personne susceptible d'être
+substituée dans les droits et obligations du titulaire, d'une attestation délivrée par l'autorité compétente. 
+
+En cas de décision expresse d'acceptation ou de rejet, celle-ci est notifiée par l'autorité compétente au titulaire du titre
+d'occupation, auteur de la demande, et, s'il y a lieu, à la personne susceptible de lui être substituée dans ses droits et
+obligations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1435 du 25 octobre 2016 - art. 5
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. L34-2
+  - Code des relations entre le public et l'administration - art. L231-1
+  - Code des relations entre le public et l'administration - art. L232-3
 
 
 ###### Article R57-8
