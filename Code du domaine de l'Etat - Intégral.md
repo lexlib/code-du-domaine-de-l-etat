@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2018-11-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -8795,25 +8795,23 @@ _Abrogé par_:
 
 ###### Article R148-3
 
-En application de l'article 48 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les
-années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale, jusqu'au 31 décembre
-2019, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu avec publicité et mise en
+L'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu avec publicité et mise en
 concurrence soit par adjudication publique, soit à l'amiable. Lorsqu'elle est réalisée à l'amiable, la cession est précédée
 d'une publicité, adaptée à la nature et à l'importance de l'immeuble dont la cession est envisagée, permettant une mise en
 concurrence, dans les conditions mentionnées aux articles R. 129-2 et R. 129-3.
 
-Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence, dans les cas suivants : 
+Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence, dans les cas suivants :
 
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 150 000 euros ; 
+1° Lorsque la valeur vénale de l'immeuble n'excède pas 150 000 euros ;
 
-2° Lorsqu'une précédente adjudication a été infructueuse ; 
+2° Lorsqu'une précédente adjudication a été infructueuse ;
 
 3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département ou la région de la situation du bien
 ou un établissement public de coopération intercommunale agissant dans le cadre de ses compétences, s'engage à acquérir
-l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense ; 
+l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense ;
 
 4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
-l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense ; 
+l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense ;
 
 Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
 amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
@@ -8837,7 +8835,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret du 23 juillet 2015 - art. 2
+  - Décret n°2018-933 du 30 octobre 2018 - art. 2
 
 
 ##### Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social.<a id=64></a>
