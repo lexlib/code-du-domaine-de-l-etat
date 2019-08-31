@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2018-11-01
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -8889,8 +8889,8 @@ _Nouveaux textes_:
 
 ###### Article R148-6
 
-Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de   surface de plancher
-affectée au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
+Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface de plancher affectée
+au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article    L. 831-1 du code de la
 construction et de l'habitation. 
 
 L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans le prix de revient des logements
@@ -8904,7 +8904,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
+  - Décret n°2019-772 du 24 juillet 2019 - art. 6
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L831-1
 
 
 ###### Article R148-7
