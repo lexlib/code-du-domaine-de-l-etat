@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -1720,41 +1720,28 @@ _Nouveaux textes_:
 Si le disposant ou tous ses ayants droit sont restés inconnus ou inactifs, s'ils ont refusé de signer le procès-verbal de
 restitution, ou si malgré cette signature les meubles n'ont pu faire l'objet d'une remise effective, la gestion des biens est
 confiée au directeur des services fiscaux visé à l'article précédent par une ordonnance rendue à la requête du préfet par le
-président du tribunal de grande instance dans le ressort duquel se trouve le siège de la direction des service fiscaux
-appelée à gérer les biens. 
+président du   tribunal judiciaire dans le ressort duquel se trouve le siège de la direction des service fiscaux appelée à
+gérer les biens. 
 
 La requête est introduite au plus tard six mois après la date de publication au Journal officiel de l'arrêté de restitution. 
 
 L'ordonnance du président du tribunal est signifiée au disposant ou à ses ayants droit dont l'adresse est connue. Dans le cas
-contraire, la signification est faite conformément aux dispositions de l'article 659 du    code de procédure civile ; en
-outre l'ordonnance est alors publiée par extrait au Journal officiel. 
+contraire, la signification est faite conformément aux dispositions de l'article 659 du code de procédure civile ; en outre
+l'ordonnance est alors publiée par extrait au Journal officiel. 
 
 La remise des biens aux domaines par l'administration détentrice est constatée par un procès-verbal dressé
 contradictoirement.
 
 **Nota:**
 
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R2222-25 (V)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 659
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -11089,16 +11076,15 @@ _Nouveaux textes_:
 ###### Article R170-13
 
 La commission départementale de vérification des titres siège à la cour d'appel dans le ressort de laquelle se situe le
-département.
+département. 
 
-Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux d'instance ou des
-tribunaux de grande instance du département.
+Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux judiciaires ou des
+tribunaux judiciaires du département.
 
 **Nota:**
 
-Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
-en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
-domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11108,11 +11094,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-345 du 18 avril 2000 - art. 2 (Ab) JORF 21 avril 2000
-
-_Abrogé par_:
-
-  - Décret n°2014-930 du 19 août 2014 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -11240,23 +11222,18 @@ _Nouveaux textes_:
 ###### Article R170-17
 
 Les requérants peuvent présenter leurs explications à la commission et ont la faculté de se faire assister ou représenter
-dans les conditions fixées à l'article 828 du    code de procédure civile.
+dans les conditions fixées à l'article 762 du code de procédure civile.
 
 **Nota:**
 
-Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
-en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
-domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-_Abrogé par_:
-
-  - Décret n°2014-930 du 19 août 2014 - art. 3
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 18
 
 _Nouveaux textes_:
 
@@ -11264,7 +11241,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Nouveau code de procédure civile 828
+  - Code de procédure civile - art. 762
 
 
 ###### Article R170-18
@@ -11421,16 +11398,15 @@ _Nouveaux textes_:
 
 ###### Article R170-22
 
-Le procureur de la République près le tribunal de grande instance dans le ressort duquel la commission a son siège reçoit
-copie de la convocation adressée aux membres de la commission.
+Le procureur de la République près le   tribunal judiciaire dans le ressort duquel la commission a son siège reçoit copie de
+la convocation adressée aux membres de la commission. 
 
 Il peut intervenir pour faire connaître son avis sur l'application de la loi.
 
 **Nota:**
 
-Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
-en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
-domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11440,11 +11416,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-345 du 18 avril 2000 - art. 2 (Ab) JORF 21 avril 2000
-
-_Abrogé par_:
-
-  - Décret n°2014-930 du 19 août 2014 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Nouveaux textes_:
 
