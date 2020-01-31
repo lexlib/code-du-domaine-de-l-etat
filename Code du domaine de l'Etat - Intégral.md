@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -3088,7 +3088,8 @@ fondement une concession de service public, d'outillage public ou d'installation
 peut être constitutive de droit réel pour son titulaire dans la mesure et aux conditions prévues par le cahier des charges et
 sous réserve que les dispositions correspondantes du cahier des charges aient reçu l'accord, selon que le montant des travaux
 mis à la charge du concessionnaire est inférieur ou supérieur à 3 000 000 euros hors taxes, du préfet ou du ministre chargé
-du domaine et du ministre intéressé.
+du domaine et du ministre intéressé. A Saint-Barthélemy, à Saint-Martin et à Mayotte, l'accord est donné par le préfet, quel
+que soit le montant des travaux mis à la charge du concessionnaire.
 
 II. - Dans les cas autres que celui prévu au I, la délivrance d'un titre d'occupation, quelle que soit sa forme, constitutif
 de droit réel, sur le domaine public de l'Etat ou d'un établissement public de l'Etat est régie par les articles R. 57-3 et
@@ -3099,9 +3100,9 @@ particuliers, fixée comme il est dit aux articles R. 55 à R. 57.
 
 **Nota:**
 
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -3113,25 +3114,15 @@ _Cité par_:
 
   - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+  - Décret n°2020-68 du 30 janvier 2020 - art. 9
 
 _Cite_:
 
   - Code du domaine de l'Etat
   - Code du domaine de l'Etat - art. R57-3
-  - Code du domaine de l'Etat - art. R57-4
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R2122-10 (M)
-  - Code général de la propriété des personnes publ... - art. R2122-11 (V)
-  - Code général de la propriété des personnes publ... - art. R2125-14 (V)
-
-_Modifié par_:
-
-  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
+  - Code du domaine de l'Etat - art. R57-4 (V)
 
 
 ###### Article R57-3
@@ -3224,6 +3215,9 @@ relève de la compétence du préfet que lorsque le montant des travaux projeté
 Dans le cas contraire, elle relève de la compétence conjointe du ministre concerné et du ministre chargé du domaine auxquels
 le préfet transmet la demande accompagnée de son avis.
 
+A Saint-Barthélemy, à Saint-Martin et à Mayotte, la décision est prise par le préfet quel que soit le montant des travaux
+projetés.
+
 Lorsque la demande concerne le domaine public militaire, la décision relève dans tous les cas de la compétence du ministre de
 la défense, sous réserve des attributions dévolues au ministre chargé du domaine en application de l'article L. 30.
 
@@ -3240,6 +3234,9 @@ Faute d'obtention de cet accord préalable dans un délai de deux mois à compte
 compter de la saisine des ministres, l'autorité compétente de l'établissement public ou autre organisme gestionnaire est
 tenue de refuser le caractère constitutif de droit réel au titre d'occupation du domaine public demandé.
 
+A Saint-Barthélemy, à Saint-Martin et à Mayotte, la décision est prise par le préfet quel que soit le montant des travaux
+projetés.
+
 III. - Lorsque des règlements soumettent les autorisations d'occupation du domaine public délivrées en application de
 l'article L. 28 à des procédures de délivrance ou d'approbation particulières, ces procédures demeurent applicables pour la
 délivrance d'autorisations constitutives de droit réel dans la mesure où elles ne sont pas contraires aux dispositions des I
@@ -3247,15 +3244,15 @@ et II ci-dessus.
 
 **Nota:**
 
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
 
 _Cité par_:
 
@@ -3278,28 +3275,18 @@ _Cité par_:
   - Code des ports maritimes - art. R132-3 (Ab)
   - Code du domaine de l'Etat - art. R57-10 (VD)
   - Code du domaine de l'Etat - art. R57-14 (Ab)
-  - Code du domaine de l'Etat - art. R57-2 (Ab)
+  - Code du domaine de l'Etat - art. R57-2 (V)
   - Code général des collectivités territoriales - art. R4424-11 (V)
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+  - Décret n°2020-68 du 30 janvier 2020 - art. 10
 
 _Cite_:
 
   - Code du domaine de l'Etat - art. L28
   - Code du domaine de l'Etat - art. L30
   - Code du domaine de l'Etat - art. R57-3
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R2122-14 (M)
-  - Code général de la propriété des personnes publ... - art. R2122-15 (M)
-  - Code général de la propriété des personnes publ... - art. R2122-16 (V)
-
-_Modifié par_:
-
-  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R57-5
@@ -4283,13 +4270,13 @@ conditions financières du contrat.
 
 Toutefois, les baux emphytéotiques, les baux à construction, les concessions immobilières de la loi n° 67-1253 du 30 décembre
 1967 d'orientation foncière ainsi que toute autre location constitutive de droits réels sont autorisés dans les conditions
-prévues pour les aliénations.
+prévues pour les aliénations. Ces dispositions ne sont pas applicables à Saint-Barthélemy, à Saint-Martin et à Mayotte.
 
 **Nota:**
 
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -4299,7 +4286,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
 
 _Cite_:
 
@@ -4307,15 +4294,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°87-492 1987-07-03 art. 1 JORF 5 juillet 1987
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R2222-1 (M)
+  - Décret n°2020-68 du 30 janvier 2020 - art. 11
 
 
 ###### Article R67
@@ -7143,7 +7122,8 @@ _Cite_:
 Lorsqu'elle porte sur un ou plusieurs immeubles situés dans un seul département, la convention de gestion est signée au nom
 de l'Etat par le préfet, agissant en qualité de représentant du ministre chargé du domaine, et sur proposition du responsable
 dans le département du service affectataire ou gestionnaire. Il ne peut être signé de convention supérieure à dix-huit ans
-qu'avec l'autorisation du ministre chargé du domaine.
+qu'avec l'autorisation du ministre chargé du domaine. Cette autorisation n'est pas requise à Saint-Barthélemy, à Saint-Martin
+et à Mayotte.
 
 Lorsqu'une convention porte sur des immeubles situés dans plusieurs départements ou à l'étranger, elle est signée au nom de
 l'Etat par le ministre chargé du domaine, sur proposition du ministre affectataire ou gestionnaire. Dans ce cas, la
@@ -7159,19 +7139,11 @@ Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions ab
 vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
 matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-299 1962-03-14
-
-_Modifié par_:
-
-  - Décret n°97-833 du 4 septembre 1997 - art. 2 () JORF 11 septembre 1997
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 _Cite_:
 
@@ -7180,12 +7152,6 @@ _Cite_:
 _Cité par_:
 
   - Code du domaine de l'Etat - art. R169 (Ab)
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. L2123-2 (M)
-  - Code général de la propriété des personnes publ... - art. R2123-2 (M)
-  - Code général de la propriété des personnes publ... - art. R2222-9 (M)
 
 
 ###### Article R128-4
@@ -8740,14 +8706,18 @@ _Cite_:
 
 Les dispositions de l'article R. 129-4, sont applicables aux concessions accordées en application de l'article L. 64.
 
+A Saint-Barthélemy, à Saint-Martin et à Mayotte, les concessions accordées en application de l'article L. 3211-10 du code
+général de la propriété des personnes publiques sont consenties par le préfet, au prix convenu entre les parties, selon les
+modalités financières fixées par le directeur local ou régional des finances publiques
+
 Toutefois, lorsque l'opération a donné lieu à une enquête publique, la concession est approuvée par décret en Conseil d'Etat
 en cas d'avis défavorable du commissaire enquêteur ou de la commission d'enquête portant sur ladite opération.
 
 **Nota:**
 
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -8757,7 +8727,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°62-299 1962-03-14
+  - Décret n°62-299 du 14 mars 1962
 
 _Cité par_:
 
@@ -8765,21 +8735,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1175 du 4 novembre 2004 - art. 3 () JORF 6 novembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+  - Décret n°2020-68 du 30 janvier 2020 - art. 13
 
 _Cite_:
 
   - Code du domaine de l'Etat - art. L64
   - Code du domaine de l'Etat - art. R129-4
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R3211-23 (M)
-  - Code général de la propriété des personnes publ... - art. R3211-34 (M)
 
 
 ###### Article R147
@@ -8855,14 +8816,18 @@ _Nouveaux textes_:
 Les cessions amiables de servitudes constituées au profit de l'Etat sont consenties par le préfet, sur proposition du
 directeur des services fiscaux, dans les conditions prévues à l'article R. 129-4.
 
+A Saint-Barthélemy, à Saint-Martin et à Mayotte, les cessions amiables de servitudes constituées au profit de l'Etat sont
+consenties par le préfet, après avis du directeur local ou régional des finances publiques, qui fixe les conditions
+financières.
+
 Le projet de cession est préalablement affiché à la mairie de la situation des lieux et soumis à un enquête d'une durée de
 dix jours.
 
 **Nota:**
 
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -8876,19 +8841,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1175 du 4 novembre 2004 - art. 4 () JORF 6 novembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+  - Décret n°2020-68 du 30 janvier 2020 - art. 14
 
 _Cite_:
 
   - Code du domaine de l'Etat - art. R129-4
-
-_Nouveaux textes_:
-
-  - Code général de la propriété des personnes publ... - art. R3211-25 (M)
 
 
 ##### Paragraphe 11 : Rétrocession d'immeubles expropriés.<a id=61></a>
