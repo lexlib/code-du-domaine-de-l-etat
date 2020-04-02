@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2020-02-01
+Version Consolidée au 2020-04-03
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R186)](#1)
     - [Livre Ier : Composition du domaine (art. R1 à R51)](#2)
@@ -19035,7 +19035,7 @@ _Cité par_:
 
 Les aliénations autorisées par l'article 7 de la loi de finances du 30 décembre 1903 sont réalisées par l'intermédiaire du
 Conseil des Bourses de valeurs de Paris. Les ordres de vente sont donnés et les transferts sont signés valablement pour le
-compte du service des domaines par le caissier général de la caisse des dépôts et consignations ou son suppléant.
+compte du service des domaines par la caisse des dépôts et consignations.
 
 Dans le cas où le titre négocié n'est pas immatriculé au nom du service des domaines, il est joint au transfert, pour
 justifier les droits de l'Etat, soit un certificat de propriété notarié, soit un certificat administratif établi dans les
@@ -19051,14 +19051,14 @@ _Codifié par_:
 
   - Arrêté 1962-03-14
 
-_Cite_:
-
-  - Code du domaine de l'Etat - art. A119 (V)
-  - Loi n°1903-12-30 art. 7
-
 _Modifié par_:
 
-  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+  - Arrêté du 31 mars 2020 - art. 1
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. A119
+  - Loi n°1903-12-30 art. 7
 
 
 ## Livre IV : Dispositions diverses<a id=146></a>
